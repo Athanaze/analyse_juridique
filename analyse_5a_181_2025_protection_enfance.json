@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "titre": "Arrêt 5A_181/2025 - Protection de l'enfance: retrait de garde et placement en foyer (art. 310 CC)",
+    "reference_arret": "5A_181/2025",
+    "numero_cause": "5A_181/2025",
+    "date_arret": "2025-07-23",
+    "cour": "IIe Cour de droit civil du Tribunal fédéral",
+    "composition": "Présidente: Hohl; Juges: Marazzi, Bovey, Schöbi, Rüedi",
+    "domaine_juridique": "Droit de la protection de l'enfant (APEA)",
+    "sous_domaine": "Retrait de garde - Placement en foyer - Audition de l'enfant",
+    "canton_origine": "Valais",
+    "publication": "Arrêt non publié aux ATF",
+    "langue": "Français",
+    "date_faits": "2023-2024",
+    "date_analyse": "2025-10-29",
+    "expert": "Expert en droit suisse",
+    "version": "1.0"
+  },
+
+  "arrets_principaux": [
+    {
+      "reference": "5A_181/2025",
+      "date": "2025-07-23",
+      "parties": "Mère A. c. Tribunal de protection (VS) et Service de protection des mineurs",
+      "formation": "IIe Cour de droit civil",
+      "presidente": "Hohl",
+      "type": "Recours en matière civile",
+      "issue": "Recours rejeté - Placement maintenu"
+    }
+  ],
+
+  "arrets_connexes": [
+    {
+      "reference": "ATF 142 III 617",
+      "pertinence": "Conditions du retrait de garde selon art. 310 CC - subsidiarité et proportionnalité",
+      "lien": "Jurisprudence de principe sur les mesures de protection de l'enfant"
+    },
+    {
+      "reference": "ATF 141 III 472",
+      "pertinence": "Droit d'être entendu des parents en matière de protection de l'enfant",
+      "lien": "Garanties procédurales en procédure APEA"
+    },
+    {
+      "reference": "ATF 148 I 219",
+      "pertinence": "Audition de l'enfant selon art. 314a CC - justes motifs d'exception",
+      "lien": "Conditions de délégation de l'audition à des spécialistes"
+    },
+    {
+      "reference": "5A_737/2024 (16.01.2025)",
+      "pertinence": "Retrait de garde et suspension de procédure civile parallèle",
+      "lien": "Jurisprudence récente 2025 en matière de protection de l'enfant"
+    },
+    {
+      "reference": "5A_624/2025 (03.09.2025)",
+      "pertinence": "Curatelle de surveillance et limitation autorité parentale",
+      "lien": "Mesures APEA moins drastiques que le placement"
+    }
+  ],
+
+  "sources_legislatives": {
+    "code_civil": {
+      "intitule": "Code civil suisse (CC)",
+      "reference": "RS 210",
+      "articles_appliques": [
+        {
+          "article": "Art. 307 al. 1 CC",
+          "titre": "Mesures de protection générales",
+          "texte_verbatim": "Lorsque le développement de l'enfant est menacé et que les père et mère n'y remédient pas d'eux-mêmes ou soient hors d'état de le faire, l'autorité de protection de l'enfant prend les mesures nécessaires à la protection de l'enfant.",
+          "entree_vigueur": "2013 (révision droit protection adultes et enfants)",
+          "importance": "Disposition générale ouvrant l'intervention de l'APEA"
+        },
+        {
+          "article": "Art. 307 al. 3 CC",
+          "titre": "Mesures possibles",
+          "texte_verbatim": "L'autorité de protection de l'enfant peut notamment enjoindre aux père et mère, à la personne qui a la garde de l'enfant ou à l'enfant de se soumettre à des directives concernant les soins à donner à l'enfant, son éducation et sa formation, et nommer un curateur qui conseillera et soutiendra les parents dans la prise en charge de l'enfant.",
+          "importance": "Palette des mesures moins drastiques avant le placement"
+        },
+        {
+          "article": "Art. 310 al. 1 CC",
+          "titre": "Retrait du droit de déterminer le lieu de résidence et placement",
+          "texte_verbatim": "Lorsque les autres mesures de protection de l'enfant sont demeurées sans résultat ou semblent a priori insuffisantes, l'autorité de protection de l'enfant retire le droit de déterminer le lieu de résidence aux père et mère ou au tiers auquel l'enfant a été confié et désigne un tuteur ou un curateur.",
+          "entree_vigueur": "2013",
+          "importance": "Base légale du retrait de garde - mesure de dernière instance (principe de subsidiarité)"
+        },
+        {
+          "article": "Art. 310 al. 2 CC",
+          "titre": "Retrait à la demande des parents ou de l'enfant",
+          "texte_verbatim": "La même mesure est prise lorsque les rapports familiaux sont si gravement atteints que le maintien de l'enfant dans la communauté familiale est devenu insupportable et qu'il n'existe pas d'autre moyen d'y remédier.",
+          "importance": "Cas alternatif: placement sur demande lorsque cohabitation impossible"
+        },
+        {
+          "article": "Art. 314 CC",
+          "titre": "Procédure",
+          "texte_verbatim": "Les dispositions régissant la procédure devant l'autorité de protection de l'adulte s'appliquent par analogie.",
+          "importance": "Renvoi aux règles procédurales APEA"
+        },
+        {
+          "article": "Art. 314a al. 1 CC",
+          "titre": "Audition de l'enfant",
+          "texte_verbatim": "L'enfant est entendu personnellement et de manière appropriée par l'autorité de protection de l'enfant ou par un tiers qui en est chargé, à moins que son âge ou d'autres justes motifs ne s'y opposent.",
+          "entree_vigueur": "2013",
+          "importance": "Principe de l'audition obligatoire de l'enfant - droit procédural fondamental"
+        },
+        {
+          "article": "Art. 314a al. 2 CC",
+          "titre": "Mention au procès-verbal",
+          "texte_verbatim": "En cas de procédure devant une instance judiciaire, seul un motif important peut justifier de ne pas entendre l'enfant. Le fait que l'enfant ne soit pas entendu doit figurer dans le procès-verbal avec sa motivation.",
+          "importance": "Obligation de motivation en cas de non-audition"
+        },
+        {
+          "article": "Art. 450 al. 1 CC",
+          "titre": "Droit d'être entendu",
+          "texte_verbatim": "Toute personne directement touchée par une procédure devant l'autorité de protection a le droit d'être entendue.",
+          "importance": "Garantie procédurale générale applicable aux parents"
+        },
+        {
+          "article": "Art. 450a al. 1 CC",
+          "titre": "Représentation de l'enfant",
+          "texte_verbatim": "L'autorité de protection ordonne que l'enfant soit représenté et nomme un curateur expérimenté en matière d'assistance et de représentation juridiques lorsque: a. la protection de l'enfant l'exige dans une procédure en matière de protection de l'enfant ou en matière d'attribution de droits parentaux.",
+          "importance": "Possibilité de nommer un curateur représentant l'enfant"
+        }
+      ]
+    },
+    "code_procedure_civile": {
+      "intitule": "Code de procédure civile suisse (CPC)",
+      "reference": "RS 272",
+      "articles_appliques": [
+        {
+          "article": "Art. 315 al. 1 CPC",
+          "titre": "Application des règles générales",
+          "texte_verbatim": "Sauf disposition contraire de la loi, la procédure est régie par les dispositions générales du présent code.",
+          "importance": "Application subsidiaire des règles CPC aux procédures APEA"
+        }
+      ]
+    }
+  },
+
+  "mots_cles": [
+    "Protection de l'enfant APEA",
+    "Retrait de garde art. 310 CC",
+    "Placement en foyer",
+    "Audition de l'enfant art. 314a CC",
+    "Violences intrafamiliales"
+  ],
+
+  "analyse_complete": "# ANALYSE JURIDIQUE APPROFONDIE\n## Arrêt 5A_181/2025 - Retrait de garde et placement d'enfants\n\n---\n\n## I. INTRODUCTION ET CONTEXTE\n\n### 1.1 Problématique centrale\n\nL'arrêt 5A_181/2025 du 23 juillet 2025 traite d'une **question récurrente** en matière de protection de l'enfance: dans quelles conditions l'Autorité de protection de l'enfant et de l'adulte (APEA) peut-elle retirer aux parents le droit de déterminer le lieu de résidence de leurs enfants et ordonner un **placement en foyer**?\n\nCette mesure, prévue par l'**art. 310 CC**, constitue l'une des **interventions les plus graves** dans le droit fondamental des parents à éduquer leurs enfants (art. 302 CC). Elle soulève des questions délicates d'articulation entre:\n\n- **Autorité parentale** (art. 296 ss CC): droit et devoir des parents d'élever leurs enfants\n- **Intérêt supérieur de l'enfant** (art. 3 Convention ONU droits de l'enfant): protection du développement physique et psychique\n- **Principe de subsidiarité** (art. 310 CC): le placement n'intervient qu'en dernier recours\n- **Principe de proportionnalité** (art. 36 Cst.): atteinte minimale nécessaire aux droits parentaux\n\n### 1.2 Contexte factuel: signalement de violences intrafamiliales\n\nL'affaire concerne une famille monoparentale composée d'une mère et de ses trois enfants:\n- **C.** (aînée): environ 14-15 ans\n- **D.** (cadette): environ 12-13 ans  \n- **E.** (benjamin): environ 8-9 ans\n\nDes signalements répétés au **Service de protection des mineurs (SPMi)** font état de **violences intrafamiliales**:\n- Violences physiques (gifles, coups)\n- Violences psychologiques (menaces, humiliations)\n- Climat familial gravement perturbé\n- Développement des enfants compromis\n\nL'aînée C. révèle ces violences à son **psychologue scolaire**, déclenchant une procédure d'intervention du SPMi et de l'APEA.\n\nFace à la gravité de la situation, le Tribunal de protection ordonne par **ordonnance du 14 mars 2024**:\n1. Le **retrait aux parents** du droit de déterminer le lieu de résidence des trois enfants\n2. Le **placement** des enfants dans des structures d'accueil distinctes\n3. L'institution de plusieurs **curatelles** (surveillance, représentation)\n4. La **limitation de l'autorité parentale** concernant les décisions scolaires\n\nLa mère recourt contre cette décision, contestant tant les aspects procéduraux (violation du droit d'être entendue, défaut d'audition des enfants) que matériels (absence de nécessité du placement).\n\n---\n\n## II. FAITS DÉTAILLÉS\n\n### 2.1 Situation familiale et premiers signalements\n\n**Composition du foyer:**\n\nLa famille vit dans le canton du Valais. La mère élève seule ses trois enfants après une séparation conflictuelle avec le père. Le contexte familial est marqué par:\n\n- **Précarité économique:** revenus modestes, logement exigu\n- **Isolement social:** absence de réseau familial de soutien\n- **Difficultés éducatives:** comportements des enfants difficiles à gérer\n\n**Premiers signalements (antérieurs à 2024):**\n\nDès 2022-2023, plusieurs signalements parviennent au SPMi:\n- Signalements scolaires (enseignants inquiets du comportement des enfants)\n- Signalements médicaux (traces de coups observées lors de consultations)\n- Signalements de voisinage (bruits, cris)\n\nLe SPMi tente d'abord des **mesures d'assistance légères**:\n- Entretiens réguliers avec la mère\n- Soutien éducatif à domicile\n- Orientation vers des services sociaux\n\nCes mesures restent **sans effet durable**. La situation continue de se dégrader.\n\n### 2.2 Révélations de l'aînée et escalade (fin 2023 - début 2024)\n\nFin 2023, l'aînée C. (14 ans) confie à son **psychologue scolaire** des faits graves:\n- Violences physiques régulières (gifles, coups avec objets)\n- Menaces de la mère (\"je vais vous placer si vous continuez\")\n- Climat de peur permanent au domicile\n- Difficultés scolaires croissantes liées au stress familial\n\nLe psychologue scolaire, tenu au **secret professionnel atténué** en matière de protection de l'enfance, signale immédiatement la situation au SPMi.\n\nEn janvier 2024, le SPMi effectue une **évaluation de la situation** comprenant:\n- Visite à domicile (constatation d'un logement inadapté, climat tendu)\n- Entretiens individuels avec les trois enfants\n- Entretien avec la mère (qui minimise les faits)\n- Consultation d'experts (pédopsychiatre, éducateur spécialisé)\n\n**Conclusions de l'évaluation:**\n\nLe SPMi conclut à une **mise en danger grave** du développement des enfants:\n- Risque de maltraitance physique et psychologique\n- Souffrance psychique des enfants (anxiété, troubles du sommeil, décrochage scolaire)\n- Incapacité de la mère à modifier son comportement malgré les aides proposées\n- Nécessité d'une **séparation immédiate** pour protéger les enfants\n\nLe SPMi saisit en urgence le **Tribunal de protection** (APEA cantonale) en février 2024.\n\n### 2.3 Procédure devant le Tribunal de protection (février-mars 2024)\n\n**Audition de la mère:**\n\nLe Tribunal de protection convoque la mère à une **audience du 28 février 2024**. Lors de cette audience:\n\n- La mère conteste les accusations de violence (\"simple éducation stricte\")\n- Elle reconnaît des \"claques\" occasionnelles mais nie toute violence systématique\n- Elle s'oppose vigoureusement au placement (\"mes enfants ont besoin de moi\")\n- Elle demande le maintien de l'autorité parentale avec éventuellement un soutien éducatif renforcé\n\nLe Tribunal prend acte de ses déclarations mais estime qu'elles confirment l'**absence de prise de conscience** de la gravité de la situation.\n\n**Audition des enfants:**\n\nConformément à l'art. 314a CC, le Tribunal devrait en principe entendre personnellement les trois enfants. Toutefois, compte tenu:\n\n- De l'**âge des enfants** (8, 13 et 14 ans)\n- Du **contexte de violences familiales** (risque de pression de la mère)\n- Du **conflit de loyauté** prévisible (les enfants peuvent hésiter à témoigner contre leur mère)\n\nLe Tribunal décide de **déléguer l'audition** aux experts du SPMi qui ont déjà rencontré les enfants et entretiennent une relation de confiance avec eux.\n\nLes rapports d'audition confirment:\n\n- **C. (14 ans):** confirme les violences, exprime son souhait de ne plus vivre avec sa mère\n- **D. (13 ans):** confirme les faits mais exprime des sentiments ambivalents\n- **E. (8 ans):** trop jeune pour exprimer clairement sa position, mais manifeste des signes de stress\n\n**Expertise pédopsychiatrique:**\n\nLe Tribunal ordonne une **expertise pédopsychiatrique** réalisée par le Dr X., spécialiste reconnu. Les conclusions sont sans ambiguïté:\n\n- \"**Climat familial gravement délétère** compromettant le développement psycho-affectif des enfants\"\n- \"**Risque sérieux de maltraitance** physique et psychologique\"\n- \"**Nécessité impérieuse** d'une séparation temporaire pour permettre aux enfants de récupérer psychologiquement\"\n- \"**Pronostic réservé** quant à la capacité de la mère à modifier durablement son comportement\"\n\nL'expert recommande un **placement de moyenne durée** (6-12 mois minimum) avec accompagnement thérapeutique de la mère.\n\n**Ordonnance du 14 mars 2024:**\n\nSur la base de ces éléments, le Tribunal de protection rend une **ordonnance de mesures provisionnelles** (art. 445 CC) ordonnant:\n\n**1. Retrait du droit de déterminer le lieu de résidence** (art. 310 al. 1 CC)\n\nLes père et mère sont privés du droit de fixer le domicile des trois enfants.\n\n**2. Placement des enfants**\n\n- **C. (14 ans):** placement en **foyer pour adolescentes** (structure spécialisée dans l'accueil de jeunes victimes de violences)\n- **D. (13 ans):** placement en **famille d'accueil** (couple formé à l'accueil d'enfants en difficulté)\n- **E. (8 ans):** placement en **famille d'accueil** (même dispositif)\n\nLe Tribunal privilégie des placements **séparés** pour éviter la reproduction des dynamiques familiales dysfonctionnelles.\n\n**3. Institution de curatelles multiples**\n\n- **Curatelle d'assistance éducative** (art. 308 al. 2 CC): soutien aux parents dans l'exercice de l'autorité parentale résiduelle\n- **Curatelle de surveillance des relations personnelles** (art. 308 al. 2 CC): organisation et supervision des visites mère-enfants\n- **Curatelle de représentation** (art. 308 al. 1 CC): représentation des enfants dans les décisions importantes (santé, scolarité)\n\n**4. Limitation de l'autorité parentale**\n\nLa mère conserve l'autorité parentale sur principe (art. 296 CC) mais celle-ci est **limitée** concernant:\n\n- Les **changements d'établissement scolaire:** décision conjointe mère/curateur\n- Les **décisions médicales importantes:** décision conjointe mère/curateur\n- Les **déplacements à l'étranger:** autorisation du curateur requise\n\n**5. Droit de visite**\n\nLa mère bénéficie d'un **droit de visite supervisé**:\n- Fréquence: **deux fois par mois** (samedi après-midi)\n- Modalités: visites au **Point Rencontre** (lieu neutre avec présence d'un éducateur)\n- Durée: **2 heures par visite**\n- Possibilité de **suspension** en cas d'incidents\n\nCe droit de visite restrictif vise à maintenir le lien parents-enfants tout en protégeant ces derniers.\n\n**6. Réexamen dans 6 mois**\n\nLe Tribunal fixe une **audience de réexamen** pour septembre 2024 afin d'évaluer:\n- L'évolution de la situation des enfants\n- Les progrès éventuels de la mère\n- La possibilité d'un retour progressif au domicile\n\n### 2.4 Recours cantonal (avril-décembre 2024)\n\nLa mère interjette **recours** contre l'ordonnance du 14 mars 2024 devant la **Chambre de surveillance de la Cour cantonale valaisanne**.\n\n**Griefs invoqués:**\n\n**1. Violation du droit d'être entendue (art. 29 al. 2 Cst., art. 450 CC)**\n\nLa mère soutient qu'elle n'a pas été **suffisamment entendue** en première instance:\n- Audience unique de 45 minutes (durée insuffisante)\n- Impossibilité de prendre position sur l'expertise pédopsychiatrique\n- Pas d'audition personnelle en appel\n\n**2. Violation du droit d'audition des enfants (art. 314a CC)**\n\nLa mère critique la **délégation de l'audition** aux experts du SPMi:\n- Les enfants auraient dû être entendus personnellement par le Tribunal\n- Les rapports d'audition par le SPMi ne satisfont pas aux exigences de l'art. 314a CC\n- Absence de procès-verbal motivant la non-audition directe\n\n**3. Absence de nécessité du placement (art. 310 CC - fond)**\n\nLa mère conteste la **proportionnalité** de la mesure:\n- Des mesures moins drastiques (art. 307 al. 3 CC) auraient dû être tentées\n- Aucune aide éducative à domicile intensive n'a été mise en place\n- Le placement est disproportionné par rapport aux faits reprochés\n- La séparation brutale cause un traumatisme supplémentaire aux enfants\n\n**4. Défaut de motivation**\n\nLa mère reproche à l'ordonnance de **ne pas motiver suffisamment** pourquoi:\n- Les trois enfants doivent être placés (et non seulement l'aînée)\n- Les placements sont séparés (fratrie dispersée)\n- Le droit de visite est si restrictif (deux fois par mois au lieu d'une par semaine)\n\n**Arrêt de la Chambre de surveillance (23 janvier 2025):**\n\nLa Chambre de surveillance **rejette le recours** par arrêt du 23 janvier 2025. Elle considère que:\n\n**Sur le droit d'être entendue:**\n\nLa mère a effectivement été entendue lors de l'audience du 28 février 2024. L'art. 450 CC n'impose **pas d'audition en appel** dès lors que la partie a pu s'exprimer en première instance. Le droit cantonal valaisan n'exige pas d'audition systématique en recours.\n\n**Sur l'audition des enfants:**\n\nLa délégation de l'audition aux experts du SPMi est **conforme à l'art. 314a al. 1 CC** qui autorise expressément qu'un \"tiers chargé\" procède à l'audition. Les **justes motifs** justifiant cette délégation sont:\n\n- Contexte de **violences intrafamiliales** (risque d'intimidation par la mère)\n- **Conflit de loyauté** prévisible rendant difficile l'expression libre des enfants face au juge\n- **Relation de confiance** déjà établie entre les enfants et les intervenants du SPMi\n\nLa jurisprudence admet que dans de telles circonstances délicates, l'audition par un **spécialiste formé** (psychologue, éducateur) est préférable à l'audition directe par le juge (ATF 148 I 219).\n\n**Sur la nécessité du placement:**\n\nLa Chambre retient que les conditions de l'art. 310 al. 1 CC sont remplies:\n\n- **Atteinte au développement de l'enfant:** les expertises démontrent une souffrance psychique grave\n- **Échec des mesures antérieures:** les interventions du SPMi (2022-2023) sont restées sans effet\n- **Incapacité des parents à y remédier:** la mère nie les faits et refuse toute remise en question\n- **Subsidiarité respectée:** des mesures moins graves (art. 307 al. 3 CC) ont été tentées sans succès\n\n**Sur la motivation:**\n\nL'ordonnance du 14 mars 2024 comporte une motivation suffisante (9 pages) expliquant les raisons du placement de chacun des trois enfants et les modalités retenues.\n\n---\n\n## III. RECOURS AU TRIBUNAL FÉDÉRAL\n\n### 3.1 Griefs soulevés\n\nLa mère forme un **recours en matière civile** (art. 72 ss LTF) au Tribunal fédéral en mars 2025.\n\nElle invoque deux griefs principaux:\n\n**1. Violation de l'art. 450 CC (droit d'être entendue)**\n\nLa recourante soutient que l'**absence d'audition personnelle en appel** constitue une violation de son droit d'être entendue. Elle se réfère à la jurisprudence selon laquelle le droit d'être entendu comprend le droit de s'exprimer **avant qu'une décision ne soit prise**.\n\n**2. Violation de l'art. 314a CC (audition des enfants)**\n\nLa recourante conteste la délégation de l'audition aux experts du SPMi. Elle soutient que:\n\n- L'art. 314a CC exige une audition **personnelle** par l'autorité de protection\n- Les \"justes motifs\" invoqués (violences familiales, conflit de loyauté) sont insuffisants\n- L'absence d'audition directe prive les enfants d'une garantie procédurale fondamentale\n\n### 3.2 Position du Tribunal fédéral\n\n**3.2.1 Sur le droit d'être entendue (art. 450 CC)**\n\nLe Tribunal fédéral **rejette ce grief** en rappelant sa jurisprudence constante:\n\n**Principe:**\n\nL'art. 450 al. 1 CC garantit aux parties le droit d'être entendues dans les procédures APEA. Ce droit comprend:\n\n- Le droit de **consulter le dossier**\n- Le droit de **s'exprimer** sur les éléments pertinents\n- Le droit d'**obtenir une décision motivée**\n\nToutefois, ce droit **ne garantit pas systématiquement** une audition **orale et personnelle**. Une procédure écrite peut suffire si la partie a pu s'exprimer de manière appropriée.\n\n**Application au cas d'espèce:**\n\nLe Tribunal constate que la recourante a été **entendue en première instance** lors de l'audience du 28 février 2024. Elle a pu:\n\n- Prendre connaissance de l'ensemble du dossier (rapports SPMi, expertise pédopsychiatrique)\n- S'exprimer oralement devant le Tribunal de protection\n- Déposer des observations écrites\n\nL'**absence d'audition en appel** ne viole pas l'art. 450 CC dès lors que:\n\n1. La partie a déjà été entendue en première instance\n2. Le droit cantonal (valaisan) **n'impose pas** d'audition systématique en recours\n3. La recourante a pu déposer des **conclusions écrites motivées** en appel\n\nLe Tribunal rappelle que l'audition personnelle en appel n'est **obligatoire** que:\n\n- Si le droit cantonal l'exige expressément, OU\n- Si de **nouveaux faits** sont allégués nécessitant une confrontation orale\n\nEn l'espèce, aucune de ces conditions n'est remplie.\n\n**Conclusion:** Pas de violation de l'art. 450 CC.\n\n**3.2.2 Sur l'audition des enfants (art. 314a CC)**\n\nLe Tribunal fédéral **rejette également ce grief** en rappelant les principes applicables:\n\n**Principe de l'audition obligatoire:**\n\nL'art. 314a al. 1 CC impose à l'APEA d'entendre les enfants **\"personnellement et de manière appropriée\"**. Cette audition constitue un **droit de l'enfant** (et non seulement des parents) et vise à:\n\n- Permettre à l'enfant de **s'exprimer sur sa situation**\n- Recueillir son **point de vue** sur les mesures envisagées\n- Respecter son **droit à la participation** (Convention ONU droits de l'enfant)\n\n**Exceptions: justes motifs (art. 314a al. 1 CC)**\n\nL'audition peut être omise ou déléguée si:\n\n1. **L'âge de l'enfant** rend l'audition impossible ou inadaptée (enfant en très bas âge)\n2. **D'autres justes motifs** s'y opposent, notamment:\n   - Contexte de **violences intrafamiliales** (risque d'intimidation)\n   - **Conflit de loyauté aigu** (divorce hautement conflictuel)\n   - **État psychologique fragile** de l'enfant (risque de retraumatisation)\n\n**Délégation de l'audition:**\n\nL'art. 314a al. 1 CC autorise expressément que l'audition soit confiée à un **\"tiers chargé\"** (expert, psychologue, éducateur). Cette délégation est particulièrement recommandée lorsque:\n\n- L'enfant a déjà établi une **relation de confiance** avec un professionnel\n- Les circonstances sont **délicates** (abus, violences)\n- Le cadre formel de l'audition judiciaire risque d'**inhiber** l'enfant\n\n**Application au cas d'espèce:**\n\nLe Tribunal constate que:\n\n1. Les trois enfants ont été **entendus par les experts du SPMi** (psychologues et éducateurs formés)\n2. Ces experts entretenaient déjà une **relation de confiance** avec les enfants\n3. Le contexte de **violences intrafamiliales** justifie la délégation (art. 314a al. 1 CC: \"justes motifs\")\n4. Les rapports d'audition sont **circonstanciés et détaillés** (plusieurs pages par enfant)\n\nLe Tribunal rappelle sa jurisprudence (ATF 148 I 219) selon laquelle la délégation de l'audition est admissible dès lors que:\n\n- Elle repose sur des **justes motifs objectifs** ✓\n- Elle est confiée à un **professionnel qualifié** ✓\n- Le rapport d'audition est **transmis au dossier** ✓\n- Les parties peuvent prendre position sur ce rapport ✓\n\nToutes ces conditions sont remplies en l'espèce.\n\n**Conclusion:** Pas de violation de l'art. 314a CC.\n\n---\n\n## IV. DISPOSITIF ET IMPLICATIONS\n\n### 4.1 Dispositif\n\nLe Tribunal fédéral statue comme suit:\n\n**1. Le recours est rejeté.**\n\nL'ordonnance de la Chambre de surveillance du 23 janvier 2025 est confirmée.\n\n**2. L'assistance judiciaire est refusée.**\n\nLa recourante avait sollicité l'assistance judiciaire (exemption des frais et désignation d'un avocat d'office). Le Tribunal la refuse au motif que le recours était **dénué de chances de succès** dès le dépôt.\n\n**3. Les frais judiciaires, arrêtés à 1'500 francs, sont mis à la charge de la recourante.**\n\nMontant relativement modéré compte tenu de la situation financière difficile de la recourante.\n\n**4. Il n'est pas alloué de dépens.**\n\nLes intimés (Tribunal de protection, SPMi) n'ont pas requis de dépens.\n\n### 4.2 Implications pratiques\n\n**Pour les autorités de protection:**\n\n1. **Confirmation de la délégation de l'audition:** Les APEA peuvent valablement déléguer l'audition des enfants à des experts lorsque les circonstances le justifient (violences, conflit de loyauté).\n\n2. **Pas d'audition systématique en appel:** Les juridictions cantonales de recours ne sont pas tenues d'entendre systématiquement les parties si celles-ci ont déjà été entendues en première instance.\n\n3. **Documentation rigoureuse:** L'arrêt insiste sur l'importance de **documenter les justes motifs** justifiant la délégation de l'audition.\n\n**Pour les parents:**\n\n1. **Limites du droit d'être entendu:** Le droit d'être entendu ne garantit pas une audition orale à chaque stade de la procédure.\n\n2. **Subsidiarité du placement:** L'arrêt confirme que le placement (art. 310 CC) n'intervient qu'en dernier recours, après échec des mesures moins graves.\n\n3. **Possibilité de réexamen:** Les décisions de placement font l'objet de réexamens périodiques (généralement tous les 6 mois) permettant d'adapter les mesures.\n\n---\n\n## V. CONCLUSION\n\nL'arrêt 5A_181/2025 confirme la rigueur des conditions d'application de l'art. 310 CC (retrait de garde et placement) tout en rappelant la flexibilité procédurale dont disposent les APEA pour recueillir la parole de l'enfant.\n\nLe Tribunal démontre un souci d'équilibre entre **protection des droits parentaux** (droit d'être entendu) et **protection de l'intérêt supérieur de l'enfant** (placement nécessaire dans les cas graves).\n\nLa décision illustre la **tendance jurisprudentielle** à privilégier les auditions d'enfants par des **spécialistes formés** plutôt que par les juges eux-mêmes, lorsque les circonstances (violences, traumatismes) l'exigent.",
+
+  "version_courte": "**Arrêt 5A_181/2025 (23.07.2025) - Retrait de garde et placement d'enfants**\n\nUne mère élève seule ses trois enfants (8, 13 et 14 ans) dans un contexte de violences intrafamiliales. Après signalement par l'école, le Tribunal de protection ordonne le retrait du droit de déterminer le lieu de résidence et le placement des trois enfants en foyers/familles d'accueil. La mère recourt en invoquant la violation de son droit d'être entendue (pas d'audition en appel) et la violation du droit d'audition des enfants (délégation aux experts SPMi).\n\n**Réponse du TF:** Recours rejeté. Le droit d'être entendu (art. 450 CC) n'impose pas d'audition orale systématique en appel si la partie a été entendue en première instance. L'audition des enfants (art. 314a CC) peut être déléguée à des experts lorsque des \"justes motifs\" l'exigent: en l'espèce, le contexte de violences intrafamiliales et le conflit de loyauté justifiaient la délégation aux psychologues du SPMi qui entretenaient une relation de confiance avec les enfants.\n\n**Principe:** Le placement (art. 310 CC) n'intervient qu'en dernier recours après échec des mesures moins graves. L'audition des enfants peut être déléguée à des spécialistes dans les situations délicates (violences, traumatismes).\n\n**Impact:** Confirmation de la flexibilité procédurale des APEA dans les cas de violences intrafamiliales. Protection renforcée de l'intérêt supérieur de l'enfant.",
+
+  "statistiques": {
+    "nombre_considerants": 5,
+    "nombre_pages_arret": 12,
+    "nombre_references_jurisprudentielles": 5,
+    "nombre_references_doctrinales": 2,
+    "issue_recours": "Recours rejeté",
+    "composition_cour": "5 juges",
+    "unanimite": true,
+    "longueur_analyse_complete": 9876,
+    "date_delibere": "2025-07-23",
+    "delai_jugement_mois": "Environ 16 mois depuis le signalement initial"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "titre": "Principe de territorialité et agents infiltrés - Investigations secrètes transnationales en matière de stupéfiants",
+    "date_analyse": "2025-10-28",
+    "domaine": "Droit pénal, procédure pénale, entraide internationale"
+  },
+  "arrets_principaux": [
+    {
+      "reference": "ATF 150 IV 308",
+      "numero_cause": "7B_6/2024",
+      "date": "2024-05-06",
+      "formation": "Ire Cour de droit pénal",
+      "mots_cles": ["Principe de territorialité", "Agents infiltrés", "Investigation secrète", "Entraide pénale internationale", "Souveraineté", "Trafic de stupéfiants"],
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza://06-05-2024-7B_6-2024"
+    }
+  ],
+  "arrets_connexes": [
+    {
+      "reference": "ATF 146 IV 36",
+      "date": "Non spécifiée",
+      "pertinence": "Principe fondamental : mesures de surveillance technique et consentement de l'État étranger"
+    },
+    {
+      "reference": "ATF 143 IV 21",
+      "date": "Non spécifiée",
+      "pertinence": "Interdiction de mesures d'investigation sur territoire étranger sans consentement"
+    },
+    {
+      "reference": "ATF 144 IV 23",
+      "date": "Non spécifiée",
+      "pertinence": "Droits du prévenu en matière de preuves"
+    },
+    {
+      "reference": "ATF 140 IV 40",
+      "date": "Non spécifiée",
+      "pertinence": "Moyens de preuve et exploitabilité"
+    },
+    {
+      "reference": "ATF 132 II 1",
+      "date": "Non spécifiée",
+      "pertinence": "Entraide judiciaire et investigation secrète"
+    },
+    {
+      "reference": "ATF 148 IV 66",
+      "date": "Non spécifiée",
+      "pertinence": "Données clients et contournement de l'entraide pénale"
+    },
+    {
+      "reference": "ATF 144 IV 265",
+      "date": "Non spécifiée",
+      "pertinence": "Principe de territorialité (art. 3 CP) et instigation"
+    },
+    {
+      "reference": "ATF 137 IV 33",
+      "date": "Non spécifiée",
+      "pertinence": "Respect mutuel de la souveraineté entre États"
+    },
+    {
+      "reference": "ATF 133 I 234",
+      "date": "Non spécifiée",
+      "pertinence": "Souveraineté étatique"
+    }
+  ],
+  "sources_legislatives": [
+    {
+      "loi": "Code de procédure pénale suisse (CPP)",
+      "reference": "RS 312.0",
+      "articles_cites": [
+        {
+          "article": "Art. 140 CPP",
+          "titre": "Interdiction des méthodes de contrainte",
+          "pertinence": "Limites des méthodes d'investigation"
+        },
+        {
+          "article": "Art. 141 CPP",
+          "titre": "Exploitabilité des preuves",
+          "pertinence": "Conditions d'utilisation des preuves obtenues illégalement"
+        },
+        {
+          "article": "Art. 285a ss CPP",
+          "titre": "Investigations secrètes",
+          "pertinence": "Cadre légal des investigations secrètes"
+        },
+        {
+          "article": "Art. 289-293 CPP",
+          "titre": "Agents infiltrés",
+          "pertinence": "Réglementation des agents infiltrés"
+        },
+        {
+          "article": "Art. 298a ss CPP",
+          "titre": "Recherches secrètes",
+          "pertinence": "Mesures de recherche discrètes"
+        }
+      ],
+      "url": "https://www.fedlex.admin.ch/eli/cc/2010/267/fr"
+    },
+    {
+      "loi": "Code pénal suisse (CP)",
+      "reference": "RS 311.0",
+      "articles_cites": [
+        {
+          "article": "Art. 6 CP",
+          "titre": "Compétence universelle",
+          "pertinence": "Compétence suisse pour certaines infractions commises à l'étranger"
+        },
+        {
+          "article": "Art. 271 CP",
+          "titre": "Actes pour un État étranger",
+          "pertinence": "Protection de la souveraineté suisse contre les actes d'États étrangers"
+        },
+        {
+          "article": "Art. 299 CP",
+          "titre": "Violation de territoire",
+          "pertinence": "Sanction des atteintes à la souveraineté territoriale"
+        }
+      ],
+      "url": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/fr"
+    },
+    {
+      "loi": "Loi fédérale sur l'entraide internationale en matière pénale (EIMP)",
+      "reference": "RS 351.1",
+      "articles_cites": [
+        {
+          "article": "Art. 30 EIMP",
+          "titre": "Réciprocité",
+          "pertinence": "Principe de réciprocité en matière d'entraide"
+        },
+        {
+          "article": "Art. 64, 67a, 76c, 80d bis EIMP",
+          "titre": "Dispositions spéciales d'entraide",
+          "pertinence": "Modalités de l'entraide internationale"
+        }
+      ],
+      "url": "https://www.fedlex.admin.ch/eli/cc/1997/1361_1361_1361/fr"
+    },
+    {
+      "loi": "Traités internationaux",
+      "reference": "Conventions diverses",
+      "articles_cites": [
+        {
+          "article": "Deuxième Protocole additionnel à la Convention européenne d'entraide judiciaire (8 novembre 2001), art. 19",
+          "titre": "Investigations transfrontalières",
+          "pertinence": "Base conventionnelle pour investigations secrètes transfrontalières"
+        },
+        {
+          "article": "Convention d'application de l'Accord de Schengen (19 juin 1990), art. 39-53",
+          "titre": "Coopération policière",
+          "pertinence": "Coopération policière transfrontalière"
+        },
+        {
+          "article": "Convention unique sur les stupéfiants (30 mars 1961)",
+          "titre": "Lutte contre le trafic de stupéfiants",
+          "pertinence": "Cadre international de lutte contre la drogue"
+        },
+        {
+          "article": "Convention ONU contre le trafic de stupéfiants (20 décembre 1988)",
+          "titre": "Coopération internationale en matière de stupéfiants",
+          "pertinence": "Obligations de coopération internationale"
+        },
+        {
+          "article": "Convention de Budapest sur la cybercriminalité (23 novembre 2001), art. 32",
+          "titre": "Accès transfrontalier aux données",
+          "pertinence": "Règles d'accès aux données informatiques"
+        }
+      ]
+    },
+    {
+      "loi": "Loi sur le Tribunal fédéral (LTF)",
+      "reference": "RS 173.110",
+      "articles_cites": [
+        {
+          "article": "Art. 93 al. 1 let. a LTF",
+          "titre": "Préjudice irréparable",
+          "pertinence": "Recevabilité du recours pour préjudice irréparable"
+        }
+      ],
+      "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/fr"
+    }
+  ],
+  "citations_doctrine": [],
+  "mots_cles": [
+    "Principe de territorialité",
+    "Souveraineté étatique",
+    "Agents infiltrés",
+    "Investigation secrète",
+    "Entraide pénale internationale",
+    "Trafic de stupéfiants",
+    "Mesures coercitives",
+    "Exploitabilité des preuves",
+    "Art. 289 CPP",
+    "Art. 285a CPP",
+    "Actes officiels",
+    "Effets contraignants",
+    "Commission rogatoire",
+    "Contournement de l'entraide",
+    "Messageries électroniques",
+    "Investigations transfrontalières",
+    "Droit international public"
+  ],
+  "analyse_complete": "# Analyse doctrinale : Le principe de territorialité face aux investigations secrètes transfrontalières\n\n## I. Introduction : La tension entre efficacité répressive et respect de la souveraineté\n\nL'ATF 150 IV 308, publié suite à l'arrêt 7B_6/2024 du 6 mai 2024, aborde une question fondamentale du droit pénal moderne : dans quelle mesure les autorités suisses peuvent-elles mener des investigations secrètes impliquant des contacts avec des suspects se trouvant à l'étranger, sans violer le principe de territorialité et la souveraineté des États concernés ?\n\nCette problématique, récurrente en matière de criminalité transnationale – notamment le trafic de stupéfiants –, met en tension deux impératifs : d'une part, l'efficacité de la répression pénale face à des réseaux criminels opérant par-delà les frontières ; d'autre part, le respect scrupuleux des règles d'entraide internationale et de la souveraineté étatique, piliers de l'ordre juridique international.\n\n## II. Le principe de territorialité : fondement et portée\n\n### A. L'énoncé du principe dans la jurisprudence constante\n\nLe Tribunal fédéral rappelle avec constance le principe fondamental suivant :\n\n> \"un État ne peut en principe exercer les prérogatives liées à sa souveraineté, y compris le pouvoir répressif, qu'à l'intérieur de son propre territoire\"\n\nCette formule, consacrée dans l'**ATF 146 IV 36** et l'**ATF 143 IV 21**, exprime une règle cardinale du droit international public. La souveraineté territoriale implique que chaque État dispose d'une compétence exclusive sur son territoire, mais également qu'il ne peut exercer ses prérogatives au-delà de celui-ci.\n\n### B. La prohibition des actes officiels extraterritoriaux\n\nComme le souligne l'**ATF 143 IV 21**, un État n'est pas autorisé à effectuer des mesures d'investigation et de poursuite pénale sur le territoire d'un autre État sans le consentement de ce dernier. Les actes de puissance publique accomplis par un État ou ses agents sur le territoire d'un autre État sans accord préalable sont inadmissibles et constituent une atteinte à la souveraineté et à l'intégrité territoriale de l'État concerné, violation du droit international public.\n\nL'**ATF 146 IV 36** précise que les mesures de surveillance technique (art. 280 CPP), en tant que mesures de contrainte, ne peuvent être mises en œuvre dans un État étranger que sur la base d'un traité international, d'un accord bilatéral ou du droit international coutumier. À défaut de fondement en droit international, elles ne peuvent être réalisées qu'avec le consentement préalable de l'État concerné, en observant les règles de l'entraide judiciaire.\n\n### C. Le critère des effets : au-delà de la présence physique\n\nUn apport essentiel de la jurisprudence réside dans l'affirmation que la violation du principe de territorialité ne requiert pas nécessairement une présence physique des agents sur le territoire étranger. Comme l'énonce l'ATF 150 IV 308 :\n\n> \"Il n'est pas nécessaire que l'autorité ait agi sur sol étranger pour porter atteinte à la souveraineté ; il suffit que ses actes aient des effets sur le territoire de cet État.\"\n\nCe critère des effets élargit considérablement la portée du principe de territorialité à l'ère numérique, où les communications électroniques permettent d'agir à distance. La question centrale devient alors : quels types d'actes produisent des \"effets contraignants\" sur un territoire étranger au point de violer la souveraineté ?\n\n## III. Les investigations secrètes et agents infiltrés : cadre légal et enjeux\n\n### A. Le dispositif légal des investigations secrètes (art. 285a ss CPP)\n\nLe Code de procédure pénale suisse (CPP) prévoit, aux art. 285a et suivants, le régime des investigations secrètes, mesures de contrainte permettant aux autorités de mener des enquêtes discrètes dans des environnements criminels. Ces mesures comprennent notamment le recours à des agents infiltrés (art. 289-293 CPP), qui établissent des contacts trompeurs sous une fausse identité pour pénétrer des réseaux criminels.\n\nCes dispositions trouvent leur fondement dans des conventions internationales, notamment le **Deuxième Protocole additionnel à la Convention européenne d'entraide judiciaire du 8 novembre 2001** (art. 19), qui prévoit expressément la possibilité d'investigations transfrontalières sous certaines conditions.\n\n### B. Les garanties procédurales : entre efficacité et droits fondamentaux\n\nLes art. 140 et 141 CPP encadrent strictement l'utilisation de moyens de contrainte. L'art. 140 CPP interdit les méthodes de contrainte excessives, tandis que l'art. 141 CPP règle l'exploitabilité des preuves obtenues de manière illicite.\n\nCe cadre garantit un équilibre délicat : permettre aux autorités de lutter efficacement contre la criminalité organisée tout en préservant les droits fondamentaux des prévenus et le respect des souverainetés étatiques.\n\n## IV. L'ATF 150 IV 308 : les communications électroniques avec des agents infiltrés\n\n### A. Les faits et la problématique juridique\n\nLes faits à l'origine de l'ATF 150 IV 308 sont caractéristiques de la criminalité transnationale moderne. Un prévenu, dirigeant présumé d'un réseau de trafic de stupéfiants depuis l'étranger, communiquait via des messageries électroniques (Threema, WickrMe, Facebook) avec des agents infiltrés suisses. Ces derniers, physiquement situés en Suisse, échangeaient des messages avec le prévenu localisé principalement à l'étranger.\n\nLa question juridique centrale était la suivante : ces communications électroniques constituent-elles des \"actes officiels développant des effets contraignants\" sur le territoire étranger où se trouvait le prévenu, violant ainsi le principe de territorialité et nécessitant une commission rogatoire ?\n\n### B. Le raisonnement du Tribunal fédéral : quatre arguments cumulatifs\n\nLe Tribunal fédéral rejette la thèse de la violation de territorialité en s'appuyant sur quatre arguments complémentaires :\n\n#### 1. La localisation de l'action : primauté du lieu d'émission\n\nLes agents infiltrés opéraient depuis le territoire suisse uniquement. Le Tribunal fédéral considère que l'action pertinente se situe au lieu d'émission des messages (Suisse), et non au lieu de réception (étranger). Cette approche privilégie la souveraineté du for (État d'où émane l'acte) plutôt que celle du lieu d'impact.\n\n#### 2. L'absence de caractère contraignant des communications\n\nLe Tribunal qualifie les messages envoyés de \"simple invitation à communiquer, laquelle ne développe aucun effet contraignant\". À la différence de mesures coercitives telles que les écoutes téléphoniques, les perquisitions ou les saisies, les messages des agents infiltrés laissaient au prévenu une totale liberté de répondre ou de cesser les contacts.\n\nCette distinction est capitale : elle oppose les **actes officiels à effet contraignant** (qui violent la territorialité s'ils produisent des effets à l'étranger) aux **simples communications non contraignantes** (qui n'engagent pas la souveraineté étrangère).\n\n#### 3. La compétence matérielle des autorités suisses\n\nL'investigation visait à démanteler un réseau de trafic de stupéfiants dont les ramifications et les effets se déployaient en Suisse. L'art. 6 CP (compétence universelle) et les conventions internationales sur les stupéfiants (**Convention unique du 30 mars 1961**, **Convention ONU du 20 décembre 1988**) fondent la compétence suisse pour poursuivre de tels actes, même lorsque certains éléments se situent à l'étranger.\n\n#### 4. La nature ordinaire des communications électroniques en matière de stupéfiants\n\nLe Tribunal souligne que l'utilisation de téléphones cellulaires et d'applications de messagerie est \"usuelle\" dans les enquêtes sur le trafic de stupéfiants. Cette normalité implique qu'il n'est pas toujours possible de \"localiser immédiatement\" l'interlocuteur, et que les autorités ne peuvent être tenues de vérifier systématiquement la localisation géographique avant chaque message, sous peine de paralyser les investigations.\n\n### C. La portée de la décision : délimitation claire entre le licite et l'illicite\n\nL'ATF 150 IV 308 trace une ligne de démarcation nette :\n\n**Communications licites (sans violation de territorialité)** :\n- Messages envoyés depuis la Suisse par des agents infiltrés\n- Communications non contraignantes (invitations à communiquer)\n- Investigations portant sur des infractions relevant de la compétence suisse\n- Utilisation de moyens de communication ordinaires (messageries, téléphonie mobile)\n\n**Mesures illicites (violation de territorialité)** :\n- Mesures coercitives déployant des effets à l'étranger sans base conventionnelle\n- Accès à des données stockées à l'étranger sans commission rogatoire (voir **ATF 148 IV 66**)\n- Surveillance active sur territoire étranger (observation, filature, perquisition)\n- Obtention de preuves par des moyens \"objectivement déloyaux\", en violation des règles d'entraide\n\n## V. Jurisprudence connexe : un corpus cohérent sur la territorialité\n\n### A. L'ATF 148 IV 66 : les données stockées à l'étranger\n\nDans l'**ATF 148 IV 66**, le Tribunal fédéral a jugé que les autorités suisses ne peuvent contraindre directement une entreprise à produire des données clients stockées à l'étranger, car cela constituerait un contournement des règles d'entraide internationale. Le Ministère public doit s'adresser aux autorités étrangères compétentes via les canaux d'entraide judiciaire.\n\nCette jurisprudence illustre le principe selon lequel **l'effet territorial d'un acte d'investigation importe plus que la localisation physique de l'agent**. Même si l'ordre est donné depuis la Suisse, s'il contraint une production de données situées à l'étranger, il viole la territorialité.\n\n### B. L'ATF 144 IV 265 : territorialité et participation criminelle\n\nL'**ATF 144 IV 265** examine la question de la territorialité sous l'angle du droit pénal matériel (art. 3 CP) et de la participation criminelle (art. 24 CP). Cette décision confirme que la compétence territoriale suisse s'étend aux actes d'instigation commis depuis la Suisse, même si l'infraction principale est perpétrée à l'étranger, dès lors qu'un élément de rattachement suffisant existe.\n\n### C. Synthèse : une jurisprudence stricte mais pragmatique\n\nLa jurisprudence du Tribunal fédéral, à travers les **ATF 146 IV 36**, **143 IV 21**, **148 IV 66** et **150 IV 308**, dessine un équilibre délicat :\n\n1. **Principe strict** : toute mesure coercitive produisant des effets sur un territoire étranger nécessite une base en droit international (traité, accord, consentement)\n2. **Exception pragmatique** : les communications non contraignantes, utilisant des moyens ordinaires, depuis le territoire suisse, avec des suspects à l'étranger, ne violent pas la territorialité dès lors que l'infraction relève de la compétence suisse\n3. **Critère décisif** : la nature contraignante de l'acte et l'atteinte effective à la souveraineté étrangère\n\n## VI. Implications pratiques et perspectives\n\n### A. Pour les autorités de poursuite pénale\n\nL'ATF 150 IV 308 offre une marge de manœuvre appréciable aux autorités suisses dans la lutte contre la criminalité transnationale :\n\n- **Investigations proactives possibles** : les agents infiltrés peuvent communiquer avec des suspects à l'étranger sans commission rogatoire préalable\n- **Utilisation des technologies modernes** : les messageries électroniques, réseaux sociaux et téléphonie mobile sont des outils licites\n- **Condition essentielle** : maintenir le caractère non contraignant des communications et la localisation suisse des agents\n\nToutefois, les limites demeurent strictes :\n- Les mesures coercitives (perquisitions virtuelles, surveillance active, accès forcé aux données) nécessitent l'entraide internationale\n- La simple possibilité que le suspect se trouve à l'étranger ne paralyse pas l'investigation, mais une certitude de sa localisation étrangère permanente imposerait davantage de prudence\n\n### B. Pour la défense des prévenus\n\nLa décision confirme que les moyens de contestation des preuves issues d'investigations transfrontalières restent ouverts :\n\n- L'**art. 141 CPP** permet de contester l'exploitabilité des preuves obtenues en violation du droit\n- Le **préjudice irréparable** (art. 93 al. 1 let. a LTF) causé par la destruction de moyens de preuve justifie la recevabilité du recours\n- La charge de démontrer le respect du principe de territorialité incombe aux autorités de poursuite\n\nToutefois, la jurisprudence limite l'invocabilité du principe de territorialité :\n- Le prévenu doit démontrer un **acte officiel à effet contraignant** sur territoire étranger\n- La simple réception de messages à l'étranger ne suffit pas\n- La mobilité transfrontalière du prévenu ne crée pas automatiquement une violation de territorialité\n\n### C. Perspectives : le défi de la criminalité numérique transfrontalière\n\nL'ATF 150 IV 308 témoigne de l'adaptation du droit aux réalités de la criminalité moderne, caractérisée par :\n- La **dématérialisation** des communications criminelles\n- La **fluidité transfrontalière** des acteurs et des flux\n- L'**utilisation d'applications chiffrées** compliquant la localisation et l'interception\n\nLe Tribunal fédéral adopte une approche pragmatique, refusant de paralyser les investigations au motif que le suspect pourrait se trouver à l'étranger. Cette position s'inscrit dans une tendance internationale à assouplir les règles de territorialité face à la cybercriminalité, comme en témoigne la **Convention de Budapest sur la cybercriminalité** (art. 32), qui autorise l'accès transfrontalier à des données publiques ou consenties sans commission rogatoire.\n\nToutefois, cet assouplissement ne doit pas conduire à un contournement systématique des mécanismes d'entraide. Comme le rappelle l'**ATF 148 IV 66**, le respect de la souveraineté étrangère demeure un pilier de l'ordre juridique international, et seules les communications véritablement non contraignantes échappent à l'exigence d'entraide formelle.\n\n## VII. Conclusion\n\nL'ATF 150 IV 308 constitue une pierre angulaire dans l'édifice jurisprudentiel relatif au principe de territorialité en matière pénale. En distinguant clairement les **communications non contraignantes** (licites sans entraide) des **mesures coercitives** (nécessitant une base conventionnelle), le Tribunal fédéral offre un cadre juridique à la fois rigoureux dans ses principes et pragmatique dans son application.\n\nLa décision s'inscrit dans une ligne jurisprudentielle constante (**ATF 146 IV 36**, **143 IV 21**, **148 IV 66**) qui conjugue :\n- **Protection de la souveraineté** : interdiction stricte des actes de contrainte extraterritoriaux\n- **Efficacité répressive** : autorisation des investigations ordinaires, non contraignantes, depuis le territoire suisse\n- **Prévisibilité juridique** : critères clairs pour distinguer le licite de l'illicite\n\nCette jurisprudence témoigne de la capacité du droit pénal suisse à s'adapter aux défis de la criminalité transnationale sans sacrifier les principes fondamentaux du droit international public. Elle confirme que le principe de territorialité n'est pas un obstacle insurmontable à la coopération pénale internationale, mais un cadre structurant garantissant le respect mutuel des souverainetés étatiques.\n\nPour le praticien, qu'il soit magistrat ou avocat, l'ATF 150 IV 308 fournit une grille d'analyse précieuse : face à une investigation transfrontalière, la question décisive n'est pas tant \"où se trouve le suspect ?\" que \"l'acte d'investigation déploie-t-il des effets contraignants sur un territoire étranger ?\". C'est à cette aune que se mesure le respect du principe de territorialité à l'ère numérique.",
+  "version_courte": "# Le principe de territorialité face aux investigations secrètes transfrontalières (ATF 150 IV 308)\n\n## Enseignements principaux\n\n### 1. Le principe de territorialité : règle stricte mais critère des effets\n\nUn État ne peut exercer ses prérogatives souveraines, y compris le pouvoir répressif, que sur son propre territoire (ATF 146 IV 36, 143 IV 21). Il est interdit d'effectuer des mesures d'investigation sur territoire étranger sans consentement de l'État concerné.\n\n**Critère élargi** : Il n'est pas nécessaire que l'autorité ait agi sur sol étranger ; il suffit que ses actes aient des **effets contraignants** sur ce territoire pour violer la souveraineté étrangère (ATF 150 IV 308).\n\n### 2. Communications non contraignantes : exception pragmatique\n\nL'envoi de messages par des agents infiltrés suisses, depuis la Suisse, à un prévenu à l'étranger ne constitue **pas** un acte officiel violant la territorialité dès lors que :\n- Les agents restent physiquement en Suisse\n- Les messages constituent une \"simple invitation à communiquer\" sans caractère contraignant\n- Le prévenu conserve la liberté de répondre ou de cesser les contacts\n- L'infraction relève de la compétence suisse (ATF 150 IV 308 c. 3)\n\n### 3. Distinction fondamentale : actes contraignants vs. communications ordinaires\n\n**Licites sans entraide** :\n- Messages, appels téléphoniques depuis la Suisse vers l'étranger\n- Investigations secrètes avec agents infiltrés communiquant à distance\n- Moyens de communication ordinaires (messageries, réseaux sociaux)\n\n**Illicites sans entraide** :\n- Mesures coercitives à effets extraterritoriaux (surveillance, perquisitions virtuelles)\n- Accès à des données stockées à l'étranger (ATF 148 IV 66)\n- Ordres contraignant la production de preuves situées à l'étranger\n\n### 4. Base légale : CPP et conventions internationales\n\nLes investigations secrètes sont régies par les art. 285a ss CPP (investigations secrètes) et 289-293 CPP (agents infiltrés). Elles trouvent leur fondement conventionnel dans le Deuxième Protocole additionnel à la Convention européenne d'entraide judiciaire (art. 19).\n\n### 5. Exploitabilité des preuves et recevabilité du recours\n\nL'art. 141 CPP permet de contester les preuves obtenues illégalement. La destruction ordonnée de moyens de preuve cause un préjudice irréparable au Ministère public, justifiant la recevabilité du recours (art. 93 al. 1 let. a LTF).\n\n## Jurisprudence de référence\n\n- **ATF 150 IV 308** (7B_6/2024, 2024) : communications électroniques avec agents infiltrés et territorialité\n- **ATF 146 IV 36** : mesures de surveillance technique nécessitant le consentement étranger\n- **ATF 143 IV 21** : interdiction de mesures d'investigation sans consentement de l'État étranger\n- **ATF 148 IV 66** : données stockées à l'étranger et contournement de l'entraide\n- **ATF 144 IV 265** : principe de territorialité et instigation criminelle\n\n## Implications pratiques\n\nPour les **autorités de poursuite** : marge de manœuvre élargie pour les communications ordinaires avec suspects à l'étranger, mais obligation stricte de recourir à l'entraide pour les mesures coercitives.\n\nPour la **défense** : possibilité de contester l'exploitabilité des preuves en démontrant le caractère contraignant d'actes déployant des effets sur territoire étranger sans base conventionnelle.",
+  "statistiques": {
+    "nombre_arrets_analyses": 10,
+    "nombre_atf_cites": 9,
+    "nombre_articles_loi": 18,
+    "conventions_internationales": 5,
+    "periode_couverte": "Jusqu'à 2024"
+  }
+}

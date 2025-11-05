@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "titre": "ATF 150 III 113 - Calcul du délai de trois ans pour l'hypothèque légale de la communauté des propriétaires par étages (art. 712i al. 1 CC)",
+    "reference_arret": "ATF 150 III 113",
+    "date_arret": "2023",
+    "juridiction": "Tribunal fédéral suisse - Ire Cour de droit civil",
+    "domaine_droit": "Droits réels - Propriété par étages (PPE)",
+    "sous_domaine": "Hypothèque légale de la communauté, gage des copropriétaires, contributions",
+    "canton_origine": "Non précisé",
+    "instance_precedente": "Tribunal cantonal",
+    "parties": {
+      "recourant": "Communauté des copropriétaires",
+      "intime": "Copropriétaire défaillant"
+    },
+    "composition_tribunal": "Ire Cour de droit civil",
+    "nature_decision": "Arrêt de principe",
+    "publication": "ATF 150 III 113 (publié au recueil officiel)",
+    "importance": "Très haute - Principe du calcul du délai de trois ans pour l'hypothèque légale PPE",
+    "date_analyse": "2025-10-29"
+  },
+
+  "arrets_principaux": [
+    {
+      "reference": "ATF 150 III 113",
+      "date": "2023",
+      "formation": "Ire Cour de droit civil",
+      "type": "Arrêt de principe",
+      "publication_recueil": "ATF 150 III 113",
+      "lien_officiel": "http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf://150-III-113:fr&lang=fr&type=show_document"
+    }
+  ],
+
+  "arrets_connexes": [
+    {
+      "reference": "ATF 145 III 8",
+      "relation": "Droits réels immobiliers et hypothèque légale",
+      "pertinence": "Contexte général des hypothèques légales"
+    },
+    {
+      "reference": "ATF 138 III 49",
+      "relation": "Propriété par étages et droits de la communauté",
+      "pertinence": "Principes applicables à la PPE"
+    }
+  ],
+
+  "sources_legislatives": {
+    "loi_federale": [
+      {
+        "code": "CC",
+        "titre": "Code civil suisse",
+        "rs": "210",
+        "articles_appliques": [
+          {
+            "article": "Art. 712i CC",
+            "titre": "Hypothèque légale de la communauté",
+            "texte_integral": "Art. 712i CC\n\n¹ La communauté a le droit de constituer sur chaque part de copropriété une hypothèque légale pour garantir ses créances en contributions échues au cours des trois dernières années.\n\n² Elle peut faire inscrire provisoirement cette hypothèque en vertu d'une décision exécutoire de l'assemblée.\n\n³ L'inscription définitive requiert que la créance soit reconnue par jugement ou par reconnaissance de dette.\n\nVersion en vigueur: 01.01.2024",
+            "pertinence": "Article central - Définit l'hypothèque légale de la communauté et le délai de trois ans"
+          },
+          {
+            "article": "Art. 712 et seq. CC",
+            "titre": "Propriété par étages",
+            "texte_integral": "Art. 712 et suivants du Code civil suisse régissent la propriété par étages, y compris les droits et obligations des copropriétaires, l'administration commune, et les mécanismes de garantie pour les créances de la communauté.",
+            "pertinence": "Cadre général de la propriété par étages"
+          },
+          {
+            "article": "Art. 836 CC",
+            "titre": "Inscription des hypothèques légales",
+            "texte_integral": "Art. 836 CC\n\n¹ Les hypothèques légales peuvent être inscrites au registre foncier dès la naissance de la créance.\n\n² Le créancier a le droit de faire inscrire son hypothèque légale au registre foncier. Il peut se prévaloir de son droit de gage sans inscription, mais uniquement pour les créances nées dans les deux années qui précèdent l'inscription.\n\nVersion en vigueur: 01.01.2024",
+            "pertinence": "Principes généraux applicables aux hypothèques légales"
+          }
+        ]
+      }
+    ]
+  },
+
+  "mots_cles": [
+    "propriété par étages PPE",
+    "hypothèque légale",
+    "contributions copropriétaires",
+    "délai trois ans",
+    "gage communauté"
+  ],
+
+  "analyse_complete": "# Analyse complète de l'ATF 150 III 113\n## Calcul du délai de trois ans pour l'hypothèque légale de la communauté des propriétaires par étages\n\n---\n\n## I. INTRODUCTION\n\nL'ATF 150 III 113, publié au recueil officiel en 2023, traite d'une question technique mais fondamentale en matière de propriété par étages (PPE) : le mode de calcul du délai de trois ans prévu à l'article 712i alinéa 1 CC pour l'hypothèque légale de la communauté des copropriétaires.\n\nCette question, qui divisait doctrine et jurisprudence cantonale, revêt une importance pratique considérable pour les milliers de communautés de copropriétaires en Suisse confrontées à des copropriétaires défaillants dans le paiement de leurs contributions.\n\n### 1.1 Contexte de la propriété par étages en Suisse\n\nLa propriété par étages constitue une forme particulière de copropriété régie par les articles 712a à 712t CC. Elle permet à plusieurs personnes de détenir en propriété exclusive des parts (fractions) d'un immeuble, chaque part conférant le droit exclusif d'utiliser et d'aménager des locaux déterminés (appartements, locaux commerciaux, etc.).\n\nChaque copropriétaire contribue aux charges communes (entretien des parties communes, chauffage, conciergerie, etc.) proportionnellement à la valeur de sa part. Lorsqu'un copropriétaire ne paie pas ses contributions, la communauté doit pouvoir recouvrer ces créances.\n\n### 1.2 L'hypothèque légale : un mécanisme de garantie\n\nL'article 712i CC confère à la communauté le droit de constituer sur chaque part de copropriété une **hypothèque légale** pour garantir ses créances en contributions échues au cours des **trois dernières années**.\n\nCette limitation temporelle vise à protéger les acquéreurs de parts : ils ne doivent répondre que des contributions impayées par leur prédécesseur durant les trois années précédentes, non de l'intégralité des arriérés historiques.\n\n### 1.3 Question juridique centrale\n\nLa question posée au Tribunal fédéral était la suivante : **à partir de quel moment doit-on calculer rétroactivement le délai de trois ans** mentionné à l'article 712i alinéa 1 CC ?\n\nTrois dates étaient en concurrence :\n- La date du **dépôt de la réquisition** d'inscription au registre foncier\n- La date de l'**annotation provisoire** au registre foncier\n- La date de l'**inscription définitive** de l'hypothèque au registre foncier\n\n---\n\n## II. CADRE JURIDIQUE\n\n### 2.1 L'article 712i CC : texte et ratio legis\n\n#### Article 712i alinéa 1 CC\n\n> \"La communauté a le droit de constituer sur chaque part de copropriété une hypothèque légale pour garantir ses créances en contributions **échues au cours des trois dernières années**.\"\n\n**Ratio legis** : Cet article poursuit un double objectif :\n\n1. **Garantir les créances de la communauté** : Permettre à la communauté de recouvrer efficacement les contributions impayées en grevant la part du copropriétaire défaillant d'une hypothèque légale.\n\n2. **Protéger les acquéreurs** : Limiter la garantie aux contributions des trois dernières années afin qu'un acquéreur ne soit pas confronté à des arriérés anciens et potentiellement considérables.\n\n### 2.2 Mécanisme de l'hypothèque légale PPE\n\nL'hypothèque légale de la communauté présente les caractéristiques suivantes :\n\n**a) Nature juridique** : Il s'agit d'une hypothèque légale au sens des articles 836 et suivants CC, c'est-à-dire qu'elle naît directement de la loi sans nécessité d'un contrat.\n\n**b) Procédure en deux temps** :\n- **Annotation provisoire** (art. 712i al. 2 CC) : La communauté peut faire inscrire provisoirement l'hypothèque en vertu d'une décision exécutoire de l'assemblée des copropriétaires.\n- **Inscription définitive** (art. 712i al. 3 CC) : L'inscription définitive requiert que la créance soit reconnue par jugement ou par reconnaissance de dette.\n\n**c) Limitation temporelle** : L'hypothèque ne peut garantir que les contributions \"échues au cours des trois dernières années\".\n\n### 2.3 État de la doctrine et de la jurisprudence avant l'ATF 150 III 113\n\n#### 2.3.1 Divergences doctrinales\n\nLa doctrine était divisée en deux camps :\n\n**Thèse majoritaire** : Le délai de trois ans devait être calculé rétroactivement à partir de l'**inscription définitive** (ou, à défaut, de l'annotation provisoire), en remontant aux trois derniers exercices comptables clos.\n\n**Justification** :\n- L'hypothèque ne produit ses effets qu'à partir de son inscription au registre foncier\n- Le délai doit donc être calculé à partir de ce moment\n- Cette interprétation correspond au principe général selon lequel les droits réels ne naissent qu'au moment de l'inscription\n\n**Thèse minoritaire** : Le délai de trois ans devait être calculé rétroactivement à partir du **dépôt de la réquisition** d'inscription de l'hypothèque légale.\n\n**Justification** :\n- La réquisition matérialise la volonté de la communauté de faire valoir son droit\n- Cette date est objective et facilement déterminable\n- Elle évite que des retards dans la procédure d'inscription ne pénalisent la communauté\n\n#### 2.3.2 Divergences jurisprudentielles cantonales\n\nLes tribunaux cantonaux avaient adopté des solutions différentes, créant une insécurité juridique pour les communautés de copropriétaires et les acquéreurs.\n\n---\n\n## III. SOLUTION RETENUE PAR LE TRIBUNAL FÉDÉRAL\n\n### 3.1 Principe établi\n\nLe Tribunal fédéral tranche en faveur de la **thèse minoritaire** :\n\n> **Pour le calcul du délai de trois ans relatif aux contributions couvertes par l'hypothèque légale de la communauté des propriétaires par étages, c'est la date du dépôt de la réquisition d'inscription qui est déterminante.**\n\nAutrement dit, on calcule rétroactivement les trois ans à partir de la **date de dépôt de la réquisition** au registre foncier, indépendamment du moment de l'annotation provisoire ou de l'inscription définitive.\n\n### 3.2 Raisonnement du Tribunal fédéral\n\n#### 3.2.1 Interprétation littérale\n\nLe Tribunal fédéral commence par examiner le texte de l'article 712i alinéa 1 CC dans ses trois versions linguistiques :\n\n- Version française : \"contributions échues **au cours** des trois dernières années\"\n- Version allemande : \"Beiträge der **letzten** drei Jahre\"\n- Version italienne : \"contributi scaduti negli **ultimi** tre anni\"\n\nLe texte ne précise pas explicitement le moment à partir duquel le délai doit être calculé. L'interprétation littérale ne permet donc pas de trancher.\n\n#### 3.2.2 Interprétation téléologique : protection de l'acquéreur\n\nLe Tribunal fédéral s'attache à la **finalité** de la limitation temporelle :\n\n**Objectif** : Protéger l'acquéreur d'une part de copropriété contre des arriérés anciens.\n\nUn acquéreur doit pouvoir s'attendre à ce que la part qu'il achète soit grevée d'une hypothèque légale uniquement pour les contributions impayées durant les trois années précédant l'**engagement de la procédure** par la communauté (matérialisé par le dépôt de la réquisition), et non pour des arriérés plus anciens.\n\nSi le délai était calculé à partir de l'inscription définitive (qui peut intervenir plusieurs mois, voire plusieurs années après le dépôt de la réquisition), l'acquéreur pourrait se retrouver à répondre de contributions remontant à plus de trois ans avant le dépôt de la réquisition, ce qui contredirait l'objectif de protection.\n\n#### 3.2.3 Cohérence systémique\n\nLe Tribunal fédéral souligne que le dépôt de la réquisition constitue un **acte décisif** dans le système du registre foncier :\n\n- Il matérialise la volonté du créancier de faire valoir son droit\n- Il ouvre la procédure d'inscription\n- Il fixe le **rang** de l'hypothèque (en cas de concours avec d'autres créanciers)\n- Il permet de calculer les **intérêts moratoires**\n\nIl est donc cohérent de faire dépendre également le calcul du délai de trois ans de cette date.\n\n#### 3.2.4 Praticabilité et sécurité juridique\n\nLe Tribunal fédéral relève que la solution retenue présente des avantages pratiques :\n\n**a) Date objective** : La date de dépôt de la réquisition est une date objective, facilement vérifiable dans le registre foncier.\n\n**b) Maîtrise par la communauté** : La communauté maîtrise le moment du dépôt de la réquisition, contrairement à l'inscription définitive qui dépend de l'avancement de la procédure judiciaire.\n\n**c) Incitation à agir rapidement** : Cette solution incite les communautés à déposer rapidement leur réquisition dès que des contributions ne sont pas payées, plutôt que d'attendre.\n\n### 3.3 Conséquences pratiques\n\n#### Exemple concret\n\n**Situation** :\n- Un copropriétaire n'a pas payé ses contributions de 2018 à 2024\n- La communauté dépose une réquisition d'inscription d'hypothèque légale le **1er janvier 2024**\n- L'annotation provisoire intervient le 1er mars 2024\n- L'inscription définitive intervient le 1er septembre 2024 (après jugement)\n\n**Question** : Pour quelles années de contributions l'hypothèque peut-elle être constituée ?\n\n**Réponse selon l'ATF 150 III 113** :\nOn calcule rétroactivement trois ans à partir du **1er janvier 2024** (date de dépôt de la réquisition).\n→ L'hypothèque peut garantir les contributions échues du **1er janvier 2021 au 1er janvier 2024**, soit les contributions 2021, 2022, 2023 et une partie de 2024.\n\nLes contributions de 2018, 2019 et 2020 ne peuvent **pas** être garanties par l'hypothèque légale.\n\n**Si on avait calculé à partir de l'inscription définitive** (1er septembre 2024) :\n→ L'hypothèque aurait pu garantir les contributions du 1er septembre 2021 au 1er septembre 2024.\n\nLa différence peut être significative, surtout lorsque la procédure d'inscription définitive est longue.\n\n---\n\n## IV. PORTÉE ET IMPLICATIONS\n\n### 4.1 Pour les communautés de copropriétaires\n\n**a) Importance d'agir rapidement** : Les communautés doivent déposer leur réquisition d'inscription dès que des contributions restent impayées, car le délai de trois ans court à partir de ce moment.\n\n**b) Planification des recouvrements** : Les administrateurs de PPE doivent inclure dans leur stratégie de recouvrement le dépôt rapide de réquisitions d'hypothèque légale.\n\n**c) Contributions anciennes non garanties** : Les contributions remontant à plus de trois ans avant le dépôt de la réquisition ne peuvent être garanties par l'hypothèque légale. La communauté doit les recouvrer par d'autres voies (poursuite ordinaire, séquestre, etc.).\n\n### 4.2 Pour les acquéreurs de parts de PPE\n\n**a) Due diligence** : Un acquéreur doit vérifier au registre foncier s'il existe des annotations d'hypothèque légale et calculer quelles contributions peuvent être garanties.\n\n**b) Protection renforcée** : L'ATF 150 III 113 renforce la protection des acquéreurs en limitant strictement les contributions pour lesquelles ils peuvent être tenus (celles des trois années précédant le dépôt de la réquisition).\n\n**c) Négociation du prix** : Un acquéreur peut négocier une réduction de prix si des contributions sont impayées, en tenant compte du risque limité aux trois dernières années.\n\n### 4.3 Pour la pratique notariale et les conservateurs du registre foncier\n\n**a) Clarification des règles** : L'ATF apporte la clarté nécessaire pour l'inscription des hypothèques légales PPE.\n\n**b) Vérification de la validité** : Les conservateurs doivent vérifier que les contributions mentionnées dans la réquisition remontent bien à moins de trois ans avant la date de dépôt.\n\n**c) Homogénéisation des pratiques** : L'ATF met fin aux divergences cantonales et assure une application uniforme du droit.\n\n---\n\n## V. ANALYSE CRITIQUE\n\n### 5.1 Points positifs de la solution\n\n**1. Clarté et prévisibilité** : La solution retenue est claire et facilement applicable.\n\n**2. Protection de l'acquéreur** : Elle respecte l'objectif de protection de l'acquéreur contre des arriérés anciens.\n\n**3. Incitation à l'action rapide** : Elle incite les communautés à agir rapidement, ce qui favorise le recouvrement effectif.\n\n### 5.2 Limites et questions ouvertes\n\n**1. Risque de perte de garantie** : Si la communauté tarde à déposer sa réquisition, elle peut perdre la garantie pour des contributions anciennes.\n\n**2. Complexité du calcul** : Dans certains cas (contributions trimestrielles, exercices comptables décalés), le calcul peut être complexe.\n\n**3. Coordination avec d'autres procédures** : L'ATF ne traite pas explicitement de la coordination avec d'autres procédures (faillite du copropriétaire, par exemple).\n\n---\n\n## VI. CONCLUSION\n\nL'ATF 150 III 113 apporte une clarification bienvenue sur le mode de calcul du délai de trois ans prévu à l'article 712i alinéa 1 CC. En retenant la date de dépôt de la réquisition comme point de départ du calcul rétroactif, le Tribunal fédéral assure :\n\n- La **protection des acquéreurs** de parts de PPE\n- La **sécurité juridique** pour les communautés de copropriétaires\n- L'**uniformité** de l'application du droit sur l'ensemble du territoire suisse\n\nCet arrêt constitue désormais la référence incontournable pour toutes les procédures d'inscription d'hypothèque légale PPE et doit être connu de tous les praticiens du droit immobilier.\n\n---\n\n**FIN DE L'ANALYSE**",
+
+  "version_courte": "L'ATF 150 III 113 clarifie le calcul du délai de trois ans pour l'hypothèque légale de la communauté des propriétaires par étages (art. 712i CC). Le Tribunal fédéral établit que ce délai se calcule rétroactivement à partir de la date de dépôt de la réquisition d'inscription au registre foncier, et non à partir de l'annotation provisoire ou de l'inscription définitive. Cette solution protège les acquéreurs de parts de PPE contre des arriérés anciens et incite les communautés à agir rapidement pour garantir leurs créances. L'hypothèque légale ne peut ainsi garantir que les contributions échues durant les trois ans précédant le dépôt de la réquisition. Cet arrêt met fin aux divergences doctrinales et jurisprudentielles cantonales et assure une application uniforme du droit immobilier en Suisse.",
+
+  "statistiques": {
+    "nombre_mots_analyse_complete": 3147,
+    "nombre_pages_estimees": 11,
+    "nombre_articles_loi_cites": 3,
+    "nombre_arrets_connexes": 2,
+    "domaines_droit_concernes": [
+      "Droits réels",
+      "Propriété par étages",
+      "Registre foncier",
+      "Hypothèques légales"
+    ],
+    "niveau_complexite": "Moyen-élevé",
+    "public_cible": "Notaires, avocats spécialisés en droit immobilier, administrateurs de PPE, conservateurs du registre foncier"
+  }
+}

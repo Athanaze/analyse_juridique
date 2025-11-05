@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "titre": "Résiliation du contrat de travail pour cause de maladie persistante après expiration du délai de protection",
+    "date_analyse": "2025-10-28",
+    "domaine": "Droit du travail",
+    "sous_domaine": "Résiliation du contrat de travail, congé abusif, maladie"
+  },
+
+  "arrets_analyses": [
+    {
+      "reference": "ATF 150 III 78",
+      "numero_cause": "4A_396/2022",
+      "date": "2023-11-07",
+      "juridiction": "Ire Cour de droit civil du Tribunal fédéral",
+      "parties": "Fondation A. c. B.",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?highlight_docid=atf://150-III-78:fr&lang=fr&type=show_document"
+    },
+    {
+      "reference": "ATF 132 III 115",
+      "numero_cause": "4C.215/2005",
+      "date": "2005-12-20",
+      "juridiction": "Ire Cour de droit civil du Tribunal fédéral",
+      "parties": "X. c. A. AG",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?highlight_docid=atf://132-III-115:fr&lang=fr&type=show_document"
+    },
+    {
+      "reference": "ATF 136 III 513",
+      "date": "2010",
+      "juridiction": "Tribunal fédéral",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?highlight_docid=atf://136-III-513:fr&lang=fr&type=show_document"
+    },
+    {
+      "reference": "ATF 131 III 535",
+      "date": "2005",
+      "juridiction": "Tribunal fédéral",
+      "url": "http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf://131-III-535:fr&lang=fr&type=show_document"
+    },
+    {
+      "reference": "Arrêt 4A_78/2018",
+      "date": "2018-10-10",
+      "juridiction": "Ire Cour de droit civil du Tribunal fédéral",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza://10-10-2018-4A_78-2018&lang=fr&type=show_document"
+    },
+    {
+      "reference": "Arrêt 4A_245/2019",
+      "date": "2020-01-09",
+      "juridiction": "Ire Cour de droit civil du Tribunal fédéral",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza://09-01-2020-4A_245-2019&lang=fr&type=show_document"
+    }
+  ],
+
+  "articles_loi": [
+    {
+      "reference": "Art. 335 al. 1 CO",
+      "titre": "Résiliation ordinaire",
+      "description": "Liberté de résilier le contrat de durée indéterminée en observant les délais de congé"
+    },
+    {
+      "reference": "Art. 336 al. 1 let. a CO",
+      "titre": "Résiliation abusive - Définition",
+      "description": "Le congé est abusif lorsqu'il est donné pour une raison inhérente à la personnalité de l'autre partie"
+    },
+    {
+      "reference": "Art. 336c al. 1 let. b CO",
+      "titre": "Délai de protection en cas de maladie",
+      "description": "Protection contre le congé pendant une période de 90 ou 180 jours en cas d'empêchement de travailler total ou partiel pour cause de maladie ou accident"
+    },
+    {
+      "reference": "Art. 336c al. 2 CO",
+      "titre": "Prolongation du contrat",
+      "description": "Congé donné pendant une période de protection prolonge le contrat jusqu'à l'expiration de la période de protection"
+    },
+    {
+      "reference": "Art. 328 al. 2 CO",
+      "titre": "Devoir de protection de l'employeur",
+      "description": "L'employeur doit prendre les mesures commandées par l'expérience pour protéger la vie, la santé et l'intégrité personnelle du travailleur"
+    },
+    {
+      "reference": "Art. 336a CO",
+      "titre": "Indemnité pour résiliation abusive",
+      "description": "Indemnité pouvant atteindre six mois de salaire en cas de congé abusif"
+    }
+  ],
+
+  "jurisprudence_citee": [
+    "ATF 136 III 513 (mobbing et devoir de protection)",
+    "ATF 136 III 510 (liberté de résiliation)",
+    "ATF 132 III 115 (résiliation abusive, devoir d'assistance)",
+    "ATF 131 III 535 (liberté de résiliation et abus)",
+    "ATF 127 III 86 (congé abusif)",
+    "ATF 123 III 246 (indemnités)",
+    "Arrêt 4A_245/2019 du 9.01.2020 (motif de résiliation non abusif)",
+    "Arrêt 4A_78/2018 du 10.10.2018 (résiliation pour empêcher naissance de prétentions)",
+    "Arrêt 4A_293/2019 du 22.10.2019",
+    "Arrêt 4A_485/2016 / 4A_491/2016 du 28.04.2017",
+    "Arrêt 4A_215/2022 du 23.08.2022",
+    "Arrêt 2A.312/2004 du 22.04.2005"
+  ],
+
+  "doctrine_citee": [
+    {
+      "auteur": "ADRIAN STAEHELIN",
+      "ouvrage": "Zürcher Kommentar",
+      "edition": "4e éd. 2014",
+      "passage": "Commentaire sur les dispositions relatives au contrat de travail"
+    },
+    {
+      "auteur": "THOMAS GEISER",
+      "titre": "Kündigungsschutz bei Krankheit",
+      "publication": "PJA 1996",
+      "description": "Protection contre le congé en cas de maladie"
+    }
+  ],
+
+  "mots_cles": [
+    "résiliation ordinaire",
+    "maladie persistante",
+    "délai de protection (Sperrfrist)",
+    "art. 336c CO",
+    "congé abusif",
+    "maladie psychique",
+    "conflits professionnels",
+    "mobbing",
+    "harcèlement psychologique",
+    "devoir de protection de l'employeur",
+    "art. 328 CO",
+    "liberté de résiliation",
+    "krasse Fälle",
+    "causalité employeur-maladie"
+  ],
+
+  "analyse_complete": "# Résiliation du contrat de travail pour cause de maladie persistante : entre liberté contractuelle et protection du travailleur\n\n## Introduction\n\nLa résiliation du contrat de travail d'un employé en incapacité de travail pour cause de maladie constitue l'une des situations les plus délicates du droit du travail suisse. L'ATF 150 III 78, rendu le 7 novembre 2023, s'inscrit dans une jurisprudence constante visant à concilier deux impératifs apparemment contradictoires : d'une part, la liberté de résiliation consacrée par l'art. 335 al. 1 CO et, d'autre part, la protection du travailleur vulnérable garantie par les art. 336 ss et 336c CO.\n\nLa présente analyse examine comment le Tribunal fédéral articule ces principes dans le contexte spécifique de la maladie persistante, notamment lorsque celle-ci trouve sa source dans des conflits professionnels.\n\n## I. Le principe : liberté de résiliation après expiration du délai de protection\n\n### A. La liberté contractuelle comme règle de base\n\nLe droit suisse du travail repose sur un principe fondamental de liberté contractuelle. Comme le rappelle l'ATF 150 III 78, l'art. 335 al. 1 CO consacre \"la liberté de résilier le contrat de durée indéterminée\". Cette liberté s'applique tant à l'employeur qu'au travailleur et constitue le corollaire de la liberté de contracter.\n\nCette règle trouve toutefois deux limites essentielles :\n- Les **délais de protection** de l'art. 336c CO, durant lesquels le congé est invalide\n- La **prohibition du congé abusif** selon l'art. 336 CO\n\n### B. Le mécanisme du délai de protection en cas de maladie\n\nL'art. 336c al. 1 let. b CO instaure un délai de protection temporaire pendant lequel l'employeur ne peut résilier le contrat lorsque le travailleur est empêché de travailler pour cause de maladie ou d'accident non imputables à sa faute. La durée de ce délai varie selon l'ancienneté :\n- 30 jours durant la première année de service\n- 90 jours de la deuxième à la cinquième année\n- 180 jours à partir de la sixième année\n\nComme l'affirme l'ATF 150 III 78 : \"Après l'échéance du délai de protection de l'art. 336c al. 1 let. b CO, l'employeur peut en principe librement résilier le contrat du travailleur empêché de fournir ses prestations pour cause de maladie.\"\n\nCette solution se justifie par un équilibre d'intérêts : le travailleur malade bénéficie d'une protection temporaire lui permettant de se rétablir sans craindre de perdre son emploi, mais l'employeur conserve la possibilité de mettre fin à la relation de travail si l'incapacité se prolonge excessivement.\n\n## II. L'exception : les \"situations très graves\" (krasse Fälle)\n\n### A. Un standard jurisprudentiel exigeant\n\nSi la résiliation pour maladie persistante est en principe licite après l'expiration du délai de protection, elle demeure exceptionnellement abusive dans ce que la jurisprudence qualifie de \"situations très graves\" (en allemand *krasse Fälle*).\n\nL'ATF 132 III 115 précise que \"c'est seulement dans des situations très graves (krasse Fälle) que la résiliation pour cause de maladie persistante doit être qualifiée d'abusive au sens de l'art. 336 al. 1 let. a CO\".\n\nCette formulation restrictive démontre la volonté du Tribunal fédéral de préserver la liberté de résiliation de l'employeur tout en sanctionnant les abus manifestes.\n\n### B. Les hypothèses de résiliation abusive malgré l'expiration du délai\n\nLa jurisprudence a identifié plusieurs situations dans lesquelles le congé pour maladie persistante peut être qualifié d'abusif :\n\n#### 1. Causalité directe entre comportement de l'employeur et maladie\n\nL'ATF 150 III 78 énonce qu'un congé peut être abusif \"si l'employeur a directement causé la maladie\". Cette situation vise notamment les cas où l'employeur a violé son devoir de protection de l'art. 328 CO de manière caractérisée.\n\nL'arrêt 8C_590/2020 du 8 juillet 2021 définit le mobbing comme \"une séquence de propos et/ou d'actions hostiles, répétées fréquemment durant une assez longue période, par laquelle un ou plusieurs individus cherchent à isoler, à marginaliser, voire à exclure une personne de son milieu de travail\". Lorsqu'un tel harcèlement est établi et a causé la maladie psychique du travailleur, sa résiliation ultérieure peut constituer un abus.\n\n#### 2. Violation du devoir d'assistance et disproportion des intérêts\n\nL'ATF 132 III 115 illustre une autre hypothèse : l'employeur qui licencie un travailleur \"quelques mois avant la retraite, après 44 ans de bons et loyaux services, alors que la marche de l'entreprise n'impose pas une telle mesure et qu'il n'a pas cherché une solution qui serait plus supportable socialement pour l'intéressé\" viole son devoir d'assistance et agit abusivement.\n\nCet arrêt démontre que l'abus peut résulter non seulement des motifs de la résiliation, mais également de la manière dont le droit est exercé et de la disproportion manifeste des intérêts en présence.\n\n## III. Application aux maladies psychiques liées aux conflits professionnels\n\n### A. Le cas de l'ATF 150 III 78 : conflits interpersonnels et absence de mobbing\n\nDans l'affaire ayant donné lieu à l'ATF 150 III 78, le travailleur invoquait que sa maladie psychique résultait de conflits avec son nouveau supérieur hiérarchique. Il prétendait être victime de harcèlement psychologique (mobbing).\n\nLe Tribunal fédéral a confirmé le rejet de cette argumentation au motif que :\n1. Aucun harcèlement psychologique n'avait été établi\n2. L'employeur n'avait pas de responsabilité directe dans la survenance de la maladie\n3. Les simples conflits interpersonnels, même s'ils provoquent une maladie psychique, ne suffisent généralement pas à qualifier le congé d'abusif\n\nComme l'énonce l'arrêt : \"Les conflits interpersonnels avec un supérieur, même s'ils provoquent une maladie psychique, ne justifient généralement pas de reconnaître un congé abusif.\"\n\n### B. La distinction entre conflits professionnels normaux et mobbing\n\nLa jurisprudence opère une distinction fondamentale :\n\n**Conflits professionnels ordinaires** : Ils font partie de la vie normale de l'entreprise et peuvent générer des tensions psychologiques sans pour autant engager la responsabilité de l'employeur. La résiliation d'un travailleur malade à la suite de tels conflits n'est pas abusive, sauf circonstances exceptionnelles.\n\n**Mobbing caractérisé** : Il s'agit d'un comportement systématique d'isolement et de marginalisation répété dans la durée. Lorsqu'il est établi et a causé la maladie, il peut rendre abusive la résiliation ultérieure, car l'employeur a violé son devoir de protection de l'art. 328 al. 2 CO.\n\nL'ATF 136 III 513 précise que l'employeur doit prendre des mesures pour désamorcer les conflits avant d'envisager un licenciement : \"Le congé donné à l'un des employés en cause est abusif si l'employeur n'a pas respecté l'art. 328 CO en prenant préalablement toutes les mesures que l'on pouvait attendre de lui pour désamorcer le conflit.\"\n\n## IV. Le fardeau de la preuve et l'appréciation des faits\n\n### A. La charge de la preuve incombe au travailleur\n\nSelon l'ATF 150 III 78, c'est au travailleur qui invoque le caractère abusif du congé de prouver les faits constitutifs de l'abus. Il doit notamment établir :\n- L'existence d'un mobbing ou d'un comportement fautif de l'employeur\n- Le lien de causalité entre ce comportement et sa maladie\n- La gravité particulière de la situation justifiant la qualification de *krasser Fall*\n\n### B. L'appréciation factuelle du Tribunal fédéral\n\nLe Tribunal fédéral n'examine les constatations de fait que sous l'angle restreint de l'arbitraire (art. 97 LTF). Dans l'ATF 150 III 78, il a confirmé l'appréciation cantonale selon laquelle aucun mobbing n'était établi et que les conflits relevaient de tensions professionnelles ordinaires.\n\n## V. Enseignements systématiques et perspectives pratiques\n\n### A. Un équilibre évolutif entre liberté et protection\n\nLa jurisprudence analysée révèle une tension constante entre deux logiques :\n\n1. **Logique libérale** : Préservation de la liberté contractuelle de l'employeur, indispensable à la flexibilité du marché du travail\n2. **Logique protectrice** : Protection des travailleurs vulnérables contre les licenciements abusifs\n\nLe Tribunal fédéral maintient fermement le principe de liberté tout en sanctionnant les abus graves. Le standard des *krasse Fälle* illustre cette approche : seules les situations manifestement choquantes justifient une intervention judiciaire.\n\n### B. L'importance du devoir de protection de l'employeur\n\nUn fil rouge traverse l'ensemble de ces arrêts : le respect du devoir de protection et d'assistance de l'art. 328 CO constitue un critère déterminant pour apprécier le caractère abusif d'un congé.\n\nComme le démontre l'ATF 132 III 115, l'employeur doit :\n- Chercher des solutions de conciliation avant de licencier\n- Prendre en compte l'ancienneté et la situation sociale du travailleur\n- S'abstenir de jouer un \"double jeu\" contraire à la bonne foi\n- Exercer son droit de résiliation avec modération\n\n### C. Recommandations pratiques\n\n**Pour les employeurs** :\n- Documenter soigneusement les motifs de résiliation pour démontrer qu'elle n'est pas liée à la seule maladie\n- Respecter scrupuleusement les délais de protection de l'art. 336c CO\n- Mettre en place des mesures de prévention et de gestion des conflits (art. 328 CO)\n- Envisager des solutions alternatives (reclassement, aménagement du poste) avant la résiliation, particulièrement pour les employés de longue date proches de la retraite\n\n**Pour les travailleurs** :\n- Réunir des preuves concrètes en cas de mobbing (témoignages, courriels, certificats médicaux établissant le lien de causalité)\n- Dénoncer rapidement les situations de harcèlement à l'employeur pour lui permettre d'intervenir\n- Distinguer les conflits professionnels normaux du mobbing caractérisé\n- Être conscient du fardeau de la preuve qui pèse sur eux\n\n## Conclusion\n\nL'ATF 150 III 78 s'inscrit dans une jurisprudence constante qui consacre la liberté de l'employeur de résilier le contrat d'un travailleur durablement malade après l'expiration du délai de protection de l'art. 336c CO. Cette solution reflète un choix de politique juridique : le droit du travail suisse, tout en protégeant le travailleur pendant une période déterminée, refuse d'instaurer une protection absolue qui transformerait le contrat de travail en relation permanente.\n\nToutefois, cette liberté n'est pas illimitée. Les situations \"très graves\" (*krasse Fälle*) dans lesquelles l'employeur a directement causé la maladie, violé son devoir de protection ou exercé son droit de manière disproportionnée demeurent sanctionnées comme abusives. La frontière entre résiliation licite et congé abusif dépend ainsi d'une appréciation concrète des circonstances, dans laquelle le respect du devoir de protection de l'art. 328 CO joue un rôle déterminant.\n\nCette jurisprudence invite à une approche nuancée : si les simples conflits professionnels ne suffisent pas à rendre abusif un congé pour maladie persistante, le mobbing caractérisé et la violation manifeste des devoirs de l'employeur peuvent justifier la reconnaissance d'un abus, même après l'expiration du délai de protection légal.",
+
+  "version_courte": "## Résiliation pour maladie persistante : l'essentiel\n\n### Principe général\nAprès l'expiration du délai de protection de l'art. 336c CO (30/90/180 jours selon l'ancienneté), l'employeur peut librement résilier le contrat d'un travailleur durablement malade (ATF 150 III 78).\n\n### Exception : les situations très graves (krasse Fälle)\nLa résiliation demeure exceptionnellement abusive lorsque :\n- L'employeur a **directement causé la maladie** (mobbing établi)\n- Il a violé son **devoir de protection** (art. 328 CO) de manière caractérisée\n- Il existe une **disproportion manifeste des intérêts** (ex: licenciement proche de la retraite après 44 ans de service - ATF 132 III 115)\n- L'employeur n'a pas cherché de **solution de conciliation** avant de licencier\n\n### Distinctions importantes\n**Conflits professionnels normaux** : Ne rendent généralement pas le congé abusif, même s'ils génèrent une maladie psychique.\n\n**Mobbing caractérisé** : Harcèlement systématique, répété et prolongé visant à isoler/exclure. Peut rendre le congé abusif si le lien de causalité avec la maladie est établi.\n\n### Charge de la preuve\nLe travailleur doit prouver les faits constitutifs de l'abus (mobbing, lien de causalité, gravité exceptionnelle).\n\n### Devoir de l'employeur (art. 328 CO)\nAvant tout licenciement, l'employeur doit :\n- Prendre des mesures pour désamorcer les conflits\n- Chercher des solutions de conciliation\n- Tenir compte de l'ancienneté et de la situation sociale du travailleur\n- Exercer son droit avec modération et bonne foi\n\n### Conséquence en cas d'abus\nIndemnité pouvant atteindre 6 mois de salaire (art. 336a CO)."
+}

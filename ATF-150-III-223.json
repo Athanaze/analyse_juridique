@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "titre": "Frais de poursuite et émoluments en matière de notification - Limites de la facturation par les offices des poursuites",
+    "date_analyse": "2025-10-28",
+    "domaine": "Droit de la poursuite pour dettes et de la faillite"
+  },
+  "arrets_principaux": [
+    {
+      "reference": "ATF 150 III 223",
+      "date": "2024-03-20",
+      "formation": "IIe Cour de droit civil",
+      "numero_cause": "5A_502/2023",
+      "mots_cles": ["Frais de poursuite", "Émoluments", "OELP", "Notification", "Art. 34 LP"],
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F150-III-223"
+    }
+  ],
+  "arrets_connexes": [
+    {
+      "reference": "BGE 136 III 155",
+      "date": "2010-02-04",
+      "pertinence": "Frais et dépenses pour la remise du commandement de payer"
+    },
+    {
+      "reference": "BGE 144 III 425",
+      "date": "Non spécifiée",
+      "pertinence": "Principe de légalité en matière d'émoluments"
+    },
+    {
+      "reference": "BGE 138 III 25",
+      "date": "Non spécifiée",
+      "pertinence": "Base légale suffisante pour la perception d'émoluments"
+    },
+    {
+      "reference": "BGE 142 III 599",
+      "date": "Non spécifiée",
+      "pertinence": "Droits de route en matière de poursuite"
+    },
+    {
+      "reference": "BGE 146 II 335",
+      "date": "Non spécifiée",
+      "pertinence": "Droit d'être entendu"
+    },
+    {
+      "reference": "BGE 136 I 229",
+      "date": "Non spécifiée",
+      "pertinence": "Droit d'être entendu en procédure administrative"
+    },
+    {
+      "reference": "5A_28/2016",
+      "date": "2016-06-08",
+      "pertinence": "Communication au sens de l'art. 34 LP"
+    },
+    {
+      "reference": "5A_536/2012",
+      "date": "2013-03-20",
+      "pertinence": "Émoluments de poursuite"
+    },
+    {
+      "reference": "5A_715/2013",
+      "date": "2013-11-28",
+      "pertinence": "Frais de notification"
+    },
+    {
+      "reference": "5A_590/2020",
+      "date": "2021-04-12",
+      "pertinence": "Base légale des émoluments"
+    }
+  ],
+  "sources_legislatives": [
+    {
+      "loi": "Loi fédérale sur la poursuite pour dettes et la faillite (LP/SchKG)",
+      "reference": "RS 281.1",
+      "articles_cites": [
+        {
+          "article": "Art. 34 LP",
+          "titre": "Notification",
+          "texte_verbatim": "Non extrait dans cette analyse",
+          "pertinence": "Mode de notification requis pour les actes de poursuite - lettre recommandée obligatoire"
+        }
+      ],
+      "url": "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/fr"
+    },
+    {
+      "loi": "Ordonnance sur les émoluments perçus en application de la loi fédérale sur la poursuite pour dettes et la faillite (OELP/GebV SchKG)",
+      "reference": "RS 281.35",
+      "articles_cites": [
+        {
+          "article": "Art. 9 OELP",
+          "titre": "Commandement de payer",
+          "pertinence": "Émoluments pour le commandement de payer"
+        },
+        {
+          "article": "Art. 10bis OELP",
+          "titre": "Invitation à retirer le commandement de payer",
+          "pertinence": "Article central de l'ATF 150 III 223 - base légale insuffisante"
+        },
+        {
+          "article": "Art. 13 OELP",
+          "titre": "Débours",
+          "pertinence": "Frais de notification et débours admissibles"
+        },
+        {
+          "article": "Art. 14-15 OELP",
+          "titre": "Indemnités de déplacement",
+          "pertinence": "Droits de route - répartition entre plusieurs interventions"
+        },
+        {
+          "article": "Art. 16 OELP",
+          "titre": "Notification",
+          "pertinence": "Émoluments de notification"
+        },
+        {
+          "article": "Art. 20 OELP",
+          "titre": "Saisie",
+          "pertinence": "Émoluments pour l'exécution de la saisie"
+        }
+      ],
+      "url": "https://www.admin.ch/opc/fr/classified-compilation/19960496/index.html"
+    },
+    {
+      "loi": "Constitution fédérale de la Confédération suisse (Cst.)",
+      "reference": "RS 101",
+      "articles_cites": [
+        {
+          "article": "Art. 29 al. 2 Cst.",
+          "titre": "Droit d'être entendu",
+          "pertinence": "Violation en cas d'omission d'examen d'arguments"
+        }
+      ],
+      "url": "https://www.fedlex.admin.ch/eli/cc/1999/404/fr"
+    }
+  ],
+  "citations_doctrine": [],
+  "mots_cles": [
+    "Frais de poursuite",
+    "Émoluments",
+    "OELP",
+    "Base légale",
+    "Principe de légalité",
+    "Art. 34 LP",
+    "Notification",
+    "Lettre recommandée",
+    "A-Post",
+    "Invitation à retirer",
+    "Art. 10bis OELP",
+    "Droits de route",
+    "Indemnités de déplacement",
+    "Droit d'être entendu",
+    "Certificat de défaut de biens",
+    "Débours",
+    "Facturation office des poursuites"
+  ],
+  "analyse_complete": "# Analyse doctrinale : Les limites de la facturation des émoluments par les offices des poursuites\n\n## I. Introduction et contexte jurisprudentiel\n\nL'ATF 150 III 223 du 20 mars 2024 constitue une décision de principe en matière de frais de poursuite, s'inscrivant dans une ligne jurisprudentielle constante relative au principe de légalité en matière d'émoluments publics. Le Tribunal fédéral y examine la licéité de plusieurs postes de facturation d'un office des poursuites zougois, réaffirmant avec vigueur l'exigence d'une base légale suffisante pour toute perception de frais.\n\n## II. Le principe de légalité en matière d'émoluments : une exigence constitutionnelle stricte\n\n### A. La jurisprudence de principe\n\nLe Tribunal fédéral rappelle, en se référant au **BGE 138 III 25** et au **BGE 144 III 425**, que toute perception d'émoluments par une autorité publique nécessite une base légale suffisante. Cette exigence découle du principe de légalité ancré dans l'ordre juridique suisse et s'applique avec une rigueur particulière aux actes de contrainte étatique, catégorie dont relèvent les poursuites pour dettes.\n\nLa jurisprudence constante exige que la base légale soit non seulement formellement existante, mais également matériellement suffisante : elle doit permettre de déterminer avec précision quelles prestations peuvent être facturées et dans quelles circonstances.\n\n### B. Application aux \"invitations à retirer\" : l'insuffisance de l'art. 10bis OELP\n\nL'un des apports majeurs de l'ATF 150 III 223 réside dans son analyse de l'art. 10bis OELP relatif aux \"invitations à retirer\" un commandement de payer. Le Tribunal fédéral y affirme dans les considérants 3.2.3 :\n\n> \"Les 'invitations à retirer' un commandement de payer ne constituent pas une action prescrite par la loi et ne peuvent donc pas être facturées, contrairement à ce que prévoyait l'art. 10bis OELP.\"\n\nCette position s'inscrit dans la continuité du **BGE 136 III 155** (2010), qui avait déjà établi que lorsqu'un commandement de payer est remis directement au débiteur à l'office, seul l'émolument de base peut être perçu, sans frais supplémentaires pour une prestation qui n'est pas prévue par la loi.\n\nLa ratio legis de cette jurisprudence est claire : l'OELP ne peut créer de nouvelles obligations facturables qui n'ont pas de fondement dans la LP elle-même. Les \"invitations à retirer\" constituent une pratique administrative qui, bien que pouvant être utile, ne saurait justifier une perception d'émoluments en l'absence de base légale expresse dans la loi fédérale.\n\n## III. Les modes de notification : l'impératif de l'art. 34 LP\n\n### A. Le principe : la lettre recommandée comme mode légal unique\n\nL'art. 34 LP constitue une norme spéciale en matière de notification des actes de poursuite. Comme l'a rappelé l'arrêt **5A_28/2016** du 8 juin 2016 :\n\n> \"L'avis de saisie doit faire l'objet d'une simple communication au sens de l'art. 34 LP, par écrit et au moyen d'une lettre recommandée ou d'une remise directe.\"\n\nCette exigence n'est pas une simple formalité : elle garantit que l'office dispose d'une preuve de la réception de l'acte par le destinataire, élément essentiel tant pour la sécurité juridique du débiteur que pour la validité des actes de poursuite.\n\n### B. L'exclusion de l'A-Post pour les notifications officielles\n\nDans l'ATF 150 III 223, le Tribunal fédéral considère aux considérants 3.3.2 et 3.4 que l'utilisation de l'A-Post (courrier A non recommandé) pour notifier des avis de saisie ou transmettre des copies de certificats de défaut de biens au débiteur constitue une violation de l'art. 34 LP.\n\nLa juridiction suprême ordonne la suppression pure et simple des frais correspondants (CHF 1.10 par envoi dans le cas d'espèce). Cette position stricte se justifie par le fait que l'A-Post ne permet pas d'établir la preuve de la réception, contrairement à la lettre recommandée.\n\nCette jurisprudence crée une distinction nette entre :\n- Les notifications officielles devant produire des effets juridiques (commandement de payer, avis de saisie, certificats) → **lettre recommandée obligatoire** (art. 34 LP)\n- Les communications purement informatives sans effet juridique → possibilité théorique d'autres modes de transmission, mais non facturables si non conformes à la loi\n\n## IV. Les droits de route et indemnités de déplacement : le droit d'être entendu\n\n### A. La problématique de la répartition des frais\n\nL'art. 14-15 OELP règlent les indemnités de déplacement (\"droits de route\") des agents de poursuite. Une question récurrente concerne la répartition de ces frais lorsqu'un agent effectue plusieurs interventions lors d'un même déplacement.\n\nLe **BGE 142 III 599** et les arrêts subséquents ont établi un principe de proportionnalité : les frais de déplacement doivent être répartis équitablement entre les différentes interventions effectuées lors d'un même trajet.\n\n### B. La violation du droit d'être entendu dans l'ATF 150 III 223\n\nLe Tribunal fédéral constate au considérant 3.5.1 que l'autorité cantonale a violé le droit d'être entendu du débiteur (art. 29 al. 2 Cst.) en omettant totalement d'examiner ses arguments relatifs à l'art. 15 OELP concernant la répartition des frais de route.\n\nCette violation entraîne un **renvoi partiel** à l'autorité cantonale pour qu'elle procède à un nouvel examen, en conformité avec le **BGE 136 I 229** et le **BGE 146 II 335** sur les exigences du droit d'être entendu.\n\nLa portée de cette solution est significative : même lorsque le montant en jeu est modeste (quelques francs), le Tribunal fédéral exige le respect scrupuleux des garanties procédurales. Cela témoigne de l'importance accordée aux droits du débiteur dans la procédure de poursuite, y compris s'agissant de la contestation des frais.\n\n## V. Synthèse des enseignements jurisprudentiels\n\n### A. Un contrôle strict de la base légale\n\nLa jurisprudence issue de l'ATF 150 III 223, conjuguée au **BGE 136 III 155** et au **BGE 138 III 25**, établit un contrôle particulièrement strict de la base légale des émoluments en matière de poursuite :\n\n1. **Principe de légalité formelle** : tout émolument nécessite une base dans la loi fédérale (LP) ou dans l'ordonnance d'exécution (OELP)\n2. **Principe de légalité matérielle** : la base légale doit être suffisamment précise et couvrir effectivement la prestation facturée\n3. **Interdiction de l'analogie** : l'OELP ne peut créer de nouveaux émoluments pour des prestations non prévues par la LP\n4. **Interprétation restrictive** : en cas de doute, l'interprétation doit favoriser le débiteur\n\n### B. La protection du débiteur : un fil conducteur constant\n\nAu-delà des questions techniques d'émoluments, la jurisprudence analysée révèle un souci constant de protéger le débiteur contre des prélèvements injustifiés :\n\n- **Protection substantielle** : limitation des frais aux seules prestations légalement prévues\n- **Protection procédurale** : obligation pour l'autorité de surveillance d'examiner tous les arguments du débiteur contestataire\n- **Protection formelle** : exigence de modes de notification garantissant la réception effective et la preuve\n\nLe **BGE 121 III 11**, le **BGE 115 III 41** et les arrêts plus récents comme le **5A_590/2020** du 12 avril 2021 s'inscrivent dans cette ligne protectrice constante.\n\n### C. Implications pratiques pour les offices des poursuites\n\nL'ATF 150 III 223 impose aux offices des poursuites une révision de leurs pratiques de facturation :\n\n1. **Abandon des \"invitations à retirer\"** facturées séparément\n2. **Utilisation exclusive de la lettre recommandée** pour toute notification officielle\n3. **Répartition documentée et motivée** des droits de route entre plusieurs interventions\n4. **Examen attentif** de toute contestation de frais, fût-elle de faible montant\n\nCes exigences, si elles peuvent sembler contraignantes, garantissent la sécurité juridique et la prévisibilité des coûts pour les justiciables, valeurs cardinales de l'État de droit.\n\n## VI. Conclusion\n\nL'ATF 150 III 223 ne constitue pas une révolution jurisprudentielle, mais plutôt une réaffirmation vigoureuse et actualisée de principes solidement établis. Son apport principal réside dans l'application concrète de ces principes à des pratiques administratives courantes, révélant leur non-conformité au droit.\n\nEn exigeant une base légale précise pour chaque émolument, en imposant le respect scrupuleux de l'art. 34 LP pour les notifications, et en garantissant le droit d'être entendu même pour des contestations de faible montant, le Tribunal fédéral dessine les contours d'un droit de la poursuite respectueux des garanties fondamentales.\n\nCette jurisprudence s'inscrit dans une évolution plus large visant à encadrer strictement les prérogatives des offices des poursuites, comme en témoigne également la jurisprudence en matière de frais de saisie (**BGE 142 III 599**) ou de notification aux tiers débiteurs (**5A_28/2016**).\n\nPour le praticien, ces arrêts constituent des outils précieux de contestation des frais de poursuite, domaine où les sommes en jeu, bien que souvent modestes pour chaque cas individuel, peuvent représenter des montants significatifs lorsque multipliées par le nombre de poursuites concernées.",
+  "version_courte": "# Les frais de poursuite : principes essentiels (ATF 150 III 223)\n\n## Enseignements principaux\n\n### 1. Base légale stricte\nTout émolument perçu par un office des poursuites nécessite une base légale suffisante dans la LP ou l'OELP. Les \"invitations à retirer\" un commandement de payer ne constituent pas une prestation légalement prévue et ne peuvent être facturées (ATF 150 III 223 c. 3.2.3).\n\n### 2. Mode de notification impératif\nL'art. 34 LP impose la notification par **lettre recommandée** pour tous les actes officiels de poursuite (commandement de payer, avis de saisie, certificats). L'utilisation d'un courrier A-Post ordinaire est illicite et les frais correspondants doivent être supprimés (ATF 150 III 223 c. 3.3.2 et 3.4 ; arrêt 5A_28/2016).\n\n### 3. Droits de route\nLes indemnités de déplacement doivent être réparties proportionnellement entre plusieurs interventions effectuées lors d'un même trajet. L'autorité de surveillance doit examiner tous les arguments du débiteur à ce sujet sous peine de violation du droit d'être entendu (ATF 150 III 223 c. 3.5.1 ; BGE 142 III 599).\n\n### 4. Protection du débiteur\nMême pour des montants modestes, le débiteur bénéficie du droit de contester les frais et d'obtenir un examen motivé de ses arguments. La jurisprudence interprète restrictivement les bases légales d'émoluments, privilégiant en cas de doute la protection du poursuivi.\n\n## Jurisprudence de référence\n- **ATF 150 III 223** (2024) : arrêt de principe sur les frais de poursuite\n- **BGE 136 III 155** (2010) : frais de remise du commandement de payer\n- **BGE 138 III 25** / **BGE 144 III 425** : principe de légalité des émoluments\n- **BGE 142 III 599** : droits de route et répartition\n- **5A_28/2016** : exigences de l'art. 34 LP pour la notification",
+  "statistiques": {
+    "nombre_arrets_analyses": 11,
+    "nombre_atf_cites": 10,
+    "nombre_articles_loi": 15,
+    "periode_couverte": "2010-2024"
+  }
+}

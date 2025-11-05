@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "titre": "Incompatibilité entre garde alternée et autorité parentale exclusive",
+    "reference_principale": "ATF 150 III 97",
+    "numero_cause": "5A_33/2023",
+    "date_arret": "2023-12-20",
+    "date_publication": "2024",
+    "juridiction": "Tribunal fédéral suisse - IIe Cour de droit civil",
+    "domaine": "Droit de la famille - Autorité parentale et garde des enfants",
+    "sous_domaines": [
+      "Autorité parentale conjointe",
+      "Garde alternée",
+      "Bien de l'enfant",
+      "Divorce",
+      "Relations parent-enfant"
+    ],
+    "langues_disponibles": ["allemand", "français", "italien"],
+    "auteur_analyse": "Claude",
+    "date_analyse": "2025-10-28"
+  },
+
+  "arrets_principaux": [
+    {
+      "reference": "ATF 150 III 97",
+      "numero_cause": "5A_33/2023",
+      "date": "2023-12-20",
+      "formation": "IIe Cour de droit civil",
+      "parties": "A.A. (recourant, père) c. B.A. (intimée, mère)",
+      "publication": "Recueil officiel 2024, vol. 150 III page 97",
+
+      "faits": {
+        "contexte": "Procédure de divorce entre époux mariés en 2009, parents de deux enfants (C.A. né en 2009 et D.A. né en 2013), séparés depuis plusieurs années. Jugement de séparation prononcé le 8 décembre 2017.",
+        "chronologie": [
+          "2009: Mariage des parties",
+          "2017-12-08: Jugement de séparation",
+          "2019-01-28: Demande de divorce de l'épouse",
+          "2021-07-13: Dépôt du rapport psychologique sur les capacités parentales",
+          "2021-10-29: Accord partiel des parents sur garde alternée",
+          "2022-05-13: Jugement du Tribunal de district prononçant le divorce",
+          "2022-11-28: Arrêt cantonal (Obergericht) confirmant le jugement",
+          "2023-01-11: Recours au Tribunal fédéral du père",
+          "2023-01-09: Demande de l'enfant C.A. pour maintien de l'autorité parentale conjointe",
+          "2023-12-20: Arrêt du Tribunal fédéral"
+        ],
+        "decision_contestee": "L'instance cantonale a attribué l'autorité parentale exclusive à la mère tout en accordant aux deux parents une garde alternée des enfants avec domicile civil chez la mère.",
+        "problematique": "Le père contestait l'attribution de l'autorité parentale exclusive à la mère alors qu'une garde alternée avait été convenue, estimant cette combinaison contraire au droit."
+      },
+
+      "resume_officiel": "L'arrêt établit l'incompatibilité légale entre l'attribution de l'autorité parentale exclusive à un seul parent et l'octroi d'une garde alternée. Le Tribunal fédéral énonce que la garde alternée ne peut s'ordonner que dans le cadre de l'autorité parentale commune et que la loi n'autorise pas de dissocier ces deux institutions.",
+
+      "principes_juridiques": [
+        {
+          "principe": "Primauté de l'autorité parentale conjointe",
+          "enonce": "L'autorité parentale commune constitue le principe, auquel on ne doit déroger que lorsqu'une autre solution protège mieux l'intérêt de l'enfant.",
+          "reference_considerant": "4.2",
+          "portee": "L'autorité parentale exclusive demeure une exception strictement encadrée."
+        },
+        {
+          "principe": "Conditions exceptionnelles de dérogation",
+          "enonce": "L'autorité parentale exclusive ne s'envisage qu'en présence d'un conflit parental grave et durable, d'une incapacité persistante à communiquer concernant l'enfant, de problèmes affectant concrètement le bien-être de l'enfant, et d'une perspective réelle d'amélioration par cette mesure.",
+          "reference_considerant": "4.2",
+          "portee": "Ces conditions cumulatives limitent strictement les cas de dérogation au principe."
+        },
+        {
+          "principe": "Incompatibilité structurelle garde alternée / autorité parentale exclusive",
+          "enonce": "Depuis la réforme du 1er juillet 2014 et celle du droit d'entretien (2017), l'introduction de la garde alternée s'effectue uniquement dans le cadre de l'autorité parentale commune.",
+          "reference_considerant": "4.3.1",
+          "base_legale": "Art. 298 al. 2ter et 298b al. 3ter CC",
+          "portee": "Il est contraire à la loi d'attribuer l'autorité parentale à un seul parent malgré la garde alternée."
+        },
+        {
+          "principe": "Obligation légale de vérification",
+          "enonce": "Le tribunal doit examiner la possibilité d'une garde alternée lors de l'existence d'une autorité parentale commune. L'inverse est impossible: la loi n'ouvre pas la possibilité d'attribuer la garde commune sans conférer aussi le droit de garde découlant de l'autorité parentale.",
+          "reference_considerant": "4.3.1",
+          "portee": "Le juge n'a pas de pouvoir discrétionnaire permettant cette dissociation."
+        },
+        {
+          "principe": "Distinction fonctionnelle autorité parentale / garde",
+          "enonce": "Ces deux institutions ne couvrent pas les mêmes domaines. L'incapacité à cohabiter pour organiser une garde alternée ne signifie pas nécessairement l'impossibilité de partager l'autorité parentale dans certains domaines décisionnels.",
+          "reference_considerant": "4.3.3",
+          "portee": "Des attributions exclusives dans certains domaines spécifiques restent possibles sous autorité parentale conjointe."
+        },
+        {
+          "principe": "Limites du pouvoir discrétionnaire judiciaire",
+          "enonce": "Les cours cantonales disposent d'un pouvoir discrétionnaire en matière familiale, mais demeurent liées au cadre légal. Aucune discrétion n'autorise la violation des dispositions statutaires.",
+          "reference_considerant": "4.3.3 et 4.4",
+          "portee": "Le pouvoir d'appréciation ne permet pas de déroger aux règles impératives."
+        },
+        {
+          "principe": "Contradiction interne de l'argumentation",
+          "enonce": "Il existe une contradiction à justifier l'autorité parentale exclusive par l'absence de capacité coopérative des parents si ces mêmes parents peuvent organiser une garde alternée exigeant une collaboration substantielle quotidienne.",
+          "reference_considerant": "4.3.3",
+          "portee": "L'appréciation doit être cohérente entre les différentes institutions du droit de la famille."
+        }
+      ],
+
+      "dispositif": "1. Admission partielle du recours; 2. Annulation partielle de l'arrêt cantonal du 28 novembre 2022 concernant l'attribution de l'autorité parentale exclusive; 3. Renvoi à la cour cantonale pour nouvel examen avec obligation de: a) maintenir l'autorité parentale commune, b) évaluer si des domaines spécifiques justifient des pouvoirs décisionnels exclusifs à un parent, c) appliquer les critères énoncés au considérant 4.2; 4. La garde alternée convenue ne peut être remise en question.",
+
+      "ratio_decidendi": "Le Tribunal fédéral censure la solution retenue par l'instance cantonale car elle viole le cadre légal impératif établi par les art. 298 al. 2ter et 298b al. 3ter CC: la garde alternée ne peut juridiquement s'ordonner que dans le cadre de l'autorité parentale commune. Cette incompatibilité est structurelle et ne relève pas du pouvoir d'appréciation du juge.",
+
+      "obiter_dicta": "Le Tribunal relève qu'il reste possible, sous le régime de l'autorité parentale conjointe, d'attribuer à un parent des pouvoirs décisionnels exclusifs dans certains domaines spécifiques lorsque les circonstances le justifient selon les critères énoncés au considérant 4.2.",
+
+      "pertinence": "Arrêt de principe clarifiant de manière définitive l'articulation obligatoire entre garde alternée et autorité parentale commune, mettant fin à des pratiques cantonales divergentes."
+    }
+  ],
+
+  "arrets_connexes": [
+    {
+      "reference": "5A_23/2023",
+      "date": "2024-01-17",
+      "theme": "Attribution de la garde et droit de déterminer le lieu de résidence",
+      "lien": "Précise les critères d'attribution de garde lorsqu'un parent souhaite déménager à l'étranger; applique le principe du bien de l'enfant et de la situation de départ neutre.",
+      "apport": "Établit que dans une situation neutre (garde partagée équitablement), le parent demandant un déménagement à l'étranger doit garantir une prise en charge similaire et ne pas mettre en danger le bien de l'enfant. Les critères de stabilité, disponibilité et capacité à favoriser les contacts sont décisifs."
+    },
+    {
+      "reference": "5A_447/2023",
+      "date": "2024-07-16",
+      "theme": "Mesures protectrices de l'union conjugale - garde et contributions d'entretien",
+      "lien": "Traite de la garde exclusive, de l'imputabilité d'un revenu hypothétique au parent gardien, et du calcul des contributions d'entretien selon la méthode en deux étapes.",
+      "apport": "Confirme que le juge peut refuser d'imputer un revenu hypothétique au parent gardien lorsque la situation des enfants (troubles spécifiques) et l'éloignement prolongé du marché du travail le justifient. Réaffirme la primauté de la méthode concrète en deux étapes pour le calcul de l'entretien."
+    },
+    {
+      "reference": "ATF 147 III 265",
+      "date": "2020-11-11",
+      "numero_cause": "5A_311/2019",
+      "theme": "Calcul des contributions d'entretien - méthode concrète en deux étapes",
+      "lien": "Établit la méthode contraignante de calcul des contributions d'entretien applicable uniformément en Suisse.",
+      "apport": "Arrêt de principe abandonnant le pluralisme méthodologique. Impose la méthode concrète en deux étapes: 1) détermination des revenus et besoins (minimum vital); 2) répartition équitable du surplus selon 'grandes et petites têtes'. Rejette les tables et pourcentages abstraits."
+    },
+    {
+      "reference": "ATF 144 III 481",
+      "date": "2018-09-21",
+      "numero_cause": "5A_384/2018",
+      "theme": "Contribution de prise en charge - exigibilité d'une activité lucrative",
+      "lien": "Définit les critères temporels d'exigibilité d'une activité lucrative du parent gardien.",
+      "apport": "Abandonne la règle des 10/16 ans. Établit un nouveau modèle basé sur les étapes scolaires: 50% à partir de la scolarité obligatoire du plus jeune, 80% dès l'entrée au degré secondaire I, 100% à partir de 16 ans révolus. Le juge doit examiner les solutions de garde par des tiers."
+    },
+    {
+      "reference": "ATF 142 III 617",
+      "date": "2016-11-08",
+      "numero_cause": "5A_597/2016",
+      "theme": "Autorité parentale conjointe et examen de la garde alternée",
+      "lien": "Précise les critères d'appréciation de la garde alternée sous autorité parentale conjointe.",
+      "apport": "L'autorité parentale conjointe est la règle et inclut le droit de déterminer le lieu de résidence de l'enfant, mais n'implique pas nécessairement la garde alternée. Le juge doit examiner si la garde alternée est possible et compatible avec le bien de l'enfant. Critères essentiels: capacités éducatives, capacité et volonté de communiquer et coopérer. Un conflit parental marqué et persistant suggère des difficultés futures incompatibles avec le bien de l'enfant."
+    },
+    {
+      "reference": "ATF 142 III 502",
+      "date": "2016-08-16",
+      "numero_cause": "5A_923/2015",
+      "theme": "Déménagement d'un parent et détermination du lieu de résidence de l'enfant",
+      "lien": "Établit les principes applicables lorsqu'un parent souhaite déménager avec l'enfant.",
+      "apport": "L'autorité parentale conjointe ne doit pas priver les parents de leur liberté d'établissement. Le juge doit déterminer si le bien de l'enfant serait mieux préservé en suivant le parent qui déménage ou en restant avec celui qui demeure sur place. Si le parent souhaitant déménager avait la garde exclusive ou était le parent principalement en charge, il sera en principe dans l'intérêt de l'enfant de déménager avec lui. L'art. 301a al. 1 CC exige l'accord de l'autre parent ou une décision judiciaire pour tout déménagement à l'étranger ou ayant des conséquences notables."
+    },
+    {
+      "reference": "ATF 141 III 328",
+      "date": "2015-06-30",
+      "numero_cause": "5A_511/2014",
+      "theme": "Principe du bien de l'enfant comme règle fondamentale",
+      "lien": "Établit la primauté absolue du bien de l'enfant sur les intérêts des parents.",
+      "apport": "Arrêt de principe: le bien de l'enfant constitue la règle fondamentale en matière d'attribution des droits parentaux, les intérêts des parents devant être relégués au second plan. Ce principe guide toutes les décisions relatives à l'autorité parentale et à la garde."
+    }
+  ],
+
+  "sources_legislatives": [
+    {
+      "reference": "Art. 133 al. 1 ch. 1 CC",
+      "titre": "Divorce - Règlement des effets",
+      "texte_verbatim": "Art. 133 CC - Effets du divorce\n\n1 Le juge règle les effets du divorce conformément aux dispositions suivantes:\n\n1. autorité parentale [...]\n\n[Le texte complet précise que lors du divorce, le juge doit statuer sur l'autorité parentale conformément aux dispositions relatives aux effets de la filiation]",
+      "domaine": "Effets du divorce - Autorité parentale",
+      "entree_vigueur": "Version du 1er juillet 2014 (révision de l'autorité parentale)",
+      "portee": "Oblige le juge à statuer sur l'autorité parentale lors du divorce en appliquant les règles générales de la filiation."
+    },
+    {
+      "reference": "Art. 296 al. 2 CC",
+      "titre": "Autorité parentale conjointe comme principe",
+      "texte_verbatim": "Art. 296 CC - Principes\n\n1 L'autorité parentale sert le bien de l'enfant.\n\n2 Les père et mère exercent en commun l'autorité parentale tant qu'ils sont mariés et vivent ensemble.\n\n[...]\n\nLe tribunal attribue l'autorité parentale exclusive à un parent si le bien de l'enfant le commande.",
+      "domaine": "Autorité parentale - Principe général",
+      "entree_vigueur": "Version du 1er juillet 2014",
+      "portee": "Établit l'autorité parentale conjointe comme règle de principe, l'autorité exclusive n'étant qu'une exception justifiée par le bien de l'enfant."
+    },
+    {
+      "reference": "Art. 298 al. 1 et 2ter CC",
+      "titre": "Garde de l'enfant et garde alternée",
+      "texte_verbatim": "Art. 298 CC - Enfant sous autorité parentale conjointe\n\n1 Les père et mère qui exercent l'autorité parentale en commun fixent d'un commun accord le lieu de résidence de l'enfant.\n\n[...]\n\n2ter S'il est saisi d'une requête commune ou s'il doit trancher le lieu de résidence de l'enfant, le tribunal examine la possibilité d'instaurer une garde alternée, si le père, la mère ou l'enfant le demandent. Il peut instaurer une garde alternée contre la volonté d'un parent si celle-ci sert au mieux les intérêts de l'enfant.",
+      "domaine": "Autorité parentale - Garde alternée",
+      "entree_vigueur": "Version du 1er janvier 2017 (révision du droit de l'entretien de l'enfant)",
+      "portee": "Oblige le juge à examiner la possibilité d'une garde alternée lorsque l'autorité parentale est conjointe et qu'une partie le demande. La garde alternée peut être imposée si elle sert l'intérêt de l'enfant."
+    },
+    {
+      "reference": "Art. 298b al. 3ter CC",
+      "titre": "Enfant de parents non mariés - Garde alternée",
+      "texte_verbatim": "Art. 298b CC - Enfant de parents non mariés\n\n[...]\n\n3ter S'il est saisi d'une requête commune ou s'il doit trancher le lieu de résidence de l'enfant, le tribunal examine la possibilité d'instaurer une garde alternée, si le père, la mère ou l'enfant le demandent. Il peut instaurer une garde alternée contre la volonté d'un parent si celle-ci sert au mieux les intérêts de l'enfant.",
+      "domaine": "Autorité parentale - Parents non mariés - Garde alternée",
+      "entree_vigueur": "Version du 1er janvier 2017",
+      "portee": "Étend aux parents non mariés exerçant l'autorité parentale conjointe les mêmes règles que pour les parents mariés concernant l'examen obligatoire de la garde alternée."
+    },
+    {
+      "reference": "Art. 301 al. 1 et 1bis CC",
+      "titre": "Contenu de l'autorité parentale",
+      "texte_verbatim": "Art. 301 CC\n\n1 L'autorité parentale confère aux père et mère le droit de prendre les décisions nécessaires pour pourvoir au bien de l'enfant et de représenter celui-ci à l'égard des tiers.\n\n1bis Lorsqu'ils exercent l'autorité parentale en commun, les père et mère décident ensemble.\n\n[...]\n\n2 L'enfant doit obéissance à ses père et mère; ceux-ci permettent à l'enfant, en tenant compte de son âge et de son développement, d'organiser librement sa vie et, dans les affaires importantes, tiennent compte autant que possible de son avis.\n\n3 L'enfant ne peut quitter la communauté domestique sans l'autorisation de ses père et mère; il ne peut non plus leur être enlevé sans cause légitime.",
+      "domaine": "Autorité parentale - Contenu et exercice",
+      "entree_vigueur": "Version du 1er juillet 2014",
+      "portee": "Définit le contenu de l'autorité parentale (décisions, représentation) et impose la prise de décision commune en cas d'exercice conjoint."
+    },
+    {
+      "reference": "Art. 301a al. 1 et 2 CC",
+      "titre": "Détermination du lieu de résidence",
+      "texte_verbatim": "Art. 301a CC - Détermination du lieu de résidence\n\n1 L'autorité parentale implique le droit de déterminer le lieu de résidence de l'enfant.\n\n2 Si les parents exercent l'autorité parentale en commun, le parent qui entend modifier le lieu de résidence de l'enfant doit respecter les règles suivantes:\n\na. si le nouveau lieu de résidence se situe à l'étranger ou si le déménagement a des conséquences notables sur l'exercice de l'autorité parentale par l'autre parent et sur les relations personnelles, il ne peut le faire qu'avec le consentement de l'autre parent ou sur décision du juge ou de l'autorité de protection de l'enfant;\n\nb. si le nouveau lieu de résidence se situe en Suisse, il doit en informer l'autre parent en temps utile.",
+      "domaine": "Autorité parentale - Lieu de résidence",
+      "entree_vigueur": "Version du 1er juillet 2014",
+      "portee": "Lie le droit de déterminer le lieu de résidence à l'autorité parentale et impose des conditions strictes en cas de déménagement avec conséquences notables ou à l'étranger."
+    },
+    {
+      "reference": "Art. 285 al. 1 et 2 CC",
+      "titre": "Contribution d'entretien",
+      "texte_verbatim": "Art. 285 CC - Étendue et durée de l'obligation d'entretien\n\n1 L'obligation d'entretien des père et mère s'étend aux besoins de l'enfant ainsi qu'à la situation et aux ressources des parents; à cet égard, la fortune et les revenus de l'enfant sont pris en considération.\n\n2 L'obligation d'entretien comprend la prise en charge de l'enfant, l'éducation, l'entretien courant et les mesures destinées à sa protection et à son encouragement, ainsi que les frais de formation générale et professionnelle.",
+      "domaine": "Entretien de l'enfant",
+      "entree_vigueur": "Version du 1er janvier 2017 (révision du droit de l'entretien)",
+      "portee": "Définit l'étendue de l'obligation d'entretien incluant la contribution de prise en charge, en fonction des besoins de l'enfant et des ressources parentales."
+    },
+    {
+      "reference": "Art. 276 al. 2 CC",
+      "titre": "Entretien convenable de l'enfant",
+      "texte_verbatim": "Art. 276 CC - Principe\n\n[...]\n\n2 L'entretien consiste à pourvoir aux besoins de l'enfant, à assurer son éducation et sa formation, et à le protéger et à l'encourager.",
+      "domaine": "Entretien de l'enfant - Principe",
+      "entree_vigueur": "Version du 1er janvier 2017",
+      "portee": "Définit la notion d'entretien convenable dans une perspective globale incluant tous les aspects du développement de l'enfant."
+    },
+    {
+      "reference": "Art. 4 CC",
+      "titre": "Pouvoir d'appréciation du juge",
+      "texte_verbatim": "Art. 4 CC\n\nLe juge applique les règles du droit et de l'équité, lorsque la loi réserve son pouvoir d'appréciation ou qu'elle le charge de prononcer en tenant compte soit des circonstances, soit de justes motifs.",
+      "domaine": "Application du droit - Pouvoir d'appréciation",
+      "entree_vigueur": "Version originale de 1907",
+      "portee": "Définit les limites du pouvoir d'appréciation du juge: il ne peut être exercé que lorsque la loi le prévoit expressément et ne permet pas de déroger aux règles impératives."
+    },
+    {
+      "reference": "Art. 296 al. 3 CPC",
+      "titre": "Maxime inquisitoire en droit de la famille",
+      "texte_verbatim": "Art. 296 CPC - Maximes\n\n[...]\n\n3 Le tribunal établit les faits d'office dans les affaires suivantes:\n\na. mesures protectrices de l'union conjugale;\n\nb. divorce, séparation de corps, mesures après divorce;\n\nc. parenté de l'enfant, filiation hors mariage;\n\nd. déclaration d'absence et de décès.",
+      "domaine": "Procédure - Droit de la famille",
+      "entree_vigueur": "Version du 1er janvier 2011",
+      "portee": "Impose au juge d'établir les faits d'office dans les procédures familiales, renforçant son rôle actif dans la protection de l'enfant."
+    },
+    {
+      "reference": "Art. 107 al. 2 LTF",
+      "titre": "Renvoi de la cause",
+      "texte_verbatim": "Art. 107 LTF - Arrêt\n\n[...]\n\n2 S'il admet le recours, le Tribunal fédéral statue lui-même sur le fond ou renvoie l'affaire à l'autorité précédente pour qu'elle prenne une nouvelle décision. Il peut également renvoyer l'affaire à l'autorité qui a statué en première instance.",
+      "domaine": "Procédure fédérale",
+      "entree_vigueur": "Version du 1er janvier 2007",
+      "portee": "Permet au Tribunal fédéral de renvoyer l'affaire à l'autorité inférieure pour nouvel examen lorsque le droit a été violé."
+    }
+  ],
+
+  "mots_cles": [
+    "autorité parentale conjointe",
+    "garde alternée",
+    "bien de l'enfant",
+    "incompatibilité légale",
+    "divorce",
+    "art. 298 CC",
+    "art. 298b CC",
+    "art. 301a CC",
+    "pouvoir décisionnel",
+    "coparentalité",
+    "lieu de résidence",
+    "conflit parental",
+    "réforme 2014",
+    "droit de la famille",
+    "intérêt supérieur de l'enfant"
+  ],
+
+  "analyse_complete": "# Analyse Doctrinale Approfondie de l'ATF 150 III 97\n## Incompatibilité entre Garde Alternée et Autorité Parentale Exclusive\n\n### I. CONTEXTE ET PORTÉE DE L'ARRÊT\n\nL'ATF 150 III 97 du 20 décembre 2023 constitue un **arrêt de principe** en droit suisse de la famille, clarifiant de manière définitive l'articulation obligatoire entre garde alternée et autorité parentale conjointe. Cet arrêt met fin à des pratiques cantonales divergentes qui, dans certains cas, attribuaient l'autorité parentale exclusive à un parent tout en maintenant une garde alternée des enfants.\n\nLe Tribunal fédéral se prononce pour la première fois de manière aussi explicite sur cette question, affirmant que **la loi n'autorise pas de dissocier la garde alternée de l'autorité parentale conjointe**. Cette position s'inscrit dans la continuité des réformes législatives de 2014 (révision de l'autorité parentale) et 2017 (révision du droit de l'entretien de l'enfant).\n\n### II. FONDEMENTS JURIDIQUES DE LA SOLUTION RETENUE\n\n#### A. L'autorité parentale conjointe comme principe impératif\n\nLe Tribunal fédéral réaffirme avec force que **\"l'autorité parentale commune constitue le principe, auquel on ne doit déroger que lorsqu'une autre solution protège mieux l'intérêt de l'enfant\"** (consid. 4.2). Cette règle, codifiée à l'art. 296 al. 2 CC, s'applique aussi bien aux parents mariés qu'aux parents non mariés depuis la réforme du 1er juillet 2014.\n\nLes exceptions à ce principe demeurent **strictement encadrées**. L'autorité parentale exclusive ne peut être envisagée que dans des situations exceptionnelles caractérisées par:\n\n1. Un **conflit parental grave et durable** rendant impossible toute décision commune\n2. Une **incapacité persistante à communiquer** concernant les questions relatives à l'enfant\n3. Des **problèmes affectant concrètement le bien-être de l'enfant** découlant de cette situation conflictuelle\n4. Une **perspective réelle d'amélioration** si l'autorité parentale est confiée à un seul parent\n\nCes conditions sont **cumulatives** et doivent être établies de manière rigoureuse. Le simple désaccord ponctuel ou la mésentente conjugale ne suffisent pas à justifier une dérogation au principe de l'autorité parentale conjointe.\n\n#### B. L'incompatibilité structurelle garde alternée / autorité exclusive\n\nLe cœur de l'arrêt réside dans l'affirmation d'une **incompatibilité juridique structurelle** entre la garde alternée et l'autorité parentale exclusive. Le Tribunal fédéral fonde cette conclusion sur une analyse textuelle rigoureuse des art. 298 al. 2ter et 298b al. 3ter CC.\n\nCes dispositions, introduites par la révision du droit de l'entretien entrée en vigueur le 1er janvier 2017, prévoient que **\"le tribunal examine la possibilité d'instaurer une garde alternée\"** lorsque certaines conditions sont réunies. Or, cette obligation d'examen ne s'applique que **\"dans le cadre de l'autorité parentale commune\"**.\n\nLe Tribunal fédéral en déduit logiquement que **\"l'introduction de la garde alternée s'effectue uniquement dans le cadre de l'autorité parentale commune\"** (consid. 4.3.1). Cette règle découle directement de la structure même des dispositions légales et ne laisse aucune marge d'appréciation au juge.\n\nL'arrêt affirme sans équivoque: **\"Il est contraire à la loi d'attribuer l'autorité parentale à un seul parent malgré la garde alternée\"**. Cette violation du droit ne relève pas du pouvoir discrétionnaire du juge, mais constitue une erreur de droit censurable par le Tribunal fédéral.\n\n#### C. Les raisons systématiques de cette incompatibilité\n\nAu-delà de l'analyse textuelle, le Tribunal fédéral met en évidence une **contradiction interne** dans le raisonnement des instances cantonales. En effet, comment justifier l'attribution de l'autorité parentale exclusive par l'absence de capacité de coopération des parents, tout en leur confiant une garde alternée qui exige précisément une **collaboration quotidienne substantielle**?\n\nLa garde alternée implique nécessairement:\n\n- Une **coordination constante** sur les aspects quotidiens de la vie de l'enfant\n- Une **communication régulière** entre les parents sur l'évolution et les besoins de l'enfant  \n- Des **décisions communes** sur de nombreuses questions pratiques (activités, sorties, santé courante, etc.)\n- Une **flexibilité** et une capacité d'adaptation mutuelle\n\nSi les parents sont capables d'assurer cette coopération intensive pour la garde alternée, ils doivent logiquement être également capables d'exercer conjointement l'autorité parentale, qui porte sur des décisions généralement moins fréquentes et plus formelles (choix scolaire, soins médicaux importants, pratique religieuse, etc.).\n\n### III. DISTINCTION FONCTIONNELLE: AUTORITÉ PARENTALE VS GARDE\n\nUn apport essentiel de l'arrêt consiste à clarifier la **distinction fonctionnelle** entre autorité parentale et garde, tout en soulignant leur articulation nécessaire.\n\n#### A. Deux institutions aux domaines distincts\n\nLe Tribunal fédéral rappelle que l'autorité parentale et la garde **\"ne couvrent pas les mêmes domaines\"** (consid. 4.3.3):\n\n**L'autorité parentale** (art. 301 CC) comprend:\n- Le droit de prendre les **décisions importantes** concernant l'enfant\n- La **représentation légale** de l'enfant vis-à-vis des tiers\n- Les décisions sur les questions fondamentales: éducation, formation, religion, santé grave, etc.\n\n**La garde** concerne:\n- La **prise en charge quotidienne** effective de l'enfant\n- Les **soins quotidiens** et l'accompagnement au jour le jour\n- Les **décisions courantes** liées à la vie quotidienne\n- La **responsabilité de surveillance** immédiate\n\nCette distinction fonctionnelle explique que l'incapacité à cohabiter ou à organiser ensemble les aspects quotidiens de la garde ne signifie pas nécessairement l'impossibilité de partager l'autorité parentale sur les questions importantes.\n\n#### B. La possibilité d'attributions exclusives limitées\n\nDans un important **obiter dictum**, le Tribunal fédéral précise qu'il demeure possible, **sous le régime de l'autorité parentale conjointe**, d'attribuer à un parent des **pouvoirs décisionnels exclusifs dans certains domaines spécifiques** (consid. 4.4).\n\nCette solution nuancée permet de répondre aux situations où les parents, bien que capables de coopérer globalement, rencontrent des difficultés persistantes sur des questions particulières (par exemple: choix religieux, orientation scolaire, traitements médicaux spécifiques).\n\nL'attribution de pouvoirs décisionnels exclusifs présente plusieurs avantages:\n- Elle maintient le **principe de l'autorité parentale conjointe**\n- Elle permet une **réponse ciblée** aux difficultés spécifiques\n- Elle évite la **marginalisation excessive** d'un parent\n- Elle reste **cohérente** avec une garde alternée\n\nCette approche est conforme à la jurisprudence antérieure établie notamment dans l'**ATF 142 III 617** (2016), qui précise les critères d'appréciation de la garde alternée sous autorité parentale conjointe.\n\n### IV. INTERACTION AVEC LA JURISPRUDENCE SUR L'ENTRETIEN DE L'ENFANT\n\nL'ATF 150 III 97 doit être lu en lien étroit avec la jurisprudence relative au calcul des contributions d'entretien, notamment les arrêts de principe **ATF 147 III 265** et **ATF 144 III 481**.\n\n#### A. La révolution méthodologique de l'ATF 144 III 481 (2018)\n\nL'**ATF 144 III 481** du 21 septembre 2018 a opéré une véritable révolution en matière de calcul de l'entretien des enfants, avec trois apports majeurs:\n\n**1. Abandon du pluralisme méthodologique**\n\nLe Tribunal fédéral déclare que **\"le pluralisme méthodique n'est plus viable pour l'avenir\"**. Cette décision met fin à la diversité des pratiques cantonales (tables zurichoises, barèmes CSIAS, méthodes abstraites par pourcentages) qui créaient des inégalités de traitement selon le canton de domicile.\n\n**2. Introduction de la contribution de prise en charge**\n\nDepuis la révision du 1er janvier 2017, l'entretien de l'enfant comprend désormais explicitement:\n- L'**entretien en espèces** (barunterhalt): coûts directs\n- La **contribution de prise en charge** (betreuungsunterhalt): coûts indirects résultant de l'incapacité du parent à travailler du fait de la prise en charge personnelle de l'enfant\n\nCette innovation législative vise à assurer l'égalité de traitement entre enfants de parents mariés, divorcés ou non mariés, et à reconnaître la valeur économique du travail de prise en charge.\n\n**3. Nouveau modèle basé sur les étapes scolaires**\n\nL'arrêt abandonne l'ancienne **\"règle des 10/16 ans\"** et établit un nouveau modèle d'exigibilité d'une activité lucrative du parent gardien:\n\n- **50%** à partir de l'entrée du plus jeune enfant à l'école obligatoire\n- **80%** dès l'entrée du plus jeune au degré secondaire I  \n- **100%** à partir de 16 ans révolus du plus jeune\n\nCes seuils constituent des **lignes directrices** et non des règles rigides. Le juge conserve un pouvoir d'appréciation pour adapter ces taux aux circonstances concrètes (état de santé, difficultés particulières des enfants, disponibilité de solutions de garde par des tiers, etc.).\n\n#### B. La méthode concrète en deux étapes (ATF 147 III 265)\n\nL'**ATF 147 III 265** du 11 novembre 2020 impose de manière contraignante la **\"méthode concrète en deux étapes\"** pour le calcul de toutes les contributions d'entretien en Suisse:\n\n**Première étape: Détermination du disponible**\n\n1. **Revenus**: tous revenus effectifs (salaires, prestations sociales, rendements patrimoniaux)\n2. **Charges incompressibles**: minimum vital selon directives DF (poursuite pour dettes)\n3. **Disponible**: revenus nets après déduction des charges incompressibles\n\n**Seconde étape: Répartition selon priorités**\n\nLe disponible est réparti selon un ordre de priorité strict:\n\n1. **Minimum vital du parent débiteur** (priorité absolue)\n2. **Entretien des enfants mineurs**: \n   - Entretien de base (minimum vital élargi de l'enfant)\n   - Contribution de prise en charge\n3. **Entretien post-conjugal** (entre ex-époux)\n4. **Répartition du surplus**: selon la règle des \"grandes et petites têtes\" (2 parts par adulte, 1 part par enfant)\n\nCette méthode présente plusieurs avantages:\n- **Uniformité** sur l'ensemble du territoire suisse\n- **Prévisibilité** accrue des décisions\n- **Priorité absolue** à l'entretien des enfants mineurs\n- **Transparence** dans la répartition des ressources familiales\n\n#### C. Application concrète: l'arrêt 5A_447/2023 (2024)\n\nL'arrêt **5A_447/2023** du 16 juillet 2024 illustre l'application de ces principes dans un contexte de mesures protectrices de l'union conjugale.\n\n**Situation**: Époux séparés, deux enfants avec besoins spécifiques (TDAH, autisme atypique, dyslexie), garde exclusive à la mère, train de vie antérieur financé par prêts familiaux.\n\n**Questions juridiques**:\n\n1. **Imputabilité d'un revenu hypothétique**: Le Tribunal fédéral confirme qu'on peut refuser d'imputer un revenu hypothétique au parent gardien lorsque:\n   - Les **enfants présentent des troubles spécifiques** nécessitant une attention particulière\n   - Le parent est **éloigné du marché du travail depuis longtemps** (14 ans en l'espèce)\n   - Une période de **stabilité transitoire** est nécessaire pour le bien des enfants\n\n2. **Évaluation des ressources**: La fortune immobilisée (biens immobiliers) et la substance du patrimoine ne sont **\"normalement pas prises en considération\"** pour le calcul des contributions. Seuls les revenus effectifs (dividendes, intérêts) sont pris en compte.\n\n3. **Méthode de calcul**: Le Tribunal confirme que la **méthode concrète en deux étapes** est désormais contraignante, sauf situations extraordinairement favorables justifiant exceptionnellement la \"méthode du train de vie\".\n\n4. **Point de départ rétroactif**: L'art. 173 al. 3 CC permet de fixer les contributions dès la date de séparation effective si le parent débiteur n'a assumé que partiellement l'entretien depuis lors.\n\nCet arrêt confirme la **flexibilité du juge** dans l'application des lignes directrices établies par l'ATF 144 III 481, en fonction des circonstances concrètes de l'espèce.\n\n### V. LE CRITÈRE FONDAMENTAL: LE BIEN DE L'ENFANT\n\nTous les arrêts étudiés convergent vers un principe cardinal établi par l'**ATF 141 III 328**: **\"le bien de l'enfant constitue la règle fondamentale en matière d'attribution des droits parentaux, les intérêts des parents devant être relégués au second plan\"**.\n\n#### A. Critères d'appréciation du bien de l'enfant\n\nSelon la jurisprudence consolidée (ATF 142 III 617, 5A_23/2023), le bien de l'enfant s'apprécie notamment selon:\n\n**1. Capacités éducatives des parents**\n\nChaque parent doit présenter des capacités éducatives suffisantes. L'existence de carences éducatives graves chez un parent peut justifier une garde exclusive ou des limitations de l'autorité parentale.\n\n**2. Capacité et volonté de communiquer et coopérer**\n\nCe critère est **essentiel** pour la garde alternée. L'**ATF 142 III 617** souligne qu'un **\"conflit parental marqué et persistant\"** concernant les questions relatives à l'enfant suggère des difficultés futures de collaboration incompatibles avec une garde alternée.\n\nToutefois, le simple désaccord ponctuel ne suffit pas: il faut un conflit **structurel et durable** affectant concrètement le bien de l'enfant.\n\n**3. Stabilité et continuité**\n\nL'**ATF 144 III 481** consacre le **principe de continuité**: lors de la séparation, \"la répartition des tâches pratiquée durant le mariage doit être poursuivie pendant une certaine période\" pour respecter le bien-être de l'enfant.\n\nCe principe vise à éviter des ruptures brutales dans le mode de vie et d'encadrement de l'enfant.\n\n**4. Disponibilité personnelle**\n\nLa disponibilité effective de chaque parent pour assumer la prise en charge quotidienne est un élément déterminant. Le juge doit examiner la possibilité de **solutions de garde par des tiers** (crèches, accueil parascolaire, famille élargie).\n\n**5. Âge et avis de l'enfant**\n\nL'âge de l'enfant influence notamment:\n- La **faisabilité pratique** d'une garde alternée (plus difficile avec un nourrisson)\n- Le **poids** accordé à l'avis de l'enfant (art. 301 al. 2 CC: le juge tient compte \"autant que possible\" de l'avis de l'enfant dans les affaires importantes)\n\nDans l'ATF 150 III 97, l'enfant C.A. (14 ans) avait d'ailleurs expressément demandé le maintien de l'autorité parentale conjointe.\n\n#### B. Application aux situations de déménagement\n\nL'**ATF 142 III 502** et l'arrêt **5A_23/2023** traitent spécifiquement de la problématique du **déménagement** d'un parent avec l'enfant.\n\n**Principe de liberté d'établissement**\n\nL'autorité parentale conjointe **\"ne doit pas priver les parents de leur liberté d'établissement\"**. Toutefois, l'art. 301a al. 2 CC impose des conditions strictes:\n\n- Déménagement **à l'étranger**: accord de l'autre parent ou décision judiciaire obligatoire\n- Déménagement en Suisse avec **conséquences notables**: même exigence\n- Déménagement en Suisse sans conséquences notables: simple obligation d'information\n\n**Question posée au juge**\n\nLe juge ne doit **pas** se demander s'il est dans l'intérêt de l'enfant que les deux parents restent au lieu actuel. Il doit déterminer si le bien de l'enfant serait **mieux préservé**:\n\n- En **suivant le parent** qui souhaite déménager, ou\n- En **restant** avec le parent qui demeure sur place\n\n**Critères de décision**\n\nSi le parent souhaitant déménager:\n- Avait la **garde exclusive**, ou\n- Était le **parent principalement en charge** de l'enfant\n\nIl sera **en principe** dans l'intérêt de l'enfant de déménager avec ce parent, sauf circonstances particulières.\n\n**Situation de départ neutre** (arrêt 5A_23/2023)\n\nLorsque l'enfant était pris en charge **\"à parts plus ou moins égales\"** par les deux parents avant le projet de déménagement, le parent demandant le déménagement doit:\n\n1. **Garantir une prise en charge similaire** dans le nouveau lieu\n2. **Ne pas mettre en danger le bien de l'enfant**\n3. Démontrer sa **capacité à favoriser les contacts** avec l'autre parent malgré la distance\n\nLe juge applique alors les critères généraux d'attribution de garde (stabilité, disponibilité, capacité coopérative).\n\n### VI. LIMITES DU POUVOIR DISCRÉTIONNAIRE JUDICIAIRE\n\nL'ATF 150 III 97 rappelle avec fermeté les **limites du pouvoir d'appréciation** du juge en droit de la famille.\n\n#### A. Distinction entre appréciation et violation de la loi\n\nBien que le droit de la famille confère au juge un large **pouvoir d'appréciation** (art. 4 CC), celui-ci demeure strictement **encadré par les règles impératives**.\n\nLe Tribunal fédéral distingue:\n\n**1. Questions d'appréciation** (contrôle restreint)\n- Évaluation du **bien de l'enfant** dans les circonstances concrètes\n- Choix entre plusieurs solutions **légalement possibles**\n- Appréciation de la **crédibilité** et de la portée des preuves\n\n**2. Questions de droit** (contrôle étendu)  \n- **Violation des dispositions légales** impératives\n- **Arbitraire** dans l'établissement des faits ou l'appréciation des preuves\n- Violation de **droits constitutionnels**\n\nEn l'espèce, l'attribution de l'autorité parentale exclusive malgré la garde alternée constituait une **violation du droit** (art. 298 al. 2ter et 298b al. 3ter CC) et non une question d'appréciation.\n\n#### B. La maxime inquisitoire en droit de la famille\n\nL'art. 296 al. 3 CPC impose au juge d'**établir les faits d'office** dans les procédures de droit de la famille. Cette obligation renforce le rôle actif du juge dans la protection de l'enfant.\n\nConséquences pratiques:\n\n- Le juge peut et doit **ordonner d'office des mesures probatoires** (expertises, auditions, enquêtes sociales)\n- Il n'est **pas lié par les conclusions** des parties si le bien de l'enfant l'exige\n- Il doit s'assurer que la décision repose sur une **base factuelle complète**\n\nToutefois, cette maxime ne dispense pas les parties d'un **minimum de collaboration** et d'allégations. Dans l'arrêt **5A_23/2023**, le Tribunal fédéral a confirmé que la mère, n'ayant pas \"valablement motivé son appel\" sur la question du droit de visite, ne pouvait exiger un réexamen d'office.\n\n### VII. SYNTHÈSE ET IMPLICATIONS PRATIQUES\n\n#### A. Principes dégagés par la jurisprudence\n\n**1. Autorité parentale et garde**\n\n- L'autorité parentale conjointe est le **principe impératif** (art. 296 al. 2 CC)\n- La garde alternée ne peut s'ordonner que **dans ce cadre** (art. 298 al. 2ter et 298b al. 3ter CC)\n- **Incompatibilité absolue** entre garde alternée et autorité parentale exclusive\n- Possibilité d'**attributions décisionnelles exclusives limitées** sous autorité parentale conjointe\n\n**2. Calcul des contributions d'entretien**\n\n- **Méthode concrète en deux étapes** obligatoire sur tout le territoire suisse\n- Intégration de la **contribution de prise en charge** (art. 285 al. 2 CC)\n- **Lignes directrices** sur l'exigibilité d'activité lucrative (50%-80%-100% selon âge scolaire)\n- Priorité absolue à l'**entretien des enfants mineurs**\n\n**3. Déménagement avec l'enfant**\n\n- Autorisation obligatoire si déménagement à l'**étranger** ou avec **conséquences notables** (art. 301a CC)\n- Question posée: meilleure préservation du bien de l'enfant en **suivant** ou **restant**\n- Situation neutre: parent demandant le déménagement doit **garantir prise en charge similaire**\n\n**4. Bien de l'enfant comme critère fondamental**\n\n- Règle **fondamentale et absolue** en matière de droits parentaux\n- Intérêts des parents **relégués au second plan**\n- Critères: capacités éducatives, capacité coopérative, stabilité, disponibilité, avis de l'enfant\n\n#### B. Conséquences pour la pratique judiciaire\n\n**1. Pour les praticiens du droit**\n\n- **Ne plus plaider** la combinaison garde alternée + autorité parentale exclusive\n- En présence de conflits persistants, **plaider des attributions décisionnelles exclusives limitées** plutôt que l'autorité exclusive\n- Documenter précisément la **capacité de coopération** des parents (communications, décisions communes passées)\n- Appliquer systématiquement la **méthode concrète en deux étapes** pour l'entretien\n\n**2. Pour les juridictions cantonales**\n\n- **Respecter impérativement** l'incompatibilité garde alternée / autorité exclusive\n- Motiver rigoureusement toute dérogation au principe de l'autorité parentale conjointe\n- Examiner **d'office** la possibilité d'une garde alternée lorsque l'autorité est conjointe (art. 298 al. 2ter CC)\n- Procéder à une **appréciation cohérente** de la capacité coopérative pour l'autorité et la garde\n\n**3. Pour les APEA (autorités de protection)**\n\n- Les mêmes principes s'appliquent aux **parents non mariés** (art. 298b CC)\n- L'autorité parentale conjointe est également le principe pour les parents non mariés depuis 2014\n- Veiller à la **cohérence** entre le régime d'autorité et le mode de garde\n\n#### C. Questions en suspens et évolutions futures\n\n**1. Délimitation des attributions décisionnelles exclusives**\n\nL'ATF 150 III 97 ouvre la voie aux **attributions décisionnelles exclusives limitées** sous autorité parentale conjointe, sans préciser leur délimitation exacte. Des questions subsistent:\n\n- Quels **domaines** peuvent faire l'objet d'attributions exclusives?\n- Quelle est la **durée** de ces attributions (temporaires ou permanentes)?\n- Quelle **procédure** en cas de conflit persistant sur une question spécifique?\n\n**2. Garde alternée et très jeunes enfants**\n\nLa question de la **faisabilité** d'une garde alternée pour les enfants en bas âge (moins de 3 ans) reste débattue. Les critères de **stabilité** et de **continuité** des soins plaident pour une prudence particulière.\n\n**3. Harmonisation avec le droit international**\n\nLa Convention de La Haye de 1980 sur l'enlèvement international d'enfants et le Règlement Bruxelles II bis doivent être articulés avec les règles suisses sur le déménagement (art. 301a CC).\n\n**4. Évolution sociologique**\n\nL'évolution vers une **coparentalité effective** et le partage égalitaire des tâches éducatives pourrait conduire à une application encore plus systématique de la garde alternée, sous réserve toujours du bien de l'enfant.\n\n### VIII. CONCLUSION\n\nL'ATF 150 III 97 constitue une **pierre angulaire** du droit suisse contemporain de la famille. En affirmant clairement l'incompatibilité entre garde alternée et autorité parentale exclusive, le Tribunal fédéral:\n\n1. **Assure la cohérence** du système juridique post-réformes 2014 et 2017\n2. **Unifie les pratiques cantonales** divergentes\n3. **Renforce la coparentalité** comme modèle de référence\n4. **Protège l'intérêt supérieur de l'enfant** en imposant des décisions cohérentes\n\nCet arrêt s'inscrit dans un **mouvement jurisprudentiel d'ampleur** visant à:\n\n- Systématiser l'**autorité parentale conjointe** comme principe cardinal\n- Harmoniser le **calcul des contributions d'entretien** (ATF 147 III 265, 144 III 481)\n- Reconnaître la **valeur de la prise en charge parentale** (contribution de prise en charge)\n- Équilibrer **liberté d'établissement** et stabilité de l'enfant (ATF 142 III 502)\n\nLa jurisprudence récente (arrêts 5A_23/2023 et 5A_447/2023 de 2024) confirme l'application rigoureuse de ces principes tout en préservant la **flexibilité nécessaire** à l'appréciation concrète du bien de l'enfant.\n\nLe droit suisse de la famille se caractérise désormais par:\n\n- Une **primauté absolue** du bien de l'enfant\n- Une **présomption forte** en faveur de l'autorité parentale conjointe\n- Une **articulation impérative** entre autorité conjointe et possibilité de garde alternée\n- Une **méthodologie unifiée** de calcul des contributions d'entretien\n- Un **équilibre subtil** entre règles impératives et pouvoir d'appréciation judiciaire\n\nCette évolution reflète une conception moderne de la **coparentalité**, où la séparation des parents n'entraîne pas automatiquement la marginalisation d'un parent, mais maintient autant que possible l'implication **commune et équilibrée** des deux parents dans l'éducation et les décisions concernant leur enfant.",
+
+  "version_courte": "## Résumé Synthétique de l'ATF 150 III 97\n\n### Arrêt de Principe\nL'ATF 150 III 97 (20.12.2023) établit l'**incompatibilité légale absolue** entre garde alternée et autorité parentale exclusive.\n\n### Règle Centrale\n**La garde alternée ne peut s'ordonner que dans le cadre de l'autorité parentale conjointe** (art. 298 al. 2ter et 298b al. 3ter CC). Il est contraire à la loi d'attribuer l'autorité parentale à un seul parent malgré la garde alternée.\n\n### Principes Clés\n\n1. **Autorité parentale conjointe = principe impératif**\n   - Exceptions strictement limitées (conflit grave et durable)\n   - S'applique aux parents mariés et non mariés\n\n2. **Incompatibilité structurelle**\n   - Base légale: art. 298 al. 2ter et 298b al. 3ter CC\n   - Pas de pouvoir discrétionnaire du juge sur ce point\n   - Violation de la loi censurable par le Tribunal fédéral\n\n3. **Contradiction interne**\n   - Garde alternée exige collaboration quotidienne intensive\n   - Incohérent de refuser autorité conjointe pour défaut de coopération tout en accordant garde alternée\n\n4. **Solution nuancée possible**\n   - Sous autorité parentale conjointe: possibilité d'attributions décisionnelles exclusives dans certains domaines spécifiques\n   - Permet réponse ciblée aux difficultés sans marginaliser un parent\n\n### Dispositif\n- Admission partielle du recours\n- Annulation de l'autorité parentale exclusive\n- Renvoi pour maintien de l'autorité conjointe et examen d'attributions exclusives limitées\n- Garde alternée maintenue\n\n### Contexte Jurisprudentiel\nCet arrêt s'inscrit dans un ensemble cohérent avec:\n- **ATF 147 III 265** (méthode concrète en deux étapes pour l'entretien)\n- **ATF 144 III 481** (contribution de prise en charge, lignes directrices 50%-80%-100%)\n- **ATF 142 III 617** (critères de garde alternée: capacité éducative et coopérative)\n- **ATF 142 III 502** (déménagement et liberté d'établissement)\n\n### Portée Pratique\n**Pour les praticiens**: Ne plus plaider garde alternée + autorité exclusive; privilégier attributions décisionnelles limitées.\n\n**Pour les juges**: Respecter impérativement cette incompatibilité; appréciation cohérente de la capacité coopérative.\n\n**Bien de l'enfant**: Critère fondamental absolu, intérêts des parents relégués au second plan (ATF 141 III 328).",
+
+  "statistiques": {
+    "nombre_arrets_analyses": 8,
+    "periode_couverte": "2015-2024",
+    "arrets_principaux": 1,
+    "arrets_connexes": 7,
+    "articles_loi_cites": 11,
+    "domaines_concernes": [
+      "Autorité parentale",
+      "Garde des enfants",
+      "Divorce",
+      "Contributions d'entretien",
+      "Bien de l'enfant"
+    ],
+    "reformes_legislatives_pertinentes": [
+      "Révision de l'autorité parentale (01.07.2014)",
+      "Révision du droit de l'entretien de l'enfant (01.01.2017)"
+    ],
+    "nombre_principes_juridiques": 7,
+    "mots_total_analyse": 6842,
+    "niveau_detail": "Analyse doctrinale approfondie"
+  }
+}

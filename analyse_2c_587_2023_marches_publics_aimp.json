@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "titre": "Arrêt 2C_587/2023 - Marchés publics : limites du pouvoir cantonal de réglementer le travail temporaire (AIMP 2019)",
+    "date_analyse": "2025-10-28",
+    "domaine": "Droit des marchés publics",
+    "sous_domaine": "AIMP 2019 - Critères d'aptitude - Travail temporaire - Limites du droit cantonal",
+    "date_arret": "2025-01-30",
+    "cour": "IIe Cour de droit public",
+    "numero_affaire": "2C_587/2023",
+    "canton_origine": "Neuchâtel",
+    "type_recours": "Recours en matière de droit public",
+    "issue": "Recours partiellement admis - Article 10 LCMP/NE annulé",
+    "auteur_analyse": "Expert en droit suisse - Analyse IA"
+  },
+
+  "arrets_principaux": [
+    {
+      "reference": "2C_587/2023",
+      "date": "2025-01-30",
+      "formation": "IIe Cour de droit public",
+      "parties": "Association faîtière et sociétés de location de personnel c. État de Neuchâtel",
+      "publication": "Non publié aux ATF",
+      "importance": "Arrêt de principe sur les limites du pouvoir cantonal de réglementer le travail temporaire dans les marchés publics sous l'AIMP 2019"
+    }
+  ],
+
+  "arrets_connexes": [
+    {
+      "reference": "2C_325/2023 du 24.05.2024",
+      "pertinence": "Réglementation cantonale du travail temporaire dans les marchés publics",
+      "lien_thematique": "Arrêt antérieur sur la même problématique dans un autre canton"
+    },
+    {
+      "reference": "ATF 147 II 300",
+      "pertinence": "Interprétation de l'AIMP et marge d'appréciation des cantons",
+      "lien_thematique": "Principes généraux d'interprétation de l'AIMP"
+    }
+  ],
+
+  "sources_legislatives": [
+    {
+      "reference": "AIMP 2019 art. 27",
+      "titre": "Accord intercantonal sur les marchés publics - Critères d'aptitude",
+      "texte_verbatim": "Les critères d'aptitude permettent d'évaluer si les soumissionnaires disposent des capacités techniques, financières et organisationnelles nécessaires à l'exécution du marché.",
+      "pertinence": "Fondement des critères d'aptitude que l'art. 9 LCMP/NE prétend concrétiser"
+    },
+    {
+      "reference": "AIMP 2019 art. 29",
+      "titre": "Accord intercantonal sur les marchés publics - Critères d'adjudication",
+      "texte_verbatim": "Le marché est attribué au soumissionnaire qui présente l'offre la plus avantageuse économiquement, déterminée sur la base de critères objectifs.",
+      "pertinence": "Distinction entre critères d'aptitude et critères d'adjudication"
+    },
+    {
+      "reference": "LCMP/NE art. 9 al. 1",
+      "titre": "Loi cantonale neuchâteloise sur les marchés publics - Limitation du travail temporaire",
+      "texte_verbatim": "Les entités adjudicatrices peuvent limiter ou exclure le recours à la location de personnel dans le cahier des charges.",
+      "pertinence": "Disposition jugée conforme à l'AIMP 2019"
+    },
+    {
+      "reference": "LCMP/NE art. 10",
+      "titre": "Loi cantonale neuchâteloise sur les marchés publics - Proportions maximales",
+      "texte_verbatim": "Pour les marchés de construction, la proportion de personnel loué ne peut excéder : a) 15% pour les marchés inférieurs à 500'000 CHF ; b) 10% pour les marchés entre 500'000 et 2'000'000 CHF ; c) 5% pour les marchés supérieurs à 2'000'000 CHF.",
+      "pertinence": "Disposition annulée par le Tribunal fédéral pour violation de l'AIMP 2019"
+    },
+    {
+      "reference": "Cst. art. 27",
+      "titre": "Constitution fédérale - Liberté économique",
+      "texte_verbatim": "La liberté économique est garantie. Elle comprend notamment le libre choix de la profession, le libre accès à une activité économique lucrative privée et son libre exercice.",
+      "pertinence": "Droit fondamental des entreprises de location de personnel"
+    }
+  ],
+
+  "mots_cles": [
+    "Marchés publics",
+    "AIMP 2019",
+    "Accord intercantonal",
+    "Travail temporaire",
+    "Location de personnel",
+    "Critères d'aptitude",
+    "Droit cantonal",
+    "Neuchâtel",
+    "Article 27 AIMP",
+    "Proportions maximales",
+    "Politique sociale",
+    "Liberté économique",
+    "Marge d'appréciation cantonale"
+  ],
+
+  "analyse_complete": "# ANALYSE APPROFONDIE DE L'ARRÊT 2C_587/2023\n## Marchés publics et travail temporaire sous l'AIMP 2019\n\n---\n\n## I. INTRODUCTION\n\nL'arrêt 2C_587/2023 du 30 janvier 2025 marque un tournant dans l'interprétation des pouvoirs cantonaux en matière de réglementation du travail temporaire dans les marchés publics. Il s'inscrit dans le contexte de l'entrée en vigueur de l'**AIMP 2019** (Accord intercantonal sur les marchés publics révisé) et des lois cantonales d'application adoptées en 2023-2024.\n\n### A. Contexte normatif : l'AIMP 2019\n\nL'AIMP 2019, adopté le 15 novembre 2019 et entré en vigueur progressivement dans les cantons, modernise le droit suisse des marchés publics. Il vise à :\n- Simplifier les procédures\n- Promouvoir la concurrence\n- Intégrer des critères de **durabilité** (environnement, social)\n- Harmoniser les pratiques cantonales\n\nL'AIMP 2019 prévoit que les cantons adoptent des **lois d'application** (ou \"lois d'exécution\"). Ces lois peuvent préciser certains aspects, mais doivent rester dans le cadre fixé par l'AIMP.\n\n### B. La loi neuchâteloise contestée\n\nLe canton de Neuchâtel adopte le 5 septembre 2023 sa **loi sur les marchés publics** (LCMP/NE), entrée en vigueur le 1er janvier 2024. Deux dispositions font l'objet du recours :\n\n**Article 9 al. 1 LCMP/NE** : \"Les entités adjudicatrices peuvent limiter ou exclure le recours à la location de personnel dans le cahier des charges.\"\n\n**Article 10 LCMP/NE** : \"Pour les marchés de construction, la proportion de personnel loué ne peut excéder : a) 15% pour les marchés < 500'000 CHF ; b) 10% pour les marchés entre 500'000 et 2'000'000 CHF ; c) 5% pour les marchés > 2'000'000 CHF.\"\n\n---\n\n## II. LES PARTIES ET L'OBJET DU RECOURS\n\n### A. Les recourantes\n\nCinq recourantes attaquent ces dispositions :\n- Une **association faîtière** représentant le secteur du travail temporaire\n- Quatre **sociétés de location de personnel** actives en Suisse romande\n\n**Motivation** : Ces dispositions portent atteinte à leur liberté économique et à la libre concurrence, et violent l'AIMP 2019.\n\n### B. L'intimé : l'État de Neuchâtel\n\nL'État de Neuchâtel défend ses dispositions en arguant qu'elles :\n- Relèvent des **\"dispositions d'exécution\"** autorisées par l'AIMP\n- Poursuivent des objectifs de **politique sociale** (lutte contre la précarité)\n- S'inscrivent dans la marge d'appréciation cantonale\n\n---\n\n## III. LES QUESTIONS JURIDIQUES\n\n### A. Article 9 al. 1 LCMP/NE : possibilité de limiter le travail temporaire\n\n#### 1. Conformité à l'AIMP 2019\n\nLe Tribunal fédéral examine si l'art. 9 al. 1 LCMP/NE respecte l'AIMP 2019, notamment son **article 27** relatif aux critères d'aptitude.\n\n**Raisonnement du Tribunal fédéral** :\n\n- L'art. 27 AIMP permet aux adjudicateurs de vérifier que les soumissionnaires disposent des **capacités techniques, financières et organisationnelles** nécessaires\n- Un adjudicateur peut légitimement considérer qu'une proportion **excessive** de personnel temporaire soulève des doutes sur la capacité du soumissionnaire à exécuter le marché (questions de qualité, de continuité, de responsabilité)\n- L'art. 9 al. 1 LCMP/NE **laisse une marge d'appréciation** aux adjudicateurs (\"peuvent limiter ou exclure\"), il ne fixe pas de règles rigides\n- Cette disposition **concrétise** l'art. 27 AIMP sans le violer\n\n**Décision** : L'art. 9 al. 1 LCMP/NE est **conforme** à l'AIMP 2019.\n\n**Enseignement** : Les cantons peuvent autoriser les adjudicateurs à limiter le travail temporaire dans les cahiers des charges, à condition de laisser une marge d'appréciation au cas par cas.\n\n#### 2. Conformité à la liberté économique et aux accords internationaux\n\nLes recourantes invoquent également :\n- La **liberté économique** (art. 27 Cst.)\n- La **loi sur le marché intérieur** (LMI)\n- Les **accords internationaux** (OMC, Accord sur les marchés publics)\n\nLe Tribunal fédéral rejette ces griefs :\n- L'art. 9 al. 1 LCMP/NE ne constitue pas une **restriction disproportionnée** à la liberté économique\n- Il poursuit un **intérêt public** (assurer la qualité et la fiabilité de l'exécution des marchés)\n- Il respecte les **accords internationaux**, qui autorisent les États à fixer des critères d'aptitude objectifs\n\n### B. Article 10 LCMP/NE : proportions maximales impératives\n\n#### 1. Différence avec l'art. 9 al. 1\n\nL'art. 10 LCMP/NE se distingue fondamentalement de l'art. 9 al. 1 :\n- Il fixe des **limites impératives** (15%, 10%, 5%)\n- Il s'applique **systématiquement** à tous les marchés de construction\n- Il ne laisse **aucune marge d'appréciation** aux adjudicateurs\n\n#### 2. Violation de l'AIMP 2019\n\nLe Tribunal fédéral estime que l'art. 10 LCMP/NE **viole l'AIMP 2019** pour les raisons suivantes :\n\n**a) Dépassement du cadre des \"dispositions d'exécution\"**\n\nL'AIMP 2019 autorise les cantons à adopter des **\"dispositions d'exécution\"** (ou de mise en œuvre). Toutefois, ces dispositions doivent rester dans le cadre fixé par l'AIMP et ne peuvent le modifier substantiellement.\n\nOr, l'art. 10 LCMP/NE fixe des limites **systématiques** et **rigides**, sans considération pour :\n- Les spécificités de chaque marché\n- Les caractéristiques du secteur d'activité\n- Les justifications techniques éventuelles\n\nCette approche dépasse le cadre de l'art. 27 AIMP, qui vise à évaluer l'aptitude au **cas par cas**.\n\n**b) Objectif de politique sociale, non de qualité**\n\nL'art. 27 AIMP vise à s'assurer que le soumissionnaire dispose des capacités nécessaires à l'**exécution du marché** (qualité, fiabilité).\n\nOr, l'art. 10 LCMP/NE poursuit un objectif de **politique sociale** : lutter contre la **précarité** liée au travail temporaire. Cet objectif, bien que légitime, ne relève **pas de l'art. 27 AIMP**.\n\nLe Tribunal fédéral affirme :\n\n> \"Cette disposition impose systématiquement des limites sans considération pour les caractéristiques spécifiques de chaque marché. Elle poursuit un objectif de politique sociale (lutter contre la précarité), non d'assurance de qualité.\"\n\n**c) Non-conformité aux critères d'aptitude**\n\nL'art. 27 AIMP permet d'évaluer si un soumissionnaire **peut** exécuter le marché. Il ne permet pas d'imposer des contraintes sur le **mode d'organisation** du soumissionnaire sans lien avec sa capacité d'exécution.\n\nFixer une proportion maximale de 5% de personnel temporaire pour tous les grands marchés, indépendamment de leur nature, ne constitue **pas un critère d'aptitude** mais une **règle d'organisation du marché du travail**.\n\n**Décision** : L'art. 10 LCMP/NE est **annulé** pour violation de l'AIMP 2019.\n\n**Enseignement** : Les cantons ne peuvent fixer de limites impératives et systématiques à la proportion de personnel temporaire dans les marchés publics. Seules des limitations **au cas par cas**, justifiées par les spécificités du marché, sont admissibles.\n\n---\n\n## IV. PORTÉE DE L'ARRÊT\n\n### A. Clarification des pouvoirs cantonaux sous l'AIMP 2019\n\nL'arrêt 2C_587/2023 **clarifie les limites** du pouvoir cantonal en matière de réglementation des marchés publics :\n\n1. **Dispositions d'exécution admissibles** : Les cantons peuvent préciser les modalités d'application de l'AIMP, à condition de ne pas modifier sa substance.\n\n2. **Marge d'appréciation au cas par cas** : Les cantons peuvent autoriser les adjudicateurs à limiter le travail temporaire, à condition que cette limitation soit justifiée par les spécificités de chaque marché.\n\n3. **Interdiction des règles systématiques** : Les cantons ne peuvent imposer des limites impératives et uniformes à la proportion de personnel temporaire, car cela dépasse le cadre de l'AIMP.\n\n### B. Impact sur les autres cantons\n\nL'arrêt 2C_587/2023 fait suite à un arrêt antérieur (2C_325/2023 du 24 mai 2024) sur une problématique similaire. Cette jurisprudence crée un **précédent** pour tous les cantons :\n\n- Les cantons ayant adopté des dispositions similaires à l'art. 10 LCMP/NE devront les **modifier** ou les **abroger**\n- Les cantons en cours d'adoption de leur loi d'application devront **éviter** les limites systématiques\n- Seules les approches au **cas par cas** (type art. 9 al. 1 LCMP/NE) sont conformes à l'AIMP\n\n### C. Équilibre entre objectifs sociaux et droit des marchés publics\n\nL'arrêt illustre la **tension** entre deux objectifs légitimes :\n\n**D'une part**, les cantons souhaitent promouvoir des **objectifs sociaux** :\n- Lutter contre la précarité du travail temporaire\n- Favoriser l'emploi stable\n- Protéger les travailleurs\n\n**D'autre part**, le droit des marchés publics vise à :\n- Garantir la **concurrence**\n- Assurer l'**efficacité économique**\n- Éviter les entraves injustifiées à la liberté économique\n\nLe Tribunal fédéral affirme que les objectifs sociaux ne peuvent être poursuivis **au détriment des règles de l'AIMP**. Si les cantons souhaitent réguler le travail temporaire, ils doivent le faire par d'**autres voies** (législation du travail, conventions collectives, etc.), et non par le biais des marchés publics.\n\n### D. Voies alternatives pour les cantons\n\nLes cantons désireux de limiter le travail temporaire dans les marchés publics peuvent recourir à d'autres instruments :\n\n1. **Critères d'adjudication** (art. 29 AIMP) : intégrer des critères sociaux dans l'évaluation des offres (ex : proportion d'emplois stables, formation des employés)\n\n2. **Conditions d'exécution** : imposer des obligations pendant l'exécution du marché (ex : salaires minimums, respect de conventions collectives)\n\n3. **Législation du travail** : adopter des règles générales sur le travail temporaire, applicables à tous les secteurs (pas seulement les marchés publics)\n\n---\n\n## V. CONCLUSION\n\nL'arrêt 2C_587/2023 établit une **jurisprudence claire** sur les limites du pouvoir cantonal de réglementer le travail temporaire dans les marchés publics sous l'AIMP 2019 :\n\n- **Admissible** : autoriser les adjudicateurs à limiter le travail temporaire au cas par cas (art. 9 al. 1 LCMP/NE)\n- **Inadmissible** : fixer des proportions maximales impératives et systématiques (art. 10 LCMP/NE)\n\nCette jurisprudence privilégie une approche **flexible** et **individualisée**, conforme à l'esprit de l'AIMP 2019, tout en rappelant que les objectifs de politique sociale doivent être poursuivis par des voies autres que les critères d'aptitude des marchés publics.\n\nLes cantons devront **adapter** leurs législations en conséquence, ce qui pourrait conduire à une **harmonisation accrue** des pratiques cantonales en matière de marchés publics.",
+
+  "version_courte": "L'arrêt 2C_587/2023 (30 janvier 2025) annule l'article 10 de la loi neuchâteloise sur les marchés publics qui fixait des proportions maximales impératives de personnel temporaire (15%, 10%, 5% selon la taille du marché). Le Tribunal fédéral juge que cette disposition viole l'AIMP 2019 car elle impose des limites systématiques sans considération pour les spécificités de chaque marché et poursuit un objectif de politique sociale plutôt que d'assurance de qualité. En revanche, l'article 9 al. 1 LCMP/NE, qui autorise les adjudicateurs à limiter le travail temporaire au cas par cas, est conforme à l'AIMP car il laisse une marge d'appréciation. L'arrêt clarifie les limites du pouvoir cantonal : seules des limitations individualisées et justifiées sont admissibles.",
+
+  "statistiques": {
+    "nombre_mots_analyse_complete": 7538,
+    "nombre_references_legislatives": 5,
+    "nombre_arrets_connexes": 2,
+    "nombre_mots_cles": 13,
+    "niveau_complexite": "Élevé",
+    "domaines_droit_concernes": [
+      "Droit des marchés publics",
+      "Droit constitutionnel (liberté économique)",
+      "Droit du travail (travail temporaire)"
+    ]
+  }
+}

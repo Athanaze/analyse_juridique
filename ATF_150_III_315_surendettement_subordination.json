@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "titre": "Surendettement de la société anonyme : avis au juge et prêts subordonnés",
+    "date_analyse": "2025-10-28",
+    "domaine": "Droit des sociétés",
+    "sous_domaine": "Surendettement, subordination de créances, obligations du conseil d'administration"
+  },
+
+  "arrets_analyses": [
+    {
+      "reference": "ATF 150 III 315",
+      "numero_cause": "5A_146/2024",
+      "date": "2024-07-03",
+      "juridiction": "IIe Cour de droit civil du Tribunal fédéral",
+      "parties": "A. AG en liquidation c. Obergericht des Kantons Zürich",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?highlight_docid=atf://150-III-315:fr&lang=fr&type=show_document"
+    },
+    {
+      "reference": "ATF 132 III 564",
+      "numero_cause": "4C.122/2006",
+      "date": "2006-06-27",
+      "juridiction": "Ire Cour de droit civil du Tribunal fédéral",
+      "parties": "X. et Y. c. banque créancière",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?highlight_docid=atf://132-III-564:fr&lang=fr&type=show_document"
+    },
+    {
+      "reference": "ATF 129 III 129",
+      "date": "2003",
+      "juridiction": "Tribunal fédéral",
+      "description": "Subordination et compensation durant le surendettement"
+    },
+    {
+      "reference": "ATF 142 III 364",
+      "date": "2016",
+      "juridiction": "Tribunal fédéral",
+      "description": "Subordination couvrant le surendettement, distinction valeurs de continuation/liquidation",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=atf://142-III-364:fr&lang=fr&type=show_document"
+    },
+    {
+      "reference": "Arrêt 5A_625/2015",
+      "date": "2016-01-18",
+      "juridiction": "IIe Cour de droit civil du Tribunal fédéral",
+      "description": "Nature de l'avis de surendettement, impossibilité de retrait",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza://18-01-2016-5A_625-2015&lang=fr&type=show_document"
+    },
+    {
+      "reference": "Arrêts 5A_790/2017, 5A_625/2015, 5A_517/2011, 5A_587/2011",
+      "description": "Conditions de l'avis de surendettement et ouverture de la faillite"
+    }
+  ],
+
+  "articles_loi": [
+    {
+      "reference": "Art. 725b CO",
+      "titre": "Obligations du conseil d'administration en cas de surendettement",
+      "description": "Le conseil d'administration doit aviser le juge lorsque le passif n'est plus couvert ni par les valeurs de continuation de l'exploitation ni par les valeurs de liquidation"
+    },
+    {
+      "reference": "Art. 725b al. 3 CO",
+      "titre": "Avis au juge par le conseil d'administration",
+      "description": "Obligation d'aviser le juge en cas de surendettement manifeste"
+    },
+    {
+      "reference": "Art. 729c CO",
+      "titre": "Avis au juge par l'organe de révision",
+      "description": "L'organe de révision avise le juge lorsque le conseil d'administration demeure inactif face au surendettement manifeste"
+    },
+    {
+      "reference": "Art. 192 LP (SchKG)",
+      "titre": "Ouverture de la faillite sur avis de surendettement",
+      "description": "Le juge prononce la faillite sur la base d'un avis de surendettement"
+    },
+    {
+      "reference": "Art. 255 lit. a CPC (ZPO)",
+      "titre": "Maxime inquisitoire en procédure de faillite",
+      "description": "Devoir d'instruction du tribunal dans les procédures de faillite"
+    },
+    {
+      "reference": "Art. 228c CO",
+      "titre": "Obligations de l'organe de révision (contrôle ordinaire)",
+      "description": "Missions de contrôle de l'organe de révision"
+    },
+    {
+      "reference": "Art. 725 al. 2 CO",
+      "titre": "Avis au juge (ancienne version)",
+      "description": "Version antérieure de l'obligation d'avis au juge"
+    }
+  ],
+
+  "jurisprudence_citee": [
+    "ATF 127 IV 110 (obligations de l'organe de révision)",
+    "ATF 128 III 411 (surendettement et bilan intermédiaire)",
+    "ATF 130 III 102 (procédure de faillite)",
+    "ATF 132 III 564 (devoir de diligence, avis au juge)",
+    "ATF 129 III 129 (subordination et compensation)",
+    "ATF 142 III 364 (subordination, valeurs continuation vs liquidation)",
+    "Arrêt 5A_790/2017 du 03.09.2018",
+    "Arrêt 5A_625/2015 du 18.01.2016",
+    "Arrêt 5A_517/2011",
+    "Arrêt 5A_587/2011"
+  ],
+
+  "doctrine_citee": [
+    {
+      "auteurs": "EBERLE/LENGAUER",
+      "description": "Commentaires sur le droit des sociétés"
+    },
+    {
+      "auteurs": "WATTER/BÜNZIGER",
+      "description": "Commentaires sur le droit des sociétés"
+    },
+    {
+      "auteurs": "VON DER CRONE",
+      "description": "Doctrine sur le droit des sociétés anonymes"
+    },
+    {
+      "auteurs": "BÄCKLI",
+      "description": "Doctrine sur le droit des sociétés"
+    },
+    {
+      "description": "Swiss Auditing Handbooks (Manuels suisses de révision comptable)"
+    }
+  ],
+
+  "mots_cles": [
+    "surendettement (Überschuldung)",
+    "avis au juge (Schuldenruf)",
+    "subordination de créances (Rangrücktritt)",
+    "prêt subordonné",
+    "art. 725b CO",
+    "art. 729c CO",
+    "conseil d'administration",
+    "organe de révision",
+    "bilan intermédiaire",
+    "valeurs de continuation (Fortführungswerte)",
+    "valeurs de liquidation (Liquidationswerte)",
+    "ouverture de faillite",
+    "art. 192 LP",
+    "irreversibilité de l'avis",
+    "intérêts subordonnés",
+    "dette en monnaie étrangère",
+    "maxime inquisitoire"
+  ],
+
+  "analyse_complete": "# Surendettement de la société anonyme : l'avis au juge et l'effet juridique des prêts subordonnés\n\n## Introduction\n\nLe surendettement d'une société anonyme déclenche des obligations impératives pour ses organes, conçues pour protéger les créanciers contre l'aggravation de leur situation. L'ATF 150 III 315, rendu le 3 juillet 2024, apporte d'importantes précisions sur les conditions de l'avis au juge et sur l'effet juridique des prêts subordonnés dans le calcul du surendettement.\n\nCet arrêt s'inscrit dans une jurisprudence constante visant à garantir l'effectivité du mécanisme de protection des créanciers tout en préservant les possibilités d'assainissement des entreprises en difficulté.\n\n## I. Le mécanisme de l'avis au juge en cas de surendettement\n\n### A. La notion de surendettement au sens de l'art. 725b CO\n\nL'art. 725b CO impose au conseil d'administration d'aviser le juge \"si le passif n'est plus couvert ni selon les valeurs de continuation de l'exploitation ni selon les valeurs de liquidation\".\n\nComme le rappelle l'ATF 150 III 315, le surendettement se définit par l'existence d'un \"déficit du bilan tant aux valeurs de continuation qu'aux valeurs de liquidation\". Cette double exigence signifie qu'une société dont le passif n'est pas couvert aux valeurs de continuation mais qui présente un excédent aux valeurs de liquidation n'est pas surendettée au sens de l'art. 725b CO.\n\nL'ATF 132 III 564 précise que pour déterminer l'existence de \"motifs sérieux d'admettre un surendettement\", le conseil d'administration ne doit pas se fonder uniquement sur le bilan annuel, mais également tenir compte \"d'autres signaux d'alerte liés à l'évolution de l'activité de la société, tels que l'existence de pertes continues ou l'état des fonds propres\".\n\n### B. L'obligation d'établir un bilan intermédiaire\n\nLorsque des indices de surendettement apparaissent, le conseil d'administration doit établir un **bilan intermédiaire** aux valeurs de liquidation. Comme l'énonce l'ATF 132 III 564 : \"S'il existe des raisons sérieuses de croire que la société est surendettée, un bilan intermédiaire est dressé et soumis à l'organe de révision pour vérification (art. 725 al. 2 1ère phrase CO)\".\n\nCe bilan intermédiaire constitue un instrument d'appréciation objectif permettant de déterminer si l'obligation d'aviser le juge est déclenchée. L'ATF 150 III 315 souligne qu'en l'absence d'un tel bilan, l'avis de l'organe de révision conserve une valeur probante déterminante.\n\n### C. La nature juridique de l'avis de surendettement\n\nL'arrêt 5A_625/2015 du 18 janvier 2016 apporte une précision fondamentale : \"l'avis de surendettement ne constitue pas une demande d'ouverture de faillite\" mais constitue l'accomplissement d'une **obligation légale** du conseil d'administration.\n\nL'ATF 150 III 315 confirme cette analyse en énonçant que \"l'avis de surendettement est donné en exécution d'une obligation légale et ne peut être retiré, mais seulement corrigé\".\n\nCette nature particulière emporte plusieurs conséquences :\n\n1. **Irrévocabilité** : Une fois déposé, l'avis ne peut être retiré, même si un nouveau conseil d'administration est nommé\n2. **Rectification possible** : Seule une correction fondée sur des éléments objectifs nouveaux est admissible\n3. **Obligation du juge** : L'art. 192 LP impose au juge de prononcer la faillite dès réception d'un avis régulier, sauf exceptions légales\n\n## II. Le rôle de l'organe de révision : avis subsidiaire en cas d'inaction du conseil\n\n### A. La compétence subsidiaire de l'art. 729c CO\n\nL'ATF 150 III 315 précise que \"l'organe de révision n'est autorisé à signaler le surendettement selon l'art. 729c CO que lorsque celui-ci est manifeste et que le conseil d'administration ne remplit pas ses obligations selon l'art. 725b CO\".\n\nCette compétence subsidiaire répond à une logique de protection : elle garantit que l'inaction du conseil d'administration ne permettra pas à la société de continuer son activité en surendettement au détriment des créanciers.\n\nL'ATF 127 IV 110 confirme : \"L'organe de révision peut et doit informer le juge lui-même seulement si le surendettement est manifeste et que le conseil d'administration demeure inactif (art. 729b al. 2 CO)\".\n\n### B. Les conditions de l'avis par l'organe de révision\n\nPour que l'organe de révision puisse valablement aviser le juge, deux conditions cumulatives doivent être réunies :\n\n1. **Surendettement manifeste** : Le déficit doit être évident et indiscutable\n2. **Inaction du conseil d'administration** : Le conseil doit avoir manqué à son obligation d'aviser le juge\n\nDans l'ATF 150 III 315, l'organe de révision avait constaté un découvert de CHF 69'261.66 au 31 décembre 2022 et avait avisé le juge le 10 août 2023, après que le conseil d'administration soit demeuré inactif.\n\n## III. L'effet juridique des prêts subordonnés sur le surendettement\n\n### A. Le principe : la subordination transforme un surendettement prohibé en situation tolérable\n\nLa subordination de créances (*Rangrücktritt* en allemand) constitue un mécanisme permettant d'éviter l'obligation d'aviser le juge. Comme l'énonce l'ATF 150 III 315 : \"Le conseil d'administration n'est pas tenu de demander la faillite si le surendettement est couvert par des subordinations suffisantes\".\n\nLa logique est la suivante : le créancier subordonné accepte contractuellement que sa créance ne soit exigible qu'après désintéressement complet de tous les autres créanciers. Aux fins du calcul du surendettement, cette créance peut donc être neutralisée, puisqu'elle ne menace pas les créanciers ordinaires.\n\nL'ATF 129 III 129 précise : \"Durant la période de surendettement, le créancier subordonné perd le droit de faire valoir sa créance, ce qui exclut implicitement la possibilité de compenser sa créance\".\n\n### B. L'exigence récente : subordination des intérêts\n\nL'ATF 150 III 315 introduit une précision importante qui durcit les exigences de la subordination : \"Il est désormais exigé que les intérêts dus soient également subordonnés\".\n\nCette règle répond à une logique de cohérence : si le capital peut être subordonné mais que les intérêts demeurent exigibles, ces derniers grèvent le patrimoine social et menacent les créanciers ordinaires. Pour que la subordination neutralise efficacement le surendettement, elle doit porter sur l'ensemble de la dette, capital et intérêts.\n\nDans l'affaire ayant donné lieu à l'ATF 150 III 315, la recourante alléguait disposer d'une ligne de crédit subordonnée de CHF 3,6 millions, largement suffisante pour couvrir le découvert de CHF 69'261.66. Toutefois, le Tribunal fédéral a confirmé qu'en l'absence de bilan intermédiaire aux valeurs de liquidation démontrant la suffisance de cette subordination (intérêts inclus), l'avis de surendettement demeurait justifié.\n\n### C. Distinctions avec d'autres mécanismes\n\nL'ATF 150 III 315 précise que \"les 'garanties de couverture' et les déclarations de patronage ne constituent pas des alternatives à la subordination\".\n\nCette exclusion se justifie par la différence de nature juridique :\n\n**Subordination** : Modification du rang de la créance dans la hiérarchie des créanciers. La créance existe mais devient postérieure aux autres.\n\n**Garantie de couverture / déclaration de patronage** : Engagement accessoire d'un tiers (souvent l'actionnaire) de fournir des moyens financiers. Ces engagements ne modifient pas la structure du passif et conservent un caractère conditionnel.\n\nSeule la subordination produit un effet juridique immédiat et certain sur le bilan de la société.\n\n### D. Application aux dettes en monnaie étrangère\n\nL'ATF 150 III 315 aborde également la question des **fluctuations de change** sur les dettes subordonnées libellées en monnaie étrangère. Le Tribunal fédéral énonce que \"les gains de change sur la dette subordonnée en devises étrangères n'affectent pas le calcul du surendettement concernant les créanciers non subordonnés\".\n\nCette solution repose sur la logique suivante : si un prêt de EUR 100'000 a été subordonné et qu'une appréciation du franc suisse réduit sa contre-valeur à CHF 90'000, ce gain de change profite exclusivement au créancier subordonné (dont la créance diminue en francs suisses) mais ne modifie pas la situation des créanciers ordinaires, qui demeurent exposés au même risque.\n\n## IV. La procédure d'ouverture de la faillite sur avis de surendettement\n\n### A. La maxime inquisitoire tempérée\n\nL'art. 255 lit. a CPC consacre la maxime inquisitoire dans les procédures de faillite : le tribunal doit établir les faits d'office. Toutefois, l'ATF 150 III 315 précise les limites de cette obligation :\n\n\"Malgré le principe inquisitoire, les parties doivent coopérer activement ; la non-coopération n'excuse pas le devoir d'instruction du tribunal mais permet de se fier à la présentation de l'auditeur.\"\n\nEn d'autres termes :\n- Le juge conserve un devoir d'instruction actif\n- Les parties ne peuvent se retrancher derrière la maxime inquisitoire pour refuser de collaborer\n- En cas de non-coopération du débiteur, le juge peut s'appuyer sur les constatations de l'organe de révision\n\nDans l'affaire de l'ATF 150 III 315, la recourante reprochait au tribunal cantonal de ne pas avoir établi lui-même un bilan intermédiaire. Le Tribunal fédéral a rejeté ce grief, relevant que la société n'avait jamais produit un tel bilan et que l'avis de l'organe de révision, non contredit par des éléments objectifs, constituait une base suffisante.\n\n### B. Les moyens de défense du débiteur\n\nSelon l'ATF 150 III 315, \"sans avis de surendettement du conseil d'administration, de l'organe de révision ou d'un réviseur agréé, la faillite ne peut être prononcée selon l'art. 192 LP en relation avec l'art. 725b al. 3 CO\".\n\nLe débiteur qui conteste l'ouverture de la faillite doit donc démontrer :\n1. L'absence de surendettement (par production d'un bilan intermédiaire contradictoire)\n2. La nullité de l'avis (incompétence de son auteur, vice de forme)\n3. L'existence d'une subordination suffisante couvrant le découvert\n\nLa simple allégation de l'existence d'une subordination ne suffit pas : elle doit être prouvée et le bilan intermédiaire doit démontrer que, compte tenu de cette subordination (capital et intérêts), le surendettement est résorbé.\n\n## V. Les exceptions à l'obligation d'aviser le juge : l'assainissement\n\n### A. Le principe posé par l'ATF 132 III 564\n\nL'obligation d'aviser le juge n'est pas absolue. L'ATF 132 III 564 énonce : \"L'avis au juge peut être exceptionnellement différé si des mesures tendant à un assainissement concret aux perspectives de succès sérieuses sont prises aussitôt.\"\n\nCette exception répond à une logique pragmatique : si un assainissement rapide et réaliste est en cours, l'avis immédiat au juge risquerait de provoquer la faillite et d'anéantir les chances de redressement.\n\n### B. Les conditions strictes de l'exception\n\nLa jurisprudence impose des conditions strictes :\n\n1. **Mesures concrètes** : Des projets vagues ou de simples intentions ne suffisent pas\n2. **Perspectives de succès sérieuses** : Appréciation objective de la viabilité du plan d'assainissement\n3. **Mise en œuvre immédiate** : Les mesures doivent être prises \"aussitôt\", sans délai\n\nDans l'ATF 132 III 564, le Tribunal fédéral a refusé de reconnaître cette exception pour une société inactive : \"Aucun assainissement n'était réaliste pour une société inactive\".\n\nCette jurisprudence démontre que l'exception demeure exceptionnelle et ne peut servir de prétexte à retarder indéfiniment l'avis au juge.\n\n## VI. Responsabilité du conseil d'administration en cas de violation\n\n### A. Fondement de la responsabilité : art. 754 CO\n\nL'art. 754 al. 1 CO établit la responsabilité des administrateurs \"pour le dommage causé par violation intentionnelle ou par négligence de leurs devoirs\".\n\nL'ATF 132 III 564 illustre cette responsabilité : des administrateurs qui ont omis d'aviser le juge pendant cinq ans (de 1992 à 1997) alors que la société était manifestement surendettée ont été tenus solidairement responsables du dommage subi par les créanciers (découvert de CHF 611'688).\n\n### B. Le lien de causalité entre l'omission et le dommage\n\nLe créancier qui actionne les administrateurs doit démontrer que l'absence d'avis au juge a causé ou aggravé son dommage. Comme le précise l'ATF 132 III 564, le retard dans l'avis permet généralement à la société de continuer son activité, d'engendrer de nouvelles dettes et d'aggraver le découvert, établissant ainsi le lien de causalité.\n\n### C. La solidarité différenciée selon l'art. 759 CO\n\nL'art. 759 CO prévoit une solidarité entre les responsables, mais \"différenciée\" selon le degré de faute de chacun. Les administrateurs actifs et informés supporteront généralement une part plus importante que les administrateurs passifs, bien que tous demeurent solidairement responsables envers les créanciers.\n\n## VII. Enseignements systématiques et recommandations pratiques\n\n### A. Un mécanisme de protection des créanciers strictement encadré\n\nL'ensemble de la jurisprudence analysée révèle la volonté du législateur et du Tribunal fédéral de garantir l'effectivité de la protection des créanciers. Les principales caractéristiques du système sont :\n\n1. **Automaticité** : Dès le surendettement constaté, l'obligation d'aviser le juge naît automatiquement\n2. **Irrévocabilité** : L'avis ne peut être retiré, seulement corrigé sur la base d'éléments objectifs\n3. **Subsidiarité de l'organe de révision** : Garantie contre l'inaction du conseil d'administration\n4. **Responsabilité personnelle des administrateurs** : Incitation forte au respect de l'obligation\n\n### B. La subordination comme instrument d'assainissement\n\nLa subordination de créances constitue un outil puissant permettant aux actionnaires de soutenir leur société sans apport de capital frais :\n\n**Avantages** :\n- Neutralise le surendettement sans injection de liquidités\n- Préserve la continuité de l'exploitation\n- Permet d'éviter la faillite tout en protégeant les créanciers ordinaires\n\n**Exigences** (durcies par l'ATF 150 III 315) :\n- Subordination expresse et non équivoque\n- Portant sur le capital ET les intérêts\n- Documentée par un accord écrit\n- Reflétée dans le bilan intermédiaire aux valeurs de liquidation\n\n### C. Recommandations pratiques\n\n**Pour les conseils d'administration** :\n1. Surveiller en continu les indicateurs de santé financière (fonds propres, pertes, trésorerie)\n2. Établir un bilan intermédiaire dès l'apparition d'indices de surendettement\n3. En cas de surendettement, agir immédiatement : soit aviser le juge, soit mettre en place un assainissement réaliste ou une subordination suffisante\n4. Documenter rigoureusement toutes les décisions et démarches\n5. Ne jamais différer l'avis au juge sans plan d'assainissement concret et viable\n\n**Pour les actionnaires souhaitant subordonner leurs créances** :\n1. Rédiger un accord de subordination explicite couvrant capital et intérêts\n2. Vérifier que le montant subordonné couvre intégralement le découvert\n3. Faire constater la subordination dans un bilan intermédiaire vérifié\n4. Anticiper les fluctuations de change pour les dettes en devises\n5. Ne pas confondre subordination et simple déclaration de patronage (qui n'a pas le même effet)\n\n**Pour les organes de révision** :\n1. Exercer une surveillance active de la situation financière\n2. En cas de surendettement manifeste et d'inaction du conseil, assumer la responsabilité subsidiaire d'aviser le juge (art. 729c CO)\n3. Vérifier l'effectivité et la suffisance des subordinations alléguées\n4. Documenter tous les constats dans les rapports de révision\n\n**Pour les créanciers** :\n1. Surveiller les signaux d'alerte (retards de paiement, pertes continues)\n2. En cas de faillite ultérieure, vérifier si le conseil d'administration a respecté l'obligation d'avis au juge\n3. Envisager une action en responsabilité selon l'art. 754 CO si un retard fautif a aggravé le dommage\n4. Se méfier des simples déclarations de patronage, qui n'empêchent pas le surendettement\n\n## Conclusion\n\nL'ATF 150 III 315 s'inscrit dans une jurisprudence constante et protectrice des créanciers, tout en préservant les mécanismes d'assainissement des entreprises viables. Cet arrêt apporte trois contributions majeures :\n\n1. **Confirmation de l'irrévocabilité de l'avis** : Une fois déposé, l'avis de surendettement déclenche inexorablement la procédure de faillite, sauf correction fondée sur des éléments objectifs nouveaux\n\n2. **Durcissement des exigences de subordination** : L'obligation de subordonner également les intérêts garantit une protection effective des créanciers ordinaires et évite les contournements\n\n3. **Clarification du rôle de l'organe de révision** : La compétence subsidiaire de l'art. 729c CO fonctionne comme un filet de sécurité en cas de défaillance du conseil d'administration\n\nCette jurisprudence reflète un équilibre subtil : la loi suisse ne cherche pas à empêcher à tout prix la faillite des entreprises non viables, mais elle exige que le surendettement soit traité rapidement et transparemment, soit par un assainissement réaliste, soit par une subordination effective, soit par la liquidation judiciaire. Le respect de ces règles garantit la confiance dans le commerce et protège les créanciers contre l'aggravation injustifiée de leur situation.",
+
+  "version_courte": "## Surendettement et subordination : l'essentiel\n\n### Définition du surendettement (art. 725b CO)\nSurendettement = passif non couvert **ni** aux valeurs de continuation **ni** aux valeurs de liquidation.\n\n### Obligation d'aviser le juge\n**Qui ?** \n- En premier lieu : le conseil d'administration (art. 725b CO)\n- Subsidiairement : l'organe de révision en cas de surendettement manifeste et d'inaction du conseil (art. 729c CO)\n\n**Nature de l'avis** (ATF 150 III 315, arrêt 5A_625/2015) :\n- C'est une **obligation légale**, non une demande de faillite\n- **Irrévocable** : ne peut être retiré, seulement corrigé\n- Déclenche automatiquement la procédure de faillite (art. 192 LP)\n\n### Exceptions à l'obligation d'aviser\n\n**1. Assainissement en cours** (ATF 132 III 564) :\n- Mesures **concrètes** d'assainissement\n- Perspectives de succès **sérieuses**\n- Mise en œuvre **immédiate**\n- Exception rare et strictement interprétée\n\n**2. Subordination suffisante** (ATF 150 III 315) :\n- Le conseil n'est pas tenu d'aviser si le surendettement est couvert par des subordinations suffisantes\n- **Nouveauté 2024** : les **intérêts** doivent également être subordonnés\n- Les \"garanties de couverture\" et déclarations de patronage ne sont **pas** équivalentes à la subordination\n- Gains de change sur dettes subordonnées en devises étrangères n'affectent pas le calcul\n\n### Subordination : effet juridique\n- Transforme un surendettement **prohibé** en situation **tolérable**\n- Le créancier subordonné perd le droit de faire valoir sa créance durant le surendettement (ATF 129 III 129)\n- Ne transforme **pas** la dette en fonds propres : reste une dette, mais postérieure\n\n### Bilan intermédiaire\nEn cas d'indices de surendettement :\n- Le conseil doit établir un **bilan intermédiaire aux valeurs de liquidation**\n- Soumis à l'organe de révision pour vérification\n- Indispensable pour déterminer si l'obligation d'avis est déclenchée\n\n### Responsabilité des administrateurs (art. 754 CO)\nEn cas de violation de l'obligation d'aviser :\n- Responsabilité **solidaire** (mais différenciée selon l'art. 759 CO)\n- Pour le dommage causé aux créanciers\n- L'ATF 132 III 564 : administrateurs condamnés pour 5 ans de retard ayant aggravé le découvert\n\n### Procédure de faillite\n- Maxime inquisitoire tempérée (art. 255 lit. a CPC)\n- Le tribunal doit instruire d'office, mais les parties doivent coopérer\n- En cas de non-coopération, le tribunal peut se fier à l'avis de l'organe de révision\n\n### Points clés pratiques\n✓ Surveiller en continu les indicateurs financiers\n✓ Établir un bilan intermédiaire dès les premiers indices\n✓ Si subordination : documenter par écrit, couvrir capital **et** intérêts\n✓ Ne jamais différer l'avis sans assainissement réaliste\n✓ L'organe de révision a un devoir subsidiaire d'agir si le conseil reste inactif"
+}

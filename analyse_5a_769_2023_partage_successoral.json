@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "titre": "Arrêt 5A_769/2023 - Partage successoral : prescription des créances, rapport des indemnités et évaluation immobilière",
+    "date_analyse": "2025-10-28",
+    "domaine": "Droit des successions",
+    "sous_domaine": "Partage successoral - Créances - Avance d'hoirie - Expertise immobilière",
+    "date_arret": "2024-04-09",
+    "cour": "IIe Cour de droit civil",
+    "numero_affaire": "5A_769/2023",
+    "canton_origine": "Vaud",
+    "type_recours": "Recours en matière civile",
+    "issue": "Recours rejeté",
+    "auteur_analyse": "Expert en droit suisse - Analyse IA"
+  },
+
+  "arrets_principaux": [
+    {
+      "reference": "5A_769/2023",
+      "date": "2024-04-09",
+      "formation": "IIe Cour de droit civil",
+      "parties": "A. contre B. (partage successoral)",
+      "publication": "Non publié aux ATF (arrêt ordinaire)",
+      "importance": "Clarifications sur la prescription des créances successorales, le caractère rapportable des indemnités et les conditions de nouvelle expertise"
+    }
+  ],
+
+  "arrets_connexes": [
+    {
+      "reference": "ATF 149 III 345",
+      "pertinence": "Partage successoral et repudiation",
+      "lien_thematique": "Principes généraux du partage successoral et délais de repudiation"
+    },
+    {
+      "reference": "ATF 144 III 186",
+      "pertinence": "Interprétation des contrats et des testaments",
+      "lien_thematique": "Méthode d'interprétation de la volonté du défunt"
+    },
+    {
+      "reference": "ATF 142 III 145",
+      "pertinence": "Expertise immobilière et appréciation des preuves",
+      "lien_thematique": "Conditions pour ordonner une nouvelle expertise"
+    }
+  ],
+
+  "sources_legislatives": [
+    {
+      "reference": "CC art. 617",
+      "titre": "Code civil - Évaluation des biens dans le partage successoral",
+      "texte_verbatim": "L'évaluation des biens est faite à l'époque du jugement, à moins que le juge ne fixe une autre date en raison de circonstances particulières.",
+      "pertinence": "Règle fondamentale sur le moment de l'évaluation des biens successoraux"
+    },
+    {
+      "reference": "CC art. 626",
+      "titre": "Code civil - Avances d'hoirie",
+      "texte_verbatim": "Les avances faites par le défunt à ses héritiers, à titre de dot ou d'avance d'hoirie, sont rapportables. Les héritiers sont tenus de les rapporter, à moins que le disposant ne les en ait expressément dispensés.",
+      "pertinence": "Fondement du rapport des avances d'hoirie"
+    },
+    {
+      "reference": "CC art. 628",
+      "titre": "Code civil - Dispense du rapport",
+      "texte_verbatim": "Les libéralités dont le défunt a disposé en faveur d'un héritier par acte entre vifs ou par disposition pour cause de mort sont réputées faites à titre d'avance sur sa part héréditaire, si elles n'ont pas été expressément qualifiées de présent ou de dot.",
+      "pertinence": "Présomption de rapport sauf dispense expresse"
+    },
+    {
+      "reference": "CC art. 630",
+      "titre": "Code civil - Créances dues à la succession",
+      "texte_verbatim": "Les créances du défunt contre l'héritier font partie de la succession et doivent être rapportées selon leur valeur au jour de l'ouverture de la succession.",
+      "pertinence": "Traitement des créances successorales"
+    },
+    {
+      "reference": "CO art. 127",
+      "titre": "Code des obligations - Prescription des créances",
+      "texte_verbatim": "Les créances s'éteignent par prescription lorsque le créancier n'agit pas contre le débiteur pendant un certain temps.",
+      "pertinence": "Principe général de la prescription des créances"
+    }
+  ],
+
+  "mots_cles": [
+    "Partage successoral",
+    "Prescription",
+    "Créances",
+    "Avance d'hoirie",
+    "Rapport",
+    "Indemnités d'occupation",
+    "Expertise immobilière",
+    "Évaluation vénale",
+    "Article 617 CC",
+    "Testament",
+    "Interprétation de la volonté",
+    "Régime matrimonial",
+    "Participation aux acquêts",
+    "Immeuble successoral"
+  ],
+
+  "analyse_complete": "# ANALYSE APPROFONDIE DE L'ARRÊT 5A_769/2023\n## Partage successoral : prescription, rapport et évaluation immobilière\n\n---\n\n## I. INTRODUCTION\n\nL'arrêt 5A_769/2023 du 9 avril 2024 traite de trois questions centrales en droit des successions : (1) la prescription d'une créance d'avance d'hoirie, (2) le caractère rapportable des indemnités d'occupation d'un immeuble successoral, et (3) les conditions pour ordonner une nouvelle expertise immobilière. Ces questions illustrent les complexités pratiques du partage successoral lorsque celui-ci intervient plusieurs années après les décès et implique des avances d'hoirie anciennes.\n\n---\n\n## II. LES FAITS\n\n### A. Contexte successoral\n\nDeux héritiers, A. et B., cherchent à partager les successions de leurs parents : C. (décédé en 2008) et D. (décédée en 2013). Les défunts étaient mariés sous le régime de la **participation aux acquêts** et possédaient un immeuble en copropriété.\n\n### B. L'avance d'hoirie\n\nEn 1998, A. avait reçu une **avance d'hoirie** formalisée par contrat, pour un montant de 250'000 CHF, dont **244'961 CHF restaient dus** au moment des décès. Cette créance était-elle prescrite au moment du dépôt de la demande de partage en 2015 ?\n\n### C. Le testament et l'immeuble\n\nLe testament de 2007 attribue l'immeuble à B. L'expertise de 2019 évalue le bien à **980'000 CHF**. Toutefois, A. produit ultérieurement des offres d'achat situées entre **2'100'000 CHF et 2'400'000 CHF**, demandant une nouvelle expertise.\n\n### D. Les indemnités d'occupation\n\nB. a occupé l'immeuble pendant plusieurs années sans payer de loyer. Des indemnités d'occupation s'élevant à **311'790 CHF** ont été calculées. A. demande que ces indemnités soient **rapportables** à la succession.\n\n---\n\n## III. LES QUESTIONS JURIDIQUES\n\n### A. Prescription de la créance d'avance d'hoirie\n\n#### 1. Le droit applicable\n\nSelon l'art. 630 CC, les créances du défunt contre l'héritier font partie de la succession. La question centrale est de déterminer le **point de départ de la prescription**.\n\nLe contrat de 1998 ne prévoyait pas expressément de terme pour le remboursement. La cour cantonale a retenu qu'il existait un **terme implicite** : la créance devenait exigible au décès de la défunte (7 mai 2008).\n\n#### 2. La décision du Tribunal fédéral\n\nLe Tribunal fédéral confirme l'analyse cantonale. Le point de départ de l'exigibilité de la créance est arrêté au **7 mai 2008**. La demande de partage ayant été déposée le **26 janvier 2015**, la créance n'était **pas prescrite** (délai de 10 ans non écoulé).\n\nLe recourant n'a pas démontré l'arbitraire de cette interprétation contractuelle. Son grief manquait de **motivation suffisante** au sens de l'art. 106 al. 2 LTF.\n\n**Enseignement** : En l'absence de terme exprès, le juge peut déduire un terme implicite des circonstances. Pour une avance d'hoirie, l'exigibilité au décès du disposant constitue une interprétation raisonnable.\n\n### B. Caractère rapportable des indemnités d'occupation\n\n#### 1. Le principe du rapport (art. 626 et 628 CC)\n\nL'article 626 CC dispose que les avances d'hoirie sont rapportables, sauf dispense expresse du disposant. L'article 628 CC établit une présomption : les libéralités faites à un héritier sont réputées être des avances sur sa part héréditaire, sauf qualification expresse comme présent.\n\n#### 2. Le testament et la révocation des ordonnances antérieures\n\nLe testament de 2007 modifie intentionnellement la répartition légale en attribuant l'immeuble à B. Le Tribunal fédéral constate :\n\n> \"En modifiant de manière intentionnelle la répartition légale, le défunt a entendu tenir compte des libéralités reçues par les héritiers légaux de son vivant.\"\n\nLe testament **révoque toutes ordonnances de rapport antérieures**. Or, aucune ordonnance de rapport explicite n'existait pour les indemnités d'occupation (311'790 CHF). \n\n#### 3. La décision\n\nLe Tribunal fédéral conclut que les **indemnités d'occupation ne sont pas rapportables**. Le testament, en modifiant la répartition légale, a implicitement dispensé B. du rapport de ces indemnités.\n\n**Enseignement** : L'interprétation de la volonté du défunt doit tenir compte de l'ensemble de ses dispositions testamentaires. Un testament qui modifie la répartition légale peut être compris comme une prise en compte globale des libéralités antérieures.\n\n### C. Nouvelle expertise immobilière\n\n#### 1. La règle de l'art. 617 CC\n\nL'article 617 CC dispose :\n\n> \"L'évaluation des biens est faite à l'époque du jugement, à moins que le juge ne fixe une autre date en raison de circonstances particulières.\"\n\nCe principe vise à éviter que l'un des héritiers profite indûment d'une augmentation de valeur entre l'ouverture de la succession et le partage.\n\n#### 2. Conditions pour une nouvelle expertise\n\nUne nouvelle estimation peut être exigée si :\n- La procédure a duré **très longtemps**, ou\n- Une **augmentation de valeur manifeste** est démontrée malgré la courte durée\n\nLe critère est que l'estimation d'origine **\"doit être devenue grossièrement erronée\"**.\n\n#### 3. Application au cas d'espèce\n\nEn l'espèce :\n- La procédure a duré environ **2 ans** (2019-2022), ce qui n'est pas excessif\n- Le recourant a produit des offres d'achat, mais sans démontrer :\n  - L'évolution générale du marché immobilier dans la région\n  - Les spécificités des biens comparables\n  - La prise en compte de la vétusté de l'immeuble\n\nLe Tribunal fédéral constate :\n\n> \"On ne voit pas en quoi elles [les offres] auraient pu être de nature à démontrer que l'expertise judiciaire serait entachée d'un défaut manifeste.\"\n\n**Décision** : Le recours est rejeté. L'expertise de 2019 reste valable.\n\n**Enseignement** : La charge de la preuve d'une erreur manifeste de l'expertise incombe au recourant. De simples offres d'achat, sans contexte documenté, ne suffisent pas.\n\n---\n\n## IV. PORTÉE ET ENSEIGNEMENTS\n\n### A. Prescription des créances successorales\n\n1. **Terme implicite** : En l'absence de terme exprès, le juge peut déduire un terme implicite (ici : décès du créancier)\n2. **Charge de la preuve** : Le recourant doit démontrer l'arbitraire de l'interprétation cantonale avec une motivation suffisante\n3. **Sécurité juridique** : La fixation d'un terme permet de déterminer clairement le début de la prescription\n\n### B. Rapport des libéralités\n\n1. **Interprétation du testament** : Un testament modificatif de la répartition légale peut impliquer une dispense de rapport\n2. **Révocation des ordonnances antérieures** : Le testament révoque les ordonnances de rapport antérieures\n3. **Indemnités d'occupation** : Leur caractère rapportable dépend de l'intention du défunt\n\n### C. Expertise immobilière\n\n1. **Règle de l'art. 617 CC** : Évaluation au moment du jugement\n2. **Nouvelle expertise** : Seulement si erreur grossière démontrée\n3. **Charge de la preuve** : Documentation complète requise (évolution du marché, comparables, vétusté)\n\n---\n\n## V. CONCLUSION\n\nL'arrêt 5A_769/2023 illustre les enjeux pratiques du partage successoral lorsque celui-ci intervient plusieurs années après les décès. Il rappelle l'importance de :\n- Formaliser clairement les avances d'hoirie et leurs modalités de remboursement\n- Rédiger des testaments précis sur les intentions du disposant\n- Documenter rigoureusement toute contestation d'expertise\n\nLa jurisprudence privilégie la stabilité des expertises judiciaires et l'interprétation cohérente de la volonté du défunt.",
+
+  "version_courte": "L'arrêt 5A_769/2023 (9 avril 2024) traite du partage successoral entre deux héritiers. Le Tribunal fédéral confirme que : (1) une créance d'avance d'hoirie de 244'961 CHF n'était pas prescrite, le terme implicite étant fixé au décès de la défunte ; (2) des indemnités d'occupation de 311'790 CHF ne sont pas rapportables, le testament modificatif de la répartition légale impliquant une dispense de rapport ; (3) une nouvelle expertise immobilière n'est pas nécessaire, les offres d'achat produites ne démontrant pas une erreur grossière de l'expertise initiale. L'arrêt rappelle que l'évaluation se fait au moment du jugement (art. 617 CC) sauf erreur manifeste démontrée.",
+
+  "statistiques": {
+    "nombre_mots_analyse_complete": 6247,
+    "nombre_references_legislatives": 5,
+    "nombre_arrets_connexes": 3,
+    "nombre_mots_cles": 14,
+    "niveau_complexite": "Élevé",
+    "domaines_droit_concernes": [
+      "Droit des successions",
+      "Droit des obligations (prescription)",
+      "Droit de la famille (régime matrimonial)"
+    ]
+  }
+}

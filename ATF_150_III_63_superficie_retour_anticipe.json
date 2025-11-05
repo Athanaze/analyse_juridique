@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "titre": "Droit de retour anticipé du superficiant : application analogique de la mise en demeure (art. 107 CO)",
+    "date_analyse": "2025-10-28",
+    "domaine": "Droit des biens",
+    "sous_domaine": "Droit de superficie, retour anticipé, mise en demeure, résiliation pour inexécution"
+  },
+
+  "arrets_analyses": [
+    {
+      "reference": "ATF 150 III 63",
+      "numero_cause": "5A_941/2022",
+      "date": "2023-12-12",
+      "juridiction": "IIe Cour de droit civil du Tribunal fédéral",
+      "parties": "A. SA c. Commune B.",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?highlight_docid=atf://150-III-63:fr&lang=fr&type=show_document"
+    },
+    {
+      "reference": "ATF 103 II 102",
+      "date": "1977",
+      "juridiction": "Tribunal fédéral",
+      "description": "Délai raisonnable selon art. 107 al. 1 CO, exigences de la mise en demeure"
+    },
+    {
+      "reference": "ATF 127 III 248",
+      "date": "2001",
+      "juridiction": "Tribunal fédéral",
+      "description": "Contrat de vente immobilière, éléments essentiels",
+      "url": "http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf://127-III-248:fr&lang=fr&type=show_document"
+    },
+    {
+      "reference": "ATF 144 III 93",
+      "date": "2018",
+      "juridiction": "Tribunal fédéral",
+      "description": "Interprétation selon le principe de la confiance",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?highlight_docid=atf://144-III-93:fr&lang=fr&type=show_document"
+    },
+    {
+      "reference": "ATF 96 II 47",
+      "date": "1970",
+      "description": "Droit de superficie"
+    },
+    {
+      "reference": "ATF 105 II 28",
+      "date": "1979",
+      "description": "Délai convenable selon les circonstances"
+    },
+    {
+      "reference": "ATF 110 II 141",
+      "date": "1984",
+      "description": "Mise en demeure"
+    },
+    {
+      "reference": "ATF 130 III 302",
+      "date": "2004",
+      "description": "Inexécution contractuelle"
+    },
+    {
+      "reference": "ATF 143 III 495",
+      "date": "2017",
+      "description": "Résiliation de contrat"
+    }
+  ],
+
+  "articles_loi": [
+    {
+      "reference": "Art. 779 ss CC",
+      "titre": "Droit de superficie",
+      "description": "Dispositions sur le droit de bâtir en surface"
+    },
+    {
+      "reference": "Art. 107 al. 1 CO",
+      "titre": "Inexécution - Délai de grâce",
+      "description": "Lorsqu'une partie à un contrat bilatéral est en demeure, l'autre peut lui fixer ou lui faire fixer par l'autorité compétente un délai convenable pour s'exécuter"
+    },
+    {
+      "reference": "Art. 107 al. 2 CO",
+      "titre": "Déclaration immédiate après expiration du délai",
+      "description": "Si l'exécution n'a pas eu lieu à l'expiration de ce délai, le droit de la demander ainsi que des dommages-intérêts pour cause de retard subsiste ; toutefois le créancier qui fait une déclaration immédiate peut renoncer à ce droit et réclamer des dommages-intérêts en raison de l'inexécution, ou se départir du contrat"
+    },
+    {
+      "reference": "Art. 108 ch. 1 CO",
+      "titre": "Exception à la mise en demeure",
+      "description": "La fixation d'un délai n'est pas nécessaire lorsqu'il ressort de l'attitude du débiteur que cette mesure demeurerait sans effet"
+    },
+    {
+      "reference": "Art. 102 CO",
+      "titre": "Mise en demeure générale",
+      "description": "Le débiteur est mis en demeure par l'interpellation du créancier"
+    },
+    {
+      "reference": "Art. 127 CO",
+      "titre": "Prescription ordinaire",
+      "description": "Prescription de 10 ans"
+    },
+    {
+      "reference": "Art. 214 CO",
+      "titre": "Vente immobilière",
+      "description": "Forme authentique requise"
+    },
+    {
+      "reference": "Art. 4 CC",
+      "titre": "Appréciation du juge",
+      "description": "Principes généraux d'interprétation"
+    }
+  ],
+
+  "jurisprudence_citee": [
+    "ATF 96 II 47 (droit de superficie)",
+    "ATF 103 II 102 (délai raisonnable, exigences mise en demeure)",
+    "ATF 105 II 28 (délai convenable)",
+    "ATF 110 II 141 (mise en demeure)",
+    "ATF 127 III 248 (vente immobilière)",
+    "ATF 130 III 302 (inexécution)",
+    "ATF 143 III 495 (résiliation)",
+    "ATF 144 III 93 (principe de la confiance)"
+  ],
+
+  "doctrine_citee": [
+    {
+      "auteur": "PAUL PIOTET",
+      "annee": "1978",
+      "description": "Doctrine sur le droit de superficie"
+    },
+    {
+      "auteur": "DENIS PIOTET",
+      "annee": "2012",
+      "description": "Doctrine sur le droit de superficie"
+    },
+    {
+      "auteur": "BENNO HENGGELER",
+      "annee": "2005",
+      "description": "Doctrine sur le droit de superficie"
+    },
+    {
+      "auteur": "PAUL-HENRI STEINAUER",
+      "annee": "2021",
+      "description": "Doctrine de référence sur le droit réel et le droit de superficie"
+    },
+    {
+      "auteur": "ISLER/GROSS",
+      "description": "Commentaires sur le droit de superficie"
+    },
+    {
+      "auteur": "STEPHAN SPYCHER",
+      "description": "Doctrine sur le droit de superficie"
+    },
+    {
+      "auteur": "PETER ISLER",
+      "annee": "1973",
+      "description": "Doctrine historique sur le droit de superficie"
+    },
+    {
+      "auteur": "HANS-ULRICH FREIMÜLLER",
+      "annee": "1967",
+      "description": "Doctrine historique sur le droit de superficie"
+    }
+  ],
+
+  "mots_cles": [
+    "droit de superficie (Baurecht)",
+    "retour anticipé (vorzeitige Heimfall)",
+    "superficiant (tréfoncier)",
+    "superficiaire (preneur de superficie)",
+    "art. 107 CO",
+    "art. 108 CO",
+    "mise en demeure (Mahnung)",
+    "délai de grâce (Nachfrist)",
+    "application analogique",
+    "inexécution contractuelle",
+    "résiliation pour violation",
+    "obligations d'entretien",
+    "obligations d'exploitation",
+    "principe de la confiance",
+    "sécurité juridique"
+  ],
+
+  "analyse_complete": "# Droit de retour anticipé du superficiant : exigence d'une mise en demeure avec délai de grâce\n\n## Introduction\n\nLe droit de superficie (*Baurecht*, art. 779 ss CC) constitue une servitude personnelle permettant à son titulaire (le superficiaire) d'édifier et de maintenir des constructions sur le fonds d'autrui (le superficiant). Cette institution, largement répandue notamment pour les infrastructures touristiques et les projets immobiliers de longue durée, soulève des questions délicates lorsque le superficiaire ne respecte pas ses obligations contractuelles.\n\nL'ATF 150 III 63, rendu le 12 décembre 2023, aborde une question fondamentale : quelles sont les conditions formelles et procédurales que le superficiant doit respecter pour exercer son droit de retour anticipé en cas de violation des obligations du superficiaire ? Le Tribunal fédéral y consacre l'application analogique des art. 107 et 108 CO, imposant au superficiant de mettre en demeure le superficiaire avec un délai de grâce avant de pouvoir exercer le retour anticipé.\n\nCette solution, qui privilégie la sécurité juridique et la prévisibilité des relations contractuelles, a des implications pratiques considérables pour tous les acteurs du droit de superficie.\n\n## I. Le droit de superficie : nature juridique et particularités\n\n### A. Nature juridique : une servitude personnelle sui generis\n\nLe droit de superficie se définit comme une servitude personnelle conférant à son titulaire le droit d'édifier et de maintenir des constructions sur le fonds d'autrui. Contrairement à la propriété ordinaire, le superficiaire ne devient pas propriétaire du terrain, mais acquiert un droit réel distinct portant sur les constructions.\n\nCette nature hybride explique la complexité du régime juridique applicable : le droit de superficie relève à la fois :\n- Du **droit des biens** (art. 779 ss CC) pour son statut de droit réel\n- Du **droit des obligations** (art. 107-108 CO) pour les relations contractuelles entre superficiant et superficiaire\n\n### B. Le contrat de superficie : obligations réciproques\n\nLe contrat de superficie crée des obligations réciproques :\n\n**Pour le superficiant** :\n- Tolérer la présence des constructions sur son fonds\n- S'abstenir de tout acte entravant l'exercice du droit de superficie\n\n**Pour le superficiaire** :\n- Payer la redevance convenue (canon)\n- Respecter les obligations d'entretien des constructions\n- Respecter les obligations d'exploitation (le cas échéant)\n- Maintenir les constructions conformes à leur destination\n\nDans l'affaire ayant donné lieu à l'ATF 150 III 63, un contrat de superficie du 17 juillet 1959 concédait à une société le droit de construire et maintenir un hôtel-restaurant pour 99 ans moyennant une redevance annuelle initialement fixée à 100 CHF, ultérieurement augmentée.\n\n### C. Le droit de retour anticipé : sanction de l'inexécution\n\nLorsque le superficiaire viole gravement ses obligations contractuelles, le superficiant peut disposer d'un **droit de retour anticipé** (*vorzeitiger Heimfall*), c'est-à-dire la faculté de mettre fin prématurément au droit de superficie avant l'échéance du terme convenu.\n\nCe droit de retour anticipé produit des effets considérables pour le superficiaire :\n- Extinction du droit de superficie\n- Retour des constructions au superficiant\n- Perte des investissements réalisés (sous réserve d'indemnisation contractuelle)\n- Fin prématurée de l'exploitation\n\nEu égard à la gravité de ces conséquences, la question se pose de savoir si le superficiant peut exercer ce droit immédiatement dès la constatation d'une violation, ou s'il doit préalablement accorder au superficiaire une possibilité de remédier à la situation.\n\n## II. L'application analogique de l'art. 107 CO : une exigence de sécurité juridique\n\n### A. Le débat doctrinal tranché par l'ATF 150 III 63\n\nLa doctrine était divisée sur la question de savoir si le superficiant devait respecter les exigences de l'art. 107 CO (mise en demeure avec délai de grâce) avant d'exercer le retour anticipé.\n\n**Position minoritaire** : Certains auteurs considéraient que le superficiant pouvait exercer immédiatement son droit de retour dès la constatation d'une violation, sans formalité préalable.\n\n**Position majoritaire** : La doctrine dominante, représentée notamment par STEINAUER (2021), estimait nécessaire d'appliquer l'art. 107 CO par analogie. Comme le cite l'ATF 150 III 63 : \"Puisque les conséquences du retour anticipé pour le superficiaire sont les mêmes que celles d'une résiliation de contrat, il est justifié d'appliquer l'art. 107 CO par analogie.\"\n\nL'ATF 150 III 63 tranche définitivement ce débat en faveur de la position majoritaire : \"Eu égard aux conséquences importantes de l'exercice d'un droit de retour anticipé pour le superficiaire, une application de l'art. 107 CO apparaît plus apte à garantir la sécurité et la prévisibilité des rapports de droit. Le superficiant doit donc mettre en demeure le superficiaire de rétablir la situation conforme au droit ou à ses obligations contractuelles en lui accordant un délai de grâce à cet effet.\"\n\nCette solution repose sur plusieurs fondements :\n\n1. **Gravité des conséquences** : Le retour anticipé équivaut matériellement à une résiliation du contrat avec perte des investissements\n2. **Sécurité juridique** : Le superficiaire doit pouvoir anticiper les conséquences de ses manquements\n3. **Prévisibilité** : Une mise en demeure formelle permet au superficiaire de connaître précisément les griefs et le délai pour y remédier\n4. **Proportionnalité** : Accorder une dernière chance avant la sanction radicale\n\n### B. Les conditions de la mise en demeure selon l'art. 107 al. 1 CO\n\nL'art. 107 al. 1 CO impose au créancier (ici, le superficiant) de \"fixer ou faire fixer par l'autorité compétente un délai convenable pour s'exécuter\" au débiteur en demeure (ici, le superficiaire).\n\nL'ATF 150 III 63 précise les exigences formelles de cette mise en demeure :\n\n#### 1. Expression claire et non équivoque\n\n\"La mise en demeure doit être clairement exprimée. Le débiteur doit pouvoir reconnaître de bonne foi que le créancier veut obtenir la prestation non encore fournie et qu'il doit le faire dans le délai accordé.\"\n\nCette exigence implique :\n- Une **sommation explicite** d'exécuter l'obligation\n- Une **indication précise** des manquements reprochés\n- Une **volonté manifeste** d'obtenir l'exécution (et non de simples renseignements)\n\n#### 2. Fixation d'un terme précis ou délai fixe\n\n\"Un terme précis ou un délai fixe\" doit être indiqué. Les formules vagues comme \"dans les meilleurs délais\", \"rapidement\" ou \"dès que possible\" ne satisfont pas à cette exigence.\n\nLe débiteur doit savoir exactement **à quelle date** il doit avoir exécuté pour éviter les conséquences de l'art. 107 al. 2 CO.\n\n#### 3. Caractère convenable du délai\n\n\"Le délai doit être convenable selon les circonstances, dépendant de la nature de la prestation et de l'intérêt du créancier à sa prompte exécution\" (référence à l'ATF 103 II 102, consid. 1a et 1b).\n\nL'appréciation du caractère convenable du délai dépend de plusieurs facteurs :\n- Nature et ampleur des travaux à effectuer\n- Complexité de la remise en conformité\n- Moyens raisonnablement disponibles pour le superficiaire\n- Urgence éventuelle (sécurité, saison touristique, etc.)\n\n### C. Application au cas d'espèce : insuffisance de la mise en demeure\n\nDans l'affaire ayant donné lieu à l'ATF 150 III 63, la commune (superficiante) avait adressé le 9 mars 2017 un courrier au superficiaire mentionnant des violations prétendues des obligations d'entretien et d'exploitation et demandant \"ce que la recourante envisage de faire avant la saison touristique\".\n\nLe Tribunal fédéral a jugé ce courrier **insuffisant** au regard des exigences de l'art. 107 CO :\n\n\"Le courrier du 9 mars 2017 ne contenait pas de mise en demeure conforme. La commune n'enjoint aucunement l'exécution dans un délai ; elle invite seulement à donner des informations dans les meilleurs délais.\"\n\nPlusieurs défauts rédhibitoires entachaient cette mise en demeure prétendue :\n\n1. **Absence d'injonction claire** : La commune demandait ce que le superficiaire \"envisage\" de faire, sans exiger formellement l'exécution\n2. **Absence de délai fixe** : La référence à \"la saison touristique\" et aux \"meilleurs délais\" ne constitue pas un terme précis\n3. **Nature informative plutôt qu'impérative** : Le courrier sollicitait des \"informations\" plutôt que de sommer d'exécuter\n\nLe superficiaire ne pouvait donc \"reconnaître de bonne foi\" que le superficiant exigeait l'exécution dans un délai déterminé sous peine de retour anticipé.\n\n## III. L'exception de l'art. 108 ch. 1 CO : quand la mise en demeure devient inutile\n\n### A. Le principe : dispense de mise en demeure en cas d'inutilité manifeste\n\nL'art. 108 ch. 1 CO prévoit une exception à l'exigence de mise en demeure : \"La fixation d'un délai n'est pas nécessaire lorsqu'il ressort de l'attitude du débiteur que cette mesure demeurerait sans effet.\"\n\nL'ATF 150 III 63 précise que cette disposition s'applique également par analogie au droit de retour anticipé du superficiant : \"Cette formalité ne peut être imposée lorsqu'il apparaît d'emblée, eu égard à l'attitude du superficiaire, qu'elle resterait sans effet (art. 108 ch. 1 CO par analogie), ce qui suppose un refus clair et définitif de la part du superficiaire de s'exécuter.\"\n\nCette exception vise les situations dans lesquelles le débiteur a clairement manifesté son intention de ne pas exécuter, rendant toute mise en demeure purement formelle et dilatoire.\n\n### B. Conditions strictes de l'exception\n\nLa jurisprudence interprète restrictivement l'art. 108 ch. 1 CO. Pour que la mise en demeure soit dispensée, il faut :\n\n**Un refus clair et définitif** : Le simple retard ou la simple négligence ne suffisent pas. Il faut une manifestation non équivoque de la volonté de ne pas exécuter.\n\n**Caractère objectif** : L'appréciation doit se fonder sur des éléments objectifs (déclarations formelles, comportement univoque) et non sur de simples présomptions du créancier.\n\n**Inutilité manifeste** : Il doit apparaître d'emblée, sans équivoque possible, que l'octroi d'un délai ne changerait rien.\n\nDans l'ATF 150 III 63, la commune soutenait que l'art. 108 ch. 1 CO s'appliquait car le superficiaire avait manifesté son refus de s'exécuter. Le Tribunal fédéral a renvoyé la cause à la cour cantonale pour qu'elle examine ce point, sans se prononcer définitivement.\n\n### C. Charge de la preuve\n\nC'est au superficiant (créancier) qui invoque l'art. 108 ch. 1 CO de prouver que la mise en demeure serait demeurée inutile. En l'absence de preuve d'un refus clair et définitif, l'exigence de mise en demeure subsiste.\n\n## IV. L'exigence de déclaration immédiate (art. 107 al. 2 CO)\n\n### A. Le principe d'immédiateté\n\nL'art. 107 al. 2 CO prévoit que le créancier qui veut se départir du contrat doit faire \"une déclaration immédiate\" après l'expiration du délai de grâce.\n\nCette exigence vise à :\n- Éviter l'incertitude prolongée pour le débiteur\n- Empêcher le créancier de spéculer sur l'évolution de la situation\n- Garantir la cohérence du système (si le créancier tarde, cela démontre que l'inexécution n'était pas si grave)\n\nBien que l'ATF 150 III 63 ne développe pas longuement ce point (l'affaire ayant été renvoyée à la cour cantonale), l'application analogique de l'art. 107 CO implique logiquement que le superficiant doit exercer le retour anticipé **immédiatement** après l'expiration infructueuse du délai de grâce.\n\n### B. Appréciation de l'immédiateté\n\nLa jurisprudence apprécie le caractère \"immédiat\" en fonction des circonstances concrètes :\n- Complexité de la situation\n- Nécessité de consultations ou délibérations (notamment pour une personne morale)\n- Délais raisonnables de réflexion\n\nUn délai de plusieurs semaines ou mois après l'expiration du délai de grâce risque toutefois d'être jugé excessif et de faire perdre au superficiant le droit d'invoquer l'inexécution pour exercer le retour anticipé.\n\n## V. Enseignements systématiques et implications pratiques\n\n### A. Renforcement de la protection du superficiaire\n\nL'ATF 150 III 63 renforce significativement la position du superficiaire en lui garantissant :\n\n1. **Un avertissement formel** avant toute sanction radicale\n2. **Un délai pour remédier** aux manquements constatés\n3. **La prévisibilité** des conséquences de son inexécution\n4. **Une dernière chance** d'exécution avant de perdre ses investissements\n\nCette protection se justifie par :\n- L'importance économique des investissements réalisés par le superficiaire\n- La longue durée habituelle des contrats de superficie (souvent plusieurs décennies)\n- La nécessité d'encourager les investissements immobiliers de longue durée\n\n### B. Alignement avec le droit général des contrats\n\nEn imposant l'application analogique de l'art. 107 CO, le Tribunal fédéral assure la **cohérence** du système juridique. Désormais, que la violation contractuelle concerne un contrat de bail, de vente, d'entreprise ou de superficie, les mêmes règles de mise en demeure s'appliquent.\n\nCette uniformisation présente plusieurs avantages :\n- Simplicité et prévisibilité accrues\n- Application d'une jurisprudence abondante sur l'art. 107 CO\n- Évitement d'un régime d'exception injustifié pour le droit de superficie\n\n### C. Implications pour la rédaction des contrats de superficie\n\nL'ATF 150 III 63 invite à une révision attentive de la rédaction des clauses relatives au retour anticipé. Plusieurs recommandations s'imposent :\n\n**Pour les superficiants** :\n\n1. **Définir précisément les obligations** : Rédiger des clauses détaillées sur les obligations d'entretien, d'exploitation, de paiement de la redevance, etc.\n\n2. **Prévoir expressément le retour anticipé** : Indiquer clairement les cas de retour anticipé et la procédure applicable.\n\n3. **Stipuler les modalités de mise en demeure** : Fixer contractuellement la durée minimale du délai de grâce selon la nature des manquements (par exemple : 30 jours pour le paiement de la redevance, 6 mois pour des travaux d'entretien importants).\n\n4. **Documenter systématiquement** : Conserver des preuves photographiques, des rapports d'expertise, des correspondances démontrant les violations.\n\n5. **Respecter scrupuleusement les formalités** :\n   - Mise en demeure écrite, recommandée\n   - Indication précise des manquements\n   - Fixation d'un terme précis (date calendaire)\n   - Sommation claire d'exécuter\n   - Mention des conséquences en cas de non-exécution\n\n**Pour les superficiaires** :\n\n1. **Respecter scrupuleusement les obligations** : La meilleure protection demeure l'exécution diligente du contrat.\n\n2. **Documenter l'exécution** : Conserver des preuves de l'entretien, de l'exploitation, du paiement des redevances.\n\n3. **Réagir immédiatement aux mises en demeure** : Ne jamais ignorer une mise en demeure, même jugée injustifiée. Répondre par écrit, contester le cas échéant, mais surtout exécuter dans le délai pour éviter le retour anticipé.\n\n4. **Vérifier la conformité de la mise en demeure** : En cas de mise en demeure défectueuse (absence de délai précis, absence de sommation claire), le soulever immédiatement.\n\n5. **Négocier en cas de difficultés** : Si l'exécution dans le délai est impossible, solliciter une prolongation ou proposer un plan d'assainissement.\n\n**Pour les rédacteurs de contrats** :\n\n1. **Intégrer l'art. 107 CO** : Mentionner explicitement que le retour anticipé ne peut être exercé qu'après mise en demeure avec délai de grâce conforme à l'art. 107 CO.\n\n2. **Prévoir des délais adaptés** : Fixer des délais de grâce différenciés selon la nature des obligations (paiement, entretien, exploitation).\n\n3. **Clause d'inutilité manifeste** : Reprendre explicitement l'exception de l'art. 108 ch. 1 CO pour éviter toute contestation.\n\n4. **Procédure contradictoire** : Envisager une procédure amiable (expertise contradictoire, médiation) avant l'exercice du retour anticipé.\n\n### D. Questions ouvertes et développements futurs\n\nPlusieurs questions demeurent ouvertes après l'ATF 150 III 63 :\n\n**Durée minimale du délai de grâce** : Quel est le délai \"convenable\" selon la nature des manquements ? La jurisprudence future devra préciser des critères concrets (par exemple : 30 jours pour le paiement, 6 mois pour des travaux d'entretien importants, 1 an pour des travaux structurels).\n\n**Cumul de violations** : Lorsque plusieurs violations de moindre importance s'accumulent sur la durée, le superficiant peut-il invoquer leur cumul pour justifier un retour anticipé ? Doit-il mettre en demeure pour chaque violation séparément ?\n\n**Renonciation tacite** : Si le superficiant connaît depuis longtemps des violations et ne réagit pas, peut-on en déduire une renonciation tacite au retour anticipé ?\n\n**Indemnisation du superficiaire** : En cas de retour anticipé justifié, quelle indemnisation revient au superficiaire pour les constructions ? Cette question, non abordée par l'ATF 150 III 63, dépendra essentiellement des stipulations contractuelles.\n\n## Conclusion\n\nL'ATF 150 III 63 constitue un jalon majeur dans l'évolution du droit de superficie en Suisse. En consacrant l'application analogique de l'art. 107 CO, le Tribunal fédéral tranche définitivement un débat doctrinal ancien et renforce substantiellement la protection du superficiaire.\n\nCet arrêt apporte plusieurs contributions essentielles :\n\n1. **Confirmation d'un principe** : Le superficiant doit mettre en demeure le superficiaire avec un délai de grâce convenable avant d'exercer le retour anticipé.\n\n2. **Précision des exigences formelles** : La mise en demeure doit comporter une sommation claire, un terme précis et un délai convenable.\n\n3. **Exception strictement interprétée** : Seul un refus clair et définitif du superficiaire dispense de la mise en demeure (art. 108 ch. 1 CO par analogie).\n\n4. **Alignement systémique** : Le droit de superficie rejoint le droit général des contrats, garantissant cohérence et prévisibilité.\n\n5. **Sécurité juridique renforcée** : Les superficiaires bénéficient d'une dernière chance d'exécution avant de perdre leurs investissements.\n\nCette jurisprudence reflète un équilibre judicieux entre la nécessité de sanctionner les manquements contractuels graves et la protection des investissements légitimes du superficiaire. Elle invite également à une rédaction plus rigoureuse des contrats de superficie, intégrant explicitement les exigences de l'art. 107 CO.\n\nPour la pratique, les enseignements sont clairs : tout superficiant souhaitant exercer un retour anticipé devra désormais respecter scrupuleusement les formalités de mise en demeure, sous peine de voir son droit de retour refusé par les tribunaux. Inversement, tout superficiaire bénéficie désormais d'une protection procédurale renforcée, lui garantissant une dernière opportunité de remédier à ses manquements avant la sanction radicale du retour anticipé.",
+
+  "version_courte": "## Retour anticipé du droit de superficie : l'essentiel\n\n### Principe posé par l'ATF 150 III 63\nLe superficiant doit **mettre en demeure** le superficiaire avec un **délai de grâce** avant d'exercer le retour anticipé, par application analogique de l'art. 107 CO.\n\nRaison : Eu égard aux conséquences importantes (perte des investissements), l'application de l'art. 107 CO garantit la **sécurité juridique** et la **prévisibilité** des rapports de droit.\n\n### Exigences de la mise en demeure (art. 107 CO)\n\n**1. Expression claire et non équivoque** :\n- Sommation explicite d'exécuter l'obligation\n- Le superficiaire doit pouvoir \"reconnaître de bonne foi\" que le superficiant exige l'exécution\n- Indication précise des manquements reprochés\n\n**2. Terme précis ou délai fixe** :\n- Une date calendaire précise OU un délai fixe (ex: \"30 jours\")\n- Formules vagues **insuffisantes** : \"dans les meilleurs délais\", \"rapidement\", \"avant la saison touristique\"\n\n**3. Délai convenable** :\n- Dépend de la nature de la prestation\n- Dépend de l'intérêt du créancier à la prompte exécution\n- Exemples : 30 jours pour paiement, 6 mois pour travaux d'entretien importants\n\n### Application au cas d'espèce (insuffisance)\n\nCourrier du 9 mars 2017 **insuffisant** car :\n✗ Absence d'injonction claire (demande ce que le superficiaire \"envisage\" de faire)\n✗ Absence de délai fixe (\"meilleurs délais\", \"avant la saison touristique\")\n✗ Nature informative plutôt qu'impérative (sollicite des \"informations\")\n\n→ Le superficiaire ne pouvait reconnaître de bonne foi que le superficiant exigeait l'exécution dans un délai déterminé.\n\n### Exception : art. 108 ch. 1 CO (pas de mise en demeure nécessaire)\n\nLa mise en demeure n'est **pas nécessaire** lorsqu'il ressort de l'attitude du superficiaire qu'elle demeurerait sans effet.\n\n**Conditions strictes** :\n- Refus **clair et définitif** du superficiaire de s'exécuter\n- Inutilité **manifeste** de la mise en demeure\n- Interprétation restrictive\n- Charge de la preuve : au superficiant\n\nSimple retard ou négligence **ne suffisent pas**.\n\n### Déclaration immédiate (art. 107 al. 2 CO)\n\nAprès expiration du délai de grâce, le superficiant doit exercer le retour anticipé **immédiatement**.\n\nDélai de plusieurs semaines/mois = risque de perte du droit.\n\n### Conséquences pratiques\n\n**Pour les superficiants** :\n✓ Mise en demeure écrite, recommandée\n✓ Indication précise des manquements\n✓ Fixation d'un terme précis (date calendaire)\n✓ Sommation claire d'exécuter\n✓ Mention des conséquences (retour anticipé)\n✓ Délai convenable selon la nature des manquements\n✓ Exercer le retour immédiatement après expiration du délai\n\n**Pour les superficiaires** :\n✓ Respecter scrupuleusement les obligations contractuelles\n✓ Documenter l'exécution (preuves d'entretien, paiements)\n✓ Réagir **immédiatement** à toute mise en demeure\n✓ Vérifier la conformité de la mise en demeure (délai précis ?)\n✓ Négocier en cas de difficultés (prolongation, plan d'assainissement)\n\n**Pour la rédaction des contrats** :\n✓ Définir précisément les obligations du superficiaire\n✓ Prévoir expressément le retour anticipé et sa procédure\n✓ Stipuler les délais de grâce selon la nature des manquements\n✓ Mentionner l'application de l'art. 107 CO\n✓ Prévoir une procédure contradictoire (expertise, médiation)\n\n### Portée de l'arrêt\n\n**Renforcement de la protection du superficiaire** :\n- Avertissement formel avant sanction radicale\n- Délai pour remédier aux manquements\n- Prévisibilité des conséquences\n- Dernière chance avant perte des investissements\n\n**Alignement avec le droit général des contrats** :\n- Cohérence du système juridique\n- Application uniforme de l'art. 107 CO\n- Jurisprudence abondante applicable\n\n**Sécurité juridique** :\n- Critères clairs et prévisibles\n- Protection des investissements légitimes\n- Équilibre entre sanction et protection"
+}

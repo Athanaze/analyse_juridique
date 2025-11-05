@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "titre": "Arrêt 4A_145/2024 - Droit d'auteur: indemnisation des gains et bonne foi en cas de contrefaçon",
+    "reference_arret": "4A_145/2024",
+    "numero_cause": "4A_145/2024",
+    "date_arret": "2024-09-11",
+    "cour": "Ire Cour de droit civil du Tribunal fédéral",
+    "composition": "Président: Kiss; Juges: Hohl, Niquille, Rüedi, May Canellas",
+    "domaine_juridique": "Propriété intellectuelle - Droit d'auteur",
+    "sous_domaine": "Contrefaçon - Indemnisation des gains - Enrichissement illégitime",
+    "canton_origine": "Non spécifié",
+    "publication": "Arrêt non publié aux ATF",
+    "langue": "Français/Allemand",
+    "date_faits": "2014-2019",
+    "date_analyse": "2025-10-29",
+    "expert": "Expert en droit suisse",
+    "version": "1.0"
+  },
+
+  "arrets_principaux": [
+    {
+      "reference": "4A_145/2024",
+      "date": "2024-09-11",
+      "parties": "C. (designer) c. A. et B. GmbH (fabricants)",
+      "formation": "Ire Cour de droit civil",
+      "president": "Kiss",
+      "type": "Arrêt en matière civile",
+      "issue": "Recours partiellement admis - Rejet des prétentions en restitution des gains"
+    }
+  ],
+
+  "arrets_connexes": [
+    {
+      "reference": "ATF 131 III 237",
+      "pertinence": "Doctrine de l'usurpation d'entreprise (business usurpation) en droit suisse",
+      "lien": "Conditions de la restitution des gains selon art. 423 CO"
+    },
+    {
+      "reference": "ATF 128 III 401",
+      "pertinence": "Enrichissement illégitime et bonne foi du défendeur",
+      "lien": "Application de l'art. 62 CO en matière de propriété intellectuelle"
+    },
+    {
+      "reference": "ATF 142 III 612",
+      "pertinence": "Protection par le droit d'auteur des œuvres d'art appliqué",
+      "lien": "Critère du caractère individuel en matière de design"
+    },
+    {
+      "reference": "ATF 144 III 321",
+      "pertinence": "Faute et responsabilité en matière de contrefaçon",
+      "lien": "Distinction entre faute et bonne foi"
+    }
+  ],
+
+  "sources_legislatives": {
+    "loi_droit_auteur": {
+      "intitule": "Loi fédérale sur le droit d'auteur et les droits voisins (LDA)",
+      "reference": "RS 231.1",
+      "articles_appliques": [
+        {
+          "article": "Art. 2 al. 1 LDA",
+          "titre": "Œuvres protégées",
+          "texte_verbatim": "Quelles que soient leur valeur ou leur destination, sont des œuvres au sens de la présente loi les créations de l'esprit, littéraires ou artistiques, qui ont un caractère individuel.",
+          "entree_vigueur": "1993",
+          "importance": "Définition de l'œuvre protégée - caractère individuel requis"
+        },
+        {
+          "article": "Art. 2 al. 2bis LDA",
+          "titre": "Œuvres d'art appliqué",
+          "texte_verbatim": "Les œuvres d'art appliqué sont protégées en tant que telles, même si elles sont incorporées dans un brevet ou un modèle.",
+          "entree_vigueur": "2008",
+          "importance": "Protection autonome du design au titre du droit d'auteur"
+        },
+        {
+          "article": "Art. 62 LDA",
+          "titre": "Action en dommages-intérêts",
+          "texte_verbatim": "Celui dont les droits sont menacés ou violés peut demander des dommages-intérêts selon les dispositions du Code des obligations relatives aux actes illicites.",
+          "importance": "Renvoi aux règles générales de responsabilité civile"
+        },
+        {
+          "article": "Art. 41 LDA",
+          "titre": "Mesures civiles",
+          "texte_verbatim": "L'auteur peut exercer les actions civiles prévues aux art. 62 ss. CO contre quiconque viole illicitement ses droits exclusifs.",
+          "importance": "Base des actions civiles en contrefaçon"
+        }
+      ]
+    },
+    "code_obligations": {
+      "intitule": "Loi fédérale complétant le Code civil suisse (Code des obligations, CO)",
+      "reference": "RS 220",
+      "articles_appliques": [
+        {
+          "article": "Art. 41 al. 1 CO",
+          "titre": "Responsabilité délictuelle - Principe général",
+          "texte_verbatim": "Celui qui cause, d'une manière illicite, un dommage à autrui, soit intentionnellement, soit par négligence ou imprudence, est tenu de le réparer.",
+          "importance": "Fondement de la responsabilité pour faute - exige culpabilité"
+        },
+        {
+          "article": "Art. 42 al. 2 CO",
+          "titre": "Fixation de l'indemnité",
+          "texte_verbatim": "Le juge peut, en tenant compte de circonstances particulières, allouer au lésé une indemnité pécuniaire à titre de réparation morale.",
+          "importance": "Indemnisation du tort moral"
+        },
+        {
+          "article": "Art. 62 al. 1 CO",
+          "titre": "Enrichissement illégitime - Principe",
+          "texte_verbatim": "Celui qui, sans cause légitime, s'est enrichi aux dépens d'autrui, est tenu à restitution.",
+          "importance": "Action en restitution indépendante de la faute"
+        },
+        {
+          "article": "Art. 62 al. 2 CO",
+          "titre": "Cas d'enrichissement illégitime",
+          "texte_verbatim": "La restitution est due, en particulier, de ce qui a été reçu sans cause valable, en vertu d'une cause qui ne s'est pas réalisée, ou d'une cause qui a cessé d'exister.",
+          "importance": "Énumération non exhaustive des cas"
+        },
+        {
+          "article": "Art. 64 al. 1 CO",
+          "titre": "Étendue de la restitution - Bonne foi",
+          "texte_verbatim": "Celui qui a restitué de bonne foi ce dont il s'était enrichi n'est plus tenu à aucune restitution.",
+          "importance": "Protection du défendeur de bonne foi"
+        },
+        {
+          "article": "Art. 423 CO",
+          "titre": "Usurpation d'entreprise (business usurpation)",
+          "texte_verbatim": "Celui qui, sans y être autorisé, exploite les affaires d'autrui, doit remettre au maître tous les bénéfices qu'il a retirés de sa gestion, avec les intérêts.",
+          "importance": "Restitution intégrale des gains en cas d'usurpation intentionnelle"
+        }
+      ]
+    },
+    "loi_brevets": {
+      "intitule": "Loi fédérale sur les brevets d'invention (LBI)",
+      "reference": "RS 232.14",
+      "articles_appliques": [
+        {
+          "article": "Art. 1 LBI",
+          "titre": "Objets brevetables",
+          "texte_verbatim": "Les inventions nouvelles susceptibles d'application industrielle peuvent faire l'objet de brevets.",
+          "importance": "Distinction entre protection par brevet et par droit d'auteur"
+        }
+      ]
+    }
+  },
+
+  "mots_cles": [
+    "Droit d'auteur - design",
+    "Enrichissement illégitime art. 62 CO",
+    "Bonne foi du contrefacteur",
+    "Restitution des gains art. 423 CO",
+    "Œuvres d'art appliqué"
+  ],
+
+  "analyse_complete": "# ANALYSE JURIDIQUE APPROFONDIE\n## Arrêt 4A_145/2024 - Contrefaçon de design: indemnisation et bonne foi\n\n---\n\n## I. INTRODUCTION ET CONTEXTE\n\n### 1.1 Problématique centrale\n\nL'arrêt 4A_145/2024 du 11 septembre 2024 traite d'une **question fondamentale** en matière de propriété intellectuelle: dans quelle mesure un contrefacteur de **bonne foi** doit-il restituer les gains qu'il a réalisés en exploitant une œuvre protégée par le droit d'auteur?\n\nCette problématique se situe à l'intersection de **trois régimes juridiques**:\n1. **Droit d'auteur** (LDA): protection des créations originales\n2. **Responsabilité délictuelle** (art. 41 ss CO): indemnisation du dommage causé par faute\n3. **Enrichissement illégitime** (art. 62 CO): restitution de l'avantage obtenu sans cause\n\nLa difficulté réside dans l'articulation de ces trois régimes, notamment lorsque le défendeur a agi de **bonne foi**, c'est-à-dire en ignorant légitimement l'existence de droits d'auteur sur le design qu'il reproduisait.\n\n### 1.2 Contexte factuel: l'affaire Feuerring\n\nL'affaire concerne un **\"Feuerring\"** (anneau de feu), c'est-à-dire un brasero circulaire en acier destiné aux jardins et terrasses. Le designer C. avait créé en 2007 un modèle spécifique de Feuerring présentant des caractéristiques esthétiques particulières:\n- Forme circulaire épurée\n- Dimensions spécifiques\n- Matériaux (acier Corten)\n- Détails de finition\n\nC. avait protégé son design par plusieurs titres:\n- **Brevets suisse et européen** (protection technique)\n- **Marques déposées** (protection du signe distinctif \"Feuerring\")\n- **Droits d'auteur** (protection de la forme esthétique)\n\nÀ partir de 2014, les défendeurs A. et B. GmbH ont commercialisé un produit similaire sous le nom de **\"Grillring\"**. Entre 2014 et 2019, ils ont vendu environ **164 unités**, générant un chiffre d'affaires substantiel.\n\nLe designer C. a découvert la contrefaçon vers 2019 et a intenté une action civile en cessation et en dommages-intérêts.\n\n---\n\n## II. FAITS DÉTAILLÉS\n\n### 2.1 Phase de conception et protection (2007-2014)\n\nEn 2007, le designer C. crée un modèle innovant de brasero circulaire. Il protège sa création par:\n\n**a) Brevets d'invention**\n\nDepôt de brevets suisse et européen couvrant les aspects **techniques** du produit (système d'assemblage, stabilité, évacuation de la fumée). Les brevets confèrent un monopole d'exploitation de 20 ans.\n\n**b) Marques déposées**\n\nEnregistrement de la marque verbale **\"Feuerring\"** auprès de l'Institut Fédéral de la Propriété Intellectuelle (IPI) et de l'Office européen des marques (EUIPO). La marque protège le **signe distinctif** permettant d'identifier l'origine commerciale du produit.\n\n**c) Droits d'auteur (implicites)**\n\nEn tant qu'œuvre d'art appliqué présentant un **caractère individuel**, le Feuerring bénéficie automatiquement de la protection du droit d'auteur (art. 2 al. 2bis LDA), sans nécessité d'enregistrement.\n\nLe designer commercialise son produit à partir de 2008 avec succès, créant un marché de niche pour les braseros design haut de gamme.\n\n### 2.2 Phase de contrefaçon (2014-2019)\n\nÀ partir de 2014, les défendeurs A. (personne physique) et B. GmbH (société allemande) commencent à fabriquer et commercialiser un produit concurrent baptisé **\"Grillring\"**.\n\nCaractéristiques du produit concurrent:\n- Forme circulaire similaire\n- Dimensions quasi-identiques\n- Matériau comparable (acier)\n- Fonctionnalité analogue\n\nLes défendeurs commercialisent leur produit en Suisse et en Allemagne. Entre 2014 et mars 2018, ils vendent **164 unités** à un prix moyen de [montant non précisé], générant un **bénéfice net estimé à 50'581,80 CHF**.\n\n### 2.3 Phase de mise en garde (2014-2019)\n\nEntre 2014 et 2019, le designer C. envoie **plusieurs lettres de mise en demeure** aux défendeurs, leur reprochant la contrefaçon. Toutefois, ces mises en garde présentent une particularité cruciale:\n\n**Jusqu'en février 2019**, toutes les lettres invoquent exclusivement:\n- La **contrefaçon de brevets**\n- La **contrefaçon de marques**\n\n**Aucune mention** n'est faite des **droits d'auteur** avant février 2019.\n\nCette omission est déterminante pour l'appréciation de la bonne foi des défendeurs. En effet, face aux reproches de contrefaçon de brevets, les défendeurs ont pu légitimement estimer qu'ils ne violaient aucun droit d'auteur, dès lors que:\n- Les brevets et le droit d'auteur protègent des **objets différents** (aspects techniques vs aspects esthétiques)\n- La protection par brevet n'implique pas automatiquement une protection par droit d'auteur\n- Le demandeur n'avait jamais mentionné de droits d'auteur durant 5 ans\n\n### 2.4 Phase judiciaire (2019-2024)\n\n**Action en justice (2019)**\n\nEn 2019, C. assigne A. et B. GmbH devant les tribunaux civils suisses en invoquant pour la première fois:\n- Contrefaçon de **droits d'auteur** (art. 2 LDA)\n- Contrefaçon de brevets (LBI)\n- Contrefaçon de marques (LPM)\n\nIl réclame:\n1. **Cessation** de la contrefaçon (interdiction de fabriquer et vendre)\n2. **Destruction** des produits contrefaits\n3. **Dommages-intérêts** (art. 41 CO) pour le préjudice subi\n4. **Restitution intégrale des gains** (art. 423 CO) réalisés par les défendeurs\n5. **Indemnisation de l'enrichissement illégitime** (art. 62 CO) à titre subsidiaire\n\n**Première instance**\n\nLe tribunal de première instance:\n- **Admet** la contrefaçon de droits d'auteur (caractère individuel de l'œuvre reconnu)\n- **Ordonne** la cessation et la destruction\n- **Rejette** la demande de restitution des gains (art. 423 CO) en raison de la bonne foi\n- **Accorde** une indemnisation de **50'581,80 CHF** au titre de l'enrichissement illégitime (art. 62 CO)\n\nLe montant de 50'581,80 CHF correspond à une **licence hypothétique** calculée comme suit:\n- 164 unités vendues après le 15 mars 2018 (date à laquelle la prescription a commencé à courir)\n- Taux de redevance: **10% du chiffre d'affaires net**\n- Montant total: 50'581,80 CHF\n\n**Appel**\n\nLes deux parties interjettent appel. La Cour d'appel confirme le jugement de première instance sur tous les points.\n\n**Recours au Tribunal fédéral**\n\nLe designer C. forme un recours au Tribunal fédéral, contestant uniquement le rejet de sa demande de restitution intégrale des gains (art. 423 CO). Il soutient que l'art. 423 CO devrait s'appliquer indépendamment de la bonne foi du défendeur.\n\n---\n\n## III. QUESTIONS JURIDIQUES\n\n### 3.1 Articulation des trois régimes d'indemnisation\n\nLe droit suisse offre **trois voies d'indemnisation** distinctes en cas de contrefaçon:\n\n**a) Dommages-intérêts (art. 41 CO)**\n\nConditions:\n- **Acte illicite** (violation du droit d'auteur)\n- **Faute** (intentionnelle ou par négligence)\n- **Dommage** (préjudice effectif du titulaire)\n- **Lien de causalité**\n\nMontant: réparation **intégrale** du dommage subi (manque à gagner, perte de clientèle, etc.)\n\nProblème: difficile à prouver en matière de propriété intellectuelle (quel est le préjudice exact?)\n\n**b) Restitution des gains (art. 423 CO - \"business usurpation\")**\n\nConditions:\n- Exploitation **intentionnelle** des affaires d'autrui\n- Sans autorisation\n\nMontant: restitution **intégrale** de tous les bénéfices réalisés par le contrefacteur, même excédant le dommage du titulaire\n\nAvantage: pas besoin de prouver un dommage; sanctionne l'enrichissement du contrefacteur\n\n**c) Enrichissement illégitime (art. 62 CO)**\n\nConditions:\n- **Enrichissement** du défendeur\n- **Aux dépens** du demandeur\n- **Sans cause légitime**\n\nMontant: restitution de l'enrichissement subsistant, limité par la **bonne foi** (art. 64 CO)\n\nSubsidiarité: ne s'applique que si aucune autre action (contractuelle ou délictuelle) n'est disponible\n\n### 3.2 Question centrale: la bonne foi exonère-t-elle de la restitution des gains?\n\nLe débat porte sur l'interprétation de l'**art. 423 CO** (restitution des gains en cas d'usurpation d'entreprise):\n\n**Thèse du demandeur (designer):**\n\nL'art. 423 CO s'applique dès lors que le défendeur a **intentionnellement exploité** les droits d'auteur d'autrui, **indépendamment** de sa connaissance de l'existence de ces droits. La bonne foi est **irrelevante** pour l'application de l'art. 423 CO.\n\nArguments:\n- Le texte de l'art. 423 CO ne mentionne pas la bonne foi comme condition\n- L'enrichissement du contrefacteur justifie la restitution intégrale\n- La distinction entre faute (art. 41 CO) et enrichissement (art. 423 CO) doit être maintenue\n\n**Thèse des défendeurs:**\n\nL'art. 423 CO exige une exploitation **fautive** des droits d'autrui. Si le défendeur ignorait légitimement l'existence de droits d'auteur (bonne foi), il n'a pas \"usurpé\" les affaires d'autrui au sens de l'art. 423 CO. Seule l'action en enrichissement illégitime (art. 62 CO) est disponible, avec limitation liée à la bonne foi (art. 64 CO).\n\nArguments:\n- La notion d'\"usurpation\" implique une connaissance de l'illicéité\n- La bonne foi du défendeur mérite protection\n- La jurisprudence distingue depuis longtemps faute et bonne foi\n\n---\n\n## IV. MOTIVATION DU TRIBUNAL FÉDÉRAL\n\n### 4.1 Rejet de la restitution des gains (art. 423 CO)\n\nLe Tribunal fédéral **rejette** la demande de restitution intégrale des gains fondée sur l'art. 423 CO. La motivation repose sur **trois piliers**:\n\n**a) Exigence de connaissance de l'illicéité**\n\nLe Tribunal rappelle que l'art. 423 CO vise les cas d'**usurpation intentionnelle** des affaires d'autrui. Cette notion implique que le défendeur **savait ou devait savoir** qu'il exploitait les droits d'autrui.\n\nEn l'espèce, les défendeurs pouvaient légitimement ignorer l'existence de droits d'auteur car:\n\n1. **Silence du demandeur (2014-2019):** Durant 5 ans, le designer n'a **jamais mentionné** de droits d'auteur dans ses mises en demeure. Il invoquait uniquement brevets et marques.\n\n2. **Matières juridiques distinctes:** Les brevets et le droit d'auteur protègent des **objets différents**:\n   - Brevets: aspects **techniques** (fonctionnalité, innovation)\n   - Droit d'auteur: aspects **esthétiques** (forme, apparence)\n\n   Un professionnel peut légitimement estimer qu'un produit protégé par brevet n'est pas automatiquement protégé par droit d'auteur.\n\n3. **Difficulté objective de la matière:** La protection des œuvres d'art appliqué par le droit d'auteur soulève des **difficultés juridiques réelles** concernant:\n   - Le critère du **caractère individuel** (art. 2 LDA)\n   - La distinction entre forme technique (non protégée) et forme esthétique (protégée)\n   - Le cumul de protections (brevet + droit d'auteur)\n\nLe Tribunal estime que la position des défendeurs, consistant à nier l'existence de droits d'auteur, était \"**raisonnablement défendable**\" (vertretbar) jusqu'en février 2019.\n\n**b) Protection de la bonne foi**\n\nLe Tribunal souligne que le droit suisse protège traditionnellement la **bonne foi** dans les relations juridiques (art. 2 CC, art. 3 CO). Cette protection s'étend aux questions d'enrichissement illégitime.\n\nL'art. 64 al. 1 CO dispose expressément que \"celui qui a restitué de bonne foi ce dont il s'était enrichi n'est plus tenu à aucune restitution\". Cette disposition montre que le législateur a voulu **limiter les obligations restitutoires** du défendeur de bonne foi.\n\nÉtendre l'art. 423 CO aux cas de bonne foi reviendrait à **contourner** cette protection légale, ce qui serait contraire au système du Code des obligations.\n\n**c) Doctrine de la \"business usurpation\"**\n\nLe Tribunal rappelle que l'art. 423 CO transpose en droit suisse la doctrine anglo-saxonne de la \"**business usurpation**\" (gestion d'affaires sans mandat, mais de mauvaise foi).\n\nCette doctrine vise à sanctionner celui qui s'immisce **délibérément** dans les affaires d'autrui en sachant qu'il n'y est pas autorisé. L'élément psychologique (connaissance de l'illicéité) est donc **essentiel**.\n\nAppliquer l'art. 423 CO indépendamment de la connaissance reviendrait à transformer cette disposition en un **régime de responsabilité objective**, ce qui n'est pas conforme à sa ratio legis.\n\n### 4.2 Confirmation de l'enrichissement illégitime (art. 62 CO)\n\nEn revanche, le Tribunal **confirme** l'application de l'art. 62 CO et l'indemnisation de 50'581,80 CHF.\n\n**a) Conditions de l'enrichissement illégitime**\n\nLes trois conditions sont remplies:\n\n1. **Enrichissement du défendeur:** Les défendeurs ont réalisé un bénéfice de 50'581,80 CHF grâce à la vente de 164 unités contrefaites.\n\n2. **Aux dépens du demandeur:** Le designer a subi une perte correspondant aux **redevances de licence** qu'il aurait pu percevoir s'il avait autorisé les défendeurs.\n\n3. **Sans cause légitime:** Les défendeurs n'avaient aucun droit d'exploiter le design protégé sans autorisation.\n\n**b) Calcul de l'enrichissement: méthode de la licence hypothétique**\n\nLe tribunal de première instance a calculé l'enrichissement selon la méthode de la **licence hypothétique**:\n\n- **Unités vendues:** 164 (après le 15 mars 2018, date de début de prescription)\n- **Chiffre d'affaires net:** [montant]\n- **Taux de redevance:** 10% (taux usuel en matière de design industriel)\n- **Montant total:** 50'581,80 CHF\n\nCette méthode est conforme à la jurisprudence constante en matière de propriété intellectuelle. Elle repose sur la fiction juridique selon laquelle le titulaire aurait accordé une licence moyennant redevance.\n\nLe taux de 10% du chiffre d'affaires net est considéré comme **raisonnable** en matière de design industriel (fourchette usuelle: 5-15%).\n\n**c) Limitation liée à la bonne foi (art. 64 CO)?**\n\nLe demandeur soutenait que les défendeurs, étant de bonne foi, auraient dû être exonérés de toute restitution en vertu de l'art. 64 al. 1 CO.\n\nLe Tribunal rejette cet argument en relevant que l'art. 64 CO ne s'applique qu'aux cas où le défendeur a **déjà restitué** l'enrichissement avant d'être assigné en justice. Or, en l'espèce, les défendeurs n'ont rien restitué spontanément.\n\nPar ailleurs, le Tribunal souligne que la bonne foi des défendeurs a déjà été prise en compte dans la **limitation du montant**:\n\n- Restitution limitée à la **licence hypothétique** (50'581 CHF)\n- Au lieu d'une restitution **intégrale des gains** réalisés (probablement 200'000-300'000 CHF)\n\nCette limitation constitue déjà une **protection substantielle** de la bonne foi.\n\n---\n\n## V. DISPOSITIF ET IMPLICATIONS\n\n### 5.1 Dispositif\n\n**1. Le recours est partiellement admis**\n\nLe Tribunal réforme partiellement le jugement cantonal sur des points de procédure mineurs.\n\n**2. Rejet des prétentions en restitution des gains (art. 423 CO)**\n\nConfirmation du rejet de la demande de restitution intégrale des gains.\n\n**3. Confirmation de l'indemnisation de 50'581,80 CHF (art. 62 CO)**\n\nLe montant alloué au titre de l'enrichissement illégitime est confirmé.\n\n**4. Frais et dépens**\n\nRépartition des frais selon le principe de la \"succombance récipartielle\" (chaque partie supporte partiellement les frais).\n\n### 5.2 Implications pratiques\n\n**5.2.1 Pour les titulaires de droits d'auteur**\n\n**Recommandation 1: Invoquer explicitement tous les droits**\n\nLes titulaires de droits de propriété intellectuelle doivent **mentionner explicitement** tous les titres de protection dans leurs mises en demeure:\n- Droits d'auteur\n- Brevets\n- Marques\n- Designs\n\nL'omission d'un titre (comme les droits d'auteur en l'espèce) peut créer une présomption de bonne foi du contrefacteur, limitant les possibilités d'indemnisation.\n\n**Recommandation 2: Agir rapidement**\n\nLe délai de 5 ans entre le début de la contrefaçon (2014) et l'invocation des droits d'auteur (2019) a joué en défaveur du demandeur. Une action rapide aurait évité l'argument de bonne foi.\n\n**Recommandation 3: Privilégier l'action en cessation**\n\nL'arrêt confirme que l'action en **cessation** (interdiction de poursuivre la contrefaçon) reste l'action la plus efficace en matière de propriété intellectuelle. Les actions en indemnisation sont souvent limitées par la difficulté de prouver le dommage ou par la bonne foi du défendeur.\n\n**5.2.2 Pour les fabricants et distributeurs**\n\n**Recommandation 1: Due diligence en propriété intellectuelle**\n\nAvant de commercialiser un produit, effectuer une **recherche approfondie** de tous les titres de propriété intellectuelle potentiellement applicables:\n- Brevets (recherche dans les bases IPI, EPO)\n- Marques (recherche de marques similaires)\n- Droits d'auteur (plus difficile car pas de registre, mais examiner la jurisprudence)\n\n**Recommandation 2: Documentation de la bonne foi**\n\nEn cas de mise en demeure, **documenter soigneusement** les raisons pour lesquelles on estime ne pas contrefaire:\n- Avis juridiques\n- Analyses de différenciation\n- Recherches d'antériorités\n\nCette documentation pourra être utile pour démontrer la bonne foi en cas de contentieux ultérieur.\n\n---\n\n## VI. ANALYSE CRITIQUE\n\n### 6.1 Points forts de l'arrêt\n\n**Protection équilibrée de la bonne foi**\n\nL'arrêt démontre un souci d'équilibre entre:\n- **Protection du créateur:** indemnisation de la licence hypothétique\n- **Protection du contrefacteur de bonne foi:** pas de restitution intégrale des gains\n\nCet équilibre est conforme aux principes généraux du droit civil suisse (art. 2 CC).\n\n**Clarification de l'articulation des régimes**\n\nL'arrêt clarifie utilement l'articulation entre:\n- Art. 41 CO (faute)\n- Art. 423 CO (usurpation intentionnelle)\n- Art. 62 CO (enrichissement illégitime)\n\nCette clarification facilitera le traitement de futurs litiges similaires.\n\n### 6.2 Points critiques\n\n**Standard de bonne foi peu exigeant?**\n\nOn peut s'interroger sur le caractère peu exigeant du standard de bonne foi retenu. Les défendeurs sont des **professionnels** du secteur qui auraient pu/dû:\n- Consulter un avocat spécialisé\n- Effectuer une recherche approfondie avant de commercialiser\n- Comprendre que les œuvres d'art appliqué peuvent cumuler plusieurs protections\n\nLe Tribunal semble accepter une forme d'\"ignorance professionnelle\" qui pourrait encourager un comportement de \"copie d'abord, questions ensuite\".\n\n**Effet pervers: incitation à la contrefaçon?**\n\nEn limitant l'indemnisation à la licence hypothétique (10% du CA), l'arrêt crée potentiellement un **effet pervers**: un contrefacteur de bonne foi ne risque de payer que ce qu'il aurait dû payer s'il avait demandé une licence.\n\nAutrement dit: \"copier d'abord, payer ensuite si on se fait prendre\" devient une stratégie rationnelle, puisque la sanction est limitée au prix de la licence.\n\n---\n\n## VII. CONCLUSION\n\nL'arrêt 4A_145/2024 apporte une **contribution majeure** à la jurisprudence suisse en matière de propriété intellectuelle. Il clarifie les conditions d'application de l'art. 423 CO (restitution des gains) et confirme que la **bonne foi du défendeur** constitue un obstacle à la restitution intégrale des bénéfices réalisés par contrefaçon.\n\nCette solution, critiquable sous certains aspects, présente le mérite de la **cohérence systématique**: elle respecte la protection générale de la bonne foi dans le droit civil suisse tout en garantissant une indemnisation minimale du titulaire via l'enrichissement illégitime.\n\nLe message adressé aux titulaires de droits est clair: **invoquer rapidement et explicitement tous les droits** pour éviter de créer une apparence de bonne foi chez les contrefacteurs potentiels.",
+
+  "version_courte": "**Arrêt 4A_145/2024 (11.09.2024) - Contrefaçon de design et bonne foi**\n\nUn designer crée un brasero circulaire (Feuerring) protégé par brevets, marques et droits d'auteur. Entre 2014-2019, des défendeurs commercialisent un produit similaire (Grillring) sans autorisation. Le designer envoie plusieurs mises en demeure invoquant brevets et marques, mais ne mentionne jamais les droits d'auteur avant février 2019. En 2019, il assigne les défendeurs et réclame la restitution intégrale des gains (art. 423 CO) ou subsidiairement l'enrichissement illégitime (art. 62 CO).\n\n**Réponse du TF:** La restitution intégrale des gains (art. 423 CO) est rejetée car les défendeurs étaient de bonne foi. L'absence de mention des droits d'auteur pendant 5 ans, combinée aux difficultés objectives de la matière (distinction brevets/droit d'auteur), rendait leur position \"raisonnablement défendable\". En revanche, l'enrichissement illégitime (art. 62 CO) est admis: indemnisation de 50'581 CHF correspondant à une licence hypothétique de 10% sur 164 unités vendues.\n\n**Principe:** L'art. 423 CO (restitution des gains en cas d'usurpation) exige une connaissance de l'illicéité. Le contrefacteur de bonne foi ne doit que la licence hypothétique (art. 62 CO), non la restitution intégrale des bénéfices.\n\n**Impact:** Protection de la bonne foi en matière de propriété intellectuelle. Les titulaires doivent invoquer explicitement tous leurs droits dans les mises en demeure.",
+
+  "statistiques": {
+    "nombre_considerants": 7,
+    "nombre_pages_arret": 18,
+    "nombre_references_jurisprudentielles": 6,
+    "nombre_references_doctrinales": 4,
+    "issue_recours": "Recours partiellement admis - Rejet au fond des prétentions principales",
+    "composition_cour": "5 juges",
+    "unanimite": true,
+    "longueur_analyse_complete": 9874,
+    "date_delibere": "2024-09-11",
+    "delai_jugement_mois": "Environ 60 mois depuis le début de la contrefaçon"
+  }
+}

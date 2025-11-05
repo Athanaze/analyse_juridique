@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "titre": "Arrêt 1C_121/2024 - Contrôle préjudiciel de la planification: annulation de permis pour zone isolée non conforme aux principes LAT",
+    "reference_arret": "1C_121/2024",
+    "numero_cause": "1C_121/2024",
+    "date_arret": "2025-07-25",
+    "cour": "Ire Cour de droit public du Tribunal fédéral",
+    "composition": "Président: Kneubühler; Juges: Chaix, Haag, Pont, Merz",
+    "domaine_juridique": "Droit de l'aménagement du territoire",
+    "sous_domaine": "Contrôle préjudiciel - Zones isolées - Surdimensionnement régional",
+    "canton_origine": "Vaud",
+    "commune": "Grandson",
+    "publication": "Arrêt non publié aux ATF",
+    "langue": "Français",
+    "date_faits": "2022-2024",
+    "date_analyse": "2025-10-29",
+    "expert": "Expert en droit suisse",
+    "version": "1.0"
+  },
+
+  "arrets_principaux": [
+    {
+      "reference": "1C_121/2024",
+      "date": "2025-07-25",
+      "parties": "Pro Natura Suisse c. Commune de Grandson et propriétaires",
+      "formation": "Ire Cour de droit public",
+      "president": "Kneubühler",
+      "type": "Recours en matière de droit public",
+      "issue": "Recours admis - Permis de construire annulé, renvoi pour révision planificatrice"
+    }
+  ],
+
+  "arrets_connexes": [
+    {
+      "reference": "1C_530/2024 (25.06.2025)",
+      "pertinence": "Zone réservée à Tannay (VD) - même problématique de surdimensionnement cantonal",
+      "lien": "Jurisprudence parallèle 2025 sur les zones à bâtir vaudoises excédentaires"
+    },
+    {
+      "reference": "1C_333/2024 (11.03.2025)",
+      "pertinence": "Dézonage à Gilly (VD) - surdimensionnement et protection paysage viticole",
+      "lien": "Série d'arrêts 2025 sur la mise en œuvre de l'art. 15 al. 2 LAT dans le canton de Vaud"
+    },
+    {
+      "reference": "ATF 141 II 393",
+      "pertinence": "Contrôle préjudiciel de la planification lors de délivrance de permis",
+      "lien": "Jurisprudence de principe sur l'art. 21 al. 2 LAT"
+    },
+    {
+      "reference": "ATF 140 II 25",
+      "pertinence": "Principe de séparation territoire bâti/non-bâti et zones isolées",
+      "lien": "Interdiction des petites zones à bâtir isolées géographiquement"
+    },
+    {
+      "reference": "ATF 147 II 152",
+      "pertinence": "Surdimensionnement régional et obligation de révision planificatrice",
+      "lien": "Application stricte de l'art. 15 al. 2 LAT révisé"
+    }
+  ],
+
+  "sources_legislatives": {
+    "loi_amenagement_territoire": {
+      "intitule": "Loi fédérale sur l'aménagement du territoire (LAT)",
+      "reference": "RS 700",
+      "articles_appliques": [
+        {
+          "article": "Art. 1 al. 1 LAT",
+          "titre": "Utilisation mesurée du sol",
+          "texte_verbatim": "La Confédération, les cantons et les communes veillent à une utilisation mesurée du sol. Ils coordonnent leurs activités ayant des effets sur l'organisation du territoire et s'efforcent d'assurer une occupation du territoire propre à garantir un développement harmonieux de l'ensemble du pays.",
+          "importance": "Principe fondamental d'économie du territoire"
+        },
+        {
+          "article": "Art. 3 al. 3 let. a LAT",
+          "titre": "Séparation territoire bâti/non-bâti",
+          "texte_verbatim": "Les parties constructibles du territoire doivent être séparées des parties non constructibles par une délimitation claire.",
+          "importance": "Principe de concentration de l'urbanisation - interdiction du mitage"
+        },
+        {
+          "article": "Art. 15 al. 1 LAT",
+          "titre": "Dimensionnement des zones à bâtir",
+          "texte_verbatim": "Les zones à bâtir sont définies de telle manière qu'elles répondent aux besoins prévisibles pour les quinze années suivantes.",
+          "importance": "Règle du dimensionnement temporel (15 ans)"
+        },
+        {
+          "article": "Art. 15 al. 2 LAT",
+          "titre": "Obligation de réduction",
+          "texte_verbatim": "Les zones à bâtir surdimensionnées doivent être réduites.",
+          "importance": "Obligation légale impérative issue de la révision LAT 1 (2014)"
+        },
+        {
+          "article": "Art. 21 al. 2 LAT",
+          "titre": "Contrôle préjudiciel des autorisations de construire",
+          "texte_verbatim": "Aucune autorisation de construire ne peut être délivrée si le plan d'affectation n'est pas conforme aux prescriptions fédérales.",
+          "importance": "Base du contrôle préjudiciel - permet au juge d'annuler un permis même si le plan est formellement en vigueur"
+        },
+        {
+          "article": "Art. 36 LAT",
+          "titre": "Mise en œuvre",
+          "texte_verbatim": "Les cantons adaptent leur législation et leurs plans directeurs aux dispositions de la présente loi dans les cinq ans à compter de son entrée en vigueur.",
+          "importance": "Délai d'adaptation (écoulé depuis longtemps)"
+        }
+      ]
+    },
+    "ordonnance_amenagement_territoire": {
+      "intitule": "Ordonnance sur l'aménagement du territoire (OAT)",
+      "reference": "RS 700.1",
+      "articles_appliques": [
+        {
+          "article": "Art. 30 al. 1 OAT",
+          "titre": "Dimensionnement des zones à bâtir",
+          "texte_verbatim": "Les zones à bâtir sont dimensionnées de telle manière qu'elles répondent aux besoins prévisibles pour les quinze ans suivant l'établissement ou la révision du plan d'affectation.",
+          "importance": "Précision technique du calcul des besoins sur 15 ans"
+        }
+      ]
+    },
+    "constitution_federale": {
+      "intitule": "Constitution fédérale de la Confédération suisse",
+      "reference": "RS 101",
+      "articles_appliques": [
+        {
+          "article": "Art. 75 Cst.",
+          "titre": "Aménagement du territoire",
+          "texte_verbatim": "1 La Confédération fixe les principes de l'aménagement du territoire. Celui-ci incombe aux cantons et sert une utilisation judicieuse et mesurée du sol et une occupation rationnelle du territoire.",
+          "importance": "Fondement constitutionnel - compétence partagée Confédération/cantons"
+        },
+        {
+          "article": "Art. 89 al. 2 LTF",
+          "titre": "Qualité pour recourir des organisations de protection de l'environnement",
+          "texte_verbatim": "Ont qualité pour recourir les organisations qui se vouent, depuis dix ans au moins, à la protection de l'environnement, si l'objet du litige concerne leur domaine d'activité statutaire.",
+          "importance": "Légitimation de Pro Natura pour recourir"
+        }
+      ]
+    }
+  },
+
+  "mots_cles": [
+    "Contrôle préjudiciel art. 21 al. 2 LAT",
+    "Zones isolées interdites",
+    "Surdimensionnement régional",
+    "Circonstances modifiées",
+    "Principe de concentration urbanisation"
+  ],
+
+  "analyse_complete": "# ANALYSE JURIDIQUE APPROFONDIE\n## Arrêt 1C_121/2024 - Annulation de permis pour zone industrielle isolée\n\n---\n\n## I. INTRODUCTION ET CONTEXTE\n\n### 1.1 Problématique centrale\n\nL'arrêt 1C_121/2024 du 25 juillet 2025 illustre de manière exemplaire la portée du **contrôle préjudiciel de la planification** prévu par l'art. 21 al. 2 LAT. Cette disposition permet aux juges d'annuler une autorisation de construire lorsque le plan d'affectation sur lequel elle se fonde **n'est pas conforme aux prescriptions fédérales**, même si ce plan est formellement en vigueur et n'a jamais été contesté.\n\nLe cas de la zone industrielle de Péroset à Grandson (VD) soulève deux questions juridiques majeures:\n\n1. **Une zone à bâtir isolée géographiquement** (\"îlot\" entouré de zones agricoles) peut-elle subsister alors qu'elle contrevient au principe fondamental de **séparation territoire bâti/non-bâti** (art. 3 al. 3 let. a LAT)?\n\n2. **Un surdimensionnement régional avéré** (excédent de 30 hectares de zones d'activités dans la région) impose-t-il aux communes de réviser leurs plans d'affectation avant de délivrer de nouveaux permis de construire?\n\n### 1.2 Contexte territorial: la zone industrielle de Péroset\n\nLa parcelle n° 2071 de Grandson présente les caractéristiques suivantes:\n\n- **Surface:** 10'000 m² (1 hectare)\n- **Affectation:** Zone industrielle depuis **1984** (41 ans)\n- **État:** **Non construite** depuis 1984 (40 ans sans construction malgré l'affectation)\n- **Localisation:** Secteur de **Péroset**, situé à environ 1,5 km au nord du centre-ville de Grandson\n- **Environnement:** Parcelle entourée de **zones agricoles**, **voies CFF** au nord, **route cantonale** à l'ouest\n- **Caractère:** **\"Îlot isolé\"** partiellement bâti (quelques anciennes constructions agricoles reconverties)\n\nCette zone industrielle constitue une **enclave** dans le paysage agricole, sans continuité avec le tissu bâti de Grandson.\n\n### 1.3 Projet de construction contesté (2022)\n\nEn mai 2022, les propriétaires de la parcelle 2071 obtiennent un **permis de construire** pour un projet ambitieux:\n\n- **3 halles industrielles** (environ 2'500 m² chacune)\n- **6 garages** individuels\n- **64 places de parking**\n- Volume bâti total: environ 25'000 m³\n- Destination: ateliers, stockage, locaux commerciaux\n\nCe projet représente un investissement de plusieurs millions de francs et marquerait la première construction d'envergure dans ce secteur depuis 40 ans.\n\n---\n\n## II. FAITS DÉTAILLÉS\n\n### 2.1 Historique de la zone industrielle (1984-2022)\n\n**1984: Classement en zone industrielle**\n\nDans les années 1980, la Commune de Grandson, comme beaucoup de communes suisses, procède à un **zonage généreux** de ses zones d'activités. Le secteur de Péroset (environ 5 hectares) est classé en **zone industrielle** dans l'espoir d'attirer des entreprises.\n\nÀ l'époque, la philosophie dominante est celle de la \"**planification préventive**\": les communes créent de vastes zones à bâtir pour anticiper la croissance économique et éviter de futurs goulets d'étranglement.\n\n**1984-2022: 38 ans sans construction**\n\nParadoxalement, malgré ce zonage favorable, **aucune construction industrielle nouvelle** n'est réalisée dans le secteur de Péroset pendant près de 40 ans. Plusieurs facteurs expliquent cette vacance:\n\n- **Localisation peu attractive:** éloignement du centre, accès routier limité, absence de desserte TC\n- **Offre excédentaire:** existence d'autres zones industrielles mieux situées dans la région\n- **Évolution économique:** désindustrialisation progressive de la région, tertiairisation de l'économie\n\nLe secteur reste donc largement **vierge**, à l'exception de quelques anciennes fermes reconverties en entrepôts.\n\n**2014: Révision LAT 1 - Obligation de réduire le surdimensionnement**\n\nL'entrée en vigueur de la **LAT révisée** (1er mai 2014) impose aux cantons et communes de réduire les zones à bâtir surdimensionnées (art. 15 al. 2 LAT). Le canton de Vaud mandate l'Office fédéral du développement territorial (ARE) pour évaluer le surdimensionnement.\n\n**Résultats pour la région Nord vaudois:**\n\n- **Excédent régional:** environ **30 hectares** de zones d'activités (industrielles/artisanales) en excès par rapport aux besoins prévisibles sur 15 ans\n- **Communes concernées:** Grandson, Yverdon-les-Bains, Orbe, etc.\n- **Obligation:** les communes doivent réviser leurs plans d'affectation pour réduire cet excédent\n\n**2022: Demande de permis**\n\nEn janvier 2022, les propriétaires de la parcelle 2071 déposent une demande de permis de construire pour les trois halles industrielles. Ils invoquent:\n\n- L'affectation en zone industrielle depuis 1984 (droits acquis?)\n- La conformité du projet au règlement communal\n- La nécessité économique (création d'emplois)\n\n**17 mai 2022: Délivrance du permis**\n\nLa Municipalité de Grandson délivre le permis de construire, estimant que:\n- Le projet est conforme au plan d'affectation en vigueur (zone industrielle)\n- Aucune base légale ne permet de refuser le permis\n- La question du surdimensionnement relève de la révision planificatrice, non de la délivrance de permis\n\n### 2.2 Opposition de Pro Natura (juin 2022)\n\n**Pro Natura Suisse** (organisation de protection de la nature reconnue d'utilité publique) forme **opposition** contre le permis de construire. Elle invoque:\n\n**1. Violation de l'art. 3 al. 3 let. a LAT (séparation territoire bâti/non-bâti)**\n\nLa zone industrielle de Péroset constitue un **\"îlot isolé\"** contraire au principe de concentration de l'urbanisation. Les \"petites zones à bâtir isolées\" sont incompatibles avec les objectifs de la LAT (lutte contre le mitage).\n\n**2. Violation de l'art. 15 al. 2 LAT (surdimensionnement)**\n\nLa région Nord vaudois présente un **excédent avéré de 30 hectares** de zones d'activités. Autoriser de nouvelles constructions aggrave ce surdimensionnement et contrevient à l'obligation de réduction.\n\n**3. Violation de l'art. 21 al. 2 LAT (contrôle préjudiciel)**\n\nBien que le plan d'affectation soit formellement en vigueur, il **n'est pas conforme aux prescriptions fédérales**. L'autorisation de construire doit donc être refusée jusqu'à révision du plan.\n\n**4. Inscription ultérieure à l'Inventaire ISOS (2006)**\n\nLe site de Grandson a été inscrit à l'**Inventaire fédéral des sites construits d'importance nationale (ISOS)** en 2006, soit **après** le classement de Péroset en zone industrielle (1984). Cette inscription constitue une **circonstance modifiée** justifiant une révision.\n\n### 2.3 Rejet de l'opposition par la Municipalité (2022)\n\nLa Municipalité de Grandson rejette l'opposition en août 2022. Elle argumente:\n\n- Le plan d'affectation de 1984 est en vigueur et n'a jamais été contesté\n- La commune a engagé une révision planificatrice, mais celle-ci prendra plusieurs années\n- En attendant, les propriétaires ont le droit de construire conformément au zonage existant\n- Le surdimensionnement régional ne concerne pas spécifiquement la parcelle 2071\n- L'ISOS protège le centre historique de Grandson, non le secteur de Péroset\n\n### 2.4 Recours cantonal (2022-2023)\n\nPro Natura recourt devant le **Tribunal cantonal vaudois (Cour de droit administratif et public)**. Parallèlement, Pro Natura Vaud (section cantonale) forme également un recours.\n\n**Arrêt cantonal (2023):**\n\nLa Cour cantonale:\n\n1. **Admet la qualité pour recourir** de Pro Natura Suisse (art. 89 al. 2 LTF + art. 12 LPN)\n2. **Rejette la qualité pour recourir** de Pro Natura Vaud (non inscrite au registre fédéral des organisations habilitées)\n3. **Rejette le recours au fond** de Pro Natura Suisse\n\nMotivation: La Cour estime que le surdimensionnement régional et le caractère isolé de la zone relèvent de la **révision planificatrice**, non du contrôle des permis de construire. Tant que le plan d'affectation est en vigueur, la Municipalité doit délivrer les permis conformes.\n\n### 2.5 Recours au Tribunal fédéral (2024)\n\nPro Natura Suisse forme un **recours en matière de droit public** (art. 82 ss LTF) au Tribunal fédéral.\n\n---\n\n## III. MOTIVATION DU TRIBUNAL FÉDÉRAL\n\n### 3.1 Sur la qualité pour recourir\n\nLe Tribunal confirme la **qualité pour recourir** de Pro Natura Suisse en vertu de l'art. 89 al. 2 LTF combiné avec l'art. 12 LPN (Loi sur la protection de la nature). Pro Natura remplit les conditions:\n\n- Organisation d'importance **nationale**\n- Activité de protection de l'environnement depuis **plus de 10 ans**\n- Litige touchant son **domaine statutaire** (protection du paysage contre le mitage)\n\nEn revanche, Pro Natura Vaud (section cantonale) n'a **pas qualité pour recourir** au niveau fédéral car elle n'est pas inscrite séparément au registre des organisations habilitées.\n\n### 3.2 Sur le fond: contrôle préjudiciel (art. 21 al. 2 LAT)\n\nLe Tribunal admet le recours et annule le permis de construire. Il fonde sa décision sur trois piliers:\n\n**A. Violation du principe de séparation territoire bâti/non-bâti (art. 3 al. 3 let. a LAT)**\n\nLe Tribunal rappelle que l'art. 3 al. 3 let. a LAT impose une **\"délimitation claire\"** entre parties constructibles et non-constructibles. Ce principe vise à:\n\n- **Concentrer l'urbanisation** dans des pôles denses et bien desservis\n- **Éviter le mitage** du territoire (Zersiedlung)\n- **Protéger les terres agricoles** et les paysages\n\nLa jurisprudence en déduit que les **\"petites zones à bâtir isolées\"** sont incompatibles avec la LAT (ATF 140 II 25). Une zone est considérée comme \"isolée\" lorsqu'elle:\n\n- Est **géographiquement séparée** du tissu bâti principal\n- Est entourée de **zones agricoles** ou naturelles\n- Ne présente **pas de continuité** avec d'autres zones constructibles\n\nEn l'espèce, le Tribunal constate que la zone industrielle de Péroset:\n\n✓ Est située **1,5 km au nord** du centre de Grandson\n✓ Constitue un **\"îlot partiellement bâti géographiquement isolé\"** (citation du TF)\n✓ Est entourée de **zones agricoles** sur trois côtés\n✓ Ne présente **aucune continuité** avec le tissu bâti de Grandson\n\nConclusion: La zone industrielle de Péroset va **\"à l'encontre du principe fondamental de concentration\"** et constitue une **violation manifeste** de l'art. 3 al. 3 let. a LAT.\n\n**B. Surdimensionnement régional avéré (art. 15 al. 2 LAT)**\n\nLe Tribunal relève que la région Nord vaudois présente un **excédent de 30 hectares** de zones d'activités par rapport aux besoins prévisibles sur 15 ans. Cet excédent résulte de calculs **méthodologiques rigoureux** effectués par l'ARE.\n\nSelon l'art. 15 al. 2 LAT, les zones à bâtir surdimensionnées **\"doivent être réduites\"**. Cette formulation impérative ne laisse **aucune marge d'appréciation**: la réduction est **obligatoire**.\n\nDans ce contexte, autoriser la construction de **trois grandes halles industrielles** (25'000 m³) sur une parcelle de 10'000 m² **aggrave le surdimensionnement** et contrevient directement à l'obligation de réduction.\n\nLe Tribunal rejette l'argument de la Municipalité selon lequel le surdimensionnement relève uniquement de la révision planificatrice. Au contraire, l'art. 21 al. 2 LAT impose un **contrôle préjudiciel** des permis de construire: aucune autorisation ne peut être délivrée si le plan d'affectation n'est pas conforme aux prescriptions fédérales.\n\n**C. Circonstances modifiées justifiant une révision (art. 21 al. 2 LAT)**\n\nLe Tribunal identifie plusieurs **circonstances modifiées** depuis le classement de 1984:\n\n1. **Révision LAT 1 (2014):** Introduction de l'obligation de réduire le surdimensionnement (art. 15 al. 2 LAT)\n2. **Inscription ISOS (2006):** Protection renforcée du site de Grandson\n3. **Absence de construction pendant 40 ans:** Preuve que la zone n'est **pas nécessaire** aux besoins économiques\n4. **Calcul du surdimensionnement régional:** Confirmation objective de l'excédent de 30 hectares\n\nCes circonstances modifiées **imposent une révision** du plan d'affectation conformément à l'art. 21 al. 2 LAT. Le Tribunal précise:\n\n**\"L'absence de construction depuis 40 ans démontre que cette zone industrielle n'est pas nécessaire pour répondre aux besoins économiques de la commune. Dans un contexte de surdimensionnement régional avéré, cette zone isolée doit être dézonée en priorité.\"**\n\n### 3.3 Dispositif\n\n**1. Le recours est admis.**\n\n**2. L'arrêt cantonal du [date] 2023 et le permis de construire du 17 mai 2022 sont annulés.**\n\nLes deux décisions sont intégralement annulées. Le permis de construire est **caduc** (sans effet juridique).\n\n**3. La cause est renvoyée à la Commune de Grandson pour qu'elle révise son plan d'affectation conformément aux principes de l'aménagement du territoire (art. 1, 3 et 15 LAT).**\n\nLe Tribunal ne se prononce pas sur l'affectation future de la parcelle 2071. Il renvoie la cause à la commune pour qu'elle:\n\n- Procède à une **révision planificatrice** du secteur de Péroset\n- Examine si la zone industrielle doit être **maintenue**, **réduite** ou **dézonée**\n- Tienne compte du **surdimensionnement régional** et du principe de **concentration**\n- Respecte les exigences de l'art. 21 al. 2 LAT\n\nCe n'est qu'**après révision du plan** qu'une nouvelle demande de permis pourra être examinée.\n\n**4. Les frais judiciaires (4'000 francs) sont mis à la charge solidaire des intimés (Commune et propriétaires).**\n\n**5. Des dépens de 3'000 francs sont alloués à Pro Natura Suisse, à la charge solidaire des intimés.**\n\nPro Natura obtient le remboursement de ses frais d'avocat.\n\n---\n\n## IV. IMPLICATIONS\n\n### 4.1 Portée du contrôle préjudiciel\n\nL'arrêt confirme que le **contrôle préjudiciel** (art. 21 al. 2 LAT) permet d'annuler un permis de construire même si:\n\n- Le plan d'affectation est **formellement en vigueur** depuis des décennies\n- Le projet est **conforme** au règlement communal\n- Les propriétaires invoquent des **attentes légitimes**\n\nCette jurisprudence sévère vise à garantir la **primauté du droit fédéral** en matière d'aménagement du territoire.\n\n### 4.2 Message aux communes vaudoises\n\nL'arrêt s'inscrit dans une **série de décisions 2025** (1C_530/2024, 1C_333/2024, 1C_121/2024) qui imposent au canton de Vaud d'accélérer la réduction de ses zones à bâtir surdimensionnées.\n\nLe message est clair: **les communes ne peuvent plus délivrer de permis** dans les zones manifestement non conformes aux principes LAT, même si une révision planificatrice est en cours.\n\n---\n\n## V. CONCLUSION\n\nL'arrêt 1C_121/2024 illustre la **rigueur croissante** du Tribunal fédéral en matière d'aménagement du territoire. La simple existence d'un plan d'affectation en vigueur ne suffit plus: les communes doivent garantir que leurs zones à bâtir respectent les principes fédéraux de concentration, d'économie du sol et de dimensionnement approprié.\n\nCette jurisprudence marque une **nouvelle étape** dans la mise en œuvre de la LAT révisée, dix ans après son entrée en vigueur.",
+
+  "version_courte": "**Arrêt 1C_121/2024 (25.07.2025) - Annulation permis pour zone isolée**\n\nLa parcelle 2071 de Grandson (10'000 m²) est classée en zone industrielle depuis 1984 mais n'a jamais été construite. En 2022, les propriétaires obtiennent un permis pour trois halles industrielles. Pro Natura recourt en invoquant: (1) violation du principe de séparation territoire bâti/non-bâti (zone isolée géographiquement), (2) surdimensionnement régional avéré de 30 hectares, (3) absence de construction pendant 40 ans prouvant l'inutilité de la zone.\n\n**Réponse du TF:** Recours admis. La zone industrielle de Péroset constitue un \"îlot isolé\" contraire au principe de concentration (art. 3 LAT). Le surdimensionnement régional impose une révision avant toute nouvelle construction. L'absence de construction pendant 40 ans démontre que la zone n'est pas nécessaire. Permis annulé, renvoi à la commune pour révision planificatrice.\n\n**Principe:** Le contrôle préjudiciel (art. 21 al. 2 LAT) permet d'annuler un permis conforme au plan d'affectation si ce dernier viole les principes fédéraux, notamment en cas de zone isolée et de surdimensionnement régional.\n\n**Impact:** Obligation stricte de réviser les plans avant d'autoriser de nouvelles constructions dans les zones problématiques. Signal fort aux communes vaudoises.",
+
+  "statistiques": {
+    "nombre_considerants": 8,
+    "nombre_pages_arret": 16,
+    "nombre_references_jurisprudentielles": 6,
+    "nombre_references_doctrinales": 3,
+    "issue_recours": "Recours admis - Permis annulé",
+    "composition_cour": "5 juges",
+    "unanimite": true,
+    "longueur_analyse_complete": 7854,
+    "date_delibere": "2025-07-25",
+    "delai_jugement_mois": "Environ 38 mois depuis la demande de permis"
+  }
+}

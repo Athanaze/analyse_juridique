@@ -1,0 +1,233 @@
+═══════════════════════════════════════════════════════════════════════════
+                    SÉRIE 10 - LISTE DES 5 ARRÊTS ANALYSÉS
+                        Tribunal fédéral suisse 2023-2025
+═══════════════════════════════════════════════════════════════════════════
+
+Date de création : 29 octobre 2025
+Répertoire       : /home/s/analyses_jurisprudence/
+Expert           : Expert en droit suisse
+
+───────────────────────────────────────────────────────────────────────────
+ARRÊT 1/5 : ATF 151 IV 88
+───────────────────────────────────────────────────────────────────────────
+
+RÉFÉRENCE        : ATF 151 IV 88 (arrêt publié)
+NUMÉRO CAUSE     : 6B_1372/2023
+DATE ARRÊT       : 13 novembre 2024
+COUR             : Ire Cour de droit pénal
+PRÉSIDENT        : Denys
+
+DOMAINE          : Droit de la circulation routière (LCR)
+CANTON           : Non spécifié
+FICHIER          : analyse_atf_151_iv_88_circulation_routiere.json
+TAILLE           : 33 KB
+
+THÉMATIQUE       : Délit de chauffard - Circonstance atténuante spéciale
+                   pour conducteurs sans antécédents routiers (art. 90 al. 3ter LCR)
+
+FAITS            : Jeune conducteur (21 ans) flashé à 153 km/h au lieu de 80 km/h.
+                   Aucun antécédent routier, mais moins de 10 ans de permis.
+                   Question: peut-il bénéficier de l'art. 90 al. 3ter LCR?
+
+ISSUE            : Recours du Ministère public rejeté
+                   Peine confirmée: 180 jours-amende (au lieu de 12 mois de prison)
+
+PRINCIPE DÉGAGÉ  : L'art. 90 al. 3ter LCR s'applique à TOUS les conducteurs
+                   n'ayant pas d'antécédents routiers graves sur 10 ans,
+                   INDÉPENDAMMENT de la durée de détention du permis.
+
+5 MOTS-CLÉS      :
+  1. Délit de chauffard
+  2. Art. 90 al. 3ter LCR
+  3. Absence d'antécédents routiers
+  4. Conducteur novice
+  5. Circonstance atténuante spéciale
+
+
+───────────────────────────────────────────────────────────────────────────
+ARRÊT 2/5 : 1C_530/2024
+───────────────────────────────────────────────────────────────────────────
+
+RÉFÉRENCE        : 1C_530/2024 (non publié aux ATF)
+NUMÉRO CAUSE     : 1C_530/2024
+DATE ARRÊT       : 25 juin 2025
+COUR             : Ire Cour de droit public
+PRÉSIDENT        : Haag
+
+DOMAINE          : Droit de l'aménagement du territoire (LAT)
+CANTON           : Vaud
+COMMUNE          : Tannay
+FICHIER          : analyse_1c_530_2024_amenagement_territoire.json
+TAILLE           : 46 KB
+
+THÉMATIQUE       : Zones réservées cantonales et surdimensionnement
+                   des zones à bâtir (art. 15 al. 2 et 27 LAT)
+
+FAITS            : Parcelle 237 (6'000 m²) non construite à Tannay.
+                   Commune surdimensionnée (+464 habitants).
+                   Propriétaire demande permis → zone réservée établie.
+
+ISSUE            : Recours rejeté
+                   Zone réservée cantonale confirmée (max. 5 ans)
+
+PRINCIPE DÉGAGÉ  : L'obligation de réduire le surdimensionnement (art. 15 al. 2 LAT)
+                   constitue un intérêt public suffisant pour établir
+                   une zone réservée, même si le résultat de la révision
+                   planificatrice n'est pas encore déterminé.
+
+5 MOTS-CLÉS      :
+  1. Zones réservées cantonales
+  2. Surdimensionnement zones à bâtir
+  3. Art. 15 al. 2 LAT
+  4. Art. 27 LAT
+  5. Révision plan d'affectation communal
+
+
+───────────────────────────────────────────────────────────────────────────
+ARRÊT 3/5 : 1C_121/2024
+───────────────────────────────────────────────────────────────────────────
+
+RÉFÉRENCE        : 1C_121/2024 (non publié aux ATF)
+NUMÉRO CAUSE     : 1C_121/2024
+DATE ARRÊT       : 25 juillet 2025
+COUR             : Ire Cour de droit public
+PRÉSIDENT        : Kneubühler
+
+DOMAINE          : Droit de l'aménagement du territoire (LAT)
+CANTON           : Vaud
+COMMUNE          : Grandson
+FICHIER          : analyse_1c_121_2024_amenagement_territoire_grandson.json
+TAILLE           : 24 KB
+
+THÉMATIQUE       : Contrôle préjudiciel de la planification - Annulation de permis
+                   pour zone industrielle isolée non conforme aux principes LAT
+
+FAITS            : Zone industrielle de Péroset (10'000 m²) classée depuis 1984.
+                   Jamais construite en 40 ans. Permis délivré en 2022.
+                   Pro Natura conteste: zone isolée + surdimensionnement régional.
+
+ISSUE            : Recours admis (Pro Natura gagne)
+                   Permis de construire annulé, renvoi pour révision planificatrice
+
+PRINCIPE DÉGAGÉ  : Le contrôle préjudiciel (art. 21 al. 2 LAT) permet d'annuler
+                   un permis conforme au plan d'affectation si la zone constitue
+                   un "îlot isolé" contraire au principe de concentration et
+                   aggrave le surdimensionnement régional.
+
+5 MOTS-CLÉS      :
+  1. Contrôle préjudiciel art. 21 al. 2 LAT
+  2. Zones isolées interdites
+  3. Surdimensionnement régional
+  4. Circonstances modifiées
+  5. Principe de concentration urbanisation
+
+
+───────────────────────────────────────────────────────────────────────────
+ARRÊT 4/5 : 4A_145/2024
+───────────────────────────────────────────────────────────────────────────
+
+RÉFÉRENCE        : 4A_145/2024 (non publié aux ATF)
+NUMÉRO CAUSE     : 4A_145/2024
+DATE ARRÊT       : 11 septembre 2024
+COUR             : Ire Cour de droit civil
+PRÉSIDENT        : Kiss
+
+DOMAINE          : Propriété intellectuelle - Droit d'auteur (LDA)
+CANTON           : Non spécifié
+FICHIER          : analyse_4a_145_2024_propriete_intellectuelle.json
+TAILLE           : 29 KB
+
+THÉMATIQUE       : Contrefaçon de design (Feuerring) - Indemnisation des gains
+                   et bonne foi du contrefacteur (art. 423 vs. 62 CO)
+
+FAITS            : Designer crée brasero protégé (brevets + marques + droit d'auteur).
+                   2014-2019: défendeurs vendent produit similaire (164 unités).
+                   Mises en demeure mentionnent brevets/marques MAIS PAS droits d'auteur
+                   jusqu'en 2019. Demande: restitution intégrale gains (art. 423 CO).
+
+ISSUE            : Recours partiellement admis
+                   Restitution art. 423 CO rejetée (bonne foi)
+                   Enrichissement art. 62 CO accordé: 50'581 CHF (licence hypothétique)
+
+PRINCIPE DÉGAGÉ  : L'art. 423 CO (restitution des gains) exige une connaissance
+                   de l'illicéité. Le contrefacteur de bonne foi ne doit que
+                   la licence hypothétique (art. 62 CO), NON la restitution
+                   intégrale des bénéfices.
+
+5 MOTS-CLÉS      :
+  1. Droit d'auteur - design
+  2. Enrichissement illégitime art. 62 CO
+  3. Bonne foi du contrefacteur
+  4. Restitution des gains art. 423 CO
+  5. Œuvres d'art appliqué
+
+
+───────────────────────────────────────────────────────────────────────────
+ARRÊT 5/5 : 5A_181/2025
+───────────────────────────────────────────────────────────────────────────
+
+RÉFÉRENCE        : 5A_181/2025 (non publié aux ATF)
+NUMÉRO CAUSE     : 5A_181/2025
+DATE ARRÊT       : 23 juillet 2025
+COUR             : IIe Cour de droit civil
+PRÉSIDENTE       : Hohl
+
+DOMAINE          : Protection de l'enfance (APEA)
+CANTON           : Valais
+FICHIER          : analyse_5a_181_2025_protection_enfance.json
+TAILLE           : 30 KB
+
+THÉMATIQUE       : Retrait de garde et placement en foyer - Droit d'être entendu
+                   et audition de l'enfant (art. 310 et 314a CC)
+
+FAITS            : Mère élève seule 3 enfants (8, 13, 14 ans).
+                   Signalements de violences intrafamiliales.
+                   Tribunal ordonne retrait garde + placement séparé.
+                   Mère recourt: pas d'audition en appel + audition enfants déléguée.
+
+ISSUE            : Recours rejeté
+                   Placement maintenu, procédure validée
+
+PRINCIPE DÉGAGÉ  : 1) Le droit d'être entendu (art. 450 CC) n'impose pas
+                      d'audition orale systématique en appel.
+                   2) L'audition des enfants (art. 314a CC) peut être déléguée
+                      à des spécialistes en cas de "justes motifs"
+                      (violences, conflit de loyauté, relation de confiance établie).
+
+5 MOTS-CLÉS      :
+  1. Protection de l'enfant APEA
+  2. Retrait de garde art. 310 CC
+  3. Placement en foyer
+  4. Audition de l'enfant art. 314a CC
+  5. Violences intrafamiliales
+
+
+═══════════════════════════════════════════════════════════════════════════
+                            STATISTIQUES GLOBALES
+═══════════════════════════════════════════════════════════════════════════
+
+TOTAL ARRÊTS                   : 5
+TOTAL MOTS-CLÉS UNIQUES        : 25
+TOTAL PAGES ARRÊTS             : 73 pages
+TOTAL MOTS ANALYSES            : 51'609 mots
+TOTAL TAILLE FICHIERS          : 162 KB
+
+PÉRIODE COUVERTE               : Septembre 2024 - Juillet 2025 (11 mois)
+DOMAINES NOUVEAUX              : 5 (circulation, aménagement x2, PI, enfance)
+CANTONS CONCERNÉS              : Vaud (2 arrêts), Valais (1 arrêt)
+
+ARRÊTS PUBLIÉS ATF             : 1 (ATF 151 IV 88)
+ARRÊTS NON PUBLIÉS             : 4
+
+ISSUE RECOURS                  :
+  - Rejetés                    : 3 (60%)
+  - Admis                      : 1 (20%)
+  - Partiellement admis        : 1 (20%)
+
+COMPOSITION COURS              : 5 juges par arrêt (unanimité systématique)
+
+═══════════════════════════════════════════════════════════════════════════
+                                FIN DE LA LISTE
+═══════════════════════════════════════════════════════════════════════════
+
+Expert en droit suisse | Série 10 | 29 octobre 2025
