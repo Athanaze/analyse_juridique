@@ -1,0 +1,165 @@
+{
+  "titre": "Le partage de la prévoyance professionnelle en cas de divorce et de retraite anticipée (ATF 151 V 144)",
+  "arrets_principaux": [
+    {
+      "reference": "ATF 151 V 144",
+      "date": "2024",
+      "juridiction": "Tribunal fédéral suisse",
+      "formation": "IIe Cour de droit social",
+      "numero_cause": "9C_xxx/2023",
+      "parties": "Caisse de pension c. conjoint divorcé",
+      "matiere": "Prévoyance professionnelle - Divorce - Retraite anticipée",
+      "publication": "Publié aux ATF, volume 151 V 144",
+      "langue": "de",
+      "url": "http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf://151-V-144:de&lang=de&type=show_document"
+    }
+  ],
+  "arrets_cites": [
+    {
+      "reference": "ATF 130 III 297",
+      "pertinence": "Arrêt fondamental définissant la notion de survenance du cas de prévoyance en matière de vieillesse",
+      "principe": "Le cas de prévoyance « vieillesse » survient lorsque l'assuré perçoit effectivement des prestations de vieillesse de son institution de prévoyance, et non déjà dès le moment où il pourrait prendre une retraite anticipée selon le règlement de son institution",
+      "url": "http://relevancy.bger.ch/php/clir/http/index.php?lang=de&type=show_document&page=1&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&query_words=&rank=0&azaclir=aza&highlight_docid=atf://130-III-297:de&number_of_ranks=0"
+    },
+    {
+      "reference": "ATF 146 V 95 (9C_391/2019)",
+      "date": "23.03.2020",
+      "pertinence": "Interprétation des art. 122 et 123 CC en cas de prévoyance invalidité en cours",
+      "principe": "Cas de prévoyance invalidité annoncé à l'AI mais sans octroi de rente lors de l'introduction de la procédure de divorce",
+      "url": "http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf://146-V-95:de&lang=de&type=show_document"
+    },
+    {
+      "reference": "ATF 145 III 56 (5A_443/2018)",
+      "date": "2018",
+      "pertinence": "Justes motifs permettant de refuser le partage selon l'art. 124b CC",
+      "principe": "Le comportement d'un époux pendant le mariage peut, dans des situations particulièrement choquantes, constituer un juste motif permettant de refuser totalement ou partiellement le partage de la prévoyance professionnelle",
+      "url": "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE-145-III-56&lang=fr"
+    },
+    {
+      "reference": "9C_526/2023",
+      "date": "29.05.2024",
+      "pertinence": "Rachat dans la prévoyance professionnelle après divorce et retrait en capital",
+      "principe": "Le rachat effectué peu de temps après le divorce et peu avant la retraite, suivi d'un retrait en capital, peut constituer un abus fiscal. L'art. 79b al. 3 LPP prévoit un délai de blocage de trois ans",
+      "url": "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.05.2024_9C_526%2F2023"
+    },
+    {
+      "reference": "9C_527/2023",
+      "date": "27.06.2024",
+      "pertinence": "Délai de blocage de trois ans pour le retrait en capital après rachat",
+      "principe": "Selon l'art. 79b al. 3 LPP, les prestations résultant d'un rachat ne peuvent être versées en capital par les institutions de prévoyance avant l'expiration d'un délai de trois ans",
+      "url": "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.06.2024_9C_527%2F2023"
+    }
+  ],
+  "articles_loi": [
+    {
+      "reference": "Art. 122 CC",
+      "titre": "Principe du partage par moitié",
+      "texte_pertinent": "Les prestations de sortie acquises, y compris les avoirs de libre passage et les versements anticipés pour la propriété du logement, sont partagées par moitié.",
+      "importance": "Disposition centrale : droit inconditionnel de chaque époux à la moitié des avoirs de prévoyance accumulés pendant le mariage",
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr#art_122"
+    },
+    {
+      "reference": "Art. 123 CC",
+      "titre": "Exceptions au partage par moitié",
+      "texte_pertinent": "Par dérogation à l'art. 122, chacun des époux peut demander à recevoir plus de la moitié de la prestation de sortie de l'autre s'il peut justifier de justes motifs.",
+      "importance": "Exception au principe de la répartition par moitié en cas d'inéquité manifeste",
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr#art_123"
+    },
+    {
+      "reference": "Art. 124 CC",
+      "titre": "Survenance du cas de prévoyance",
+      "texte_pertinent": "Lorsqu'au moment de l'introduction de la procédure de divorce, un des époux bénéficie déjà d'une rente de vieillesse ou d'invalidité, le partage est effectué sous forme d'indemnité équitable.",
+      "importance": "Règle applicable lorsque le cas de prévoyance est déjà survenu",
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr#art_124"
+    },
+    {
+      "reference": "Art. 124a CC",
+      "titre": "Indemnité équitable en cas de survenance du cas de prévoyance",
+      "importance": "Modalités de fixation de l'indemnité équitable",
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr#art_124_a"
+    },
+    {
+      "reference": "Art. 124b CC",
+      "titre": "Justes motifs",
+      "texte_pertinent": "Un époux peut, pour de justes motifs, refuser en tout ou en partie le partage de la prévoyance professionnelle.",
+      "importance": "Base légale pour refuser le partage dans des situations exceptionnelles",
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr#art_124_b"
+    },
+    {
+      "reference": "Art. 37 LPP",
+      "titre": "Forme de la prestation",
+      "texte_pertinent": "Les prestations de vieillesse sont versées sous forme de rente. Le règlement peut prévoir que l'assuré peut demander, à la place de la rente ou en complément de celle-ci, le versement d'une prestation en capital.",
+      "importance": "Possibilité de retrait en capital et incidence sur le partage en cas de divorce",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/fr#art_37"
+    },
+    {
+      "reference": "Art. 79b al. 3 LPP",
+      "titre": "Délai de blocage pour le retrait en capital",
+      "texte_pertinent": "Les prestations provenant de rachats ne peuvent être versées sous forme de capital par les institutions de prévoyance avant l'expiration d'un délai de trois ans.",
+      "importance": "Protection contre l'optimisation fiscale abusive liée aux rachats suivis de retraits en capital",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/fr#art_79_b"
+    },
+    {
+      "reference": "Art. 19 al. 2 LFLP",
+      "titre": "Loi fédérale sur le libre passage",
+      "importance": "Modalités de calcul de la prestation de sortie",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/fr#art_19"
+    },
+    {
+      "reference": "Art. 22 al. 3 OLP",
+      "titre": "Ordonnance sur le libre passage",
+      "importance": "Dispositions d'exécution relatives au partage en cas de divorce",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1994/2372_2372_2372/fr#art_22"
+    }
+  ],
+  "doctrine_citee": [],
+  "mots_cles": [
+    "Prévoyance professionnelle",
+    "Divorce",
+    "Partage par moitié",
+    "Retraite anticipée",
+    "Vorzeitiger Ruhestand",
+    "Prestation de sortie",
+    "Austrittsleistung",
+    "Art. 122 CC",
+    "Art. 123 CC",
+    "Survenance du cas de prévoyance",
+    "Eintritt des Vorsorgefalles",
+    "LPP",
+    "Indemnité équitable",
+    "Rachat",
+    "Retrait en capital",
+    "Délai de blocage",
+    "Sperrfrist",
+    "Art. 79b al. 3 LPP"
+  ],
+  "faits": {
+    "resume": "Une personne née en février 1959, employée et assurée auprès d'une institution de prévoyance, prend sa retraite anticipée le 1er juillet 2019, soit 44 mois avant l'âge de la retraite réglementaire ordinaire de 64 ans. Une procédure de divorce a été introduite en novembre 2018. Le jugement de divorce du 11 décembre 2019 (entrée en force le 16 décembre 2019) ordonne à l'institution de prévoyance de verser un montant compensatoire de CHF 782'393.50 plus intérêts à l'institution de prévoyance de l'ex-conjoint. La retraite anticipée est intervenue le 1er juillet 2019, pendant la procédure de divorce en cours.",
+    "question_juridique": "Quels sont les avoirs de prévoyance professionnelle à prendre en compte pour le partage en cas de divorce lorsque l'un des époux prend une retraite anticipée pendant la procédure de divorce ?"
+  },
+  "principe_juridique": {
+    "regle": "En cas de retraite anticipée, seuls les avoirs de prévoyance professionnelle accumulés pendant le mariage jusqu'au jour de la retraite anticipée sont pris en compte pour le partage (ATF 151 V 144).",
+    "rationale": "La prise d'une retraite anticipée constitue la survenance effective du cas de prévoyance « vieillesse », ce qui met fin au droit à une prestation de sortie et fait naître un droit à des prestations de vieillesse. À partir de ce moment, le partage par moitié selon l'art. 122 CC n'est plus possible, et seule une indemnité équitable selon l'art. 124 CC peut être envisagée."
+  },
+  "analyse_markdown": "# Le partage de la prévoyance professionnelle en cas de divorce et de retraite anticipée : l'ATF 151 V 144\n\n## I. Contexte normatif et enjeux\n\nLe partage de la prévoyance professionnelle en cas de divorce constitue l'une des questions les plus délicates du droit matrimonial suisse. Depuis la révision du droit du divorce entrée en vigueur le 1er janvier 2000, puis sa modification substantielle du 1er janvier 2017, le législateur a consacré le principe du partage par moitié des avoirs de prévoyance accumulés pendant le mariage (art. 122 CC). Ce principe repose sur l'idée que les époux contribuent conjointement à l'accumulation des avoirs de prévoyance durant le mariage, que cette contribution soit de nature économique directe ou qu'elle prenne la forme d'un travail familial.\n\nL'ATF 151 V 144 intervient dans ce contexte pour clarifier une question spécifique mais cruciale : **quel est le moment déterminant pour calculer les avoirs à partager lorsque l'un des époux prend une retraite anticipée pendant la procédure de divorce ?**\n\n## II. La distinction fondamentale : prestation de sortie vs. rente de prévoyance\n\n### A. Le principe général du partage par moitié (art. 122 CC)\n\nSelon l'art. 122 al. 1 CC, tant qu'aucun cas de prévoyance n'est survenu, le juge du divorce doit partager par moitié les prestations de sortie. Ce principe découle de la volonté du législateur d'accorder à chaque époux un **droit inconditionnel à la moitié des prétentions de prévoyance accumulées pendant le mariage**.\n\nL'ATF 130 III 297, arrêt de référence en la matière, a établi que **le cas de prévoyance « vieillesse » survient au moment où l'assuré perçoit effectivement des prestations de vieillesse de son institution de prévoyance**. Cette définition est essentielle car elle détermine le régime juridique applicable au partage :\n\n- **Avant la survenance du cas de prévoyance** : partage par moitié de la prestation de sortie (art. 122 CC)\n- **Après la survenance du cas de prévoyance** : indemnité équitable uniquement (art. 124 CC)\n\nComme le précise l'ATF 130 III 297 : « Tant que l'assuré ne perçoit pas de telles prestations, il dispose d'une prestation de sortie vis-à-vis de sa caisse de pension ; le partage est donc possible et l'époux y a droit selon l'art. 122 al. 1 CC. »\n\n### B. La retraite anticipée comme cas de prévoyance\n\nL'**ATF 151 V 144** applique cette distinction au cas particulier de la retraite anticipée. Le Tribunal fédéral juge que **la prise effective d'une retraite anticipée constitue la survenance du cas de prévoyance**, même si cette retraite intervient pendant la procédure de divorce.\n\nCette solution s'inscrit dans la logique de l'ATF 130 III 297 : dès que l'assuré **perçoit effectivement** des prestations de vieillesse (fût-ce de manière anticipée), la prestation de sortie s'éteint et est remplacée par un droit à des prestations de vieillesse. Il en résulte que **seuls les avoirs accumulés jusqu'au jour de la retraite anticipée peuvent faire l'objet du partage par moitié**.\n\n## III. Les conséquences pratiques et les stratégies patrimoniales\n\n### A. La chronologie déterminante\n\nL'ATF 151 V 144 met en lumière l'importance de la chronologie entre trois événements :\n\n1. **L'introduction de la procédure de divorce** (novembre 2018 dans le cas d'espèce)\n2. **La prise de retraite anticipée** (1er juillet 2019)\n3. **Le jugement de divorce** (11 décembre 2019, entré en force le 16 décembre 2019)\n\nLe principe est que le partage porte sur les avoirs accumulés « pendant le mariage », mais la question est de savoir jusqu'à quel moment. La solution de l'ATF 151 V 144 est claire : **lorsque la retraite anticipée intervient avant le jugement de divorce, seuls les avoirs accumulés jusqu'à cette retraite sont pris en compte**.\n\n### B. Les rachats après divorce et l'art. 79b al. 3 LPP\n\nLes arrêts 9C_526/2023 (29.05.2024) et 9C_527/2023 (27.06.2024) complètent utilement l'analyse en abordant une problématique connexe : **les rachats dans la prévoyance professionnelle effectués après le divorce en vue de combler la lacune résultant du partage**.\n\nDans l'arrêt 9C_526/2023, le Tribunal fédéral a jugé que constitue un **abus fiscal** le comportement d'un contribuable qui :\n\n- A versé CHF 600'000 à son ex-épouse suite au divorce (13 décembre 2013)\n- A ensuite effectué des rachats annuels de CHF 75'000 entre 2013 et 2020\n- A retiré l'intégralité de ses avoirs en capital peu après le dernier rachat\n\nLe Tribunal fédéral a estimé que cette stratégie n'avait « aucun sens du point de vue économique ou de prévoyance », l'intéressé effectuant un rachat pour retirer le même montant moins de deux ans plus tard.\n\nCette jurisprudence doit être lue en combinaison avec l'**art. 79b al. 3 LPP**, qui prévoit un **délai de blocage de trois ans** : « Les prestations provenant de rachats ne peuvent être versées sous forme de capital par les institutions de prévoyance avant l'expiration d'un délai de trois ans. » L'arrêt 9C_527/2023 confirme que la déduction fiscale d'un rachat doit toujours être refusée lorsqu'une prestation en capital est versée pendant le délai de blocage de trois ans.\n\n## IV. Les exceptions au partage par moitié\n\n### A. L'inéquité manifeste (art. 123 CC)\n\nL'art. 123 al. 2 CC prévoit que le droit au partage par moitié peut être refusé « s'il s'avère manifestement inéquitable pour des motifs liés à la liquidation du régime matrimonial ou à la situation économique des époux après le divorce ».\n\nSelon la jurisprudence, **« manifestement inéquitable » signifie totalement choquant, absolument injuste et complètement insoutenable**. Le seuil est donc très élevé, ce qui confirme le caractère fondamental du principe du partage par moitié.\n\n### B. Les justes motifs liés au comportement conjugal (art. 124b CC)\n\nL'**ATF 145 III 56** (5A_443/2018) a précisé la portée de l'art. 124b CC relatif aux « justes motifs » permettant de refuser le partage. Le Tribunal fédéral a jugé que :\n\n- Le comportement d'un époux pendant le mariage **n'affecte en principe pas** le partage par moitié de la prévoyance professionnelle\n- Toutefois, **dans des situations particulièrement choquantes**, ce comportement peut constituer un juste motif permettant de refuser totalement ou partiellement le partage\n\nDans le cas d'espèce de l'ATF 145 III 56, après 45 ans de mariage, l'épouse travaillait toujours tandis que l'époux avait gravement violé ses obligations d'entretien familial, ne contribuait ni aux soins des enfants ni aux tâches ménagères, et exerçait un contrôle strict sur son épouse la privant d'autonomie. Ces circonstances ont été jugées susceptibles de constituer des « justes motifs ».\n\n## V. La distinction avec les cas d'invalidité\n\nL'**ATF 146 V 95** (9C_391/2019 du 23.03.2020) aborde une problématique parallèle : **le cas de prévoyance invalidité en cours mais sans octroi de rente au moment de l'introduction de la procédure de divorce**.\n\nLe Tribunal fédéral a précisé qu'une réduction complète des droits à une rente d'invalidité professionnelle en raison d'une surassurance ne modifie pas la survenance du cas d'invalidité du premier pilier dans le cadre d'une procédure de divorce. Lorsque des droits rétroactifs à une rente d'invalidité ne peuvent être exclus, il est généralement approprié de suspendre la procédure jusqu'à ce que la question de la survenance du cas assuré soit clarifiée.\n\nCette solution montre que le Tribunal fédéral privilégie une approche pragmatique visant à éviter des partages ultérieurement remis en cause.\n\n## VI. Synthèse : les enseignements de la jurisprudence récente\n\nLe groupe d'arrêts centré autour de l'ATF 151 V 144 permet de dégager les principes suivants :\n\n### 1. Principe de la survenance effective du cas de prévoyance\n\n**La notion de « survenance du cas de prévoyance » s'apprécie de manière factuelle** : c'est le moment où l'assuré perçoit effectivement des prestations, et non le moment où il pourrait potentiellement les percevoir.\n\nCette solution, qui découle de l'ATF 130 III 297 et est confirmée par l'ATF 151 V 144, a une **conséquence pratique majeure** : un époux qui prend sa retraite anticipée pendant la procédure de divorce modifie ainsi le moment de référence pour le calcul des avoirs à partager.\n\n### 2. Protection contre les stratégies d'optimisation abusives\n\nLes arrêts 9C_526/2023 et 9C_527/2023 montrent que le Tribunal fédéral est attentif aux **stratégies d'optimisation fiscale abusives** consistant à :\n\n- Effectuer des rachats après le divorce pour combler la lacune\n- Retirer ensuite rapidement les avoirs en capital pour bénéficier de la déduction fiscale\n\nLe **délai de blocage de trois ans** de l'art. 79b al. 3 LPP constitue un garde-fou important, mais il ne suffit pas à lui seul : le Tribunal fédéral examine l'ensemble de la stratégie et peut requalifier l'opération en abus fiscal même si le délai de trois ans est formellement respecté.\n\n### 3. Caractère impératif du partage par moitié avec exceptions strictes\n\nLe partage par moitié selon l'art. 122 CC revêt un **caractère quasi impératif**, comme en témoigne le seuil très élevé requis pour les exceptions :\n\n- **« Manifestement inéquitable »** pour l'art. 123 CC\n- **« Situations particulièrement choquantes »** pour l'art. 124b CC (ATF 145 III 56)\n\nCette rigueur s'explique par la volonté du législateur de garantir l'**autonomie de prévoyance des deux époux après le divorce**, en reconnaissant que l'accumulation de prévoyance pendant le mariage résulte d'un effort commun, quelle que soit la répartition des rôles entre les époux.\n\n### 4. Importance de la distinction entre régimes juridiques\n\nLa jurisprudence récente souligne la différence fondamentale entre :\n\n- Le **partage par moitié de la prestation de sortie** (art. 122 CC) : droit inconditionnel, calcul mathématique, exécution en nature par transfert d'avoirs\n- L'**indemnité équitable** (art. 124 CC) : appréciation judiciaire, versement en espèces, critères d'équité\n\nCette distinction n'est pas qu'académique : elle a des **conséquences pratiques considérables** tant sur le montant que sur les modalités du partage.\n\n## VII. Perspectives et questions ouvertes\n\nPlusieurs questions demeurent ouvertes après l'ATF 151 V 144 :\n\n### A. La retraite anticipée stratégique\n\nL'arrêt laisse ouverte la question de savoir si un époux pourrait **stratégiquement prendre une retraite anticipée** pendant la procédure de divorce pour limiter le montant du partage (en figeant les avoirs à une date antérieure). Une telle manœuvre pourrait-elle être contestée sur le fondement de l'abus de droit ou des « justes motifs » de l'art. 124b CC ?\n\n### B. L'articulation avec les rachats antérieurs au divorce\n\nSi les arrêts 9C_526/2023 et 9C_527/2023 concernent les rachats **après** le divorce, qu'en est-il des rachats effectués **pendant le mariage mais peu avant le divorce** ? Doivent-ils être pleinement pris en compte dans le partage, ou peuvent-ils être écartés s'ils relèvent d'une stratégie patrimoniale unilatérale ?\n\n### C. La coordination avec le droit fiscal\n\nL'interface entre le droit du divorce et le droit fiscal de la prévoyance professionnelle reste complexe. L'arrêt 9C_526/2023 montre que les autorités fiscales peuvent requalifier des opérations en abus fiscal, mais cela n'affecte pas nécessairement la validité du partage effectué dans le cadre du divorce. Une meilleure coordination entre ces deux domaines serait souhaitable.\n\n## VIII. Conclusion\n\nL'**ATF 151 V 144** s'inscrit dans une jurisprudence cohérente et rigoureuse du Tribunal fédéral en matière de partage de la prévoyance professionnelle en cas de divorce. En jugeant que **seuls les avoirs accumulés jusqu'au jour de la retraite anticipée sont pris en compte pour le partage**, le Tribunal fédéral applique logiquement le principe selon lequel la survenance du cas de prévoyance met fin au droit à une prestation de sortie partageable.\n\nCette solution, lue en combinaison avec les ATF 130 III 297, 146 V 95, 145 III 56 et les arrêts récents 9C_526/2023 et 9C_527/2023, dessine les contours d'un **système cohérent** qui :\n\n1. **Protège le principe du partage par moitié** comme règle quasi impérative reflétant l'égalité des époux\n2. **Prévient les stratégies d'optimisation abusives** par le biais du délai de blocage de trois ans et de la requalification fiscale\n3. **Réserve des exceptions strictement encadrées** pour les situations manifestement inéquitables ou particulièrement choquantes\n4. **Privilégie une approche factuelle** de la survenance du cas de prévoyance, fondée sur la perception effective des prestations\n\nLe praticien du droit matrimonial devra être attentif à la **chronologie précise** des événements (introduction du divorce, retraite anticipée, jugement de divorce) et conseiller ses clients en tenant compte des interactions complexes entre le droit du divorce, le droit de la prévoyance professionnelle et le droit fiscal.",
+  "version_courte": "## L'essentiel à retenir\n\n**Principe (ATF 151 V 144)** : En cas de retraite anticipée, seuls les avoirs de prévoyance professionnelle accumulés pendant le mariage jusqu'au jour de la retraite anticipée sont pris en compte pour le partage.\n\n**Rationale** : La prise effective d'une retraite anticipée constitue la survenance du cas de prévoyance « vieillesse », ce qui met fin au droit à une prestation de sortie et fait naître un droit à des prestations de vieillesse. À partir de ce moment, le partage par moitié selon l'art. 122 CC n'est plus possible.\n\n**Distinction fondamentale** :\n- **Avant la survenance du cas de prévoyance** : partage par moitié de la prestation de sortie (art. 122 CC)\n- **Après la survenance du cas de prévoyance** : indemnité équitable uniquement (art. 124 CC)\n\n**Rachat après divorce** : Les arrêts 9C_526/2023 et 9C_527/2023 précisent qu'un rachat effectué après le divorce suivi d'un retrait rapide en capital peut constituer un abus fiscal. L'art. 79b al. 3 LPP prévoit un délai de blocage de trois ans.\n\n**Exceptions au partage par moitié** :\n- **Art. 123 CC** : inéquité manifeste (seuil très élevé)\n- **Art. 124b CC** : justes motifs liés au comportement conjugal dans des situations « particulièrement choquantes » (ATF 145 III 56)\n\n**Chronologie déterminante** : Le praticien doit être attentif aux dates précises de :\n1. L'introduction de la procédure de divorce\n2. La prise effective de retraite anticipée\n3. Le jugement de divorce\n\n**Jurisprudence de référence** :\n- ATF 130 III 297 : définition de la survenance du cas de prévoyance\n- ATF 146 V 95 : cas d'invalidité en cours\n- ATF 145 III 56 : justes motifs selon l'art. 124b CC\n- ATF 151 V 144 : retraite anticipée et moment de référence",
+  "sources": [
+    "http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf://151-V-144:de&lang=de&type=show_document",
+    "http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf://130-III-297:de&type=show_document",
+    "http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf://146-V-95:de&lang=de&type=show_document",
+    "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=BGE-145-III-56&lang=fr",
+    "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=29.05.2024_9C_526%2F2023",
+    "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.06.2024_9C_527%2F2023",
+    "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr",
+    "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/fr",
+    "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/fr",
+    "https://www.fedlex.admin.ch/eli/cc/1994/2372_2372_2372/fr",
+    "https://droitpourlapratique.ch/subtheme/divorce-partage-de-la-prevoyance-professionnelle-en-cas-de-divorce",
+    "https://lawinside.ch/688/",
+    "https://assurances-sociales.info/2021/11/atf-146-v-95-9c_391-2019/",
+    "https://divorce.ch/nos-dossiers/lpp/le-principe-legal-du-partage/",
+    "https://sozialesicherheit.ch/fr/partage-de-la-prevoyance-en-cas-de-divorce-nouveau-droit/"
+  ],
+  "date_analyse": "2025-11-06",
+  "auteur": "Analyse jurisprudentielle - Droit suisse"
+}
