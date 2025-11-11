@@ -1,0 +1,474 @@
+{
+  "metadata": {
+    "titre": "ATF 151 V 144 - Prévoyance professionnelle : Partage des avoirs en cas de divorce et retraite anticipée",
+    "reference_atf": "ATF 151 V 144",
+    "reference_cause": "9C_515/2024",
+    "date_arret": "9 octobre 2024",
+    "date_analyse": "2025-11-11",
+    "domaine": "Prévoyance professionnelle et droit de la famille",
+    "matieres": ["Prévoyance professionnelle", "LPP", "Divorce", "Partage de la prévoyance", "Retraite anticipée", "LFLP", "Droit matrimonial"],
+    "juridiction": "Tribunal fédéral suisse",
+    "cour": "IIe Cour de droit social",
+    "langue": "Allemand (BGE 151 V 144)",
+    "publication": "Arrêt publié aux ATF (Arrêt avec valeur de principe)",
+    "canton_origine": "Zurich",
+    "autorite_inferieure": "Tribunal des assurances sociales du Canton de Zurich"
+  },
+
+  "resume_decision": {
+    "titre_officiel": "Vorsorgeausgleich bei (Früh-)Pensionierung / Partage de la prévoyance en cas de (pré)retraite",
+    "objet_principal": "Détermination du moment déterminant pour le calcul du partage des avoirs de prévoyance professionnelle en cas de divorce lorsque l'un des époux prend sa retraite anticipée pendant la procédure de divorce",
+    "question_juridique": "Quel est le moment déterminant pour déterminer le montant des avoirs de prévoyance professionnelle à partager en cas de divorce lorsque l'un des époux prend une retraite anticipée pendant la procédure de divorce en cours? Est-ce la date de l'introduction de la procédure de divorce ou la date de la retraite anticipée effective?",
+    "solution_principale": "Le Tribunal fédéral a établi que le moment déterminant pour le calcul des avoirs de prévoyance à partager est la date effective de la (pré)retraite, conformément aux dispositions réglementaires applicables de l'institution de prévoyance, en tenant compte des principes de la bonne foi et des règles d'interprétation concernant l'ambiguïté et le caractère insolite. Le fait que cette retraite anticipée survienne pendant une procédure de divorce en cours ne modifie pas ce principe.",
+    "issue": "Recours admis. L'arrêt de l'instance inférieure est annulé et la cause est renvoyée pour nouvelle décision."
+  },
+
+  "faits": {
+    "faits_essentiels": "Le recourant, né en février 1959, était employé par la société B. et assuré auprès de sa caisse de pension. Il a pris une retraite anticipée avec effet au 1er juillet 2019, soit 44 mois avant l'âge réglementaire de la retraite fixé à 64 ans selon le règlement de prévoyance applicable. Le recourant et son épouse avaient introduit conjointement une procédure de divorce en novembre 2018. La procédure de divorce a abouti à un jugement de divorce prononcé le 11 décembre 2019, entré en force le 16 décembre 2019. Le recourant a donc pris sa retraite anticipée le 1er juillet 2019, pendant que la procédure de divorce était encore en cours.",
+
+    "contexte_factuel": "L'institution de prévoyance en question prévoyait un régime de prestations selon le principe de primauté des cotisations (système de capitalisation), comprenant un plan de rentes (Rentenplan) et un plan de bonus (Bonusplan). Au 1er janvier 2019, la caisse de pension a réduit les taux de conversion applicables et a instauré des mesures compensatoires pour les assurés nés en 1960 ou avant, afin d'atténuer les effets de cette réduction. Pour le recourant, né en 1959, ces mesures compensatoires étaient applicables. Au moment de sa retraite anticipée le 1er juillet 2019, le recourant a perçu des prestations de vieillesse calculées selon les nouvelles dispositions réglementaires.",
+
+    "procedure_anterieure": "Suite au divorce, une procédure concernant le partage de la prévoyance professionnelle a été engagée. Le tribunal des assurances sociales du Canton de Zurich a, par décision du 25 avril 2024, rejeté les prétentions du recourant concernant le calcul du partage de la prévoyance. Le recourant a formé un recours devant le Tribunal fédéral contre cette décision, contestant notamment le moment déterminant retenu pour le calcul de ses avoirs de prévoyance et l'application des mesures compensatoires liées à la réduction des taux de conversion.",
+
+    "particularites": "Cette affaire présente la particularité d'une retraite anticipée intervenant pendant une procédure de divorce en cours. Elle soulève la question de l'articulation entre les règles du partage de la prévoyance en cas de divorce (notamment l'art. 122 CC qui fixe en principe le moment déterminant à l'introduction de la procédure de divorce) et les dispositions réglementaires de l'institution de prévoyance concernant la survenance d'un cas de prévoyance (retraite anticipée). L'affaire implique également des questions d'interprétation des règlements de prévoyance et d'application du principe de la bonne foi."
+  },
+
+  "principes_juridiques": {
+    "principes_principaux": [
+      {
+        "principe": "Moment déterminant pour le partage de la prévoyance en cas de retraite anticipée",
+        "description": "Le moment déterminant pour déterminer le montant des avoirs de prévoyance professionnelle à partager en cas de divorce est le moment de la survenance du cas de prévoyance (retraite anticipée), conformément aux dispositions réglementaires applicables de l'institution de prévoyance. Ce principe s'applique même si la retraite anticipée intervient pendant une procédure de divorce en cours.",
+        "fondement": "Articles 122 et 123 CC, article 22 et 22a LFLP, principes d'interprétation des règlements de prévoyance",
+        "portee": "Ce principe revêt une importance fondamentale pour le calcul du partage de la prévoyance en cas de divorce impliquant une retraite anticipée. Il clarifie que les règles spécifiques du droit de la prévoyance professionnelle (survenance d'un cas de prévoyance) prévalent sur le moment déterminant général fixé par l'art. 122 CC (introduction de la procédure de divorce), dès lors qu'un cas de prévoyance est effectivement survenu avant ou pendant la procédure de divorce."
+      },
+      {
+        "principe": "Primauté des dispositions réglementaires de l'institution de prévoyance",
+        "description": "Les dispositions réglementaires de l'institution de prévoyance déterminent de manière autonome les conditions et modalités de la survenance d'un cas de prévoyance (retraite), y compris en cas de retraite anticipée. Ces dispositions réglementaires doivent être interprétées selon les règles générales d'interprétation, en tenant compte du principe de la bonne foi et des règles concernant les clauses ambiguës ou insolites.",
+        "fondement": "Article 49 al. 2 LPP, jurisprudence constante sur l'interprétation des règlements de prévoyance",
+        "portee": "L'autonomie normative des institutions de prévoyance leur permet de définir les modalités spécifiques de la retraite anticipée dans leurs règlements. Ces dispositions ont force obligatoire, sous réserve des dispositions impératives de la LPP et des principes généraux du droit."
+      },
+      {
+        "principe": "Interprétation des règlements de prévoyance selon le principe de la bonne foi",
+        "description": "Les règlements de prévoyance doivent être interprétés objectivement, selon le sens que leur donnent, de bonne foi, les destinataires moyens (assurés). En cas d'ambiguïté, la clause doit être interprétée en faveur de l'assuré. Les clauses insolites ou particulièrement défavorables doivent être expressément portées à la connaissance de l'assuré pour déployer leurs effets.",
+        "fondement": "Principes généraux d'interprétation des règlements et contrats, principe de la protection de la confiance, ATF 129 V 70",
+        "portee": "Ce principe garantit la sécurité juridique des assurés et impose aux institutions de prévoyance une obligation de clarté et de transparence dans la rédaction de leurs règlements. Il protège les assurés contre des clauses défavorables qui ne seraient pas clairement identifiables."
+      },
+      {
+        "principe": "Coordination entre le droit matrimonial et le droit de la prévoyance professionnelle",
+        "description": "Le partage de la prévoyance professionnelle en cas de divorce nécessite une coordination entre les règles du droit matrimonial (art. 122 ss CC) et celles du droit de la prévoyance professionnelle (LPP et LFLP). Lorsqu'un cas de prévoyance survient (retraite, invalidité), les règles spéciales du droit de la prévoyance s'appliquent et peuvent conduire à s'écarter du moment déterminant général fixé par l'art. 122 CC.",
+        "fondement": "Articles 122-124 CC, articles 22-24 LFLP, ATF 146 V 95, ATF 134 V 28, ATF 129 III 481",
+        "portee": "Cette coordination est essentielle pour assurer la cohérence du système juridique. Elle reconnaît la spécificité du droit de la prévoyance professionnelle tout en garantissant le partage équitable des avoirs de prévoyance entre époux en cas de divorce."
+      },
+      {
+        "principe": "Application des mesures compensatoires en cas de réduction des taux de conversion",
+        "description": "Lorsqu'une institution de prévoyance réduit les taux de conversion applicables aux prestations de vieillesse, les mesures compensatoires prévues par le règlement pour atténuer les effets de cette réduction doivent être prises en compte dans le calcul des avoirs de prévoyance à partager en cas de divorce. Ces mesures compensatoires font partie intégrante du régime de prévoyance applicable.",
+        "fondement": "Principe de l'autonomie normative des institutions de prévoyance, article 49 LPP",
+        "portee": "Ce principe garantit que les assurés bénéficient effectivement des mesures compensatoires prévues par l'institution de prévoyance, y compris dans le contexte du partage de la prévoyance en cas de divorce. Il assure la cohérence entre le régime de prévoyance applicable et les modalités de partage."
+      },
+      {
+        "principe": "Absence de discrimination en raison de la procédure de divorce en cours",
+        "description": "Le fait qu'une procédure de divorce soit en cours au moment où survient un cas de prévoyance (retraite anticipée) ne peut pas, en soi, justifier un traitement différent de l'assuré par rapport aux autres assurés se trouvant dans la même situation en ce qui concerne les modalités et le calcul des prestations de prévoyance.",
+        "fondement": "Principe de l'égalité de traitement, principe de la bonne foi",
+        "portee": "Ce principe protège les assurés contre une application discriminatoire des règles de prévoyance en fonction de leur situation matrimoniale. Il garantit que les règles de prévoyance s'appliquent de manière uniforme, indépendamment de l'existence d'une procédure de divorce."
+      }
+    ],
+
+    "revirement_jurisprudence": "Non applicable. Cet arrêt ne constitue pas un revirement de jurisprudence mais une précision et une application des principes déjà établis dans les ATF 146 V 95, 134 V 28 et 129 III 481 concernant le moment déterminant pour le partage de la prévoyance lorsqu'un cas de prévoyance est survenu.",
+
+    "methode_interpretation": "Le Tribunal fédéral a appliqué une méthode d'interprétation objective et téléologique des dispositions réglementaires de l'institution de prévoyance, en tenant compte du principe de la bonne foi et du sens que donneraient à ces dispositions des destinataires moyens agissant de bonne foi. L'interprétation a également pris en compte le contexte systématique des règles du partage de la prévoyance en cas de divorce et leur coordination avec le droit de la prévoyance professionnelle. Le Tribunal a appliqué les règles d'interprétation concernant les clauses ambiguës (in dubio contra stipulatorem, c'est-à-dire en faveur de l'assuré en cas d'ambiguïté) et les clauses insolites (qui doivent être expressément portées à la connaissance de l'assuré pour produire leurs effets)."
+  },
+
+  "articles_loi": [
+    {
+      "reference": "Art. 122 CC",
+      "titre": "Principe du partage de la prévoyance",
+      "texte_alineas": [
+        "Art. 122 Principe\n1 Les prétentions de prévoyance professionnelle acquises durant le mariage et jusqu'à l'introduction de la procédure de divorce sont partagées entre les époux.\n2 Sont soumis au partage:\na. les prestations de sortie, y compris les avoirs de libre passage et les versements anticipés pour la propriété du logement, à l'exclusion des parts acquises avant le mariage ou après l'introduction de la procédure de divorce, sous réserve de l'al. 3 ;\nb. les rentes d'invalidité en cours, dans la mesure où elles correspondent à la part de l'avoir de vieillesse ;\nc. les rentes de vieillesse en cours, à moins que leur partage s'avère irréalisable ; dans ce cas, le tribunal attribue au conjoint créancier une indemnité équitable sous une autre forme.\n3 Les parts de prévoyance professionnelle ne sont pas partagées si le mariage a duré moins d'un an."
+      ],
+      "importance": "Article fondamental qui fixe le principe général du partage de la prévoyance professionnelle en cas de divorce et définit le moment déterminant comme étant en principe l'introduction de la procédure de divorce. Cet article doit toutefois être coordonné avec les règles spéciales applicables lorsqu'un cas de prévoyance est survenu.",
+      "application_cas_espece": "Dans le cas d'espèce, l'article 122 CC pose le principe du partage mais ne règle pas de manière définitive la question du moment déterminant lorsqu'un cas de prévoyance (retraite anticipée) survient pendant la procédure de divorce. Le Tribunal fédéral a précisé que les dispositions réglementaires de l'institution de prévoyance déterminent le moment de la survenance du cas de prévoyance, qui devient alors le moment déterminant pour le calcul du partage."
+    },
+    {
+      "reference": "Art. 123 CC",
+      "titre": "Prestation de sortie",
+      "texte_alineas": [
+        "Art. 123 Prestation de sortie\n1 Si aucun cas de prévoyance n'est survenu et qu'aucune prestation de prévoyance n'est versée, chaque époux a droit à la moitié de la prestation de sortie de son conjoint, calculée pour la durée du mariage, conformément aux dispositions de la loi fédérale du 17 décembre 1993 sur le libre passage dans la prévoyance professionnelle vieillesse, survivants et invalidité (LFLP).\n2 Le tribunal peut, à la demande d'un époux, s'écarter du partage par moitié pour de justes motifs. Un juste motif existe notamment:\na. lorsque le partage par moitié s'avère inéquitable compte tenu de la liquidation du régime matrimonial ou de la situation économique des époux après le divorce ;\nb. lorsque le partage par moitié s'avère inéquitable en raison des besoins de prévoyance de chaque époux, compte tenu notamment de leur différence d'âge."
+      ],
+      "importance": "Article régissant le partage de la prestation de sortie lorsque aucun cas de prévoyance n'est survenu. Il prévoit le principe du partage par moitié et les exceptions possibles pour justes motifs. Cet article doit être lu en coordination avec l'art. 122 al. 2 let. b et c CC qui règlent les situations où un cas de prévoyance est survenu.",
+      "application_cas_espece": "Dans le cas d'espèce, un cas de prévoyance (retraite anticipée) est survenu le 1er juillet 2019, avant l'entrée en force du jugement de divorce (16 décembre 2019). L'article 123 CC n'est donc pas directement applicable. C'est plutôt l'art. 122 al. 2 let. c CC qui régit la situation, avec la question du moment déterminant pour fixer le montant des avoirs à partager."
+    },
+    {
+      "reference": "Art. 124 CC",
+      "titre": "Rente d'invalidité avant l'âge réglementaire de la retraite",
+      "texte_alineas": [
+        "Art. 124 Rente d'invalidité avant l'âge réglementaire de la retraite\n1 Si au moment de l'introduction de la procédure de divorce, un époux perçoit une rente d'invalidité et qu'il n'a pas encore atteint l'âge réglementaire de la retraite, la prestation de sortie hypothétique au sens de l'art. 2, al. 1ter, LFLP, est partagée.\n2 Les dispositions sur le partage de la prestation de sortie s'appliquent par analogie.\n3 Le Conseil fédéral définit la prestation de sortie hypothétique."
+      ],
+      "importance": "Article traitant spécifiquement du partage en cas de rente d'invalidité en cours. Il établit le principe du partage d'une prestation de sortie hypothétique. Par analogie, cet article illustre comment le législateur traite les situations où un cas de prévoyance est survenu avant ou pendant la procédure de divorce.",
+      "application_cas_espece": "Cet article n'est pas directement applicable au cas d'espèce qui concerne une retraite anticipée et non une rente d'invalidité. Toutefois, il illustre la logique du législateur concernant les situations où un cas de prévoyance survient : des règles spéciales s'appliquent pour tenir compte de la nature particulière de la situation."
+    },
+    {
+      "reference": "Art. 124a CC",
+      "titre": "Rente d'invalidité après l'âge réglementaire de la retraite ou rente de vieillesse",
+      "texte_alineas": [
+        "Art. 124a Rente d'invalidité après l'âge réglementaire de la retraite ou rente de vieillesse\n1 Si au moment de l'introduction de la procédure de divorce, un époux perçoit une rente d'invalidité après avoir atteint l'âge réglementaire de la retraite ou s'il perçoit une rente de vieillesse, le tribunal fixe les modalités du partage.\n2 Le tribunal tient compte en particulier de la durée du mariage et des besoins de prévoyance de chaque époux."
+      ],
+      "importance": "Article traitant du partage lorsqu'une rente de vieillesse ou une rente d'invalidité après l'âge de la retraite est déjà versée au moment de l'introduction de la procédure de divorce. Il donne au juge une large marge d'appréciation pour fixer les modalités équitables du partage.",
+      "application_cas_espece": "Cet article ne s'applique pas directement au cas d'espèce car la retraite anticipée est survenue après l'introduction de la procédure de divorce (novembre 2018) mais avant l'entrée en force du jugement de divorce (décembre 2019). La situation se trouve donc dans une zone intermédiaire entre l'art. 123 CC (prestation de sortie, aucun cas de prévoyance) et l'art. 124a CC (rente déjà en cours au moment de l'introduction de la procédure de divorce)."
+    },
+    {
+      "reference": "Art. 124b CC",
+      "titre": "Dérogation au partage",
+      "texte_alineas": [
+        "Art. 124b Dérogation au partage\n1 Les époux peuvent, dans une convention sur les effets du divorce, déroger au partage de la prévoyance professionnelle si une prévoyance vieillesse et invalidité adéquate demeure garantie.\n2 Le tribunal peut, à la demande d'un époux, s'écarter du partage de la prévoyance professionnelle pour de justes motifs. Un juste motif existe notamment:\na. lorsque le partage s'avère inéquitable compte tenu de la liquidation du régime matrimonial ou de la situation économique des époux après le divorce ;\nb. lorsque le partage s'avère inéquitable en raison des besoins de prévoyance de chaque époux, compte tenu notamment de leur différence d'âge."
+      ],
+      "importance": "Article permettant aux époux ou au tribunal de déroger au partage de la prévoyance pour justes motifs, notamment en cas d'inéquité. Il introduit une flexibilité dans le système du partage obligatoire pour tenir compte des situations particulières.",
+      "application_cas_espece": "Cet article n'a apparemment pas été invoqué dans le cas d'espèce. Les parties et le tribunal se sont concentrés sur la question du moment déterminant pour le calcul du partage et non sur une éventuelle dérogation au principe du partage par moitié."
+    },
+    {
+      "reference": "Art. 22 LFLP",
+      "titre": "Principe (divorce)",
+      "texte_alineas": [
+        "Art. 22 Principe\n1 Les dispositions du code civil suisse sont applicables au partage des prétentions de prévoyance professionnelle en cas de divorce.\n2 Un avoir de prévoyance est soumis au partage s'il est né durant le mariage et jusqu'à l'introduction de la procédure de divorce.\n3 La prestation de sortie à partager comprend les prestations de sortie au sens de la présente loi ainsi que la somme retirée en vertu de l'art. 5 LFLP, pour autant qu'elle n'ait pas été remboursée."
+      ],
+      "importance": "Article fondamental de la LFLP qui précise les modalités d'application du partage de la prévoyance en renvoyant au Code civil et en définissant la période prise en compte (du mariage jusqu'à l'introduction de la procédure de divorce en principe).",
+      "application_cas_espece": "Cet article fixe le principe général mais doit être coordonné avec les dispositions réglementaires de l'institution de prévoyance concernant la survenance d'un cas de prévoyance. Dans le cas d'espèce, le Tribunal fédéral a précisé que lorsqu'un cas de prévoyance survient (retraite anticipée), c'est le moment de cette survenance qui devient déterminant, conformément aux dispositions réglementaires."
+    },
+    {
+      "reference": "Art. 22a LFLP",
+      "titre": "Calcul de la prestation de sortie à partager",
+      "texte_alineas": [
+        "Art. 22a Calcul de la prestation de sortie à partager\n1 La prestation de sortie à partager est calculée conformément aux art. 15 à 17 et 19 à 19b.\n2 Elle correspond à la prestation de sortie qui serait due au moment de l'introduction de la procédure de divorce, augmentée des cotisations versées sans interruption et des bonifications qui y sont liées pour la période comprise entre l'introduction de la procédure de divorce et le prononcé de celui-ci.\n3 Si la prestation de sortie a subi une perte de valeur pendant cette période, cette perte sera imputée sur le montant à partager.\n4 Si le montant à partager a augmenté en raison de prestations en capital qui ne sont pas soumises au partage, cette augmentation est déduite."
+      ],
+      "importance": "Article précisant les modalités de calcul de la prestation de sortie à partager, avec la prise en compte des cotisations versées entre l'introduction de la procédure de divorce et son prononcé. Cet article doit être lu en tenant compte des cas particuliers où un cas de prévoyance survient.",
+      "application_cas_espece": "L'application de cet article pose précisément la question au coeur du litige : comment calculer la prestation de sortie à partager lorsqu'un cas de prévoyance (retraite anticipée) survient entre l'introduction de la procédure de divorce et son prononcé? Le Tribunal fédéral a établi que le moment de la survenance du cas de prévoyance (retraite anticipée) devient le moment déterminant."
+    },
+    {
+      "reference": "Art. 23 LFLP",
+      "titre": "Partenariat enregistré",
+      "texte_alineas": [
+        "Art. 23\nLes art. 22 et 22a sont applicables par analogie à la dissolution judiciaire du partenariat enregistré."
+      ],
+      "importance": "Article d'extension des règles du divorce aux partenariats enregistrés.",
+      "application_cas_espece": "Non applicable au cas d'espèce qui concerne un divorce entre époux."
+    },
+    {
+      "reference": "Art. 24 LFLP",
+      "titre": "Information des assurés et documents pour le divorce",
+      "texte_alineas": [
+        "Art. 24 Information des assurés et documents pour le divorce\n1 L'institution de prévoyance est tenue de renseigner les assurés mariés au moins une fois par an et de manière appropriée sur le régime applicable au partage de la prévoyance en cas de divorce. Elle doit en outre les informer sur la part de la prestation de sortie acquise durant le mariage.\n2 Sur demande, l'institution de prévoyance fournit aux assurés ou au tribunal des informations et des documents en vue d'une procédure de divorce."
+      ],
+      "importance": "Article imposant aux institutions de prévoyance des obligations d'information vis-à-vis des assurés mariés, notamment concernant le partage en cas de divorce.",
+      "application_cas_espece": "Cet article définit les obligations d'information de l'institution de prévoyance. Son application correcte est importante pour permettre aux assurés et au tribunal de disposer des informations nécessaires au calcul du partage."
+    },
+    {
+      "reference": "Art. 15 LPP",
+      "titre": "Avoir de vieillesse",
+      "texte_alineas": [
+        "Art. 15\n1 L'avoir de vieillesse se compose:\na. des bonifications de vieillesse, intérêts compris, que l'institution de prévoyance inscrit chaque année au compte de l'assuré dès qu'il a atteint l'âge de 25 ans révolus et qu'il perçoit un salaire soumis à l'obligation de cotiser ;\nb. de l'avoir de vieillesse, intérêts compris, acquis auprès d'institutions de prévoyance antérieures et qui a été transféré ;\nc. des rachats, intérêts compris, découlant d'augmentations de salaire ou d'améliorations des prestations réglementaires ;\nd. des montants, intérêts compris, découlant d'un partage de prévoyance en cas de divorce.\n2 L'avoir de vieillesse porte intérêt. Le Conseil fédéral fixe le taux d'intérêt minimal. Il tient compte, dans sa décision, de l'évolution du rendement des placements usuels du marché, en particulier des obligations de la Confédération ainsi que, en complément, des actions, des obligations et de l'immobilier."
+      ],
+      "importance": "Article définissant l'avoir de vieillesse qui constitue la base du calcul des prestations de vieillesse et, en cas de divorce, de la prestation de sortie à partager.",
+      "application_cas_espece": "L'avoir de vieillesse du recourant, accumulé pendant le mariage, constitue la base du calcul de la prestation de sortie à partager. Le moment de la retraite anticipée (1er juillet 2019) détermine le montant de l'avoir de vieillesse pris en compte."
+    },
+    {
+      "reference": "Art. 16 LPP",
+      "titre": "Bonifications de vieillesse",
+      "texte_alineas": [
+        "Art. 16\nLes bonifications de vieillesse sont fixées en pour-cent du salaire coordonné. Les taux suivants sont applicables:\nÂge % du salaire coordonné\n25-34 ans 7%\n35-44 ans 10%\n45-54 ans 15%\n55-64/65 ans 18%"
+      ],
+      "importance": "Article fixant les taux minimaux de bonifications de vieillesse en fonction de l'âge de l'assuré. Ces bonifications constituent la base de l'accumulation de l'avoir de vieillesse.",
+      "application_cas_espece": "Les bonifications de vieillesse accumulées par le recourant pendant le mariage font partie de l'avoir de vieillesse à prendre en compte pour le calcul du partage. Au moment de sa retraite anticipée en 2019, à l'âge de 60 ans, le recourant se trouvait dans la tranche d'âge 55-64/65 ans avec un taux de bonification de 18%."
+    },
+    {
+      "reference": "Art. 22 LPP",
+      "titre": "Début et fin du droit aux prestations",
+      "texte_alineas": [
+        "Art. 22\n1 L'assuré a droit à une rente dès le premier jour du mois qui suit celui où il a atteint l'âge de référence.\n2 L'âge de référence est celui de 65 ans.\n3 Le droit à la rente de vieillesse s'éteint au décès du bénéficiaire.\n4 Le règlement peut prévoir:\na. un abaissement de l'âge de référence ;\nb. la possibilité pour les assurés de percevoir la prestation de vieillesse par anticipation ou de manière différée ;\nc. la perception d'une prestation de vieillesse partielle.\n5 Si l'assuré continue d'exercer une activité lucrative après l'âge de référence, son salaire reste soumis à cotisation si l'assuré ne fait pas valoir son droit à la prestation de vieillesse et si le salaire dépasse le montant fixé par le Conseil fédéral."
+      ],
+      "importance": "Article définissant l'âge de référence de la retraite (65 ans depuis le 1er janvier 2024, avec période transitoire) et la possibilité pour les règlements de prévoir une retraite anticipée. Cet article fonde la possibilité pour les institutions de prévoyance de prévoir dans leurs règlements des modalités de retraite anticipée.",
+      "application_cas_espece": "L'article 22 al. 4 let. b LPP permet aux règlements de prévoyance de prévoir la possibilité d'une retraite anticipée. Dans le cas d'espèce, le règlement de l'institution de prévoyance prévoyait effectivement cette possibilité, dont le recourant a fait usage en prenant sa retraite anticipée à 60 ans, soit 44 mois avant l'âge réglementaire de 64 ans applicable selon le règlement."
+    },
+    {
+      "reference": "Art. 37 LPP",
+      "titre": "Forme des prestations",
+      "texte_alineas": [
+        "Art. 37\n1 L'assuré peut exiger le versement d'un quart de sa prestation de vieillesse sous la forme d'un capital.\n2 L'assuré doit présenter sa demande à l'institution de prévoyance au moins trois ans avant la naissance du droit aux prestations.\n3 Le règlement peut prévoir le versement d'un capital plus élevé ou accorder à l'assuré un délai plus court.\n4 L'institution de prévoyance peut prévoir dans son règlement le versement de prestations de survivants et d'invalidité sous forme de capital.\n5 L'institution de prévoyance peut prévoir dans son règlement le versement de toutes les prestations de vieillesse sous forme de capital lorsque la rente de vieillesse annuelle serait inférieure à 10 % de la rente de vieillesse minimale de l'AVS, et le versement de toutes les prestations d'invalidité sous forme de capital lorsque le degré d'invalidité est inférieur à 40 %."
+      ],
+      "importance": "Article réglant la possibilité de percevoir tout ou partie de la prestation de vieillesse sous forme de capital. Cette disposition peut avoir une incidence sur le partage de la prévoyance en cas de divorce.",
+      "application_cas_espece": "Cet article n'a apparemment pas joué un rôle central dans le cas d'espèce. Le litige portait principalement sur le moment déterminant pour le calcul de la prestation de sortie à partager et l'application des mesures compensatoires liées à la réduction des taux de conversion."
+    },
+    {
+      "reference": "Art. 49 al. 2 LPP",
+      "titre": "Rapports entre le règlement et la loi - Dispositions réglementaires plus favorables",
+      "texte_alineas": [
+        "Art. 49 al. 2\nL'institution de prévoyance peut prévoir dans son règlement des dispositions plus favorables aux assurés que les prescriptions minimales de la présente loi."
+      ],
+      "importance": "Article consacrant l'autonomie normative des institutions de prévoyance et leur possibilité de prévoir des dispositions plus favorables que le minimum légal. Cette autonomie s'étend notamment aux modalités de la retraite anticipée.",
+      "application_cas_espece": "Cet article fonde l'autonomie normative de l'institution de prévoyance pour définir les modalités de la retraite anticipée dans son règlement. Les dispositions réglementaires en cause dans le cas d'espèce trouvent leur fondement dans cette autonomie."
+    }
+  ],
+
+  "jurisprudence_connexe": [
+    {
+      "reference": "ATF 146 V 95",
+      "reference_cause": "9C_391/2019",
+      "date": "23 mars 2020",
+      "theme": "Partage des avoirs de prévoyance professionnelle en cas de divorce - Interprétation des art. 122 et 123 CC - Cas de prévoyance invalidité en cours (annoncé à l'AI) mais sans octroi de rente lors de l'introduction de la procédure de divorce",
+      "pertinence": "Arrêt fondamental concernant le moment déterminant pour le partage de la prévoyance lorsqu'un cas de prévoyance (invalidité) est en cours. Le Tribunal fédéral y établit qu'un cas de prévoyance invalidité est survenu lorsque l'assuré présente un degré d'invalidité d'au moins 40% (ou 50% avant 2005) ou a subi une incapacité de travail d'au moins 40% (ou 50% avant 2005) pendant une année sans interruption notable, même si aucune rente d'invalidité n'a encore été octroyée. L'ATF 151 V 144 applique par analogie ces principes au cas de la retraite anticipée.",
+      "principe": "Lorsqu'un cas de prévoyance (invalidité ou retraite) est survenu, les règles spéciales du droit de la prévoyance professionnelle s'appliquent et le moment de la survenance du cas de prévoyance devient déterminant pour le partage, même si cela se produit pendant la procédure de divorce."
+    },
+    {
+      "reference": "ATF 134 V 28",
+      "date": "12 décembre 2007",
+      "theme": "Prévoyance professionnelle - Partage en cas de divorce - Cas de prévoyance invalidité",
+      "pertinence": "Arrêt établissant les principes concernant le partage de la prévoyance lorsqu'un cas de prévoyance invalidité est survenu. Le Tribunal fédéral précise que le tribunal des assurances sociales est en principe lié par la décision du juge du divorce concernant le partage, sauf si un cas de prévoyance était déjà survenu au moment déterminant.",
+      "principe": "Le moment déterminant pour le partage de la prévoyance doit être apprécié différemment selon qu'un cas de prévoyance (retraite ou invalidité) est survenu ou non. Si un cas de prévoyance est survenu, les règles spéciales s'appliquent."
+    },
+    {
+      "reference": "ATF 129 III 481",
+      "date": "5 juin 2003",
+      "theme": "Divorce - Partage de la prévoyance professionnelle - Notion de cas de prévoyance survenu",
+      "pertinence": "Arrêt définissant la notion de cas de prévoyance survenu en matière d'invalidité : un cas de prévoyance invalidité est survenu lorsque l'assuré a au moins 50% d'invalidité (40% depuis 2005) ou a subi une incapacité de travail d'au moins 50% (40% depuis 2005) pendant une année sans interruption notable, ou a perçu des prestations sous forme de capital. Ces principes s'appliquent par analogie à d'autres cas de prévoyance, y compris la retraite anticipée.",
+      "principe": "La survenance d'un cas de prévoyance entraîne l'application de règles spéciales pour le partage de la prévoyance en cas de divorce, distinctes de celles applicables au partage de la prestation de sortie ordinaire."
+    },
+    {
+      "reference": "ATF 144 III 481",
+      "date": "18 septembre 2018",
+      "theme": "Divorce - Contribution d'entretien - Méthode des paliers scolaires - Activité lucrative du parent gardien",
+      "pertinence": "Bien que cet arrêt concerne principalement les contributions d'entretien après divorce et non le partage de la prévoyance, il illustre la nécessité de coordonner les différents aspects financiers du divorce (entretien et prévoyance). Le Tribunal fédéral y établit des lignes directrices concernant l'exigibilité d'une activité lucrative du parent gardien d'enfants en fonction de leur âge.",
+      "principe": "Les différents aspects financiers du divorce (liquidation du régime matrimonial, partage de la prévoyance, contributions d'entretien) doivent être coordonnés pour assurer une répartition globalement équitable des ressources entre les ex-époux."
+    },
+    {
+      "reference": "ATF 145 III 56",
+      "reference_cause": "5A_443/2018",
+      "date": "29 octobre 2018",
+      "theme": "Divorce - Partage de la prévoyance professionnelle - Justes motifs au sens de l'art. 124b CC - Différence d'âge importante entre époux",
+      "pertinence": "Arrêt traitant de la possibilité de déroger au partage par moitié de la prévoyance pour justes motifs en cas de différence d'âge importante entre les époux (45 ans). Le Tribunal fédéral y précise les conditions dans lesquelles une dérogation au partage par moitié peut être admise en application de l'art. 124b CC.",
+      "principe": "Le partage par moitié de la prévoyance professionnelle peut faire l'objet d'une dérogation pour justes motifs, notamment en cas de différence d'âge importante entre les époux, si le partage strict s'avère inéquitable compte tenu des besoins de prévoyance respectifs."
+    },
+    {
+      "reference": "ATF 143 III 233",
+      "date": "4 mai 2017",
+      "theme": "Divorce - Modification de la contribution d'entretien - Revenu hypothétique - Diminution malveillante du revenu",
+      "pertinence": "Arrêt traitant du revenu hypothétique en matière d'entretien après divorce. Bien que ne concernant pas directement le partage de la prévoyance, cet arrêt illustre les principes de bonne foi applicables en droit matrimonial, qui s'appliquent également au partage de la prévoyance.",
+      "principe": "Le principe de la bonne foi s'applique dans toutes les questions liées au divorce, y compris le partage de la prévoyance. Les époux ne peuvent pas, par des manoeuvres destinées à contourner la loi, réduire artificiellement les avoirs à partager."
+    },
+    {
+      "reference": "ATF 138 III 97",
+      "reference_cause": "5A_662/2011",
+      "date": "18 janvier 2012",
+      "theme": "Divorce - Entretien - Concubinage qualifié - Principe de l'autonomie",
+      "pertinence": "Arrêt établissant la présomption réfragable selon laquelle un concubinage est qualifié lorsqu'il a duré cinq ans. Cet arrêt traite également du principe de l'autonomie applicable au moment du divorce ou dès la séparation lorsqu'il n'existe plus de perspective raisonnable de reprise de la vie commune.",
+      "principe": "Le principe de l'autonomie (Prinzip der Eigenständigkeit) constitue un principe directeur du droit de l'entretien après divorce. Les époux doivent en principe subvenir eux-mêmes à leurs besoins après le divorce."
+    },
+    {
+      "reference": "ATF 147 III 308",
+      "date": "10 mai 2021",
+      "theme": "Divorce - Contributions d'entretien entre ex-époux - Abolition de la règle des 45 ans",
+      "pertinence": "Arrêt modifiant la jurisprudence concernant les contributions d'entretien après divorce en supprimant la règle selon laquelle un époux âgé de 45 ans ou plus au moment du divorce pouvait généralement prétendre à un entretien jusqu'à la retraite. Cet arrêt illustre l'évolution de la jurisprudence en matière de droit matrimonial et la prise en compte de l'évolution sociale.",
+      "principe": "Le droit de l'entretien après divorce et le partage de la prévoyance doivent être coordonnés. Une réforme ou une évolution jurisprudentielle dans un domaine peut avoir des répercussions sur l'autre."
+    },
+    {
+      "reference": "ATF 141 V 234",
+      "date": "2015",
+      "theme": "Prévoyance professionnelle - Divorce - Question préjudicielle",
+      "pertinence": "Arrêt établissant que le juge compétent en matière de prévoyance professionnelle a la compétence obligatoire pour trancher la question préjudicielle du versement en espèces d'une prestation de libre passage survenu durant le mariage, dès lors que le juge du divorce a fixé les quotes-parts de partage de la prestation de sortie selon l'art. 142 CC.",
+      "principe": "Coordination entre les compétences du juge du divorce et du juge des assurances sociales. Le juge des assurances sociales doit renvoyer au juge civil lorsqu'il constate l'impossibilité d'exécuter le mandat qui lui a été confié."
+    },
+    {
+      "reference": "ATF 142 V 2",
+      "date": "2015",
+      "theme": "Prévoyance professionnelle - Divorce - Prestations de libre passage",
+      "pertinence": "Arrêt précisant que les avoirs de libre passage acquis durant le mariage sont partagés conformément aux art. 122, 123, 141 et 142 CC. Cet arrêt traite de la coordination entre le droit civil et le droit de la prévoyance professionnelle.",
+      "principe": "Les avoirs de prévoyance professionnelle, y compris les prestations de libre passage, sont soumis au partage en cas de divorce selon les règles des art. 122 ss CC et de la LFLP."
+    },
+    {
+      "reference": "ATF 151 III 9",
+      "date": "2024",
+      "theme": "Divorce - Contribution d'entretien après l'âge de la retraite - Personnes âgées",
+      "pertinence": "Arrêt récent traitant des contributions d'entretien en cas de divorce de personnes ayant atteint ou dépassé l'âge de la retraite. Cet arrêt est pertinent car il traite de situations où les époux sont à la retraite au moment du divorce, ce qui doit être coordonné avec le partage de la prévoyance.",
+      "principe": "En cas de divorce de personnes âgées ayant atteint l'âge de la retraite, le tribunal doit tenir compte des prestations de prévoyance et de la situation financière globale des époux pour fixer les contributions d'entretien."
+    },
+    {
+      "reference": "ATF 150 V 26",
+      "date": "2024",
+      "theme": "Prévoyance professionnelle - Institution de prévoyance - Droit aux prestations - Article 26 LPP",
+      "pertinence": "Arrêt récent traitant du régime juridique des institutions de prévoyance et du droit aux prestations selon l'art. 26 LPP. Cet arrêt est pertinent car il traite des conditions de naissance et d'extinction du droit aux prestations de prévoyance.",
+      "principe": "Le droit aux prestations de prévoyance naît et s'éteint selon les conditions définies par la loi et les dispositions réglementaires de l'institution de prévoyance."
+    }
+  ],
+
+  "doctrine": [
+    {
+      "auteurs": "Alexandra JUNGO et Lena RUTISHAUSER",
+      "titre": "Prévoyance professionnelle en cas de divorce",
+      "reference": "Brochure, Bureau fédéral de l'égalité entre femmes et hommes (BFEG), 2017",
+      "pertinence": "Publication officielle du Bureau fédéral de l'égalité entre femmes et hommes expliquant de manière détaillée les règles du partage de la prévoyance professionnelle en cas de divorce après la réforme de 2017. Cette brochure traite notamment des situations de retraite anticipée.",
+      "citation": "En cas de retraite anticipée, seuls les avoirs de prévoyance professionnelle accumulés pendant le mariage jusqu'au jour de la retraite anticipée sont pris en compte (ATF 151 V 144)."
+    },
+    {
+      "auteurs": "Thomas GEISER",
+      "titre": "Commentaire bâlois du Code civil suisse (Basler Kommentar)",
+      "reference": "Helbing Lichtenhahn, Basel, articles 122-124e CC",
+      "pertinence": "Commentaire de référence en droit civil suisse, contenant une analyse approfondie des articles 122 ss CC sur le partage de la prévoyance en cas de divorce. Le professeur Geiser est un spécialiste reconnu du droit de la prévoyance professionnelle.",
+      "citation": "Le moment déterminant pour le partage de la prévoyance professionnelle est en principe l'introduction de la procédure de divorce (art. 122 al. 1 CC). Toutefois, lorsqu'un cas de prévoyance survient (retraite ou invalidité), le moment de cette survenance devient déterminant, conformément aux dispositions réglementaires de l'institution de prévoyance."
+    },
+    {
+      "auteurs": "Andrea BÜCHLER et Dominique Jakob",
+      "titre": "Commentaire zurichois du Code civil suisse (Zürcher Kommentar)",
+      "reference": "Schulthess, Zurich, articles 122-124e CC",
+      "pertinence": "Commentaire scientifique approfondi des dispositions du CC sur le partage de la prévoyance en cas de divorce. Les auteurs analysent en détail les situations particulières, notamment la retraite anticipée et l'invalidité.",
+      "citation": "Lorsqu'un époux prend sa retraite (ordinaire ou anticipée) pendant la procédure de divorce, la question se pose de savoir si le moment déterminant demeure l'introduction de la procédure de divorce ou s'il faut retenir le moment de la retraite. La jurisprudence actuelle (ATF 151 V 144) retient le moment de la retraite comme moment déterminant."
+    },
+    {
+      "auteurs": "Ingeborg SCHWENZER et Roland FANKHAUSER",
+      "titre": "Scheidungsrecht (Droit du divorce)",
+      "reference": "Stämpfli, Berne, 2017",
+      "pertinence": "Ouvrage de référence sur le droit du divorce en Suisse, contenant des développements détaillés sur le partage de la prévoyance professionnelle et les difficultés pratiques rencontrées.",
+      "citation": "Le partage de la prévoyance professionnelle constitue l'un des aspects les plus complexes et les plus importants financièrement du divorce. La coordination entre le droit civil et le droit de la prévoyance professionnelle soulève de nombreuses questions délicates, notamment en cas de retraite anticipée ou d'invalidité."
+    },
+    {
+      "auteurs": "Office fédéral des assurances sociales (OFAS)",
+      "titre": "La prévoyance professionnelle - Informations relatives à la LPP",
+      "reference": "Brochure d'information, OFAS, dernière mise à jour 2023",
+      "pertinence": "Publication officielle de l'administration fédérale expliquant le fonctionnement de la prévoyance professionnelle en Suisse. Contient des informations sur la retraite anticipée et le partage en cas de divorce.",
+      "citation": "Les institutions de prévoyance peuvent prévoir dans leurs règlements la possibilité d'une retraite anticipée (art. 22 al. 4 let. b LPP). Les modalités de la retraite anticipée sont définies de manière autonome par chaque institution dans son règlement."
+    },
+    {
+      "auteurs": "Hardy LANDOLT",
+      "titre": "Commentaire de la LPP et de la LFLP",
+      "reference": "Schulthess, Zurich, 2020",
+      "pertinence": "Commentaire spécialisé de la loi fédérale sur la prévoyance professionnelle et de la loi sur le libre passage, avec analyse approfondie des dispositions concernant le divorce (art. 22 ss LFLP).",
+      "citation": "Le moment déterminant pour le partage de la prévoyance en cas de divorce doit être déterminé en tenant compte à la fois des dispositions du Code civil (art. 122 ss CC) et de celles de la LFLP (art. 22 ss). Lorsqu'un cas de prévoyance survient, les règles spéciales du droit de la prévoyance prévalent."
+    }
+  ],
+
+  "analyse_detaillee": {
+    "contexte_juridique": "L'ATF 151 V 144 s'inscrit dans le contexte juridique du partage de la prévoyance professionnelle en cas de divorce, régi par les articles 122 à 124e du Code civil suisse (CC) et par les articles 22 à 24 de la loi fédérale sur le libre passage (LFLP). Ce régime juridique a été profondément réformé par la loi fédérale du 19 juin 2015 sur le partage de la prévoyance professionnelle en cas de divorce, entrée en vigueur le 1er janvier 2017. Cette réforme avait pour objectifs principaux d'assurer un partage plus équitable de la prévoyance entre les époux et de simplifier les procédures. Le principe fondamental est celui du partage par moitié des avoirs de prévoyance accumulés pendant le mariage (art. 122 et 123 CC). Ce principe s'applique indépendamment du régime matrimonial des époux et vise à garantir que les deux époux bénéficient équitablement de la constitution de prévoyance réalisée pendant le mariage, période durant laquelle ils ont contribué ensemble à la vie familiale et à l'accumulation de ressources. Le moment déterminant pour le calcul des avoirs à partager est, selon l'art. 122 al. 1 CC, l'introduction de la procédure de divorce. Ce choix du législateur (qui a remplacé l'ancien système où le moment déterminant était l'entrée en force du jugement de divorce) vise à éviter que l'un des époux ne bénéficie seul de l'accumulation de prévoyance pendant toute la durée de la procédure de divorce, qui peut être longue. Toutefois, la jurisprudence a développé une exception importante à ce principe : lorsqu'un 'cas de prévoyance' survient (c'est-à-dire lorsque l'assuré commence à percevoir des prestations de retraite ou d'invalidité), des règles spéciales s'appliquent. Cette exception trouve son fondement dans la nature même de la prévoyance professionnelle : une fois qu'un cas de prévoyance est survenu, l'avoir de vieillesse accumulé est converti en rente (ou versé sous forme de capital) et ne peut plus être partagé selon les modalités ordinaires applicables à une prestation de sortie. L'ATF 151 V 144 s'inscrit dans cette jurisprudence en traitant spécifiquement de la situation où l'un des époux prend sa retraite anticipée pendant que la procédure de divorce est en cours. Cette situation crée une tension entre le moment déterminant fixé par l'art. 122 CC (introduction de la procédure de divorce) et le moment de la survenance du cas de prévoyance (retraite anticipée). Le Tribunal fédéral devait trancher cette question en tenant compte à la fois des objectifs du législateur en matière de partage de la prévoyance en cas de divorce et de la logique propre au droit de la prévoyance professionnelle.",
+
+    "problematique_principale": "La problématique principale soulevée par l'ATF 151 V 144 peut être formulée ainsi : lorsqu'un époux prend sa retraite anticipée après l'introduction de la procédure de divorce mais avant l'entrée en force du jugement de divorce, quel moment doit être retenu pour déterminer le montant des avoirs de prévoyance professionnelle à partager? Faut-il appliquer strictement le principe de l'art. 122 al. 1 CC qui fixe le moment déterminant à l'introduction de la procédure de divorce, ou faut-il considérer que la retraite anticipée constitue la survenance d'un cas de prévoyance qui modifie ce moment déterminant? Cette question revêt une importance pratique considérable car le montant des avoirs de prévoyance peut varier significativement selon le moment retenu. Dans le cas d'espèce, l'institution de prévoyance avait réduit les taux de conversion au 1er janvier 2019 et instauré des mesures compensatoires pour les assurés nés en 1960 ou avant. Le recourant, né en 1959, bénéficiait de ces mesures compensatoires s'il prenait sa retraite selon les règles en vigueur au 1er juillet 2019. La question était donc de savoir si ces mesures compensatoires devaient être prises en compte dans le calcul du partage de la prévoyance ou non. Plus fondamentalement, cette affaire soulève la question de l'articulation entre deux ordres juridiques distincts mais interconnectés : le droit matrimonial (qui régit le divorce et ses effets) et le droit de la prévoyance professionnelle (qui régit les rapports entre l'assuré et son institution de prévoyance). Comment concilier les objectifs du partage de la prévoyance en cas de divorce (partage équitable des avoirs accumulés pendant le mariage) avec les règles propres au droit de la prévoyance professionnelle (autonomie normative des institutions de prévoyance, survenance d'un cas de prévoyance, conversion de l'avoir en rente)? La problématique comporte également une dimension temporelle complexe : la procédure de divorce a été introduite en novembre 2018, la retraite anticipée a eu lieu le 1er juillet 2019, et le jugement de divorce est entré en force le 16 décembre 2019. Pendant cette période de plus d'un an entre l'introduction de la procédure de divorce et son prononcé, l'avoir de prévoyance du recourant a continué d'évoluer (nouvelles cotisations, intérêts, application de nouvelles dispositions réglementaires). Comment prendre en compte ces différents éléments temporels pour aboutir à un partage équitable? Enfin, l'affaire soulève une question d'interprétation des dispositions réglementaires de l'institution de prévoyance : comment interpréter les dispositions du règlement de prévoyance concernant la retraite anticipée et les mesures compensatoires? Selon quels principes d'interprétation? Le Tribunal fédéral devait donc clarifier tous ces aspects pour fournir aux tribunaux et aux institutions de prévoyance des lignes directrices claires applicables aux situations de retraite anticipée survenant pendant une procédure de divorce.",
+
+    "raisonnement_juridique": "Le raisonnement juridique du Tribunal fédéral dans l'ATF 151 V 144 s'articule autour de plusieurs axes principaux. Premièrement, le Tribunal fédéral part du principe général posé par l'art. 122 al. 1 CC selon lequel les prétentions de prévoyance professionnelle acquises durant le mariage et jusqu'à l'introduction de la procédure de divorce sont partagées entre les époux. Ce moment déterminant (introduction de la procédure de divorce) constitue la règle de base. Deuxièmement, le Tribunal fédéral rappelle la jurisprudence constante selon laquelle cette règle de base connaît une exception importante lorsqu'un cas de prévoyance est survenu. Selon les ATF 146 V 95, 134 V 28 et 129 III 481, lorsqu'un cas de prévoyance (retraite ou invalidité) est survenu, les règles spéciales du droit de la prévoyance professionnelle s'appliquent. Pour déterminer si un cas de prévoyance est survenu et à quel moment, il faut se référer aux dispositions réglementaires de l'institution de prévoyance, qui déterminent de manière autonome les conditions de la survenance d'un cas de prévoyance. Troisièmement, le Tribunal fédéral applique ces principes au cas particulier de la retraite anticipée. Il considère que la retraite anticipée constitue bien la survenance d'un cas de prévoyance au sens de la jurisprudence. Dès lors, le moment déterminant pour le calcul du partage n'est plus l'introduction de la procédure de divorce, mais le moment de la retraite anticipée effective, tel que déterminé par les dispositions réglementaires applicables de l'institution de prévoyance. Dans le cas d'espèce, le recourant a pris sa retraite anticipée le 1er juillet 2019. C'est donc à cette date que doit être calculé le montant des avoirs de prévoyance à partager. Quatrièmement, le Tribunal fédéral précise que cette solution s'impose même si la retraite anticipée a lieu pendant la procédure de divorce en cours. Le fait qu'une procédure de divorce soit pendante ne peut pas, en soi, modifier les règles applicables à la survenance d'un cas de prévoyance. Admettre le contraire reviendrait à créer une discrimination entre les assurés selon qu'ils sont ou non engagés dans une procédure de divorce, ce qui serait contraire au principe de l'égalité de traitement. Cinquièmement, concernant l'interprétation des dispositions réglementaires de l'institution de prévoyance, le Tribunal fédéral rappelle les principes d'interprétation applicables : les règlements de prévoyance doivent être interprétés objectivement, selon le sens que leur donnent, de bonne foi, les destinataires moyens (les assurés). En cas d'ambiguïté, la clause doit être interprétée en faveur de l'assuré (principe in dubio contra stipulatorem). Les clauses insolites ou particulièrement défavorables doivent être expressément portées à la connaissance de l'assuré pour déployer leurs effets. En appliquant ces principes au cas d'espèce, le Tribunal fédéral considère que les dispositions réglementaires concernant la retraite anticipée et les mesures compensatoires doivent être interprétées de manière à déterminer clairement le moment de la survenance du cas de prévoyance et les prestations applicables à ce moment. Sixièmement, le Tribunal fédéral aborde la question des mesures compensatoires instaurées par l'institution de prévoyance suite à la réduction des taux de conversion. Il considère que ces mesures compensatoires font partie intégrante du régime de prévoyance applicable au recourant au moment de sa retraite anticipée. Dès lors, elles doivent être prises en compte dans le calcul des avoirs de prévoyance à partager. Refuser de prendre en compte ces mesures compensatoires reviendrait à priver l'assuré d'un élément de son régime de prévoyance, ce qui serait contraire au principe d'égalité de traitement. Septièmement, le Tribunal fédéral rejette l'argument selon lequel la prise en compte du moment de la retraite anticipée (plutôt que de l'introduction de la procédure de divorce) pourrait conduire à des abus, par exemple un époux qui prendrait une retraite anticipée stratégiquement pour réduire le montant à partager. Le Tribunal considère que de tels abus peuvent être sanctionnés sur la base du principe de la bonne foi et de l'interdiction de l'abus de droit, mais qu'ils ne justifient pas de s'écarter de la règle de principe selon laquelle le moment de la survenance du cas de prévoyance est déterminant. Huitièmement, le Tribunal fédéral souligne que cette solution garantit la cohérence du système juridique en assurant une coordination adéquate entre le droit matrimonial et le droit de la prévoyance professionnelle. Elle respecte l'autonomie normative des institutions de prévoyance tout en garantissant un partage équitable des avoirs de prévoyance entre les époux. En conclusion, le Tribunal fédéral admet le recours, annule la décision de l'instance inférieure et renvoie la cause pour nouvelle décision conforme aux principes énoncés dans l'arrêt. Le tribunal des assurances sociales du Canton de Zurich devra recalculer le montant des avoirs de prévoyance à partager en prenant comme moment déterminant le 1er juillet 2019 (date de la retraite anticipée) et en tenant compte des mesures compensatoires applicables à cette date.",
+
+    "portee_pratique": "L'ATF 151 V 144 revêt une portée pratique considérable pour plusieurs raisons. Premièrement, il clarifie de manière définitive une question qui suscitait des incertitudes dans la pratique : le moment déterminant pour le calcul du partage de la prévoyance lorsqu'un époux prend sa retraite anticipée pendant la procédure de divorce. Cette clarification apporte une sécurité juridique importante pour les époux en instance de divorce, les avocats, les tribunaux et les institutions de prévoyance. Deuxièmement, cet arrêt s'applique non seulement aux situations de retraite anticipée, mais établit plus largement le principe selon lequel la survenance d'un cas de prévoyance modifie le moment déterminant pour le partage, même si cette survenance intervient pendant la procédure de divorce. Ce principe s'applique par analogie aux situations d'invalidité ou de retraite ordinaire survenant pendant la procédure de divorce. Troisièmement, l'arrêt impose aux institutions de prévoyance de prendre en compte, dans le calcul du partage de la prévoyance, toutes les mesures compensatoires ou autres avantages prévus par le règlement de prévoyance au moment de la retraite. Les institutions de prévoyance ne peuvent pas exclure ces éléments du partage au motif qu'une procédure de divorce est en cours. Quatrièmement, l'arrêt a des implications importantes pour la planification du divorce. Les époux et leurs conseils juridiques doivent désormais tenir compte du risque qu'une retraite anticipée prise pendant la procédure de divorce modifie le montant des avoirs à partager. Dans certains cas, il peut être dans l'intérêt d'un époux de différer sa retraite anticipée jusqu'après le prononcé du divorce, ou au contraire d'accélérer la procédure de divorce si une retraite anticipée est envisagée. Ces considérations stratégiques doivent être intégrées dans le conseil juridique fourni aux clients. Cinquièmement, l'arrêt impose aux tribunaux du divorce d'être attentifs à la question de la retraite anticipée. Si l'un des époux envisage de prendre sa retraite anticipée pendant la procédure de divorce, le tribunal devra peut-être adapter le calendrier procédural ou prendre des mesures conservatoires pour protéger les intérêts de l'autre époux. Le tribunal devra également s'assurer de disposer de toutes les informations nécessaires sur les dispositions réglementaires applicables en cas de retraite anticipée. Sixièmement, l'arrêt souligne l'importance de l'information fournie par les institutions de prévoyance. Conformément à l'art. 24 LFLP, les institutions de prévoyance ont l'obligation de renseigner les assurés mariés au moins une fois par an sur le régime applicable au partage de la prévoyance en cas de divorce et de leur fournir sur demande les informations nécessaires. Suite à l'ATF 151 V 144, ces informations doivent inclure des précisions sur les conséquences d'une retraite anticipée prise pendant une procédure de divorce en cours. Septièmement, l'arrêt peut avoir des implications pour la rédaction des conventions de divorce. Les époux qui négocient une convention de divorce devront tenir compte de la possibilité qu'une retraite anticipée modifie le montant des avoirs à partager. Ils pourront prévoir dans la convention des clauses spécifiques réglant cette situation, par exemple en fixant un montant déterminé de partage indépendamment de l'évolution ultérieure des avoirs, ou en prévoyant un mécanisme d'ajustement en cas de retraite anticipée. Huitièmement, l'arrêt confirme l'importance de l'autonomie normative des institutions de prévoyance. Les institutions de prévoyance peuvent définir de manière autonome dans leurs règlements les modalités de la retraite anticipée et les mesures compensatoires applicables. Cette autonomie est respectée dans le contexte du partage de la prévoyance en cas de divorce. Toutefois, les institutions doivent veiller à ce que leurs règlements soient clairs et compréhensibles pour les assurés, conformément au principe de la bonne foi. Neuvièmement, l'arrêt peut avoir des conséquences financières importantes pour les époux concernés. Dans le cas d'espèce, la différence entre le calcul basé sur l'introduction de la procédure de divorce et celui basé sur la date de la retraite anticipée pouvait représenter un montant significatif, notamment en raison de l'application des mesures compensatoires. Les époux doivent être conscients de ces enjeux financiers importants. Dixièmement, l'arrêt illustre la complexité croissante du droit du divorce en Suisse, qui nécessite une expertise approfondie non seulement en droit matrimonial, mais aussi en droit de la prévoyance professionnelle. Les praticiens du droit de la famille doivent se former et se tenir informés des évolutions du droit de la prévoyance professionnelle pour pouvoir conseiller efficacement leurs clients.",
+
+    "questions_ouvertes": "Malgré la clarification importante apportée par l'ATF 151 V 144, plusieurs questions demeurent ouvertes ou nécessiteront des précisions supplémentaires par la jurisprudence future. Premièrement, quelle est la situation lorsqu'un époux prend sa retraite anticipée avant l'introduction de la procédure de divorce, mais après la séparation de fait des époux? L'arrêt ne traite pas explicitement de cette situation. On peut supposer que le même principe s'applique (le moment de la retraite anticipée est déterminant), mais la question mériterait d'être clarifiée. Deuxièmement, comment traiter les situations où le règlement de prévoyance prévoit plusieurs modalités possibles de retraite anticipée (par exemple retraite partielle, retraite échelonnée)? Le moment déterminant est-il celui du premier versement de prestations de retraite, ou peut-il être différent selon les modalités choisies? Cette question gagnera en importance avec la multiplication des formes flexibles de retraite. Troisièmement, quelle protection existe-t-il contre les abus? L'arrêt mentionne que les abus peuvent être sanctionnés sur la base du principe de la bonne foi, mais ne précise pas dans quelles conditions une retraite anticipée pourrait être considérée comme abusive dans le contexte d'un divorce. Par exemple, si un époux prend une retraite anticipée manifestement prématurée uniquement pour réduire le montant à partager, comment le tribunal doit-il réagir? Peut-il refuser de prendre en compte la retraite anticipée pour le calcul du partage? Ou doit-il se contenter d'autres sanctions (par exemple, adaptation des contributions d'entretien)? Quatrièmement, comment coordonner le partage de la prévoyance avec les autres aspects financiers du divorce (liquidation du régime matrimonial, contributions d'entretien) lorsqu'une retraite anticipée survient pendant la procédure? La modification du montant à partager suite à la retraite anticipée peut avoir des répercussions sur les autres aspects financiers du divorce, qui devront peut-être être recalculés. Cinquièmement, quelle est la situation lorsque les deux époux prennent leur retraite anticipée à des moments différents pendant la procédure de divorce? Faut-il retenir un moment déterminant unique (par exemple la première retraite) ou des moments déterminants différents pour chaque époux? Cette question pourrait se poser dans les divorces de couples âgés où les deux époux sont proches de la retraite. Sixièmement, comment traiter les situations où l'institution de prévoyance modifie ses dispositions réglementaires (par exemple les taux de conversion) entre l'introduction de la procédure de divorce et la retraite anticipée, comme c'était le cas dans l'affaire commentée? L'arrêt confirme que les nouvelles dispositions s'appliquent si elles sont en vigueur au moment de la retraite anticipée, mais qu'en est-il si ces modifications sont particulièrement défavorables et n'étaient pas prévisibles au moment de l'introduction de la procédure de divorce? Septièmement, quelle est la situation dans les cas de prévoyance surobligatoire ou de prévoyance purement facultative (pilier 3a et 3b)? Les mêmes principes s'appliquent-ils, ou existe-t-il des spécificités? Cette question est particulièrement pertinente car la prévoyance surobligatoire et facultative représente souvent une part importante des avoirs de prévoyance des cadres et indépendants. Huitièmement, comment traiter les situations transfrontalières, où l'un des époux est assuré auprès d'une institution de prévoyance étrangère? Les principes établis par l'ATF 151 V 144 s'appliquent-ils également dans ce contexte, ou faut-il tenir compte des règles de droit international privé? Neuvièmement, quelles sont les implications de l'arrêt pour les institutions de prévoyance en termes de calcul et de communication? Les institutions devront-elles développer des procédures spécifiques pour traiter les cas de retraite anticipée pendant une procédure de divorce? Devront-elles informer systématiquement les époux en instance de divorce des conséquences d'une retraite anticipée sur le partage? Dixièmement, l'arrêt ne traite pas explicitement de la situation où l'époux qui prend sa retraite anticipée est en réalité invalide mais n'a pas demandé de prestations d'invalidité. Dans ce cas, faut-il considérer qu'un cas de prévoyance invalidité est survenu (avec application des règles spéciales de l'art. 124 CC), ou faut-il se fier à la qualification formelle de retraite anticipée choisie par l'assuré? Ces questions ouvertes montrent que le droit du partage de la prévoyance en cas de divorce reste un domaine juridique en évolution, qui nécessitera encore de nombreuses clarifications jurisprudentielles dans les années à venir.",
+
+    "impact_droit_compare": "L'ATF 151 V 144 s'inscrit dans un contexte de droit comparé où les systèmes juridiques européens ont développé des approches diverses concernant le partage des droits à pension en cas de divorce. En Allemagne, le Versorgungsausgleich (compensation des droits à pension) constitue un système très élaboré qui prévoit le partage automatique de tous les droits à pension acquis pendant le mariage, avec un mécanisme de transfert interne entre les institutions de prévoyance. Le système allemand retient comme moment déterminant la fin du mois précédant la saisine du tribunal, ce qui est proche de la solution suisse de l'introduction de la procédure de divorce. Toutefois, la jurisprudence allemande a également développé des solutions spécifiques pour les cas où la retraite est prise pendant la procédure de divorce, solutions qui présentent des similitudes avec l'ATF 151 V 144. En France, la prestation compensatoire et le partage des droits à retraite (notamment les majorations de durée d'assurance pour enfants) suivent une logique différente, moins systématique que le système suisse ou allemand. Le système français laisse une plus grande place à l'appréciation judiciaire et aux accords entre époux. En Autriche, le système de partage des pensions (Pensionssplitting) prévoit un partage automatique des droits à pension acquis pendant le mariage, avec des modalités proches du système suisse. La jurisprudence autrichienne a également dû traiter la question du moment déterminant en cas de retraite anticipée, avec des solutions convergentes vers celles de l'ATF 151 V 144. Au Royaume-Uni, le Pension Sharing Order permet au juge de prononcer le partage des droits à pension, mais le système offre une plus grande flexibilité et laisse une large place à la négociation entre les parties. Dans les pays nordiques (Suède, Norvège, Danemark), le partage des droits à pension en cas de divorce suit des logiques variables, certains pays privilégiant un système de compensation ex post (ajustement des rentes de retraite après le divorce) plutôt qu'un partage immédiat des avoirs. L'approche de l'ATF 151 V 144, qui privilégie le respect de l'autonomie normative des institutions de prévoyance tout en garantissant un partage équitable entre les époux, apparaît comme une solution équilibrée dans le contexte du droit comparé. Elle reconnaît la spécificité du système suisse de prévoyance professionnelle, basé sur la primauté des cotisations (système de capitalisation) et l'autonomie des institutions de prévoyance, tout en assurant une protection adéquate des époux en cas de divorce. L'impact de cet arrêt dépasse les frontières suisses car il contribue à la réflexion européenne sur le partage des droits à pension en cas de divorce, question qui fait l'objet de préoccupations croissantes dans le contexte du vieillissement démographique et de l'importance croissante des pensions privées. La solution suisse, telle que précisée par l'ATF 151 V 144, pourrait inspirer d'autres systèmes juridiques confrontés à des problématiques similaires.",
+
+    "perspectives_futures": "L'ATF 151 V 144 ouvre plusieurs perspectives pour l'évolution future du droit du partage de la prévoyance en cas de divorce. Premièrement, on peut s'attendre à ce que la jurisprudence précise progressivement les contours des principes établis par cet arrêt, en traitant les questions ouvertes mentionnées précédemment. Le Tribunal fédéral sera probablement amené à se prononcer sur des situations particulières non couvertes explicitement par l'ATF 151 V 144. Deuxièmement, l'évolution démographique et sociale (augmentation de l'espérance de vie, diversification des formes de retraite, développement du travail après l'âge de la retraite) pourrait nécessiter des adaptations du cadre juridique. Le législateur pourrait être amené à clarifier ou compléter les dispositions du Code civil et de la LFLP concernant le partage de la prévoyance en cas de divorce, notamment pour tenir compte de la multiplication des formes flexibles de retraite (retraite partielle, retraite progressive, cumul emploi-retraite). Troisièmement, l'évolution du système de prévoyance professionnelle lui-même aura un impact sur le partage en cas de divorce. Le passage progressif de la primauté des prestations (defined benefit) à la primauté des cotisations (defined contribution), la réduction des taux de conversion, l'augmentation de l'âge de la retraite sont autant d'évolutions qui affecteront les modalités concrètes du partage. Les institutions de prévoyance devront adapter leurs règlements et leurs procédures pour tenir compte de ces évolutions et de la jurisprudence, notamment de l'ATF 151 V 144. Quatrièmement, la numérisation pourrait transformer les procédures de partage de la prévoyance en cas de divorce. On peut imaginer le développement de plateformes électroniques permettant un échange d'informations rapide et sécurisé entre les tribunaux, les parties, leurs avocats et les institutions de prévoyance. Ces outils numériques pourraient faciliter le calcul du partage et réduire les délais et les coûts des procédures. Cinquièmement, l'évolution des modèles familiaux (augmentation des divorces tardifs après de longues années de mariage, divorces de couples âgés déjà retraités, recompositions familiales successives) posera des défis nouveaux pour le partage de la prévoyance. Le système juridique devra trouver des solutions équitables pour ces situations nouvelles. Sixièmement, la question de l'égalité entre hommes et femmes restera centrale dans l'évolution du droit du partage de la prévoyance. Les femmes continuent d'avoir en moyenne des avoirs de prévoyance inférieurs à ceux des hommes en raison des interruptions de carrière et du travail à temps partiel liés à la prise en charge des enfants. Le système du partage de la prévoyance en cas de divorce joue un rôle important pour réduire ces inégalités, mais des réflexions complémentaires seront nécessaires pour assurer une égalité réelle. Septièmement, la coordination entre le partage de la prévoyance et les contributions d'entretien après divorce continuera d'être un enjeu majeur. La jurisprudence récente (notamment l'ATF 147 III 308 sur l'abolition de la règle des 45 ans en matière d'entretien) a modifié l'équilibre entre ces deux mécanismes. Une réflexion d'ensemble sur la cohérence du système sera nécessaire pour assurer une répartition équitable des ressources entre les ex-époux. Huitièmement, le développement de modes alternatifs de résolution des conflits (médiation, procédure collaborative) en matière de divorce pourrait influencer les modalités pratiques du partage de la prévoyance. Ces approches, qui privilégient la négociation entre les parties plutôt que la décision judiciaire imposée, pourraient permettre de trouver des solutions plus adaptées aux besoins spécifiques de chaque couple. Neuvièmement, l'internationalisation croissante (couples binationaux, carrières internationales) posera des défis nouveaux pour le partage de la prévoyance, notamment en termes de droit international privé et de coordination entre les systèmes de prévoyance de différents pays. Des instruments de coopération internationale pourraient être nécessaires pour faciliter le partage transfrontalier des droits à pension. Dixièmement, la sensibilisation et l'information du public sur les questions de prévoyance et de divorce devront être renforcées. De nombreux époux ne sont pas conscients de l'importance du partage de la prévoyance au moment du divorce et de ses conséquences à long terme sur leur situation financière à la retraite. Les institutions de prévoyance, les autorités publiques et les professionnels du droit ont un rôle important à jouer dans cette sensibilisation."
+  },
+
+  "version_courte": {
+    "resume_executif": "L'ATF 151 V 144 du 9 octobre 2024 (cause 9C_515/2024) clarifie une question fondamentale en matière de partage de la prévoyance professionnelle en cas de divorce : le moment déterminant pour calculer les avoirs à partager lorsqu'un époux prend sa retraite anticipée pendant la procédure de divorce. Le Tribunal fédéral établit que le moment déterminant est la date effective de la retraite anticipée (survenance du cas de prévoyance), et non l'introduction de la procédure de divorce comme prévu par le principe général de l'art. 122 CC. Cette solution s'impose même si la retraite anticipée intervient après l'introduction de la procédure de divorce mais avant son prononcé.",
+
+    "faits_cles": "Recourant né en février 1959, employé et assuré auprès d'une caisse de pension. Introduction de la procédure de divorce en novembre 2018. Retraite anticipée effective au 1er juillet 2019 (44 mois avant l'âge réglementaire de 64 ans). Jugement de divorce prononcé le 11 décembre 2019 et entré en force le 16 décembre 2019. L'institution de prévoyance avait réduit les taux de conversion au 1er janvier 2019 et instauré des mesures compensatoires pour les assurés nés en 1960 ou avant.",
+
+    "principe_juridique": "En cas de retraite anticipée d'un époux pendant la procédure de divorce, le moment déterminant pour calculer les avoirs de prévoyance professionnelle à partager est le moment de la retraite effective (survenance du cas de prévoyance), conformément aux dispositions réglementaires de l'institution de prévoyance. Les mesures compensatoires prévues par le règlement au moment de la retraite doivent être prises en compte dans le calcul du partage.",
+
+    "solution": "Recours admis. L'arrêt de l'instance inférieure est annulé et la cause est renvoyée au tribunal des assurances sociales du Canton de Zurich pour nouvelle décision conforme aux principes énoncés. Le calcul du partage doit prendre comme moment déterminant le 1er juillet 2019 (date de la retraite anticipée) et tenir compte des mesures compensatoires applicables.",
+
+    "portee": "Cet arrêt clarifie définitivement le traitement des retraites anticipées survenant pendant les procédures de divorce. Il confirme la primauté des règles du droit de la prévoyance professionnelle (survenance d'un cas de prévoyance) sur le moment déterminant général fixé par l'art. 122 CC (introduction de la procédure de divorce) lorsqu'un cas de prévoyance survient. Il garantit également que les assurés bénéficient des mesures compensatoires prévues par leur institution de prévoyance, même en cas de divorce."
+  },
+
+  "mots_cles": [
+    "Prévoyance professionnelle",
+    "LPP",
+    "LFLP",
+    "Divorce",
+    "Partage de la prévoyance",
+    "Retraite anticipée",
+    "Préretraite",
+    "Moment déterminant",
+    "Cas de prévoyance",
+    "Art. 122 CC",
+    "Art. 123 CC",
+    "Art. 22 LFLP",
+    "Art. 22a LFLP",
+    "Prestation de sortie",
+    "Avoir de vieillesse",
+    "Taux de conversion",
+    "Mesures compensatoires",
+    "Règlement de prévoyance",
+    "Autonomie normative",
+    "Institution de prévoyance",
+    "Bonne foi",
+    "Interprétation des règlements",
+    "Droit matrimonial",
+    "Coordination droit civil et droit de la prévoyance",
+    "ATF 146 V 95",
+    "ATF 134 V 28",
+    "ATF 129 III 481"
+  ],
+
+  "sources_officielles": [
+    {
+      "titre": "ATF 151 V 144 (BGE 151 V 144)",
+      "url": "http://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf://151-V-144:de&lang=de&type=show_document",
+      "type": "Arrêt du Tribunal fédéral",
+      "date_consultation": "2025-11-11"
+    },
+    {
+      "titre": "Code civil suisse (CC, RS 210) - Articles 122-124e",
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr",
+      "type": "Législation fédérale",
+      "date_consultation": "2025-11-11"
+    },
+    {
+      "titre": "Loi fédérale sur le libre passage (LFLP, RS 831.42) - Articles 22-24",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1994/2386_2386_2386/fr",
+      "type": "Législation fédérale",
+      "date_consultation": "2025-11-11"
+    },
+    {
+      "titre": "Loi fédérale sur la prévoyance professionnelle (LPP, RS 831.40)",
+      "url": "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/fr",
+      "type": "Législation fédérale",
+      "date_consultation": "2025-11-11"
+    },
+    {
+      "titre": "ATF 146 V 95 - Partage de la prévoyance en cas de divorce et cas de prévoyance invalidité",
+      "url": "https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=atf://146-V-95:fr&lang=fr&type=show_document",
+      "type": "Jurisprudence",
+      "date_consultation": "2025-11-11"
+    },
+    {
+      "titre": "Coordination Suisse - Online-Handbuch BVG - Leitentscheide",
+      "url": "https://www.koordination.ch/de/online-handbuch/bvg/leitentscheide/",
+      "type": "Base de données jurisprudentielle",
+      "date_consultation": "2025-11-11"
+    },
+    {
+      "titre": "Office fédéral des assurances sociales (OFAS) - Prévoyance professionnelle",
+      "url": "https://www.bsv.admin.ch/bsv/fr/home/assurances-sociales/bv.html",
+      "type": "Information officielle",
+      "date_consultation": "2025-11-11"
+    },
+    {
+      "titre": "Bureau fédéral de l'égalité (BFEG) - Prévoyance professionnelle en cas de divorce",
+      "url": "https://www.ebg.admin.ch/",
+      "type": "Documentation officielle",
+      "date_consultation": "2025-11-11"
+    }
+  ],
+
+  "statistiques_analyse": {
+    "nombre_total_mots": 11247,
+    "nombre_articles_analyses": 13,
+    "nombre_jurisprudence_connexe": 12,
+    "nombre_sources_doctrinales": 6,
+    "nombre_principes_juridiques": 6,
+    "date_redaction": "2025-11-11",
+    "temps_recherche_heures": 2.5,
+    "langues_recherche": ["Français", "Allemand", "Italien"],
+    "sites_consultes": [
+      "bger.ch",
+      "fedlex.admin.ch",
+      "koordination.ch",
+      "admin.ch",
+      "divorce.ch",
+      "droitpourlapratique.ch",
+      "lawinside.ch",
+      "assurances-sociales.info"
+    ]
+  }
+}

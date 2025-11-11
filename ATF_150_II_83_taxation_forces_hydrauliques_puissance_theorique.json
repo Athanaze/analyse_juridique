@@ -1,0 +1,767 @@
+{
+  "metadonnees": {
+    "reference": "ATF 150 II 83",
+    "numero_cause": "9C_739/2022",
+    "date_arret": "2024-01-05",
+    "juridiction": "Tribunal fédéral suisse - IIIe Cour de droit public",
+    "matiere": "Droit public - Impôt spécial cantonal sur les forces hydrauliques",
+    "canton": "Valais",
+    "formation": "IIIe Cour de droit public",
+    "publication": "ATF 150 II 83",
+    "langue": "Français",
+    "keywords": [
+      "forces hydrauliques",
+      "taxation",
+      "puissance théorique moyenne",
+      "concession hydroélectrique",
+      "débits utilisables",
+      "installations prévues",
+      "impôt spécial",
+      "Valais",
+      "redevance hydraulique",
+      "interprétation contractuelle"
+    ]
+  },
+
+  "faits": {
+    "resume": "Litige concernant l'assiette de l'impôt spécial valaisan sur les forces hydrauliques relatif aux eaux déversées non turbinées par une entreprise hydroélectrique exploitant la concession de la Navizence inférieure entre 2011 et 2015.",
+
+    "contexte_detaille": {
+      "concession": {
+        "date_octroi": "2004-02-20",
+        "concessionnaire": "Forces Motrices de la Gougra SA (A. SA)",
+        "objet": "Exploitation des eaux du bassin versant de la Navizence inférieure",
+        "duree": "Jusqu'en 2084",
+        "autorité_concedante": "Communes valaisannes du Val d'Anniviers",
+        "installations_existantes": "Centrale hydroélectrique de Chippis, galerie d'amenée Vissoie-Niouc construite en 1908, rénovée dans les années 1950"
+      },
+
+      "problematique_technique": {
+        "date_identification": "2001",
+        "constat": "Les installations existantes (galerie d'amenée Vissoie-Niouc) ne permettent pas d'absorber l'intégralité du débit disponible",
+        "capacite_galerie_existante": "10,8 m³/s",
+        "capacite_autres_installations": "15 m³/s",
+        "volume_eaux_deversees": "Environ 20 millions de mètres cubes annuels",
+        "raison": "Galerie dimensionnée en 1908 constitue un goulet d'étranglement"
+      },
+
+      "projets_envisages": {
+        "centrale_chippis": {
+          "statut": "Réalisé",
+          "date_achevement": "2013",
+          "description": "Nouvelle centrale hydroélectrique de la Navizence"
+        },
+        "nouvelle_galerie_vissoie_niouc": {
+          "statut": "Abandonné",
+          "date_abandon": "2015",
+          "raison": "Motifs économiques",
+          "caracteristiques_prevues": "8 200 mètres de longueur, coût estimé à 100 millions CHF",
+          "objectif": "Augmenter la capacité de 50 MW à 70 MW et la production annuelle de 20 GWh"
+        }
+      },
+
+      "historique_fiscal": {
+        "compromis_2011": "Acceptation temporaire d'imposer la moitié des eaux déversées",
+        "contentieux_2016": "Service cantonal réclame impôt spécial basé sur les débits supplémentaires incluant ceux que la galerie aurait dû traiter",
+        "annees_litigieuses": "2011 à 2015"
+      }
+    },
+
+    "parties": {
+      "recourante": {
+        "nom": "A. SA (Forces Motrices de la Gougra SA)",
+        "qualite": "Société concessionnaire pour l'exploitation hydroélectrique",
+        "actionnariat": "Alpiq SA (54%), Rhonewerke AG (27.5%), Commune d'Anniviers (7.7%), Commune de Sierre (7.5%), Commune de Chippis (1.8%), Sierre Energie SA (1%), Commune de Chalais (0.5%)"
+      },
+      "intimee": {
+        "nom": "Conseil d'État du canton du Valais",
+        "qualite": "Autorité fiscale cantonale"
+      }
+    },
+
+    "instance_precedente": {
+      "juridiction": "Cour cantonale valaisanne",
+      "decision": "Rejet du recours de la société",
+      "date": "Non précisée",
+      "raisonnement": "Application d'une interprétation objective de la concession, considérant que les installations supplémentaires étaient prévues"
+    }
+  },
+
+  "questions_juridiques": {
+    "question_principale": "Les eaux déversées non absorbées par les installations existantes doivent-elles être soumises à l'impôt spécial cantonal sur les forces hydrauliques lorsque des installations supplémentaires envisagées mais jamais construites auraient permis de les turbiner?",
+
+    "questions_subsidiaires": [
+      "Quelle est la portée de l'expression 'installations prévues dans la concession' au sens de l'article 51 alinéa 3 LFH?",
+      "Comment interpréter une concession hydroélectrique: selon les règles contractuelles (art. 18 CO) ou les règles d'interprétation des décisions administratives?",
+      "Le comportement post-contractuel des parties (initiatives commerciales ultérieures) peut-il modifier l'assiette de l'impôt spécial?",
+      "La construction de nouvelles installations figurait-elle parmi les obligations contractuelles du concessionnaire ou s'agissait-il de simples projets commerciaux?"
+    ],
+
+    "enjeux": {
+      "juridiques": [
+        "Définition de l'assiette fiscale pour l'impôt spécial sur les forces hydrauliques",
+        "Interprétation des concessions hydroélectriques (nature mixte: contractuelle et décisionnelle)",
+        "Application des règles d'interprétation contractuelle (art. 18 CO) aux concessions de droit public",
+        "Détermination des 'débits utilisables' au sens de l'article 51 al. 3 LFH"
+      ],
+      "economiques": [
+        "Montant significatif d'impôts pour les années 2011-2015",
+        "Impact sur la rentabilité des projets hydroélectriques",
+        "Équilibre entre redevances cantonales et viabilité économique des exploitations"
+      ],
+      "pratiques": [
+        "Sécurité juridique pour les concessionnaires hydroélectriques",
+        "Clarification des obligations contractuelles dans les concessions",
+        "Impact sur les futurs projets d'optimisation des installations hydrauliques"
+      ]
+    }
+  },
+
+  "droit_applicable": {
+    "droit_federal": {
+      "loi_forces_hydrauliques": {
+        "titre": "Loi fédérale sur l'utilisation des forces hydrauliques (LFH)",
+        "reference": "RS 721.80",
+        "date_adoption": "1916-12-22",
+        "article_51": {
+          "intitule": "Calcul de la redevance hydraulique",
+          "alinea_1": "La redevance annuelle pour l'utilisation de l'eau est calculée d'après la puissance théorique moyenne de l'eau, selon les hauteurs de chute et les débits utilisables.",
+          "alinea_3": "Les débits utilisables correspondent aux quantités d'eau débitées effectivement par le cours d'eau, mais au maximum au débit que peuvent absorber les installations prévues dans la concession.",
+          "importance": "Définit l'assiette de la redevance hydraulique et, par renvoi du droit cantonal valaisan, de l'impôt spécial",
+          "elements_calcul": {
+            "puissance_theorique_moyenne": "Puissance calculée selon la formule: hauteur de chute × débit × intensité gravitationnelle (9.81)",
+            "debits_utilisables": "Débits effectifs limités par la capacité d'absorption des installations prévues dans la concession"
+          }
+        },
+        "article_49": {
+          "intitule": "Taux maximal de la redevance hydraulique",
+          "contenu": "Les communes qui disposent des eaux peuvent percevoir une redevance hydraulique maximale de 110 CHF par kilowatt de puissance théorique sur les installations hydroélectriques",
+          "evolution": "Maintenu au niveau 2015-2019 jusqu'à fin 2024",
+          "exemptions": "Centrales jusqu'à 1 MW exemptées; augmentation linéaire pour centrales entre 1 et 2 MW"
+        }
+      },
+
+      "code_obligations": {
+        "titre": "Loi fédérale complétant le Code civil suisse (Code des obligations, CO)",
+        "reference": "RS 220",
+        "article_18": {
+          "intitule": "Interprétation des contrats",
+          "alinea_1": "Pour apprécier la forme et les clauses d'un contrat, il y a lieu de rechercher la réelle et commune intention des parties, sans s'arrêter aux expressions ou dénominations inexactes dont elles ont pu se servir, soit par erreur, soit pour déguiser la nature véritable de la convention.",
+          "texte_complet_al1": "Pour apprécier la forme et les clauses d'un contrat, il y a lieu de rechercher la réelle et commune intention des parties, sans s'arrêter aux expressions ou dénominations inexactes dont elles ont pu se servir, soit par erreur, soit pour déguiser la nature véritable de la convention.",
+          "principes_interpretatifs": {
+            "interpretation_subjective": "Primauté de la recherche de la volonté réelle et commune des parties",
+            "interpretation_objective": "Subsidiaire, applicable uniquement si la volonté empirique ne peut être établie",
+            "elements_considerables": [
+              "Contenu des déclarations de volonté (écrites ou orales)",
+              "Contexte général",
+              "Circonstances permettant de découvrir la volonté réelle",
+              "Déclarations antérieures à la conclusion du contrat",
+              "Comportement ultérieur des parties (avec précautions)"
+            ]
+          },
+          "application_concessions": "S'applique aux clauses bilatérales (contractuelles) des concessions hydroélectriques, par opposition aux clauses unilatérales (décisionnelles) qui résultent impérativement de la loi"
+        }
+      }
+    },
+
+    "droit_cantonal_valaisan": {
+      "loi_forces_hydrauliques": {
+        "titre": "Loi sur l'utilisation des forces hydrauliques (LcFH)",
+        "reference": "RS 721.8",
+        "date_adoption": "1990-03-28",
+        "article_65": {
+          "intitule": "Montant de la redevance",
+          "contenu": "Le montant de la redevance est fixé à 40% du taux prévu par la loi fédérale",
+          "consequence": "Permet au canton de prélever un impôt spécial complémentaire dans la limite du taux fédéral maximal"
+        },
+        "article_71": {
+          "intitule": "Impôt spécial sur les forces hydrauliques",
+          "alinea_1": "Le canton perçoit de toute entreprise utilisant des forces hydrauliques, dès la mise en service de l'usine, un impôt spécial sur les forces hydrauliques égal à 60 pour cent du taux maximum prévu dans la loi fédérale sur l'utilisation des forces hydrauliques.",
+          "texte_complet": "Le canton perçoit de toute entreprise utilisant des forces hydrauliques, dès la mise en service de l'usine, un impôt spécial sur les forces hydrauliques égal à 60 pour cent du taux maximum prévu dans la loi fédérale sur l'utilisation des forces hydrauliques.",
+          "repartition": {
+            "canton": "60% de la redevance (impôt spécial)",
+            "communes": "40% de la redevance",
+            "justification": "Les communes sont propriétaires des eaux en Valais"
+          },
+          "assiette": {
+            "principe": "Même assiette que la redevance hydraulique fédérale",
+            "calcul": "Puissance théorique moyenne de l'eau, calculée selon la hauteur de chute et les débits utilisables",
+            "renvoi": "Par renvoi au droit fédéral, application de l'article 51 LFH"
+          },
+          "importance": "Article central du litige, car détermine l'assiette de l'impôt spécial cantonal"
+        }
+      }
+    }
+  },
+
+  "jurisprudence": {
+    "jurisprudence_citee": [
+      {
+        "reference": "ATF 130 II 18",
+        "pertinence": "Nature mixte des concessions hydroélectriques",
+        "principes": [
+          "La concession est un acte mixte, composé de clauses bilatérales et de clauses unilatérales ou décisionnelles",
+          "Les clauses unilatérales résultent directement ou impérativement de la loi (modalités d'utilisation des forces hydrauliques: débits utilisables, débits d'affectation, débits résiduels)",
+          "Le contenu des clauses bilatérales est négocié par les parties",
+          "Pour les clauses bilatérales, le pouvoir d'appréciation et de décision de l'autorité cantonale est en principe plus limité"
+        ],
+        "citation": "La concession est un acte mixte, composé de clauses bilatérales et de clauses unilatérales ou décisionnelles, ces dernières résultant directement ou impérativement de la loi (telles les modalités d'utilisation de la force hydraulique comprenant notamment les débits utilisables, d'affectation et résiduels), alors que le contenu des clauses bilatérales est négocié par les parties."
+      },
+      {
+        "reference": "ATF 149 II 320",
+        "date": "2023-08-30",
+        "matiere": "Sort des conventions hydroélectriques portant sur le même débit d'eau",
+        "principes": [
+          "Les règles d'interprétation des concessions hydrauliques dépendent de la nature de la clause concernée",
+          "Distinction entre clauses décisionnelles et clauses contractuelles",
+          "Deux concessions portant sur le même débit d'eau ne s'absorbent pas nécessairement à l'échéance de l'une",
+          "Les droits octroyés peuvent aussi retourner à l'autorité concédante"
+        ],
+        "lien_cas_present": "Confirme la méthode d'interprétation différenciée selon la nature des clauses de la concession"
+      }
+    ],
+
+    "jurisprudence_connexe": [
+      {
+        "reference": "ATF 151 II 136",
+        "matiere": "Hydroélectricité",
+        "pertinence": "Autre décision récente du TF en matière de forces hydrauliques"
+      },
+      {
+        "reference": "9C_214/2023",
+        "date": "2024-07-17",
+        "matiere": "Impôt spécial sur les forces hydrauliques, canton du Valais, périodes fiscales 2013-2015",
+        "parties": "A. SA contre Conseil d'État du Valais",
+        "pertinence": "Autre contentieux valaisan contemporain sur l'impôt spécial, concernant l'application d'un coefficient de 15%"
+      }
+    ],
+
+    "principes_jurisprudentiels_degages": [
+      {
+        "principe": "Interprétation de l'expression 'installations prévues dans la concession'",
+        "enonce": "Les 'installations prévues' au sens de l'article 51 alinéa 3 LFH désignent les installations que le concessionnaire a l'obligation de construire selon le texte de la concession, et non les installations simplement envisagées ou souhaitables d'un point de vue technique ou commercial.",
+        "justification": "L'examen des travaux législatifs montre que le législateur a intentionnellement limité l'assiette aux débits pouvant être concrètement absorbés par les installations déterminées dans la concession, non aux débits théoriquement utilisables.",
+        "portee": "Principe d'interprétation restrictive: seules les installations contractuellement obligatoires entrent dans le calcul de la puissance théorique"
+      },
+      {
+        "principe": "Méthode d'interprétation des concessions hydroélectriques",
+        "enonce": "L'interprétation d'une concession hydroélectrique doit distinguer entre clauses unilatérales (décisionnelles) et clauses bilatérales (contractuelles). Pour ces dernières, l'article 18 CO s'applique, imposant de rechercher d'abord la volonté réelle et commune des parties (interprétation subjective), avant toute interprétation objective.",
+        "erreur_instance_inferieure": "L'instance cantonale a appliqué directement une interprétation objective selon le point de vue d'une 'partie diligente placée dans la même situation', sans rechercher préalablement la volonté commune empirique des parties.",
+        "correction_tf": "Le Tribunal fédéral impose de commencer par l'interprétation subjective, en examinant toutes les circonstances entourant la conclusion de la concession."
+      },
+      {
+        "principe": "Valeur probante du comportement post-contractuel",
+        "enonce": "Le comportement ultérieur des parties peut être pris en compte pour interpréter un contrat, mais avec prudence. Des initiatives commerciales postérieures, motivées par des considérations économiques ou technologiques nouvelles, ne révèlent pas nécessairement une obligation contractuelle préexistante.",
+        "application": "L'initiative de 2008 pour construire une nouvelle galerie et son abandon en 2015 pour raisons économiques démontrent des motivations commerciales évolutives, non une obligation contractuelle de 2004.",
+        "nuance": "L'acceptation temporaire en 2011 d'imposer la moitié des eaux déversées constitue un compromis révisable, non une reconnaissance d'obligation contractuelle."
+      },
+      {
+        "principe": "Sécurité juridique en matière fiscale hydraulique",
+        "enonce": "L'assiette de l'impôt spécial sur les forces hydrauliques doit être déterminée de manière prévisible et objective, sur la base des obligations contractuelles effectives inscrites dans la concession, non sur des projets éventuels ou des potentialités techniques.",
+        "consequence": "Les concessionnaires doivent pouvoir calculer leurs obligations fiscales sur la base du texte de la concession, sans risque que des projets d'optimisation ultérieurs soient rétroactivement considérés comme des obligations contractuelles."
+      }
+    ]
+  },
+
+  "considerations_juridiques": {
+    "analyse_structure": {
+      "etape_1": "Qualification juridique de la concession hydroélectrique",
+      "etape_2": "Détermination de la méthode d'interprétation applicable",
+      "etape_3": "Analyse du texte de la concession de 2004",
+      "etape_4": "Examen du comportement post-contractuel des parties",
+      "etape_5": "Application à la détermination de l'assiette fiscale"
+    },
+
+    "consideration_1_nature_concession": {
+      "titre": "Nature mixte de la concession hydroélectrique",
+      "analyse": "Le Tribunal fédéral rappelle sa jurisprudence constante selon laquelle une concession hydroélectrique est un acte mixte, comportant à la fois des clauses unilatérales (décisionnelles) qui résultent impérativement de la loi, et des clauses bilatérales (contractuelles) négociées entre l'autorité concédante et le concessionnaire.",
+      "clauses_unilaterales_exemples": [
+        "Modalités d'utilisation de la force hydraulique",
+        "Débits utilisables",
+        "Débits d'affectation",
+        "Débits résiduels",
+        "Prescriptions environnementales impératives"
+      ],
+      "clauses_bilaterales_exemples": [
+        "Durée de la concession (dans les limites légales)",
+        "Obligations de construction d'installations spécifiques",
+        "Contreparties financières particulières",
+        "Modalités de retour des installations"
+      ],
+      "consequence_interpretative": "Pour les clauses bilatérales, les règles du droit des contrats (art. 18 CO) s'appliquent pleinement, alors que les clauses unilatérales suivent les règles d'interprétation des décisions administratives.",
+      "application_cas_espece": "La question de savoir si le concessionnaire avait l'obligation de construire une nouvelle galerie relève d'une clause bilatérale, donc de l'article 18 CO."
+    },
+
+    "consideration_2_interpretation_art18_co": {
+      "titre": "Application de l'article 18 CO: primauté de l'interprétation subjective",
+      "principe_general": "L'article 18 CO impose de rechercher d'abord la réelle et commune intention des parties (interprétation subjective). Ce n'est que subsidiairement, si cette volonté empirique ne peut être établie, que le juge recourt à l'interprétation objective selon le principe de la confiance.",
+      "erreur_instance_cantonale": {
+        "description": "L'instance cantonale a directement appliqué une interprétation objective, en se plaçant du point de vue d'une 'partie diligente dans la même situation', sans rechercher préalablement la volonté réelle et commune des parties au moment de la conclusion de la concession en 2004.",
+        "citation_tf": "L'instance précédente a omis de rechercher d'abord la réelle et commune intention des parties (interprétation subjective), alors que cette recherche s'imposait en application de l'article 18 CO."
+      },
+      "methode_correcte": {
+        "phase_1": "Examen du texte de la concession lui-même",
+        "phase_2": "Analyse des circonstances de conclusion (négociations, correspondances, rapports préparatoires)",
+        "phase_3": "Prise en compte du comportement ultérieur (avec prudence)",
+        "phase_4": "Seulement si la volonté commune reste indéterminée: recours à l'interprétation objective"
+      },
+      "elements_preuve_intention_commune": [
+        "Absence de toute disposition dans le texte de la concession prévoyant la modernisation des installations existantes",
+        "Absence de disposition prévoyant la construction d'une nouvelle galerie d'amenée",
+        "Absence de délai imposé pour de tels travaux",
+        "Seul délai mentionné: mesures de compensation environnementales, distinctes des obligations de construction"
+      ]
+    },
+
+    "consideration_3_texte_concession": {
+      "titre": "Analyse du texte de la concession de 2004",
+      "constat_central": "Le texte de la concession octroyée le 20 février 2004 ne contient aucune disposition imposant au concessionnaire de construire une nouvelle galerie d'amenée Vissoie-Niouc ou de moderniser les installations existantes.",
+      "absence_obligations_construction": {
+        "nouvelle_galerie": "Aucune mention",
+        "modernisation_installations": "Aucune mention",
+        "delai_travaux": "Aucun délai imposé pour des travaux d'amélioration",
+        "engagement_turbinage_total": "Pas d'obligation explicite de turbiner l'intégralité des débits disponibles"
+      },
+      "seul_delai_identifie": {
+        "objet": "Mesures de compensation environnementales",
+        "nature": "Obligations distinctes des obligations de construction d'installations productives",
+        "implication": "Confirme que lorsque les parties voulaient imposer un délai, elles l'ont fait explicitement"
+      },
+      "interpretation_tribunal": "En l'absence de toute trace textuelle d'une obligation de construire de nouvelles installations, on ne peut considérer que la nouvelle galerie figurait parmi les 'installations prévues dans la concession' au sens de l'article 51 al. 3 LFH."
+    },
+
+    "consideration_4_comportement_posterieur": {
+      "titre": "Valeur du comportement post-contractuel des parties",
+      "principe": "Le comportement ultérieur des parties peut être pris en compte pour interpréter leurs obligations contractuelles, mais avec prudence, car il peut refléter des motivations nouvelles plutôt que des obligations préexistantes.",
+      "analyse_initiatives_societe": {
+        "initiative_2008": {
+          "description": "La société projette la construction d'une nouvelle centrale et d'une nouvelle galerie",
+          "interpretation_tf": "Cette initiative révèle une démarche commerciale visant à optimiser l'exploitation, non l'exécution d'une obligation contractuelle de 2004",
+          "indices": "Si l'obligation existait dès 2004, pourquoi attendre 2008 pour la mettre en œuvre? Le délai suggère une nouvelle opportunité commerciale."
+        },
+        "abandon_2015": {
+          "description": "Abandon du projet de nouvelle galerie pour raisons économiques",
+          "interpretation_tf": "Confirme la nature commerciale et non obligatoire du projet. Si une obligation contractuelle existait, elle ne pourrait être abandonnée pour de simples raisons de rentabilité.",
+          "implication": "L'abandon sans conséquence juridique démontre l'absence d'engagement contractuel"
+        },
+        "compromis_2011": {
+          "description": "Acceptation temporaire d'imposer la moitié des eaux déversées",
+          "interpretation_tf": "Compromis pragmatique dans l'attente de la réalisation du projet, révisable en cas d'abandon",
+          "erreur_canton": "Le canton ne peut transformer ce compromis temporaire en reconnaissance d'obligation définitive"
+        }
+      },
+      "conclusion": "Le comportement post-contractuel démontre que le projet de nouvelle galerie était une initiative commerciale facultative, non l'exécution d'une obligation contractuelle de 2004."
+    },
+
+    "consideration_5_article_51_al3_lfh": {
+      "titre": "Interprétation de l'article 51 alinéa 3 LFH: 'installations prévues'",
+      "question": "Que signifie 'les installations prévues dans la concession' au sens de l'article 51 al. 3 LFH?",
+      "interpretation_canton": {
+        "these": "Toute installation techniquement envisageable ou mentionnée dans des documents relatifs à la concession",
+        "consequence": "Les eaux que la nouvelle galerie aurait pu turbiner doivent être incluses dans l'assiette fiscale"
+      },
+      "interpretation_tribunal_federal": {
+        "these": "Uniquement les installations que le concessionnaire a contractuellement l'obligation de construire selon le texte de la concession",
+        "justification_litterale": "Le terme 'prévues' renvoie à ce qui est formellement établi et prévu dans le document contractuel, non à ce qui est simplement envisageable",
+        "justification_systematique": "L'article 51 al. 3 limite expressément les débits utilisables 'au maximum au débit que peuvent absorber les installations prévues', établissant un plafond clair",
+        "justification_teleologique": "L'examen des travaux préparatoires montre que le législateur a voulu limiter l'assiette aux installations effectivement déterminées dans la concession, pour assurer la prévisibilité et la sécurité juridique",
+        "justification_historique": "Depuis l'origine de la LFH en 1916, l'objectif est de taxer l'utilisation effective, non le potentiel théorique maximal"
+      },
+      "formule_retenue": "'Installations prévues' = installations que le concessionnaire a l'obligation de construire selon le texte de la concession",
+      "exclusions": [
+        "Installations simplement envisageables techniquement",
+        "Installations mentionnées dans des études techniques annexes",
+        "Installations faisant l'objet de projets commerciaux ultérieurs",
+        "Installations optimales d'un point de vue de rendement énergétique"
+      ],
+      "application_cas_espece": "La nouvelle galerie Vissoie-Niouc ne figurant pas comme obligation dans la concession de 2004, elle n'est pas une 'installation prévue' au sens de l'article 51 al. 3 LFH."
+    },
+
+    "consideration_6_debits_utilisables": {
+      "titre": "Détermination des débits utilisables et de la puissance théorique moyenne",
+      "principe_calcul": "La puissance théorique moyenne de l'eau, base de calcul de la redevance et de l'impôt spécial, se détermine selon la formule: Hauteur de chute × Débit × Intensité gravitationnelle (9,81 m/s²)",
+      "limitation_debits": {
+        "article_51_al3": "Les débits utilisables correspondent aux quantités d'eau débitées effectivement par le cours d'eau, mais au maximum au débit que peuvent absorber les installations prévues dans la concession",
+        "consequence": "Double limitation: débits effectifs du cours d'eau ET capacité d'absorption des installations prévues",
+        "application": "Même si le cours d'eau débite davantage, seul le débit absorbable par les installations prévues entre dans le calcul"
+      },
+      "cas_espece": {
+        "debits_effectifs": "Environ 20 millions m³/an excédentaires déversés",
+        "capacite_galerie_existante": "10,8 m³/s (installation de 1908)",
+        "capacite_nouvelle_galerie_projetee": "15 m³/s (jamais construite)",
+        "debits_utilisables_retenus": "Limités à la capacité de la galerie existante de 10,8 m³/s, car la nouvelle galerie n'est pas une 'installation prévue'",
+        "debits_utilisables_exclus": "Les 20 millions m³ déversés annuellement, car aucune installation prévue dans la concession ne peut les absorber"
+      },
+      "consequence_fiscale": "La base de calcul de l'impôt spécial ne peut inclure les débits excédentaires que la galerie non construite aurait absorbés."
+    },
+
+    "consideration_7_impot_special_valaisan": {
+      "titre": "Assiette de l'impôt spécial valaisan sur les forces hydrauliques",
+      "base_legale": "Article 71 al. 1 LcFH: impôt égal à 60% du taux maximal fédéral",
+      "renvoi_art_51_lfh": "Par ce renvoi au droit fédéral, le législateur cantonal a voulu instaurer un impôt ayant la même assiette que la redevance hydraulique fédérale",
+      "assiette_identique": {
+        "principe": "L'assiette de l'impôt spécial cantonal = assiette de la redevance hydraulique fédérale",
+        "elements": "Puissance théorique moyenne de l'eau, calculée selon la hauteur de chute et les débits utilisables",
+        "reference": "Article 51 al. 1 et 3 LFH"
+      },
+      "consequence_cas_espece": {
+        "principe": "Si les débits excédentaires ne constituent pas des 'débits utilisables' au sens de l'article 51 al. 3 LFH, ils ne peuvent être inclus dans l'assiette de l'impôt spécial valaisan",
+        "raisonnement": "Impôt spécial (60% du max. fédéral) → même assiette que redevance fédérale → déterminée selon art. 51 LFH → limitée aux débits absorbables par installations prévues → nouvelle galerie non prévue → débits excédentaires exclus",
+        "resultat": "Les années 2011-2015 doivent être re-taxées sans inclure les débits que la nouvelle galerie aurait absorbés"
+      }
+    }
+  },
+
+  "dispositif": {
+    "decision": "Recours admis",
+    "annulation": "Décision cantonale annulée",
+    "renvoi": "Affaire renvoyée au Service cantonal valaisan pour nouvelle décision de taxation",
+
+    "directives_renvoi": [
+      "Exclure de l'assiette de l'impôt spécial les débits excédentaires que la nouvelle galerie Vissoie-Niouc aurait absorbés",
+      "Limiter le calcul de la puissance théorique moyenne aux installations effectivement prévues dans la concession de 2004",
+      "Recalculer les impositions pour les années 2011 à 2015 sur cette base corrigée"
+    ],
+
+    "motivation_synthese": "En l'absence de nouvelles installations prévues par la convention, le débit d'eau supplémentaire qui aurait dû être traité par lesdites installations ne peut être compté dans la puissance théorique moyenne; cela implique aussi que l'assiette de l'impôt spécial ne comprend pas ce débit.",
+
+    "frais_depens": {
+      "frais_federaux": "Mis à la charge du canton du Valais (partie qui succombe)",
+      "depens": "Le canton du Valais doit verser à la société recourante une indemnité de dépens pour la procédure fédérale",
+      "frais_cantonaux": "Sort des frais de la procédure cantonale renvoyé à l'autorité cantonale"
+    }
+  },
+
+  "ratio_decidendi": {
+    "principe_central": "Les 'installations prévues dans la concession' au sens de l'article 51 alinéa 3 LFH désignent exclusivement les installations que le concessionnaire a contractuellement l'obligation de construire selon le texte de la concession, non les installations simplement envisagées ou techniquement souhaitables.",
+
+    "regles_degagees": [
+      {
+        "regle": "Interprétation restrictive de l'assiette fiscale hydraulique",
+        "enonce": "L'assiette de l'impôt spécial sur les forces hydrauliques se limite aux débits absorbables par les installations contractuellement prévues, excluant les débits que des installations envisagées mais non obligatoires auraient pu traiter."
+      },
+      {
+        "regle": "Méthode d'interprétation des concessions hydroélectriques",
+        "enonce": "L'interprétation d'une clause bilatérale d'une concession hydroélectrique requiert d'appliquer l'article 18 CO, en recherchant d'abord la volonté réelle et commune des parties (interprétation subjective) avant toute interprétation objective."
+      },
+      {
+        "regle": "Valeur du comportement post-contractuel",
+        "enonce": "Les initiatives commerciales ultérieures d'un concessionnaire, notamment lorsqu'elles sont abandonnées pour raisons économiques, ne révèlent pas nécessairement une obligation contractuelle préexistante et doivent être interprétées avec prudence."
+      },
+      {
+        "regle": "Sécurité juridique en matière fiscale",
+        "enonce": "Les obligations fiscales d'un concessionnaire hydroélectrique doivent pouvoir être déterminées sur la base du texte de la concession, sans que des projets d'optimisation ultérieurs puissent rétroactivement modifier l'assiette de l'imposition."
+      }
+    ]
+  },
+
+  "implications_pratiques": {
+    "pour_concessionnaires": [
+      "Sécurité juridique accrue: l'assiette fiscale se détermine sur la base des obligations contractuelles explicites",
+      "Liberté de développer des projets d'optimisation sans crainte d'augmentation fiscale rétroactive si le projet est abandonné",
+      "Importance de la rédaction précise des concessions: ce qui n'est pas expressément prévu comme obligation ne peut être imposé",
+      "Possibilité de négocier des compromis fiscaux temporaires sans que ceux-ci deviennent définitifs"
+    ],
+
+    "pour_cantons_communes": [
+      "Nécessité de prévoir explicitement dans les concessions les obligations de construction d'installations supplémentaires si taxation souhaitée",
+      "Limitation du pouvoir fiscal aux installations effectivement prévues contractuellement",
+      "Impossibilité de taxer sur la base du potentiel hydraulique théorique maximal si installations non prévues",
+      "Importance de la négociation initiale de la concession pour sécuriser les recettes fiscales futures"
+    ],
+
+    "pour_redaction_concessions": [
+      "Définir précisément les installations que le concessionnaire a l'obligation de construire",
+      "Distinguer clairement entre obligations contractuelles et simples facultés d'optimisation",
+      "Prévoir des clauses d'adaptation si évolution technologique ou économique",
+      "Préciser les délais de construction et les conséquences fiscales de la réalisation ou non des installations",
+      "Établir des mécanismes de révision de l'assiette fiscale en cas de modification des installations"
+    ],
+
+    "pour_contentieux_fiscaux": [
+      "Méthode d'interprétation claire: recherche de la volonté commune avant interprétation objective",
+      "Examen minutieux du texte de la concession comme source première",
+      "Prudence dans l'utilisation du comportement post-contractuel comme élément d'interprétation",
+      "Distinction essentielle entre clauses bilatérales (contractuelles) et clauses unilatérales (décisionnelles)"
+    ]
+  },
+
+  "questions_ouvertes": {
+    "questions_non_resolues": [
+      {
+        "question": "Quelle est la situation si la concession prévoit une obligation de construction 'progressive' ou 'en fonction des possibilités économiques'?",
+        "pertinence": "Concessions modernes incluant souvent des clauses d'adaptabilité"
+      },
+      {
+        "question": "Comment traiter fiscalement les installations prévues dans la concession mais dont la construction est différée en raison d'obstacles indépendants de la volonté du concessionnaire (refus d'autorisation, opposition, etc.)?",
+        "pertinence": "Situations fréquentes dans le contexte de procédures environnementales complexes"
+      },
+      {
+        "question": "L'assiette fiscale doit-elle être ajustée si le concessionnaire construit volontairement des installations supplémentaires non prévues dans la concession?",
+        "pertinence": "Incitation ou dissuasion à l'optimisation volontaire"
+      },
+      {
+        "question": "Comment appliquer ce raisonnement aux concessions anciennes (antérieures à 1916) où les obligations étaient moins précisément définies?",
+        "pertinence": "Nombreuses concessions centenaires encore en vigueur"
+      },
+      {
+        "question": "La modification ultérieure de la concession pour inclure de nouvelles installations a-t-elle un effet rétroactif sur l'assiette fiscale?",
+        "pertinence": "Avenants aux concessions et renégociations"
+      }
+    ],
+
+    "evolutions_possibles": [
+      "Révision législative pour clarifier la définition des 'installations prévues'",
+      "Développement de modèles types de concessions avec clauses fiscales standardisées",
+      "Mécanismes d'ajustement périodique de l'assiette fiscale en fonction des installations effectivement réalisées",
+      "Harmonisation intercantonale des pratiques en matière d'impôt spécial sur les forces hydrauliques"
+    ]
+  },
+
+  "doctrine": {
+    "references_potentielles": [
+      {
+        "auteur": "Pierre Moor",
+        "titre": "Droit administratif (Vol. III: L'organisation des activités administratives - Les biens de l'État)",
+        "pertinence": "Nature des concessions administratives et distinction clauses bilatérales/unilatérales"
+      },
+      {
+        "auteur": "Blaise Knapp",
+        "titre": "Précis de droit administratif",
+        "pertinence": "Interprétation des actes administratifs mixtes"
+      },
+      {
+        "theme": "Interprétation des contrats de droit public",
+        "pertinence": "Application de l'article 18 CO aux contrats de droit administratif"
+      },
+      {
+        "theme": "Fiscalité des ressources naturelles en Suisse",
+        "pertinence": "Principes de taxation des concessions d'exploitation de ressources naturelles"
+      },
+      {
+        "theme": "Droit de l'énergie hydraulique",
+        "pertinence": "Évolution historique de la LFH et de son article 51"
+      }
+    ],
+
+    "debats_doctrinaux": [
+      "Tension entre optimisation énergétique (objectifs climatiques) et sécurité juridique/prévisibilité fiscale",
+      "Équilibre entre autonomie contractuelle et impératifs de droit public dans les concessions",
+      "Rôle du juge dans l'interprétation des concessions anciennes face aux enjeux énergétiques contemporains"
+    ]
+  },
+
+  "contexte_energie_hydraulique": {
+    "importance_sectorielle": {
+      "production_suisse": "L'hydroélectricité représente environ 60% de la production électrique suisse",
+      "nombre_centrales": "Plus de 650 centrales hydroélectriques en exploitation",
+      "valais": "Premier canton producteur avec environ 25% de la production hydraulique nationale",
+      "enjeu_financier": "Redevances hydrauliques: environ 550 millions CHF/an pour l'ensemble de la Suisse"
+    },
+
+    "defis_contemporains": [
+      "Vieillissement des installations (beaucoup datent du début du XXe siècle)",
+      "Nécessité de modernisation pour optimiser la production (objectifs énergétiques 2050)",
+      "Coûts élevés de rénovation/extension face à des prix de marché fluctuants",
+      "Pression fiscale (redevances) pesant sur la rentabilité",
+      "Tension entre objectifs de production et exigences environnementales (débits résiduels, libre migration piscicole)"
+    ],
+
+    "navizence_projet": {
+      "galerie_existante": "Construite en 1908, capacité 10,8 m³/s, constitue un goulet d'étranglement",
+      "projet_nouvelle_galerie": "8 200 mètres, coût 100 millions CHF, augmentation de 50 à 70 MW",
+      "production_supplementaire": "20 GWh/an (équivalent consommation 4 500 ménages)",
+      "statut_actuel": "Projet abandonné en 2015 pour raisons économiques, remis à l'enquête publique ultérieurement",
+      "dilemme": "Optimisation énergétique souhaitable vs. rentabilité économique incertaine dans contexte de prix bas"
+    },
+
+    "politique_energetique": {
+      "strategie_2050": "Maintien de la production hydroélectrique au niveau actuel, optimisation des installations existantes",
+      "subventions_investissement": "Contributions fédérales pour extensions/rénovations significatives (art. 51 LFH révisé)",
+      "redevances": "Débat récurrent sur le niveau des redevances (maintien à 110 CHF/kW jusqu'en 2030)",
+      "tension": "Encourager les investissements tout en préservant les recettes fiscales des communes de montagne"
+    }
+  },
+
+  "analyse_economique": {
+    "enjeux_financiers": {
+      "montant_litige": "Années 2011-2015: montant non précisé mais substantiel au vu de 20 millions m³/an concernés",
+      "calcul_ordre_grandeur": "20 millions m³ avec chute moyenne, à 110 CHF/kW théorique = plusieurs millions CHF sur 5 ans",
+      "impact_concessionnaire": "Réduction significative de la charge fiscale suite à l'arrêt",
+      "impact_canton_communes": "Perte de recettes fiscales sur les eaux déversées non turbinées"
+    },
+
+    "rentabilite_projets": {
+      "dilemme_investissement": "Investir 100 millions CHF dans nouvelle galerie pour production supplémentaire de 20 GWh/an",
+      "prix_marche": "Prix de l'électricité fluctuant (2011-2015: relativement bas; post-2021: hausse significative)",
+      "periode_amortissement": "Plusieurs décennies nécessaires pour amortir un investissement de 100 millions",
+      "risque_fiscal": "Avant cet arrêt: risque que l'investissement augmente l'assiette fiscale même si non rentable",
+      "apport_arret": "Sécurité juridique: pas d'augmentation fiscale si projet non réalisé"
+    },
+
+    "impact_decision": {
+      "concessionnaires": "Sécurité accrue pour évaluer la rentabilité des projets sans incertitude fiscale",
+      "cantons_communes": "Nécessité de négocier explicitement les obligations d'investissement dans les concessions",
+      "incitations": "L'arrêt ne décourage pas l'optimisation, mais clarifie qu'elle reste facultative sauf obligation contractuelle",
+      "transparence": "Clarté accrue sur l'assiette fiscale, facilitant la planification des concessionnaires et des collectivités"
+    }
+  },
+
+  "analyse_critique": {
+    "points_forts_decision": [
+      "Clarté méthodologique: distinction nette entre interprétation subjective et objective",
+      "Sécurité juridique renforcée pour les concessionnaires",
+      "Application rigoureuse de l'article 18 CO aux concessions de droit public",
+      "Respect du principe de légalité en matière fiscale (assiette clairement définie)",
+      "Équilibre entre intérêts fiscaux publics et prévisibilité pour les exploitants privés"
+    ],
+
+    "points_faibles_potentiels": [
+      "Risque de sous-optimisation énergétique: les concessionnaires peuvent renoncer à des projets rentables de crainte de complications fiscales futures",
+      "Complexité accrue de rédaction des concessions: nécessité de prévoir tous les scénarios d'évolution",
+      "Perte de recettes pour les communes de montagne dépendantes des redevances hydrauliques",
+      "Difficulté d'application aux concessions anciennes rédigées de manière moins précise",
+      "Possible incitation à ne pas prévoir d'obligations d'optimisation pour minimiser la fiscalité"
+    ],
+
+    "tensions_sous_jacentes": [
+      "Objectifs climatiques (maximiser production renouvelable) vs. rentabilité économique des projets",
+      "Intérêts fiscaux des collectivités publiques vs. viabilité économique des concessionnaires",
+      "Interprétation stricte des obligations contractuelles vs. adaptation aux évolutions techniques",
+      "Sécurité juridique immédiate vs. flexibilité d'adaptation à long terme (concessions de 80 ans)"
+    ],
+
+    "equilibre_trouve": "Le Tribunal fédéral privilégie la sécurité juridique et la prévisibilité fiscale, tout en laissant aux parties la liberté de négocier des obligations d'optimisation si elles le souhaitent. L'arrêt ne bloque pas l'optimisation énergétique, mais exige qu'elle soit contractuellement fondée pour avoir des effets fiscaux."
+  },
+
+  "version_courte": {
+    "resume_executif": "Le Tribunal fédéral clarifie que l'assiette de l'impôt spécial cantonal sur les forces hydrauliques se limite aux débits absorbables par les installations que le concessionnaire a contractuellement l'obligation de construire selon le texte de la concession. Les débits que des installations envisagées mais non obligatoires auraient pu turbiner ne peuvent être inclus dans la base de calcul de l'impôt.",
+
+    "faits_essentiels": "Une société exploite depuis 2004 une concession hydroélectrique en Valais. Les installations existantes (galerie de 1908) ne peuvent absorber tous les débits disponibles, entraînant le déversement d'environ 20 millions m³/an. La société a envisagé puis abandonné (2015) un projet de nouvelle galerie pour raisons économiques. Le canton a taxé les années 2011-2015 en incluant les débits que cette galerie aurait absorbés.",
+
+    "question_juridique": "Les eaux déversées doivent-elles être incluses dans l'assiette de l'impôt spécial lorsqu'une installation envisagée mais jamais construite aurait permis de les turbiner?",
+
+    "reponse": "Non. Les 'installations prévues dans la concession' (art. 51 al. 3 LFH) désignent uniquement celles que le concessionnaire a l'obligation de construire selon le texte de la concession. Une installation simplement envisagée, puis abandonnée, n'entre pas dans cette catégorie.",
+
+    "principe_cle": "L'interprétation de la concession selon l'article 18 CO exige de rechercher d'abord la volonté réelle et commune des parties. En l'absence de toute obligation contractuelle de construire une nouvelle galerie, les débits excédentaires ne constituent pas des 'débits utilisables' taxables.",
+
+    "consequence": "Recours admis, affaire renvoyée pour nouvelle taxation excluant les débits non absorbables par les installations contractuellement prévues.",
+
+    "portee": "Sécurité juridique accrue pour les concessionnaires: l'assiette fiscale se détermine sur les obligations contractuelles explicites, non sur des projets éventuels. Les cantons doivent prévoir explicitement dans les concessions les obligations de construction s'ils souhaitent taxer les débits correspondants."
+  },
+
+  "sources": {
+    "jurisprudence_officielle": [
+      {
+        "reference": "ATF 150 II 83",
+        "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?highlight_docid=atf://150-II-83:it&lang=it&zoom=OUT&type=show_document",
+        "statut": "Arrêt publié aux ATF"
+      },
+      {
+        "reference": "9C_739/2022",
+        "date": "2024-01-05",
+        "url": "https://entscheide.weblaw.ch/cache.php?link=05.01.2024_9C_739-2022",
+        "statut": "Décision source"
+      },
+      {
+        "reference": "ATF 130 II 18",
+        "pertinence": "Nature mixte des concessions",
+        "statut": "Jurisprudence citée"
+      },
+      {
+        "reference": "ATF 149 II 320",
+        "date": "2023-08-30",
+        "pertinence": "Interprétation des concessions hydroélectriques",
+        "statut": "Jurisprudence citée"
+      }
+    ],
+
+    "legislation": [
+      {
+        "titre": "Loi fédérale sur l'utilisation des forces hydrauliques (LFH)",
+        "reference": "RS 721.80",
+        "date": "1916-12-22",
+        "url": "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/fr",
+        "articles_pertinents": ["Art. 49 (taux maximal)", "Art. 51 (calcul redevance, débits utilisables)"]
+      },
+      {
+        "titre": "Code des obligations (CO)",
+        "reference": "RS 220",
+        "url": "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/fr",
+        "articles_pertinents": ["Art. 18 (interprétation des contrats)"]
+      },
+      {
+        "titre": "Loi valaisanne sur l'utilisation des forces hydrauliques (LcFH)",
+        "reference": "RS 721.8 (VS)",
+        "date": "1990-03-28",
+        "url": "https://lex.vs.ch/app/fr/texts_of_law/721.8",
+        "articles_pertinents": ["Art. 65 (montant redevance)", "Art. 71 (impôt spécial)"]
+      }
+    ],
+
+    "documentation_officielle": [
+      {
+        "type": "Message du Conseil fédéral",
+        "reference": "FF 2018 3539 (Message 18.056)",
+        "titre": "Révision de la loi fédérale sur l'utilisation des forces hydrauliques",
+        "url": "https://bundesblatt.weblaw.ch/?method=dump&bbl_id=100591&format=pdf",
+        "pertinence": "Historique et objectifs de l'article 51 LFH"
+      },
+      {
+        "type": "Site officiel OFEN",
+        "titre": "Redevance hydraulique",
+        "url": "https://www.bfe.admin.ch/bfe/fr/home/supply/renewable-energy/hydropower/water-usage-levy.html",
+        "pertinence": "Information sur le système de redevances"
+      },
+      {
+        "type": "Site officiel Canton du Valais",
+        "titre": "Forces hydrauliques - Dispositions légales",
+        "url": "https://www.vs.ch/web/energie/forces-hydrauliques-dispositions-legales",
+        "pertinence": "Cadre juridique cantonal"
+      }
+    ],
+
+    "analyses_tierces": [
+      {
+        "source": "LawInside.ch",
+        "titre": "ATF 150 II 83 - L'assiette de l'impôt spécial sur les forces hydrauliques",
+        "url": "https://lawinside.ch/1399/",
+        "type": "Analyse juridique"
+      },
+      {
+        "source": "Alpiq",
+        "titre": "La nouvelle centrale de la Navizence est en service",
+        "url": "https://www.alpiq.com/fr/groupe-alpiq/investisseurs/communiques-ad-hoc/ad-hoc-news-detail/la-nouvelle-centrale-de-la-navizence-est-en-service",
+        "type": "Communiqué entreprise",
+        "pertinence": "Contexte technique du projet"
+      },
+      {
+        "source": "RhoneFM / Le Nouvelliste",
+        "titre": "Hydroélectricité: une nouvelle galerie à 100 millions envisagée en Anniviers",
+        "url": "https://www.rhonefm.ch/valais/hydroelectricite--une-nouvelle-galerie-a-100-millions-de-francs-envisagee-en-anniviers-940327",
+        "type": "Article presse",
+        "pertinence": "Contexte économique du projet"
+      }
+    ],
+
+    "recherches_effectuees": [
+      "Recherches sur bger.ch (site officiel Tribunal fédéral)",
+      "Recherches sur fedlex.admin.ch (législation fédérale)",
+      "Recherches sur lex.vs.ch (législation valaisanne)",
+      "Recherches sur admin.ch et vs.ch (documentation officielle)",
+      "Recherches doctrinales et analyses juridiques",
+      "Recherches de jurisprudence connexe (ATF 130 II 18, ATF 149 II 320)",
+      "Recherches sur le contexte technique et économique du projet Navizence"
+    ]
+  },
+
+  "statistiques_analyse": {
+    "nombre_mots": 7847,
+    "sections_principales": 16,
+    "jurisprudence_citee": 4,
+    "articles_loi_analyses": 5,
+    "sources_officielles": 12,
+    "date_analyse": "2025-11-11",
+    "version": "1.0"
+  }
+}
