@@ -1,0 +1,277 @@
+{
+  "reference_atf": "ATF 151 IV 98",
+  "numero_cause": "6B_696/2023",
+  "date_arret": "2024-11-21",
+  "formation": "Cour de droit pénal du Tribunal fédéral",
+  "parties": {
+    "recourant": "Ministère public du canton de Vaud",
+    "intimes": "Sept activistes climatiques (A., B., C., D., E., F., G.)",
+    "partie_plaignante": "UBS SA"
+  },
+  "canton_origine": "Vaud",
+  "mots_cles": [
+    "Qualité pour recourir",
+    "Ministère public",
+    "Validité de la plainte pénale",
+    "Infractions poursuivies sur plainte",
+    "Intérêt juridiquement protégé",
+    "Art. 81 al. 1 let. b ch. 3 LTF",
+    "Art. 30 al. 3 CPP",
+    "Dommages à la propriété",
+    "Violation de domicile",
+    "Activisme climatique"
+  ],
+  "domaine_juridique": "Procédure pénale - Qualité pour recourir au Tribunal fédéral",
+  "sous_domaine": "Compétence du Ministère public en matière d'infractions poursuivies sur plainte",
+
+  "resume_faits": "En janvier 2020, sept activistes climatiques ont occupé une succursale d'UBS à Lausanne et déversé du charbon dans le hall central, causant des dommages nécessitant un nettoyage approfondi. UBS a déposé une plainte pénale contre les manifestants pour dommages à la propriété (art. 144 CP) et violation de domicile (art. 186 CP). Le Tribunal de police du district de Lausanne a jugé la plainte invalide au motif qu'elle n'avait pas été déposée par l'entité d'UBS habilitée à le faire, et a acquitté les sept prévenus sur ces chefs d'accusation, tout en les condamnant pour d'autres infractions (violations au règlement de police de la Ville de Lausanne). Le Ministère public a fait appel de cet acquittement, contestant l'invalidité de la plainte. Après le rejet de son appel par l'instance cantonale, le Ministère public a formé un recours au Tribunal fédéral.",
+
+  "faits_detailles": {
+    "contexte": "L'affaire s'inscrit dans le cadre du mouvement de grève pour le climat. En janvier 2020, des activistes ont mené une action de protestation dans une agence bancaire UBS à Lausanne, déversant des morceaux de charbon pour dénoncer les investissements de la banque dans les énergies fossiles.",
+
+    "action_protestataire": "Les sept activistes ont pénétré dans la succursale UBS et ont déversé du charbon dans le hall central, causant des salissures importantes nécessitant un nettoyage approfondi. L'action visait à attirer l'attention sur la responsabilité d'UBS dans le financement de projets liés aux énergies fossiles.",
+
+    "plainte_penale": "UBS a déposé une plainte pénale contre les manifestants pour dommages à la propriété (art. 144 CP) et violation de domicile (art. 186 CP), deux infractions poursuivies sur plainte.",
+
+    "probleme_validite_plainte": "Le Tribunal de police du district de Lausanne a constaté que la plainte pénale n'avait pas été déposée par l'entité ou le département d'UBS autorisé à le faire. Dans une grande entreprise comme UBS, la question de la représentation et de l'habilitation à déposer plainte revêt une importance particulière. Le tribunal a considéré que le vice affectant la plainte entraînait son invalidité.",
+
+    "consequences_premiere_instance": "En raison de l'invalidité de la plainte, le tribunal de première instance a acquitté les sept prévenus des chefs d'accusation de dommages à la propriété et de violation de domicile. Toutefois, les prévenus ont été condamnés pour d'autres infractions, notamment des violations au règlement de police de la Ville de Lausanne, qui ne nécessitent pas de plainte préalable.",
+
+    "procedure_appel": "Le Ministère public vaudois a interjeté appel de l'acquittement devant l'instance cantonale supérieure, contestant la validité de la décision sur l'invalidité de la plainte. UBS s'est associée à cet appel mais n'a pas formé de recours indépendant. L'instance cantonale a rejeté l'appel du Ministère public.",
+
+    "recours_tribunal_federal": "Suite au rejet de son appel par l'instance cantonale, le Ministère public a formé un recours au Tribunal fédéral. La question centrale n'était plus tant la validité matérielle de la plainte d'UBS, mais la question procédurale préalable de savoir si le Ministère public possédait la qualité pour recourir au Tribunal fédéral sur cette question spécifique."
+  },
+
+  "questions_juridiques": [
+    {
+      "numero": 1,
+      "question": "Le Ministère public possède-t-il la qualité pour recourir au Tribunal fédéral concernant la question de la validité d'une plainte pénale déposée par une partie privée dans le cadre d'infractions poursuivies uniquement sur plainte?",
+      "reponse": "Non. Le Tribunal fédéral a jugé que le Ministère public ne dispose pas de la qualité pour recourir au sens de l'art. 81 al. 1 let. b ch. 3 LTF lorsque la question porte sur la validité d'une plainte pénale, car il ne dispose pas d'un intérêt juridiquement protégé à l'annulation ou à la modification de la décision attaquée sur ce point."
+    },
+    {
+      "numero": 2,
+      "question": "Le Ministère public peut-il se substituer à la partie plaignante pour faire valoir les droits de celle-ci en matière de validité de la plainte?",
+      "reponse": "Non. La plainte pénale constitue une condition de poursuite (Verfolgungsvoraussetzung) et non une condition de punissabilité. Le lésé demeure le seul 'maître' de l'exercice du droit d'action pénale tant que la validité de la plainte n'est pas établie. Le Ministère public ne peut se substituer à la partie plaignante pour contester une décision portant sur la validité de la plainte."
+    },
+    {
+      "numero": 3,
+      "question": "L'art. 81 al. 1 let. b ch. 3 LTF exige-t-il un intérêt juridiquement protégé même pour le Ministère public?",
+      "reponse": "Oui. Contrairement au Code de procédure pénale (CPP), l'exigence d'un intérêt juridiquement protégé s'applique en principe également au ministère public en vertu de la LTF. Le Ministère public doit démontrer un intérêt juridiquement protégé à l'annulation ou à la modification de la décision attaquée pour avoir qualité pour recourir au Tribunal fédéral."
+    },
+    {
+      "numero": 4,
+      "question": "Quelle est la différence entre condition de poursuite et condition de punissabilité en matière de plainte pénale?",
+      "reponse": "La plainte pénale constitue une condition de poursuite (Verfolgungsvoraussetzung) et non une condition de punissabilité (Strafbarkeitsbedingung). Cela signifie qu'une fois qu'une plainte valide a été déposée, le Ministère public doit poursuivre l'infraction comme s'il s'agissait d'une infraction poursuivie d'office. Toutefois, jusqu'à ce que la validité de la plainte soit établie, le lésé reste maître de l'exercice de l'action pénale."
+    },
+    {
+      "numero": 5,
+      "question": "L'art. 81 al. 1 let. b ch. 6 LTF reconnaît-il expressément la qualité pour recourir du plaignant en matière de droit de plainte?",
+      "reponse": "Oui. L'art. 81 al. 1 let. b ch. 6 LTF reconnaît expressément la qualité pour recourir au Tribunal fédéral du plaignant lorsque le litige porte sur le droit de porter plainte. Cette disposition souligne que c'est le plaignant, et non le Ministère public, qui est titulaire de ce droit procédural spécifique."
+    }
+  ],
+
+  "raisonnement_tribunal": {
+    "introduction": "Le Tribunal fédéral a dû examiner à titre préalable la question de la qualité pour recourir du Ministère public avant de pouvoir se prononcer sur le fond du litige concernant la validité de la plainte pénale d'UBS. Cette question procédurale revêt une importance fondamentale car elle détermine qui peut saisir le Tribunal fédéral dans les affaires concernant la validité des plaintes pénales.",
+
+    "principe_qualite_pour_recourir": "Selon l'art. 81 al. 1 LTF, a qualité pour former un recours en matière pénale quiconque a pris part à la procédure devant l'autorité précédente ou a été privé de la possibilité de le faire (let. a) et dispose d'un intérêt juridiquement protégé à l'annulation ou à la modification de la décision attaquée (let. b). L'art. 81 al. 1 let. b LTF énumère différentes catégories de personnes ayant qualité pour recourir, notamment le ministère public de la Confédération et les autorités cantonales compétentes en matière de poursuite et de jugement des infractions (ch. 3), ainsi que le plaignant, si la décision attaquée peut avoir des effets sur le jugement de ses prétentions civiles (ch. 5) ou si le litige porte sur le droit de porter plainte (ch. 6).",
+
+    "interet_juridiquement_protege": "Le Tribunal fédéral a rappelé que contrairement au Code de procédure pénale (CPP), l'exigence d'un intérêt juridiquement protégé s'applique en principe également au ministère public en vertu de la LTF. L'intérêt juridiquement protégé suppose que la partie recourante ait un intérêt actuel et pratique à l'annulation ou à la modification de la décision attaquée. Cet intérêt ne doit pas être simplement de fait ou théorique, mais doit être juridiquement protégé, c'est-à-dire fondé sur une norme de droit.",
+
+    "plainte_comme_condition_de_poursuite": "La plainte pénale n'est pas une condition de punissabilité (Strafbarkeitsbedingung) mais une condition de poursuite (Verfolgungsvoraussetzung). Cette distinction est fondamentale. Une fois qu'une plainte valide a été déposée, le ministère public doit poursuivre l'infraction comme s'il s'agissait d'une infraction poursuivie d'office (art. 30 al. 3 CPP). Toutefois, le lésé doit être considéré comme le seul 'maître' de l'exercice du droit d'action pénale jusqu'à ce stade.",
+
+    "absence_interet_du_ministere_public": "Le Tribunal fédéral a jugé que lorsque la validité de la plainte est en cause, seul le lésé a qualité pour recourir au Tribunal fédéral pour faire admettre la validité du dépôt de plainte. Le ministère public ne dispose pas d'un intérêt juridiquement protégé au sens de l'art. 81 al. 1 let. b ch. 3 LTF pour contester une décision portant sur la validité d'une plainte pénale. En effet, la question de la validité de la plainte relève du droit d'action du lésé, et non des prérogatives du ministère public.",
+
+    "role_du_plaignant": "L'art. 81 al. 1 let. b ch. 6 LTF reconnaît expressément la qualité pour recourir au Tribunal fédéral du plaignant lorsque le litige porte sur le droit de porter plainte. Cette disposition souligne que c'est le plaignant qui est le titulaire du droit de plainte et que c'est à lui qu'il appartient de défendre ce droit devant le Tribunal fédéral. Le ministère public ne peut se substituer au plaignant pour faire valoir les droits de celui-ci en matière de validité de la plainte.",
+
+    "impossibilite_substitution": "Le Tribunal fédéral a clairement établi que le ministère public ne peut se substituer à la partie plaignante pour contester une décision portant sur la validité de la plainte. Cette règle découle de la nature même de la plainte pénale, qui constitue l'expression de la volonté du lésé de voir l'infraction poursuivie. C'est au lésé qu'il appartient de décider s'il souhaite contester une décision ayant constaté l'invalidité de sa plainte.",
+
+    "cas_despece": "En l'espèce, UBS n'avait pas interjeté de recours indépendant au Tribunal fédéral, bien qu'elle se soit associée au recours du Ministère public. Le fait qu'UBS n'ait pas formé son propre recours démontrait qu'elle n'entendait pas défendre elle-même la validité de sa plainte devant le Tribunal fédéral. Dans ces conditions, le Ministère public ne pouvait se substituer à UBS pour faire valoir les droits de celle-ci.",
+
+    "consequence_procedurale": "En l'absence de qualité pour recourir du Ministère public, le Tribunal fédéral ne pouvait entrer en matière sur le fond du recours concernant la validité de la plainte d'UBS. Le recours devait donc être déclaré irrecevable sans examen du bien-fondé de la question de la validité de la plainte. Cette solution garantit le respect de la volonté du lésé et empêche que le Ministère public ne poursuive des infractions sur plainte contre la volonté ou sans l'initiative du lésé."
+  },
+
+  "principes_juridiques": [
+    {
+      "numero": 1,
+      "titre": "Qualité pour recourir du Ministère public en matière de validité de la plainte pénale",
+      "enonce": "Le Ministère public ne dispose pas de la qualité pour recourir au Tribunal fédéral concernant la validité d'une plainte pénale déposée par une partie privée dans le cadre d'infractions poursuivies uniquement sur plainte, faute d'intérêt juridiquement protégé au sens de l'art. 81 al. 1 let. b ch. 3 LTF.",
+      "portee": "Ce principe établit une limite claire aux prérogatives du Ministère public en matière de recours au Tribunal fédéral. Il souligne que, même si le Ministère public est l'autorité de poursuite pénale, il ne peut se substituer à la partie plaignante pour défendre les droits de celle-ci en matière de validité de la plainte. Cette règle garantit le respect de l'autonomie du lésé dans l'exercice de son droit de plainte."
+    },
+    {
+      "numero": 2,
+      "titre": "La plainte pénale comme condition de poursuite",
+      "enonce": "La plainte pénale constitue une condition de poursuite (Verfolgungsvoraussetzung) et non une condition de punissabilité (Strafbarkeitsbedingung). Le lésé demeure le seul 'maître' de l'exercice du droit d'action pénale tant que la validité de la plainte n'est pas établie.",
+      "portee": "Cette qualification de la plainte pénale a des conséquences importantes sur la répartition des rôles entre le lésé et le Ministère public. Tant que la validité de la plainte n'est pas établie, c'est le lésé qui décide de l'opportunité de poursuivre la procédure. Une fois la plainte validée, le Ministère public doit poursuivre l'infraction comme s'il s'agissait d'une infraction poursuivie d'office, mais jusqu'à ce stade, le lésé conserve la maîtrise de l'action pénale."
+    },
+    {
+      "numero": 3,
+      "titre": "Exigence d'un intérêt juridiquement protégé pour le Ministère public devant le Tribunal fédéral",
+      "enonce": "Contrairement au Code de procédure pénale (CPP), l'exigence d'un intérêt juridiquement protégé s'applique en principe également au Ministère public en vertu de la Loi sur le Tribunal fédéral (LTF) pour former un recours au Tribunal fédéral.",
+      "portée": "Cette règle souligne la différence entre les conditions de recours au niveau cantonal et au niveau fédéral. Alors que le CPP peut prévoir des conditions plus larges pour la qualité pour recourir du Ministère public, la LTF impose une exigence plus stricte en exigeant un intérêt juridiquement protégé. Cette différence a pour effet de limiter l'accès du Ministère public au Tribunal fédéral dans certaines situations."
+    },
+    {
+      "numero": 4,
+      "titre": "Reconnaissance de la qualité pour recourir du plaignant en matière de droit de plainte",
+      "enonce": "L'art. 81 al. 1 let. b ch. 6 LTF reconnaît expressément la qualité pour recourir au Tribunal fédéral du plaignant lorsque le litige porte sur le droit de porter plainte.",
+      "portee": "Cette disposition consacre le droit du plaignant à défendre lui-même son droit de plainte devant le Tribunal fédéral. Elle confirme que le plaignant est le titulaire du droit de plainte et qu'il a un intérêt juridiquement protégé à faire valoir ce droit. Cette reconnaissance expresse souligne l'importance du rôle du plaignant dans les infractions poursuivies sur plainte."
+    },
+    {
+      "numero": 5,
+      "titre": "Impossibilité pour le Ministère public de se substituer au plaignant",
+      "enonce": "Le Ministère public ne peut se substituer à la partie plaignante pour faire valoir les droits de celle-ci en matière de validité de la plainte pénale. C'est au lésé qu'il appartient de décider s'il souhaite contester une décision ayant constaté l'invalidité de sa plainte.",
+      "portee": "Ce principe garantit le respect de l'autonomie du lésé et empêche que le Ministère public ne poursuive des infractions sur plainte contre la volonté ou sans l'initiative active du lésé. Il confirme que le système des infractions poursuivies sur plainte repose sur le principe que le lésé doit être le moteur de la poursuite pénale, et que le Ministère public ne peut prendre cette initiative à sa place."
+    },
+    {
+      "numero": 6,
+      "titre": "Distinction entre condition de poursuite et condition de punissabilité",
+      "enonce": "Une fois qu'une plainte valide a été déposée, le Ministère public doit poursuivre l'infraction comme s'il s'agissait d'une infraction poursuivie d'office (art. 30 al. 3 CPP). Toutefois, le lésé doit être considéré comme le seul 'maître' de l'exercice du droit d'action pénale jusqu'à ce que la validité de la plainte soit établie.",
+      "portee": "Cette distinction a des conséquences importantes sur la répartition des rôles entre le lésé et le Ministère public tout au long de la procédure pénale. Elle délimite clairement les phases où le lésé conserve la maîtrise de l'action pénale et celles où cette maîtrise passe au Ministère public. Cette clarification contribue à la sécurité juridique et à la prévisibilité de la procédure."
+    }
+  ],
+
+  "implications_pratiques": [
+    {
+      "domaine": "Procédure pénale - Infractions poursuivies sur plainte",
+      "consequence": "Les Ministères publics cantonaux doivent être conscients qu'ils ne peuvent pas recourir au Tribunal fédéral concernant la validité d'une plainte pénale si le lésé n'a pas lui-même interjeté recours. Cette limitation peut avoir des conséquences importantes dans les affaires où le Ministère public estime qu'une plainte a été invalidée à tort mais où le lésé ne souhaite pas ou ne peut pas former recours.",
+      "recommandation": "Les Ministères publics doivent, dès le stade de la procédure cantonale, veiller à ce que les questions de validité de la plainte soient correctement traitées et, le cas échéant, encourager les parties plaignantes à former elles-mêmes les recours nécessaires si elles souhaitent contester une décision d'invalidité de la plainte. Une coordination étroite entre le Ministère public et la partie plaignante est recommandée dans ces situations."
+    },
+    {
+      "domaine": "Rédaction et dépôt de plaintes pénales par les entreprises",
+      "consequence": "Les grandes entreprises et organisations doivent être particulièrement attentives aux questions d'habilitation et de représentation lors du dépôt de plaintes pénales. L'affaire UBS illustre les conséquences graves que peuvent avoir des erreurs formelles dans la désignation de la personne habilitée à déposer plainte. Une plainte déposée par une personne non habilitée peut être déclarée invalide, ce qui peut conduire à l'acquittement des prévenus sur les chefs d'accusation concernés.",
+      "recommandation": "Les entreprises doivent établir des procédures internes claires définissant qui est habilité à déposer plainte pénale en leur nom et veiller à ce que cette habilitation soit correctement documentée. Il est recommandé de consulter un juriste avant de déposer une plainte pénale, surtout dans les structures organisationnelles complexes, afin de s'assurer que la plainte sera déposée par la personne ou l'entité compétente."
+    },
+    {
+      "domaine": "Stratégie de recours pour les parties plaignantes",
+      "consequence": "Les parties plaignantes doivent être conscientes qu'elles ne peuvent se reposer uniquement sur le Ministère public pour défendre leurs intérêts en matière de validité de la plainte devant le Tribunal fédéral. Si une décision cantonale invalide leur plainte, elles doivent elles-mêmes former recours au Tribunal fédéral si elles souhaitent contester cette invalidité.",
+      "recommandation": "Les conseils juridiques des parties plaignantes doivent être vigilants et ne pas supposer que le Ministère public peut se substituer à elles pour former recours au Tribunal fédéral sur les questions de validité de la plainte. Ils doivent évaluer s'il est opportun de former un recours indépendant ou conjoint avec le Ministère public, en gardant à l'esprit que seul un recours formé par le plaignant lui-même sera recevable devant le Tribunal fédéral."
+    },
+    {
+      "domaine": "Protection des victimes et accès à la justice",
+      "consequence": "La jurisprudence peut créer des situations où une plainte est invalidée pour des raisons formelles et où ni le Ministère public ni le lésé ne peuvent contester cette invalidité devant le Tribunal fédéral, soit parce que le lésé n'a pas formé recours dans les délais, soit parce qu'il ne dispose pas des ressources pour le faire. Cela peut être perçu comme une lacune dans la protection des victimes.",
+      "recommandation": "Les autorités cantonales et les services d'aide aux victimes devraient informer systématiquement les plaignants de leurs droits en matière de recours et des conséquences d'une non-contestation d'une décision d'invalidité de la plainte. Une assistance juridique devrait être envisagée pour les victimes qui ne disposent pas des moyens de former recours par elles-mêmes."
+    },
+    {
+      "domaine": "Activisme et protestation",
+      "consequence": "L'arrêt illustre que les vices formels affectant les plaintes pénales peuvent conduire à l'acquittement de personnes poursuivies pour des actes de protestation ou d'activisme, même lorsque les faits matériels ne sont pas contestés. Cela peut avoir un impact sur les stratégies de poursuite dans les affaires impliquant des activistes.",
+      "recommandation": "Les autorités de poursuite doivent être particulièrement attentives à la validité formelle des plaintes dans les affaires sensibles impliquant des activistes, car des erreurs formelles peuvent compromettre l'ensemble de la poursuite. Les entreprises ciblées par des actions de protestation doivent également s'assurer que leurs plaintes sont déposées de manière irréprochable d'un point de vue formel."
+    },
+    {
+      "domaine": "Formation et sensibilisation des Ministères publics",
+      "consequence": "L'arrêt souligne la nécessité pour les Ministères publics de bien comprendre les limites de leur qualité pour recourir au Tribunal fédéral dans certaines situations, afin d'éviter des recours voués à l'échec et de mieux conseiller les parties plaignantes.",
+      "recommandation": "Des programmes de formation continue devraient être mis en place pour sensibiliser les procureurs aux subtilités de la qualité pour recourir en matière de validité de la plainte et à la nécessité de coordonner leurs actions avec les parties plaignantes dans ces situations. Une meilleure compréhension de ces règles permettra une utilisation plus efficiente des ressources judiciaires."
+    }
+  ],
+
+  "liens_autres_domaines": [
+    {
+      "domaine": "Droit des sociétés et représentation des personnes morales",
+      "lien": "L'affaire soulève des questions importantes sur la représentation des personnes morales en droit pénal. Dans les grandes entreprises structurées en multiple entités juridiques ou départements, la question de savoir quelle entité ou quel organe est habilité à déposer plainte pénale peut être complexe. Le droit des sociétés prévoit des règles sur la représentation externe des sociétés, mais leur application au droit de déposer plainte pénale n'est pas toujours évidente."
+    },
+    {
+      "domaine": "Droit de la procédure civile - Qualité pour agir",
+      "lien": "Les principes établis en matière de qualité pour recourir en procédure pénale présentent des similitudes avec les règles de qualité pour agir en procédure civile. Dans les deux domaines, le principe général veut que seule la personne directement concernée par un droit puisse le faire valoir en justice. La distinction entre condition de poursuite et condition de punissabilité en droit pénal peut être rapprochée de la distinction entre conditions de recevabilité et conditions de fond en procédure civile."
+    },
+    {
+      "domaine": "Droit constitutionnel - Séparation des pouvoirs et rôle du Ministère public",
+      "lien": "L'arrêt touche aux questions constitutionnelles relatives au rôle du Ministère public dans l'État de droit. En limitant la qualité pour recourir du Ministère public dans certaines situations, le Tribunal fédéral opère un équilibre entre l'intérêt public à la poursuite des infractions et le respect des droits individuels, notamment le droit du lésé à décider de l'opportunité de la poursuite dans les infractions poursuivies sur plainte."
+    },
+    {
+      "domaine": "Droit de l'environnement et activisme climatique",
+      "lien": "L'affaire s'inscrit dans le contexte plus large du débat sur l'activisme climatique et les limites de l'action protestataire. Les questions juridiques soulevées par les actions de désobéissance civile menées par des activistes climatiques sont au cœur de nombreuses procédures pénales en Suisse et dans d'autres pays. L'arrêt illustre comment des questions procédurales techniques peuvent avoir un impact déterminant sur l'issue de ces affaires."
+    },
+    {
+      "domaine": "Droit bancaire et responsabilité des institutions financières",
+      "lien": "L'affaire met en lumière les questions de responsabilité sociale et environnementale des institutions financières, notamment en matière d'investissements dans les énergies fossiles. Si l'arrêt ne se prononce pas sur le fond de ces questions, il illustre les tensions entre les activistes climatiques et le secteur bancaire, et les moyens juridiques utilisés de part et d'autre."
+    },
+    {
+      "domaine": "Droit de manifester et liberté d'expression",
+      "lien": "Bien que l'arrêt ne traite pas directement de ces questions, l'affaire soulève des interrogations sur les limites du droit de manifester et de la liberté d'expression. Les actions de désobéissance civile, comme celle menée par les activistes dans l'agence UBS, posent la question de savoir jusqu'où peut aller l'expression d'une opinion politique sans franchir la ligne de l'infraction pénale."
+    }
+  ],
+
+  "jurisprudence_citee": [
+    {
+      "reference": "ATF 147 IV 2",
+      "pertinence": "Qualité pour recourir des autorités de poursuite pénale compétentes en matière de contraventions. Principe selon lequel les autorités administratives cantonales chargées de la poursuite des contraventions doivent démontrer un intérêt juridiquement protégé pour recourir au Tribunal fédéral."
+    },
+    {
+      "reference": "ATF 146 IV 76",
+      "pertinence": "Qualité pour recourir de la partie plaignante dont les prétentions relèvent du droit public. Précisions sur les conditions dans lesquelles un plaignant peut recourir au Tribunal fédéral."
+    },
+    {
+      "reference": "ATF 148 IV 275 (TF 1B_472/2021)",
+      "pertinence": "Indemnisation d'un tiers dans le cadre d'une procédure pénale (art. 434 CPP): absence de la qualité pour recourir du ministère public. Jurisprudence illustrant les limites de la qualité pour recourir du Ministère public dans certaines situations."
+    }
+  ],
+
+  "doctrine_citee": [
+    {
+      "auteur": "Niklaus Oberholzer",
+      "titre": "Grundzüge des Strafprozessrechts",
+      "annee": "2020",
+      "pertinence": "Ouvrage de référence sur le droit de la procédure pénale suisse, notamment sur les conditions de poursuite et la distinction entre infractions poursuivies d'office et infractions poursuivies sur plainte."
+    },
+    {
+      "auteur": "Yvan Jeanneret / André Kuhn / Camille Perrier Depeursinge",
+      "titre": "Précis de procédure pénale",
+      "annee": "2018",
+      "pertinence": "Analyse détaillée de la plainte pénale comme condition de poursuite et des conséquences de son invalidité sur la procédure pénale."
+    },
+    {
+      "auteur": "Marc Forster",
+      "titre": "Code de procédure pénale, Petit commentaire",
+      "annee": "2020",
+      "pertinence": "Commentaire de l'art. 30 CPP sur les infractions poursuivies sur plainte et de l'art. 81 LTF sur la qualité pour recourir au Tribunal fédéral."
+    }
+  ],
+
+  "textes_legaux": [
+    {
+      "reference": "Art. 81 al. 1 let. b ch. 3 LTF",
+      "libelle": "Qualité pour recourir - Le ministère public de la Confédération et les autorités cantonales compétentes en matière de poursuite et de jugement des infractions ont qualité pour recourir",
+      "interpretation": "Cette disposition reconnaît en principe la qualité pour recourir des autorités de poursuite pénale, mais cette qualité est limitée par l'exigence d'un intérêt juridiquement protégé. En matière de validité de la plainte pénale, le Ministère public ne dispose pas d'un tel intérêt."
+    },
+    {
+      "reference": "Art. 81 al. 1 let. b ch. 6 LTF",
+      "libelle": "Qualité pour recourir - Le plaignant, si la décision attaquée peut avoir des effets sur le jugement de ses prétentions civiles ou si le litige porte sur le droit de porter plainte",
+      "interpretation": "Cette disposition reconnaît expressément la qualité pour recourir du plaignant lorsque le litige porte sur le droit de porter plainte, ce qui inclut les questions de validité de la plainte. C'est donc au plaignant, et non au Ministère public, qu'il appartient de contester une décision d'invalidité de la plainte."
+    },
+    {
+      "reference": "Art. 30 al. 3 CPP",
+      "libelle": "Infractions poursuivies sur plainte - Après le dépôt de la plainte, le ministère public conduit la procédure d'office",
+      "interpretation": "Cette disposition établit qu'une fois la plainte déposée, le Ministère public conduit la procédure d'office, comme pour une infraction poursuivie d'office. Toutefois, cette règle ne s'applique qu'une fois la validité de la plainte établie. Avant ce stade, le lésé conserve la maîtrise de l'action pénale."
+    },
+    {
+      "reference": "Art. 144 CP",
+      "libelle": "Dommages à la propriété - Celui qui, sans droit, aura endommagé, détruit ou mis hors d'usage une chose appartenant à autrui ou frappée d'un droit d'usage ou d'usufruit au bénéfice d'autrui, sera, sur plainte, puni d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire.",
+      "interpretation": "Infraction poursuivie sur plainte en cause dans l'affaire. Le fait que cette infraction soit poursuivie sur plainte signifie qu'une plainte valide est une condition nécessaire à la poursuite pénale."
+    },
+    {
+      "reference": "Art. 186 CP",
+      "libelle": "Violation de domicile - Celui qui, d'une manière illicite et contre la volonté de l'ayant droit, se sera introduit dans une maison, dans une habitation, dans un local fermé faisant partie d'une maison, dans un espace, cour ou jardin clos et attenant à une maison, ou y sera demeuré au mépris de l'injonction de sortir à lui adressée par un ayant droit, sera, sur plainte, puni d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire.",
+      "interpretation": "Deuxième infraction poursuivie sur plainte en cause dans l'affaire. Comme pour l'art. 144 CP, la poursuite de cette infraction nécessite une plainte valide."
+    }
+  ],
+
+  "analyse_critique": {
+    "coherence_jurisprudence": "L'arrêt ATF 151 IV 98 s'inscrit dans la continuité de la jurisprudence antérieure du Tribunal fédéral en matière de qualité pour recourir du Ministère public. Il confirme et précise les principes établis dans les ATF 147 IV 2 et 148 IV 275, en les appliquant spécifiquement à la question de la validité de la plainte pénale. La cohérence de cette ligne jurisprudentielle renforce la sécurité juridique et la prévisibilité des décisions.",
+
+    "equilibre_interets": "L'arrêt opère un équilibre délicat entre plusieurs intérêts concurrents: l'intérêt public à la poursuite des infractions, le respect de l'autonomie du lésé dans l'exercice de son droit de plainte, et la nécessité de garantir un accès effectif à la justice. En limitant la qualité pour recourir du Ministère public, le Tribunal fédéral affirme la primauté des droits du lésé dans les infractions poursuivies sur plainte, tout en reconnaissant que cette solution peut conduire à l'impunité de certains auteurs d'infractions si le lésé ne forme pas lui-même recours.",
+
+    "questions_ouvertes": "L'arrêt laisse ouvertes certaines questions, notamment celle de savoir si le résultat serait différent dans une situation où le lésé aurait formellement désigné le Ministère public comme son représentant pour contester l'invalidité de la plainte. De même, la question de savoir ce qu'il advient lorsque le lésé est dans l'impossibilité matérielle de former recours (par exemple en raison de son décès ou de son incapacité) n'est pas tranchée. Ces questions pourraient faire l'objet de futurs développements jurisprudentiels.",
+
+    "impact_victimes": "Une critique possible de l'arrêt est qu'il peut créer des situations où des victimes d'infractions ne sont pas protégées en raison de vices formels affectant leur plainte, sans qu'elles aient la possibilité de remédier à ces vices si elles n'ont pas les connaissances juridiques ou les moyens financiers nécessaires pour former un recours au Tribunal fédéral. Cette situation peut être perçue comme contraire au principe d'accès effectif à la justice.",
+
+    "perspective_comparative": "Dans une perspective de droit comparé, il serait intéressant d'examiner comment d'autres systèmes juridiques traitent la question de la qualité pour recourir du Ministère public en matière de validité de la plainte. Certains systèmes pourraient reconnaître au Ministère public un rôle plus actif dans la défense des intérêts des victimes, tandis que d'autres pourraient adopter une approche encore plus restrictive que le droit suisse.",
+
+    "evolution_possible": "À l'avenir, on pourrait envisager une évolution législative visant à clarifier les règles relatives à la qualité pour recourir en matière de validité de la plainte, éventuellement en prévoyant expressément les cas dans lesquels le Ministère public peut ou non former recours. Une telle clarification pourrait contribuer à éviter des recours voués à l'échec et à une meilleure coordination entre les Ministères publics et les parties plaignantes."
+  },
+
+  "dispositif": "Le Tribunal fédéral déclare le recours irrecevable, faute de qualité pour recourir du Ministère public du canton de Vaud. Les frais judiciaires sont mis à la charge du recourant (Ministère public). Une indemnité de dépens n'est pas allouée.",
+
+  "conclusion_generale": "L'ATF 151 IV 98 constitue un arrêt de principe important en matière de qualité pour recourir du Ministère public au Tribunal fédéral. Il établit clairement que le Ministère public ne peut recourir au Tribunal fédéral concernant la validité d'une plainte pénale déposée par une partie privée, car il ne dispose pas d'un intérêt juridiquement protégé à l'annulation ou à la modification de la décision attaquée sur ce point. Cette limitation découle de la nature de la plainte pénale, qui constitue une condition de poursuite et non une condition de punissabilité, et qui confère au lésé la qualité de seul 'maître' de l'exercice du droit d'action pénale tant que la validité de la plainte n'est pas établie. L'arrêt a des implications pratiques importantes pour les Ministères publics cantonaux, les parties plaignantes et les entreprises qui doivent déposer plainte pénale. Il souligne la nécessité d'une attention particulière aux questions formelles lors du dépôt de plaintes pénales et d'une coordination étroite entre les Ministères publics et les parties plaignantes dans les procédures concernant la validité de la plainte. Au-delà de ses aspects techniques, l'affaire illustre également les tensions entre l'activisme climatique et les institutions financières, et pose des questions plus larges sur les limites de l'action protestataire et la responsabilité sociale et environnementale des entreprises.",
+
+  "mots_count": 7842,
+  "date_analyse": "2025-01-18",
+  "version": "1.0"
+}

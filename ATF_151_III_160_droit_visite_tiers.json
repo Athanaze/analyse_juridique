@@ -1,0 +1,1009 @@
+{
+  "analyse_jurisprudentielle": {
+    "arret_principal": {
+      "reference": "ATF 151 III 160",
+      "date": "2025",
+      "numero_cause": "5A_359/2024",
+      "date_arret": "14 octobre 2024",
+      "formation": "IIe Cour de droit civil",
+      "juridiction": "Tribunal fédéral suisse",
+      "domaine": "Droit de la famille - Relations personnelles avec l'enfant",
+      "mots_cles": [
+        "Art. 274a CC",
+        "Droit de visite des tiers",
+        "Grands-parents",
+        "Intérêt de l'enfant",
+        "Pouvoir d'appréciation",
+        "Circonstances exceptionnelles",
+        "Etendue du droit aux relations personnelles",
+        "Proportionnalité"
+      ],
+      "publication": "Arrêt destiné à la publication au Recueil officiel (ATF)"
+    },
+
+    "faits": {
+      "contexte_familial": {
+        "description": "Conflit relatif au droit aux relations personnelles entre un enfant et des membres de sa famille maternelle",
+        "enfant": {
+          "identite": "D., né le 18 août 2020",
+          "age_lors_arret": "Environ 4 ans",
+          "situation": "Vit avec sa famille maternelle (grand-père et tante) depuis sa naissance"
+        },
+        "parents": {
+          "statut": "Parents séparés avant la naissance de l'enfant",
+          "mere": {
+            "situation": "Retournée vivre chez son père avec ses cinq frères et sœurs dans le foyer familial maternel en Valais",
+            "etat_sante": "Tombée malade début 2023 (diagnostic de cancer)",
+            "deces": "Décédée peu après le diagnostic",
+            "avant_deces": "A demandé à l'autorité compétente le placement de l'enfant chez sa famille maternelle"
+          },
+          "pere": {
+            "situation": "Demeuré dans le canton de Fribourg",
+            "autorite_parentale": "Titulaire de l'autorité parentale exclusive après le décès de la mère",
+            "position": "Conteste l'étendue du droit de visite accordé aux tiers (grand-père et tante maternels)"
+          }
+        },
+        "tiers_demandeurs": {
+          "grand_pere_maternel": {
+            "role": "Héberge l'enfant depuis sa naissance dans le foyer familial",
+            "implication": "Participation active à l'éducation quotidienne de l'enfant"
+          },
+          "tante_maternelle": {
+            "role": "Sœur de la mère défunte",
+            "implication": "Depuis la maladie de la mère début 2023, a assumé un rôle très important et s'est beaucoup investie dans la prise en charge quotidienne de l'enfant",
+            "statut": "Figure parentale de substitution suite à la maladie puis au décès de la mère"
+          }
+        }
+      },
+
+      "elements_factuels_determinants": {
+        "vie_commune_depuis_naissance": "L'enfant a vécu depuis sa naissance avec sa tante et son grand-père dans le foyer maternel",
+        "role_parental_tante": "La tante a assumé des fonctions quasi-parentales, particulièrement après la maladie de la mère",
+        "continuite_relationnelle": "Relations étroites et continues entre l'enfant et les membres de sa famille maternelle",
+        "deces_mere": "Circonstance exceptionnelle créant un besoin accru de maintien des liens avec la famille maternelle",
+        "conflit_parental": "Opposition du père à l'étendue du droit de visite accordé"
+      }
+    },
+
+    "procedure": {
+      "premiere_instance": {
+        "autorite": "Autorité de protection de l'enfant et de l'adulte (APEA) du canton du Valais",
+        "decision": "A accordé à la tante et au grand-père maternel un droit de visite mensuel (un week-end par mois)",
+        "date": "Non précisée"
+      },
+
+      "instance_recours": {
+        "autorite": "Présidente de l'autorité de recours en matière de protection de l'enfant et de l'adulte du canton du Valais",
+        "decision": "A augmenté la fréquence du droit de visite à un week-end sur deux et trois semaines de vacances par année",
+        "date": "Non précisée",
+        "motivation": "A considéré qu'il était pertinent de tenir compte du fait que l'enfant avait vécu depuis sa naissance auprès de sa tante et de son grand-père"
+      },
+
+      "tribunal_federal": {
+        "recourant": "Le père de l'enfant",
+        "grief_principal": "Le régime d'accès fixé n'est pas de nature à servir positivement le bien de l'enfant",
+        "contestation": "L'étendue du droit de visite (un week-end sur deux et trois semaines de vacances) excéderait le pouvoir d'appréciation du juge",
+        "issue": "Recours rejeté",
+        "motivation_rejet": "L'autorité cantonale s'est fondée sur des éléments pertinents et a effectué une pondération conforme aux principes jurisprudentiels"
+      }
+    },
+
+    "question_juridique": {
+      "principale": "Quelle est l'étendue admissible du droit aux relations personnelles accordé à des tiers (grands-parents et tante) en application de l'art. 274a CC?",
+      "secondaires": [
+        "Le principe de proportionnalité s'applique-t-il en tant que tel pour déterminer l'étendue du droit de visite des tiers?",
+        "Dans quelles circonstances peut-on accorder à des tiers un droit de visite correspondant aux modalités usuelles accordées aux parents?",
+        "Quelle est l'étendue du pouvoir d'appréciation du juge dans la fixation de la durée et de la fréquence du droit de visite des tiers?",
+        "Comment pondérer l'intérêt de l'enfant avec les prérogatives du parent titulaire de l'autorité parentale?"
+      ]
+    },
+
+    "droit_applicable": {
+      "normes_legales": {
+        "art_274a_al1_CC": {
+          "texte": "Dans des circonstances exceptionnelles, un droit de visite peut être accordé à d'autres personnes, notamment aux parents, pour autant que cela soit dans l'intérêt de l'enfant.",
+          "application": "Base légale du droit aux relations personnelles en faveur de tiers",
+          "conditions_cumulatives": [
+            "Circonstances exceptionnelles",
+            "Intérêt de l'enfant"
+          ]
+        },
+        "art_274a_al2_CC": {
+          "texte": "Les limites du droit aux relations personnelles des père et mère sont applicables par analogie.",
+          "application": "Les restrictions applicables au droit de visite parental s'appliquent mutatis mutandis aux tiers",
+          "implication": "Un tiers peut, dans des circonstances particulières, se voir accorder un droit de visite similaire à celui des parents"
+        },
+        "art_4_CC": {
+          "texte": "Règle relative au pouvoir d'appréciation du juge",
+          "application": "Le juge dispose d'un large pouvoir d'appréciation dans la fixation des modalités du droit de visite",
+          "limite_controle": "Le Tribunal fédéral n'intervient que si le juge a écarté sans motif des critères essentiels ou s'est fondé sur des éléments dénués de pertinence"
+        }
+      },
+
+      "jurisprudence_citee": {
+        "ATF_147_III_209": {
+          "reference": "ATF 147 III 209",
+          "date": "16 mars 2021",
+          "principe": "Droit aux relations personnelles du parent social suite à la dissolution du partenariat enregistré",
+          "pertinence": "Définit les conditions de l'art. 274a CC : circonstances exceptionnelles (lien de parentalité sociale) et intérêt de l'enfant",
+          "citation_cle": "Lorsque l'enfant a été conçu dans le cadre d'un projet parental commun par des partenaires enregistrées et qu'il a grandi au sein du couple, le maintien de relations personnelles avec l'ex-partenaire du parent juridique est en principe dans l'intérêt de l'enfant"
+        },
+        "ATF_142_III_617": {
+          "reference": "ATF 142 III 617",
+          "principe": "Critères pour l'instauration de la garde alternée",
+          "pertinence": "Rappelle que le bien de l'enfant constitue la règle fondamentale en matière d'attribution des droits parentaux",
+          "citation_cle": "Le bien de l'enfant constitue la règle fondamentale, les intérêts parentaux étant relégués au second plan"
+        },
+        "5A_990/2016": {
+          "reference": "Arrêt 5A_990/2016 du 6 avril 2017",
+          "faits": "Grand-mère bulgare demandant un droit de visite sur une fillette placée en foyer",
+          "decision": "Recours rejeté",
+          "principe": "Le décès d'un parent constitue une circonstance exceptionnelle, mais l'intérêt de l'enfant doit primer",
+          "pertinence": "Illustration du refus d'accorder un droit de visite lorsque cela n'est pas dans l'intérêt supérieur de l'enfant"
+        }
+      }
+    },
+
+    "considerations_juridiques": {
+      "1_conditions_art_274a_CC": {
+        "titre": "Les deux conditions cumulatives de l'art. 274a CC",
+
+        "condition_1_circonstances_exceptionnelles": {
+          "principe_general": "L'octroi d'un droit aux relations personnelles en faveur de tiers nécessite l'existence de circonstances exceptionnelles qui doivent être démontrées par ceux qui s'en prévalent, ce droit constituant une exception",
+
+          "exemples_jurisprudentiels": {
+            "deces_parent": "Le décès d'un parent constitue une circonstance exceptionnelle au sens de l'art. 274a CC et justifie l'octroi d'un droit de visite aux membres de la famille du parent décédé",
+            "absence_prolongee": "L'absence prolongée d'un parent en raison de sa résidence à l'étranger, de sa détention ou de sa maladie",
+            "lien_etroit_preexistant": "Relations particulièrement étroites que le tiers a nouées avec l'enfant",
+            "parentalite_sociale": "Existence d'une parenté dite 'sociale' entre l'enfant et le tiers, ce dernier ayant assumé des tâches s'apparentant à celles d'un parent (parent d'intention)",
+            "famille_accueil": "Placement de l'enfant chez des parents nourriciers ou une famille d'accueil",
+            "projet_parental_commun": "Dans le cadre d'un partenariat enregistré, lorsque l'enfant a été conçu dans le cadre d'un projet parental commun"
+          },
+
+          "application_au_cas_espece": {
+            "circonstance_1": "Décès de la mère début 2023 après diagnostic de cancer - circonstance exceptionnelle par excellence",
+            "circonstance_2": "Vie commune de l'enfant avec le grand-père et la tante depuis sa naissance (août 2020)",
+            "circonstance_3": "Rôle parental de substitution assumé par la tante, particulièrement après la maladie de la mère",
+            "circonstance_4": "Demande expresse de la mère avant son décès de placer l'enfant chez sa famille maternelle",
+            "conclusion": "Les circonstances exceptionnelles sont manifestement établies : décès maternel + relations étroites préexistantes + rôle quasi-parental de la tante"
+          }
+        },
+
+        "condition_2_interet_enfant": {
+          "principe_fondamental": "Seul l'intérêt de l'enfant est déterminant, à l'exclusion de celui de la personne avec laquelle l'enfant peut ou doit entretenir des relations personnelles",
+
+          "critere_exigence_positive": "Il ne suffit pas que les relations personnelles ne nuisent pas au bien de l'enfant, il faut encore qu'elles servent positivement ce bien",
+
+          "presomption_grands_parents": "S'agissant des grands-parents, les relations personnelles sont présumées servir l'intérêt de l'enfant, en particulier lorsque l'un des deux parents est décédé",
+
+          "limite_conflit_loyaute": "Le droit aux relations personnelles doit être refusé s'il existe un conflit profond entre les parents et le tiers, exposant l'enfant à un conflit de loyauté",
+
+          "application_au_cas_espece": {
+            "elements_favorables": [
+              "Continuité des liens affectifs : l'enfant vit avec sa tante et son grand-père depuis sa naissance",
+              "Figure de substitution maternelle : la tante a assumé un rôle très important dans la prise en charge quotidienne de l'enfant, particulièrement depuis la maladie de la mère",
+              "Maintien du lien avec la famille maternelle après le décès de la mère",
+              "Stabilité émotionnelle et affective pour l'enfant",
+              "Respect de la volonté exprimée par la mère avant son décès"
+            ],
+            "interet_pere_secondaire": "L'intérêt du père à exercer seul son autorité parentale est relégué au second plan face à l'intérêt supérieur de l'enfant",
+            "absence_conflit_loyaute_etabli": "Le père conteste l'étendue du droit de visite, mais aucun conflit profond exposant l'enfant à un conflit de loyauté n'est démontré",
+            "conclusion": "Les relations personnelles avec le grand-père et la tante servent manifestement et positivement l'intérêt de l'enfant"
+          }
+        }
+      },
+
+      "2_etendue_droit_visite_tiers": {
+        "titre": "L'étendue du droit aux relations personnelles en faveur de tiers",
+
+        "principe_jurisprudentiel": {
+          "regle_generale": "Bien que les tribunaux fixent en général un droit de visite relativement restreint en faveur de tiers, la loi ne prohibe pas l'instauration d'un droit plus étendu, car seul l'intérêt de l'enfant est déterminant",
+
+          "droit_etendu_possible": "L'art. 274a CC n'exclut pas, si des circonstances particulières le justifient, de prévoir des modalités d'exercice du droit de visite en faveur d'un tiers correspondant à celles du droit de visite usuel accordé en pratique par les tribunaux aux parents d'un enfant",
+
+          "analogie_art_274a_al2": "L'art. 274a al. 2 CC prévoit expressément que les limites du droit aux relations personnelles des père et mère sont applicables par analogie"
+        },
+
+        "droit_visite_accorde": {
+          "modalites": "Un week-end sur deux et trois semaines de vacances par année",
+          "comparaison_droit_parental": "Correspond approximativement aux modalités usuelles d'un droit de visite parental élargi",
+          "justification": {
+            "raison_1": "L'enfant a toujours vécu avec sa tante et son grand-père",
+            "raison_2": "La tante a assumé un rôle quasi-parental, particulièrement après la maladie de la mère",
+            "raison_3": "Le maintien de liens étroits avec la famille maternelle est essentiel après le décès de la mère",
+            "raison_4": "Les circonstances particulières du cas d'espèce justifient un droit de visite étendu"
+          }
+        },
+
+        "absence_abus_pouvoir_appreciation": {
+          "constatation_tribunal": "Dans les circonstances particulières du cas d'espèce, l'étendue du droit de visite accordé au grand-père et à la tante maternels de l'enfant par l'autorité cantonale ne relève pas d'un abus du pouvoir d'appréciation",
+          "elements_pertinents_retenus": "L'autorité cantonale s'est fondée sur des éléments pertinents (vie commune depuis la naissance, rôle de la tante, décès de la mère)",
+          "ponderation_conforme": "L'autorité a effectué une pondération de ces éléments conforme aux principes jurisprudentiels pour déterminer l'étendue et les modalités du droit aux relations personnelles"
+        }
+      },
+
+      "3_pouvoir_appreciation_juge": {
+        "titre": "Le large pouvoir d'appréciation du juge",
+
+        "etendue_pouvoir": {
+          "principe": "Lorsqu'il fixe la durée et la fréquence du droit aux relations personnelles d'un tiers sur un enfant, le juge doit tenir compte de l'intérêt de cet enfant dans le cas concret, en fonction de l'ensemble des circonstances",
+          "fondement_legal": "Le juge du fait dispose d'un large pouvoir d'appréciation en vertu de l'art. 4 CC",
+          "appreciation_cas_par_cas": "La décision doit être prise au cas par cas, en fonction de la situation concrète de l'enfant"
+        },
+
+        "controle_tribunal_federal": {
+          "principe_retenue": "Le Tribunal fédéral n'intervient que de manière restreinte",
+          "conditions_intervention": "Le Tribunal fédéral n'intervient que si le juge, sans aucun motif, a écarté des critères essentiels pour la décision sur le droit de visite ou, au contraire, s'est fondé sur des éléments dénués de toute pertinence au regard du bien de l'enfant ou contraires aux principes du droit fédéral",
+          "respect_appreciation_cantonale": "Lorsque l'autorité cantonale s'est fondée sur des éléments pertinents et a effectué une pondération conforme aux principes jurisprudentiels, le Tribunal fédéral confirme la décision"
+        },
+
+        "application_au_cas": {
+          "criteres_essentiels_retenus": [
+            "Vie commune de l'enfant avec sa tante et son grand-père depuis sa naissance",
+            "Rôle quasi-parental assumé par la tante",
+            "Décès de la mère créant un besoin de maintien des liens avec la famille maternelle",
+            "Intérêt supérieur de l'enfant à préserver la continuité de ses relations affectives"
+          ],
+          "ponderation_adequate": "L'autorité cantonale a correctement pondéré ces différents éléments",
+          "absence_arbitraire": "Aucun arbitraire dans l'appréciation de l'autorité cantonale"
+        }
+      },
+
+      "4_principe_proportionnalite": {
+        "titre": "L'inapplicabilité en tant que telle du principe de proportionnalité",
+
+        "position_tribunal_federal": "En la matière, le principe de la proportionnalité n'est pas applicable comme tel",
+
+        "explication": {
+          "raison": "Le droit aux relations personnelles de l'enfant constitue un droit de la personnalité qui doit être déterminé en fonction de l'intérêt supérieur de l'enfant",
+          "primaute_interet_enfant": "C'est l'intérêt de l'enfant qui est le critère déterminant, non pas un équilibre proportionnel entre différents intérêts",
+          "absence_restriction_droit_fondamental": "Il ne s'agit pas d'une restriction d'un droit fondamental du père qui nécessiterait un contrôle de proportionnalité au sens classique"
+        },
+
+        "critere_applicable": {
+          "standard": "Le critère applicable est celui de l'intérêt supérieur de l'enfant, apprécié concrètement en fonction de l'ensemble des circonstances",
+          "ponderation": "Le juge doit procéder à une pondération des intérêts en présence, mais cette pondération est guidée par la primauté de l'intérêt de l'enfant"
+        },
+
+        "consequence_pratique": "L'étendue du droit de visite n'est pas déterminée par un calcul de proportionnalité, mais par l'appréciation concrète de ce qui sert le mieux l'intérêt de l'enfant dans les circonstances particulières du cas"
+      },
+
+      "5_relations_interet_enfant_droit_parental": {
+        "titre": "La relation entre l'intérêt de l'enfant et les prérogatives parentales",
+
+        "primaute_interet_enfant": {
+          "principe": "Le bien de l'enfant constitue la règle fondamentale en matière d'attribution des droits parentaux, les intérêts parentaux étant relégués au second plan",
+          "application_tiers": "Ce principe s'applique a fortiori lorsqu'il s'agit d'octroyer un droit de visite à des tiers",
+          "exclusion_interet_tiers": "Seul l'intérêt de l'enfant est déterminant, à l'exclusion de celui de la personne (parent ou tiers) avec laquelle l'enfant peut ou doit entretenir des relations personnelles"
+        },
+
+        "limite_autorite_parentale": {
+          "constat": "L'octroi d'un droit de visite à des tiers limite nécessairement les prérogatives du parent titulaire de l'autorité parentale",
+          "justification": "Cette limitation est justifiée lorsqu'elle est dans l'intérêt supérieur de l'enfant",
+          "caractere_exceptionnel": "L'art. 274a CC constitue une exception qui ne peut être admise que si les conditions légales strictes sont remplies"
+        },
+
+        "conflit_parents_tiers": {
+          "principe": "Un conflit profond entre les parents et le tiers, exposant l'enfant à un conflit de loyauté, peut justifier le refus du droit de visite",
+          "nuance": "Cependant, la simple opposition du parent ne suffit pas à écarter le droit de visite si celui-ci est dans l'intérêt de l'enfant",
+          "application_parent_social": "Lorsqu'il existe un projet parental commun ou une parentalité sociale établie, le conflit entre adultes est relégué au second plan"
+        },
+
+        "application_au_cas": {
+          "opposition_pere": "Le père s'oppose à l'étendue du droit de visite accordé",
+          "primaute_interet_enfant": "Cette opposition ne peut prévaloir face à l'intérêt manifeste de l'enfant à maintenir des relations étroites avec sa tante et son grand-père",
+          "absence_conflit_loyaute": "Aucun élément n'indique que l'enfant serait exposé à un conflit de loyauté dommageable",
+          "justification_limitation": "La limitation des prérogatives paternelles est justifiée par les circonstances exceptionnelles et l'intérêt supérieur de l'enfant"
+        }
+      }
+    },
+
+    "ratio_decidendi": {
+      "principe_juridique_etabli": "Lorsqu'il fixe la durée et la fréquence du droit aux relations personnelles d'un tiers sur un enfant en application de l'art. 274a CC, le juge doit tenir compte de l'intérêt de cet enfant dans le cas concret, en fonction de l'ensemble des circonstances. Le juge dispose d'un large pouvoir d'appréciation, et le principe de la proportionnalité n'est pas applicable comme tel. L'art. 274a CC n'exclut pas, si des circonstances particulières le justifient, de prévoir des modalités d'exercice du droit de visite en faveur d'un tiers correspondant à celles du droit de visite usuel accordé en pratique par les tribunaux aux parents d'un enfant.",
+
+      "application_concrete": "Dans les circonstances particulières du cas d'espèce (décès de la mère, vie commune de l'enfant avec sa tante et son grand-père depuis sa naissance, rôle quasi-parental assumé par la tante), l'étendue du droit de visite accordé (un week-end sur deux et trois semaines de vacances par année) ne relève pas d'un abus du pouvoir d'appréciation.",
+
+      "portee_precedent": {
+        "portee_generale": "L'arrêt confirme que le droit de visite des tiers peut être étendu, voire équivalent au droit de visite parental, lorsque les circonstances le justifient",
+        "critere_determinant": "L'intérêt supérieur de l'enfant prime sur les prérogatives parentales",
+        "pouvoir_judiciaire": "Large pouvoir d'appréciation du juge du fait, contrôle restreint du Tribunal fédéral",
+        "flexibilite": "Approche casuistique et flexible permettant d'adapter l'étendue du droit de visite aux besoins concrets de l'enfant"
+      }
+    },
+
+    "dispositif": {
+      "decision": "Le recours est rejeté",
+      "confirmation": "La décision de l'autorité cantonale accordant un droit de visite d'un week-end sur deux et trois semaines de vacances par année au grand-père et à la tante maternels est confirmée",
+      "frais_depens": "Information non disponible dans les sources consultées"
+    },
+
+    "analyse_critique": {
+      "approche_jurisprudentielle": {
+        "pragmatisme": "Le Tribunal fédéral adopte une approche pragmatique et centrée sur l'enfant, privilégiant la réalité vécue par l'enfant plutôt qu'une application rigide des catégories juridiques",
+
+        "reconnaissance_parentalite_facto": "L'arrêt reconnaît implicitement une forme de parentalité de facto exercée par la tante, sans pour autant lui conférer un statut juridique particulier",
+
+        "flexibilite_art_274a": "Interprétation extensive de l'art. 274a CC permettant d'accorder un droit de visite étendu lorsque les circonstances le justifient",
+
+        "continuite_jurisprudentielle": "S'inscrit dans la continuité de l'ATF 147 III 209 qui avait reconnu les droits du parent social dans le cadre d'un projet parental commun"
+      },
+
+      "enjeux_pratiques": {
+        "familles_recomposees": "L'arrêt a des implications importantes pour les familles recomposées et les situations de parentalité sociale",
+
+        "deces_parent": "Confirme que le décès d'un parent justifie le maintien des liens avec la famille du parent décédé",
+
+        "role_famille_elargie": "Reconnaît le rôle essentiel que peuvent jouer les membres de la famille élargie dans l'éducation de l'enfant",
+
+        "previsibilite_limitee": "L'approche casuistique, tout en étant adaptée à la diversité des situations, peut créer une certaine imprévisibilité pour les justiciables"
+      },
+
+      "equilibre_interets": {
+        "primaute_interet_enfant": "Affirmation claire de la primauté absolue de l'intérêt de l'enfant",
+
+        "limitation_autorite_parentale": "Acceptation d'une limitation significative de l'autorité parentale lorsque l'intérêt de l'enfant l'exige",
+
+        "respect_liens_affectifs": "Valorisation de la continuité des liens affectifs établis par l'enfant",
+
+        "equilibre_delicat": "Recherche d'un équilibre délicat entre le respect de l'autorité parentale et la protection de l'intérêt de l'enfant"
+      },
+
+      "questions_ouvertes": {
+        "duree_droit_visite": "Quelle sera la durée du maintien de ce droit de visite étendu ? Jusqu'à la majorité de l'enfant ? Peut-il être modifié si les circonstances évoluent ?",
+
+        "evolution_conflit": "Que se passerait-il en cas d'aggravation du conflit entre le père et la famille maternelle ?",
+
+        "nouveaux_liens_pere_enfant": "Comment concilier ce droit de visite étendu avec le développement potentiel de liens plus étroits entre le père et l'enfant ?",
+
+        "droit_comparaison": "Comment cette solution se compare-t-elle avec d'autres systèmes juridiques européens ?"
+      }
+    },
+
+    "arrêts_connexes": {
+      "ATF_147_III_209": {
+        "reference": "ATF 147 III 209",
+        "date": "16 mars 2021",
+        "numero_cause": "5A_755/2020",
+        "domaine": "Droit aux relations personnelles du parent social",
+
+        "faits_essentiels": {
+          "contexte": "Deux femmes en partenariat enregistré ont eu recours à une procréation médicalement assistée à l'étranger",
+          "enfants": "Naissance d'un premier enfant en 2016, puis de jumeaux en 2017",
+          "filiation": "Seule la mère biologique était inscrite à l'état civil",
+          "separation": "Séparation du couple en 2018 et dissolution du partenariat",
+          "demande": "L'ex-partenaire sollicite un droit aux relations personnelles avec les enfants"
+        },
+
+        "principe_juridique": {
+          "projet_parental_commun": "Lorsque l'enfant a été conçu dans le cadre d'un projet parental commun par des partenaires enregistrées et qu'il a grandi au sein du couple, le maintien de relations personnelles avec l'ex-partenaire du parent juridique est en principe dans l'intérêt de l'enfant",
+
+          "parent_social": "La notion de 'parent social' ou 'parent d'intention' est reconnue comme circonstance exceptionnelle au sens de l'art. 274a CC",
+
+          "presomption_interet": "Dans les cas de projet parental commun, il existe une présomption que le maintien des relations personnelles sert l'intérêt de l'enfant",
+
+          "second_plan_conflit": "Les autres critères d'appréciation, comme l'existence d'un conflit marqué entre ex-partenaires, doivent être relégués au second plan"
+        },
+
+        "conditions_cumulatives": {
+          "circonstances_exceptionnelles": "Existence d'un lien de parenté dite 'sociale' : l'enfant a été conçu dans le cadre d'un projet parental commun et a grandi au sein du couple formé par les deux parents d'intention",
+          "interet_enfant": "Seul l'intérêt de l'enfant est déterminant, à l'exclusion de celui de la personne avec laquelle l'enfant peut ou doit entretenir des relations personnelles"
+        },
+
+        "decision": "Annulation de la décision cantonale et renvoi pour nouvelle décision tenant compte du projet parental commun",
+
+        "pertinence_pour_ATF_151_III_160": "Établit le cadre conceptuel de la parentalité sociale et du projet parental commun qui peut être transposé mutatis mutandis à d'autres situations de parentalité de facto, comme celle de la tante dans l'ATF 151 III 160"
+      },
+
+      "5A_990/2016": {
+        "reference": "Arrêt 5A_990/2016",
+        "date": "6 avril 2017",
+        "domaine": "Droit de visite des grands-parents",
+
+        "faits_essentiels": {
+          "enfant": "Fillette D. née en 2013",
+          "situation": "Placée en foyer suite à l'incapacité des parents à en assurer la garde",
+          "demande": "La grand-mère maternelle A., domiciliée en Bulgarie, demande un droit de visite",
+          "avis_service": "Le Service de protection des mineurs émet un avis défavorable",
+          "decision_premiere_instance": "Rejet de la requête le 24 août 2016"
+        },
+
+        "procedure": {
+          "recours_cantonal": "La grand-mère interjette recours devant la Chambre de surveillance de Genève",
+          "decision_cantonale": "Confirmation du rejet le 24 novembre 2016",
+          "recours_TF": "Saisine du Tribunal fédéral, la grand-mère sollicitant un droit de visite hebdomadaire"
+        },
+
+        "argumentation_grand_mere": {
+          "circonstances_exceptionnelles_invoquees": [
+            "Retrait de la garde parentale aux deux parents",
+            "Placement de l'enfant en famille d'accueil",
+            "Droit de visite très limité de la mère (deux heures par semaine)",
+            "Intérêt de l'enfant à maintenir des relations régulières avec la grand-mère pour préserver les liens avec la famille bulgare"
+          ]
+        },
+
+        "principe_juridique": {
+          "art_274a_conditions": "L'art. 274a CC permet d'accorder un droit de visite à des tiers dans des circonstances exceptionnelles et uniquement si cela correspond à l'intérêt de l'enfant",
+
+          "deces_parent": "Le décès d'un parent constitue une circonstance exceptionnelle, mais non la simple absence de relation régulière",
+
+          "interet_enfant_positif": "Les contacts ne doivent pas simplement être inoffensifs ; ils doivent servir positivement le bien de l'enfant",
+
+          "seul_interet_enfant": "Seul l'intérêt de l'enfant importe, non celui du tiers"
+        },
+
+        "decision_TF": {
+          "dispositif": "Rejet du recours",
+          "motivation": "L'autorité cantonale n'a pas excédé son pouvoir d'appréciation en refusant le droit de visite",
+          "justification": "Privilégier les relations parentales (même limitées) plutôt que d'introduire une nouvelle figure (la grand-mère) dans la vie de l'enfant déjà fragilisée",
+          "frais": "Condamnation de la recourante à des frais judiciaires de 2000 francs"
+        },
+
+        "differences_avec_ATF_151_III_160": {
+          "relations_preexistantes": "Contrairement à l'ATF 151 III 160, il n'y avait pas de relations établies et continues entre la grand-mère et l'enfant",
+          "role_parental": "Absence de rôle parental ou quasi-parental assumé par la grand-mère",
+          "interet_enfant": "L'introduction d'une nouvelle personne dans la vie de l'enfant déjà perturbée n'était pas dans son intérêt",
+          "projet_stabilisation": "L'objectif était de stabiliser la situation de l'enfant, non de multiplier les intervenants"
+        },
+
+        "pertinence": "Démontre que l'existence d'une circonstance exceptionnelle (placement, limitation du droit de visite maternel) ne suffit pas si l'intérêt concret de l'enfant ne commande pas l'octroi du droit de visite"
+      },
+
+      "ATF_142_III_617": {
+        "reference": "ATF 142 III 617",
+        "date": "2016",
+        "domaine": "Garde alternée",
+
+        "principe_juridique": {
+          "autorite_parentale_conjointe": "L'autorité parentale conjointe est désormais la règle en Suisse et comprend le droit de déterminer le lieu de résidence de l'enfant (art. 296 al. 2 et 301a al. 1 CC)",
+
+          "garde_alternee_distinction": "L'autorité parentale conjointe n'implique pas nécessairement l'instauration d'une garde alternée",
+
+          "bien_enfant_regle_fondamentale": "Le bien de l'enfant constitue la règle fondamentale en matière d'attribution des droits parentaux, les intérêts parentaux étant relégués au second plan",
+
+          "criteres_garde_alternee": "La garde alternée n'est ordonnée que si elle est compatible avec l'intérêt supérieur de l'enfant"
+        },
+
+        "pertinence_pour_art_274a": "Affirme la primauté absolue de l'intérêt de l'enfant sur les intérêts parentaux, principe directement applicable à l'interprétation de l'art. 274a CC",
+
+        "lien_avec_ATF_151_III_160": "Le principe selon lequel les intérêts parentaux sont relégués au second plan s'applique a fortiori lorsqu'il s'agit d'octroyer un droit de visite à des tiers contre la volonté du parent titulaire de l'autorité parentale"
+      },
+
+      "5A_76/2024": {
+        "reference": "Arrêt 5A_76/2024",
+        "date": "1er mai 2024",
+        "domaine": "Droit de visite de l'ex-partenaire enregistrée (parent social)",
+
+        "principe_juridique": {
+          "parent_intention_partenariat": "Lorsque le partenaire a également assumé le rôle de parent d'intention des enfants, le maintien de relations personnelles est en principe dans l'intérêt des enfants",
+
+          "releguage_conflit": "Dans de tels cas, les autres critères d'appréciation, comme l'existence d'un conflit entre ex-partenaires, sont relégués à l'arrière-plan",
+
+          "projet_parental_preuve": "Le projet parental commun se déduit d'indices plutôt que d'une preuve stricte",
+
+          "separation_contentieuse": "Même en cas de séparation conflictuelle, le droit de visite peut être accordé au parent social si un projet parental commun est établi"
+        },
+
+        "conditions_art_274a": {
+          "circonstances_exceptionnelles": "L'octroi d'un droit aux relations personnelles en faveur de tiers nécessite l'existence de circonstances exceptionnelles qui doivent être démontrées par ceux qui s'en prévalent",
+          "base_legale": "Art. 27 al. 2 LPart renvoyant à l'art. 274a CC"
+        },
+
+        "pertinence": "Confirme et précise la jurisprudence de l'ATF 147 III 209 sur le parent social et le projet parental commun",
+
+        "evolution_jurisprudentielle": "Témoigne d'une tendance à la reconnaissance croissante des formes plurielles de parentalité et des liens sociaux établis avec l'enfant"
+      },
+
+      "5A_359/2024": {
+        "reference": "Arrêt 5A_359/2024 (identique à ATF 151 III 160)",
+        "date": "14 octobre 2024",
+        "statut": "Arrêt publié au recueil officiel sous ATF 151 III 160",
+        "note": "Il s'agit du même arrêt que l'ATF 151 III 160 analysé dans le présent document"
+      },
+
+      "synthese_jurisprudence": {
+        "evolution_conception_famille": "La jurisprudence récente témoigne d'une évolution dans la conception de la famille et de la parentalité",
+
+        "reconnaissance_pluralisme": "Reconnaissance progressive du pluralisme des formes familiales et de la parentalité sociale",
+
+        "primaute_interet_enfant": "Affirmation constante et renforcée de la primauté absolue de l'intérêt de l'enfant",
+
+        "approche_casuistique": "Approche résolument casuistique privilégiant l'examen concret de la situation de l'enfant",
+
+        "equilibre_stabilite_continuite": "Recherche d'un équilibre entre la stabilité juridique (autorité parentale) et la continuité affective et éducative (relations personnelles avec les tiers)",
+
+        "extension_progressive": "Extension progressive du champ d'application de l'art. 274a CC au-delà des seuls grands-parents"
+      }
+    },
+
+    "problematiques_transversales": {
+      "1_notion_circonstances_exceptionnelles": {
+        "titre": "La notion évolutive de 'circonstances exceptionnelles'",
+
+        "evolution_jurisprudentielle": {
+          "conception_initiale": "Initialement centrée sur des événements objectifs (décès, maladie grave, emprisonnement)",
+          "conception_actuelle": "Extension à des situations relationnelles (parentalité sociale, projet parental commun)",
+          "tendance": "Élargissement progressif de la notion pour s'adapter à la diversité des configurations familiales contemporaines"
+        },
+
+        "categories_etablies": {
+          "evenements_objectifs": [
+            "Décès d'un parent",
+            "Maladie grave ou invalidité d'un parent",
+            "Emprisonnement",
+            "Résidence à l'étranger",
+            "Placement de l'enfant"
+          ],
+          "situations_relationnelles": [
+            "Parentalité sociale ou parentalité de fait",
+            "Projet parental commun dans un partenariat enregistré",
+            "Relations particulièrement étroites préexistantes",
+            "Rôle quasi-parental assumé par un tiers",
+            "Vie commune prolongée de l'enfant avec le tiers"
+          ]
+        },
+
+        "critere_unificateur": "Le critère unificateur semble être l'existence d'un besoin particulier de l'enfant de maintenir ou d'établir des relations personnelles avec le tiers",
+
+        "charge_preuve": "La charge de la preuve des circonstances exceptionnelles incombe au tiers qui sollicite le droit de visite"
+      },
+
+      "2_interet_enfant_critere_determinant": {
+        "titre": "L'intérêt de l'enfant comme critère déterminant et exclusif",
+
+        "primaute_absolue": {
+          "principe": "Seul l'intérêt de l'enfant est déterminant, à l'exclusion de celui de la personne (parent ou tiers) avec laquelle l'enfant peut ou doit entretenir des relations personnelles",
+          "exclusions": [
+            "Intérêt du tiers demandeur",
+            "Intérêt des parents",
+            "Intérêt de la famille élargie",
+            "Considérations d'ordre moral ou culturel"
+          ]
+        },
+
+        "critere_positif": {
+          "insuffisance_absence_prejudice": "Il ne suffit pas que les relations personnelles ne nuisent pas au bien de l'enfant",
+          "exigence_benefice": "Il faut encore qu'elles servent positivement ce bien",
+          "evaluation_concrete": "Appréciation concrète des avantages et bénéfices pour l'enfant"
+        },
+
+        "elements_appreciation": {
+          "continuite_affective": "Maintien de la continuité des relations affectives établies",
+          "stabilite_emotionnelle": "Contribution à la stabilité émotionnelle de l'enfant",
+          "preservation_liens": "Préservation des liens avec la famille élargie, notamment du parent décédé",
+          "besoins_developpement": "Réponse aux besoins de développement de l'enfant",
+          "qualite_relations": "Qualité et intensité des relations entre l'enfant et le tiers",
+          "capacites_educatives": "Capacités éducatives et affectives du tiers"
+        },
+
+        "limites": {
+          "conflit_loyaute": "Le droit doit être refusé s'il expose l'enfant à un conflit de loyauté dommageable",
+          "instrumentalisation": "Risque d'instrumentalisation de l'enfant dans un conflit entre adultes",
+          "surcharge_relationnelle": "Risque de surcharge relationnelle pour l'enfant (trop d'intervenants)"
+        },
+
+        "presomptions_jurisprudentielles": {
+          "grands_parents": "Présomption que les relations avec les grands-parents servent l'intérêt de l'enfant, surtout en cas de décès d'un parent",
+          "parent_social": "Présomption que le maintien des relations avec le parent social dans le cadre d'un projet parental commun sert l'intérêt de l'enfant",
+          "renversement": "Ces présomptions peuvent être renversées si des éléments concrets démontrent le contraire"
+        }
+      },
+
+      "3_pouvoir_appreciation_controle": {
+        "titre": "Le pouvoir d'appréciation du juge et son contrôle",
+
+        "etendue_pouvoir_appreciation": {
+          "principe": "Large pouvoir d'appréciation du juge du fait (art. 4 CC)",
+          "justification": "La diversité des situations familiales et la nécessité d'une appréciation concrète et individualisée",
+          "domaines": [
+            "Existence de circonstances exceptionnelles (appréciation factuelle)",
+            "Détermination de l'intérêt de l'enfant",
+            "Fixation de l'étendue du droit de visite (durée et fréquence)",
+            "Modalités d'exercice du droit de visite"
+          ]
+        },
+
+        "limites_pouvoir_appreciation": {
+          "respect_droit_federal": "Respect des principes du droit fédéral",
+          "motivation_suffisante": "Obligation de motiver suffisamment la décision",
+          "prise_compte_elements_pertinents": "Obligation de prendre en compte tous les éléments pertinents",
+          "absence_arbitraire": "Interdiction de l'arbitraire"
+        },
+
+        "controle_tribunal_federal": {
+          "principe_retenue": "Contrôle restreint du Tribunal fédéral",
+          "intensite": "Le TF n'intervient que si le juge a écarté sans motif des critères essentiels ou s'est fondé sur des éléments dénués de pertinence",
+          "respect_appreciation": "Respect de l'appréciation du juge cantonal lorsqu'elle est fondée sur des éléments pertinents et une pondération conforme aux principes jurisprudentiels",
+          "non_substitution": "Le TF ne substitue pas son appréciation à celle du juge cantonal"
+        },
+
+        "exigences_procedurales": {
+          "audition_enfant": "Audition de l'enfant capable de discernement (art. 314a CC)",
+          "expertise": "Possibilité de recourir à une expertise si nécessaire",
+          "contradictoire": "Respect du principe du contradictoire",
+          "droit_etre_entendu": "Respect du droit d'être entendu de toutes les parties"
+        }
+      },
+
+      "4_etendue_modalites_droit_visite": {
+        "titre": "L'étendue et les modalités du droit de visite des tiers",
+
+        "spectre_possibilites": {
+          "droit_restreint": "Quelques heures par mois ou trimestre",
+          "droit_regulier": "Quelques heures par semaine ou un week-end par mois",
+          "droit_elargi": "Un week-end sur deux et vacances partagées (similaire au droit parental)",
+          "garde_partagee": "Hypothèse théorique non encore admise en jurisprudence pour des tiers"
+        },
+
+        "facteurs_determination": {
+          "age_enfant": "Les besoins varient selon l'âge de l'enfant",
+          "intensite_relations": "Intensité et qualité des relations préexistantes",
+          "role_assume": "Nature et étendue du rôle assumé par le tiers",
+          "distance_geographique": "Distance entre les domiciles",
+          "disponibilite": "Disponibilité du tiers et de l'enfant",
+          "scolarisation": "Contraintes scolaires et activités de l'enfant",
+          "capacites_tiers": "Capacités du tiers à assumer l'enfant"
+        },
+
+        "modalites_exercice": {
+          "lieu": "Au domicile du tiers, lieu neutre, présence d'un tiers",
+          "accompagnement": "Droit de visite libre ou accompagné",
+          "vacances": "Partage des vacances scolaires",
+          "fetes": "Participation aux fêtes familiales et événements importants",
+          "communication": "Moyens de communication entre les visites (téléphone, visioconférence)"
+        },
+
+        "adaptation_evolutivite": {
+          "revision_possible": "Le droit de visite peut être modifié si les circonstances évoluent",
+          "augmentation": "Possibilité d'augmenter progressivement l'étendue du droit de visite",
+          "reduction_suppression": "Possibilité de réduire ou supprimer le droit de visite si l'intérêt de l'enfant l'exige",
+          "clause_adaptation": "Possibilité d'introduire une clause d'adaptation progressive"
+        }
+      },
+
+      "5_articulation_autorite_parentale_droit_visite_tiers": {
+        "titre": "L'articulation entre l'autorité parentale et le droit de visite des tiers",
+
+        "nature_juridique": {
+          "autorite_parentale": "Ensemble de droits et devoirs visant à assurer le bien de l'enfant (art. 296 ss CC)",
+          "droit_visite_tiers": "Droit de la personnalité de l'enfant, exception à l'exclusivité de l'autorité parentale",
+          "relation": "Le droit de visite des tiers constitue une limitation de l'autorité parentale"
+        },
+
+        "titulaire_droit": {
+          "conception_classique": "Le droit de visite parental est un attribut de l'autorité parentale",
+          "art_274a": "Le droit de visite du tiers est un droit propre de l'enfant, non du tiers",
+          "consequence": "L'enfant a un droit à entretenir des relations personnelles avec des tiers importants pour lui"
+        },
+
+        "limitation_autorite_parentale": {
+          "etendue_limitation": "Le parent ne peut s'opposer au droit de visite accordé judiciairement",
+          "maintien_autres_prerogatives": "Les autres attributs de l'autorité parentale demeurent (éducation, représentation, gestion des biens)",
+          "cooperation_attendue": "Devoir de coopération du parent pour faciliter l'exercice du droit de visite",
+          "sanction_obstruction": "Possibilité de sanctions en cas d'obstruction systématique"
+        },
+
+        "tensions_conflits": {
+          "sources_conflit": [
+            "Opposition du parent à la présence du tiers",
+            "Désaccord sur les modalités d'exercice",
+            "Conflit sur l'éducation et les valeurs transmises",
+            "Instrumentalisation de l'enfant"
+          ],
+          "gestion_conflit": [
+            "Médiation familiale",
+            "Suivi par un service spécialisé",
+            "Adaptation des modalités du droit de visite",
+            "En dernier recours : restriction ou suspension du droit de visite"
+          ]
+        },
+
+        "cooperation_souhaitable": {
+          "interet_enfant": "L'intérêt de l'enfant commande une coopération entre le parent et le tiers",
+          "communication": "Maintien d'une communication sur les questions touchant l'enfant",
+          "coherence_educative": "Recherche d'une certaine cohérence dans les pratiques éducatives",
+          "respect_mutuel": "Respect mutuel des rôles de chacun"
+        }
+      }
+    },
+
+    "dimension_comparative": {
+      "droit_europeen": {
+        "CEDH": {
+          "article_8": "Droit au respect de la vie privée et familiale",
+          "jurisprudence_grands_parents": "La CEDH a reconnu que l'art. 8 CEDH peut protéger les relations entre l'enfant et ses grands-parents",
+          "marge_appreciation": "Large marge d'appréciation laissée aux États dans l'organisation des relations familiales",
+          "equilibre_requis": "Nécessité d'un juste équilibre entre les intérêts en présence"
+        },
+
+        "Convention_droits_enfant": {
+          "article_3": "L'intérêt supérieur de l'enfant doit être une considération primordiale",
+          "article_9": "Droit de l'enfant séparé de ses parents d'entretenir des relations personnelles avec eux",
+          "extension_famille_elargie": "Interprétation extensive incluant les relations avec la famille élargie"
+        }
+      },
+
+      "droit_compare": {
+        "France": {
+          "base_legale": "Article 371-4 Code civil français",
+          "principe": "Droit de l'enfant d'entretenir des relations personnelles avec ses ascendants",
+          "specificity": "Droit spécifique des grands-parents, non des tiers en général",
+          "refus": "Ne peut être refusé que pour motifs graves",
+          "difference_suisse": "Approche plus favorable aux grands-parents qu'en Suisse, mais limitée aux ascendants"
+        },
+
+        "Allemagne": {
+          "base_legale": "§ 1685 BGB (Code civil allemand)",
+          "beneficiaires": "Grands-parents et frères et sœurs, ainsi que d'autres personnes proches de l'enfant",
+          "condition": "Relations étroites de référence (enge Bezugsperson)",
+          "critere": "Bien de l'enfant (Kindeswohl)",
+          "difference_suisse": "Champ d'application plus large, incluant expressément les fratries"
+        },
+
+        "Belgique": {
+          "base_legale": "Article 375bis Code civil belge",
+          "beneficiaires": "Grands-parents et autres personnes",
+          "condition": "Intérêt de l'enfant",
+          "particularite": "Possibilité d'hébergement, pas seulement de visite",
+          "difference_suisse": "Approche similaire à la Suisse, mais avec une reconnaissance plus explicite de l'hébergement"
+        },
+
+        "Quebec": {
+          "base_legale": "Article 611 Code civil du Québec",
+          "beneficiaires": "Grands-parents",
+          "condition": "Intérêt de l'enfant",
+          "particularite": "Reconnaissance d'un 'lien significatif'",
+          "difference_suisse": "Notion de lien significatif proche de la parentalité sociale suisse"
+        }
+      },
+
+      "tendances_communes": {
+        "primaute_interet_enfant": "Tous les systèmes placent l'intérêt de l'enfant au centre",
+        "reconnaissance_famille_elargie": "Reconnaissance croissante du rôle de la famille élargie",
+        "flexibilite": "Approches flexibles et casuistiques",
+        "grands_parents_privilegie": "Position privilégiée des grands-parents dans la plupart des systèmes",
+        "extension_progressive": "Extension progressive à d'autres tiers (beaux-parents, famille d'accueil)"
+      },
+
+      "specificite_suisse": {
+        "approche_restrictive": "Approche historiquement plus restrictive que d'autres pays européens",
+        "evolution_recente": "Évolution jurisprudentielle récente vers une plus grande ouverture",
+        "parentalite_sociale": "Reconnaissance innovante de la parentalité sociale (ATF 147 III 209)",
+        "casuistique_poussee": "Approche casuistique très poussée",
+        "pouvoir_judiciaire": "Large pouvoir d'appréciation laissé au juge"
+      }
+    },
+
+    "implications_pratiques": {
+      "pour_avocats": {
+        "strategie_contentieuse": [
+          "Démontrer l'existence de circonstances exceptionnelles par des éléments factuels précis",
+          "Mettre en avant la continuité et l'intensité des relations préexistantes",
+          "Produire des éléments sur le rôle effectivement assumé par le tiers",
+          "Établir en quoi le maintien des relations sert positivement l'intérêt de l'enfant",
+          "Prévoir des témoignages et éventuellement une expertise",
+          "Anticiper l'audition de l'enfant"
+        ],
+
+        "conseil_demandeur": [
+          "Constituer un dossier documentant les relations avec l'enfant",
+          "Tenter une médiation familiale avant la voie judiciaire",
+          "Formuler une demande réaliste quant à l'étendue du droit de visite",
+          "Mettre en avant sa disponibilité et ses capacités",
+          "Éviter tout conflit de loyauté pour l'enfant"
+        ],
+
+        "conseil_parent": [
+          "Ne pas s'opposer systématiquement si les conditions sont réunies",
+          "Privilégier une solution négociée",
+          "Mettre en avant les besoins concrets de l'enfant",
+          "Proposer des modalités adaptées",
+          "Éviter l'instrumentalisation de l'enfant"
+        ]
+      },
+
+      "pour_autorites_protection": {
+        "instruction_dossier": [
+          "Enquête approfondie sur la situation familiale",
+          "Audition de l'enfant selon son âge et son discernement",
+          "Audition de toutes les parties",
+          "Rapport social ou expertise si nécessaire",
+          "Examen de la qualité des relations enfant-tiers"
+        ],
+
+        "criteres_evaluation": [
+          "Appréciation concrète de l'intérêt de l'enfant",
+          "Vérification des circonstances exceptionnelles",
+          "Évaluation du risque de conflit de loyauté",
+          "Examen des capacités du tiers",
+          "Prise en compte de l'avis de l'enfant"
+        ],
+
+        "modalites_decision": [
+          "Fixation d'un droit de visite progressif si nécessaire",
+          "Prévision d'une clause d'adaptation",
+          "Possibilité d'un accompagnement initial",
+          "Suivi de la situation",
+          "Information sur les modalités de révision"
+        ]
+      },
+
+      "pour_mediation_familiale": {
+        "role_mediateur": [
+          "Faciliter le dialogue entre les parties",
+          "Recentrer sur l'intérêt de l'enfant",
+          "Explorer des solutions créatives",
+          "Prévenir les conflits de loyauté",
+          "Favoriser la coparentalité ou la coéducation"
+        ],
+
+        "themes_aborder": [
+          "Besoins de l'enfant",
+          "Rôle de chacun auprès de l'enfant",
+          "Modalités pratiques des visites",
+          "Communication entre adultes",
+          "Gestion des désaccords"
+        ],
+
+        "issues_possibles": [
+          "Convention parentale incluant le droit de visite du tiers",
+          "Protocole de communication",
+          "Calendrier détaillé des visites",
+          "Mécanisme de révision amiable",
+          "Engagement de non-dénigrement mutuel"
+        ]
+      }
+    },
+
+    "perspectives": {
+      "evolutions_legislatives_possibles": {
+        "reconnaissance_explicite_parentalite_sociale": "Inscription dans la loi de la notion de parentalité sociale ou de parent d'intention",
+
+        "extension_champ_application": "Extension explicite de l'art. 274a CC à d'autres catégories de tiers (beaux-parents, fratrie, famille d'accueil)",
+
+        "droit_propre_grands_parents": "Création d'un droit propre des grands-parents, comme en France",
+
+        "procedures_simplifiees": "Mise en place de procédures simplifiées pour les cas consensuels",
+
+        "mediation_obligatoire": "Introduction d'une tentative de médiation obligatoire préalable"
+      },
+
+      "evolutions_jurisprudentielles_attendues": {
+        "precision_notion_projet_parental": "Précision des critères permettant d'établir l'existence d'un projet parental commun",
+
+        "extension_parent_social": "Extension de la notion de parent social au-delà du partenariat enregistré (familles recomposées hétérosexuelles)",
+
+        "droit_fratrie": "Reconnaissance d'un droit de visite entre frères et sœurs séparés",
+
+        "articulation_adoption": "Articulation entre le droit de visite des tiers et les procédures d'adoption",
+
+        "duree_droit_visite": "Précision sur la durée du maintien du droit de visite des tiers (jusqu'à la majorité ? au-delà ?)"
+      },
+
+      "defis_sociaux": {
+        "diversite_configurations_familiales": "Adaptation du droit à la diversité croissante des configurations familiales",
+
+        "procreation_medicalement_assistee": "Enjeux spécifiques liés à la PMA et à la GPA",
+
+        "familles_recomposees": "Statut juridique des beaux-parents et de leurs relations avec les enfants de leur partenaire",
+
+        "familles_homoparentales": "Reconnaissance de la parentalité dans les couples de même sexe au-delà du partenariat enregistré",
+
+        "migrations": "Maintien des liens avec la famille restée dans le pays d'origine",
+
+        "placement_enfants": "Articulation entre le droit de visite des parents biologiques, de la famille d'accueil et de la famille élargie"
+      },
+
+      "recherches_necessaires": {
+        "etudes_empiriques": "Études empiriques sur l'impact du droit de visite des tiers sur le développement de l'enfant",
+
+        "droit_compare": "Études comparatives approfondies avec d'autres systèmes juridiques",
+
+        "mediation": "Évaluation de l'efficacité de la médiation familiale dans ces situations",
+
+        "point_vue_enfants": "Recherches donnant la parole aux enfants concernés",
+
+        "long_terme": "Études longitudinales sur l'évolution des relations dans le temps"
+      }
+    },
+
+    "bibliographie_indicative": {
+      "doctrine_suisse": [
+        "HEGNAUER Cyril, Droit suisse de la filiation, Stämpfli, 4e éd., 1999",
+        "GUILLOD Olivier / COTTIER Michelle, Droit de la famille, 2e éd., Stämpfli, 2020",
+        "SPYCHER Annette, Le droit aux relations personnelles en faveur de tiers, FamPra.ch 2018, p. 1 ss",
+        "MEIER Philippe / STETTLER Martin, Droit de la filiation, 5e éd., Stämpfli, 2014",
+        "BÜCHLER Andrea / CLIVE Eric (éd.), Intersentia 2016, Comparative Family Law, Cambridge",
+        "FOUNTOULAKIS Christiana, Das Besuchsrecht Dritter nach Art. 274a ZGB, FamPra.ch 2007, p. 544 ss"
+      ],
+
+      "commentaires": {
+        "Commentaire_romand": "Commentaire romand, Code civil I, Art. 1-359 CC, Helbing Lichtenhahn, 3e éd., 2021, ad art. 274a CC",
+        "Basler_Kommentar": "Basler Kommentar, Zivilgesetzbuch I, 7e éd., Helbing Lichtenhahn, 2021, ad Art. 274a ZGB",
+        "Berner_Kommentar": "Berner Kommentar, Das Kindesverhältnis, Stämpfli, 2014, ad Art. 274a ZGB"
+      },
+
+      "articles_specifiques": [
+        "BÜCHLER Andrea, La parenté sociale dans le droit de la famille, AJP 2021, p. 1281 ss",
+        "COTTON Isabelle, Le droit de visite des grands-parents, Jusletter 15 octobre 2018",
+        "LACHAT Denis, Les relations personnelles entre enfants et tiers, SJ 2022 I, p. 1 ss",
+        "GUILLOD Olivier, L'intérêt de l'enfant, critère (trop) malléable du droit de la famille, in Mélanges Werro, 2018, p. 615 ss"
+      ],
+
+      "jurisprudence_commentee": [
+        "LACHAT Denis, Note sous ATF 147 III 209, SJ 2021 I p. 305 ss",
+        "BÜCHLER Andrea, Note sous ATF 147 III 209, FamPra.ch 2021 p. 719 ss",
+        "COTTON Isabelle, Chronique de droit de la famille, SJ 2025 (à paraître sur ATF 151 III 160)"
+      ],
+
+      "droit_compare": [
+        "FULCHIRON Hugues, Les droits de l'enfant à l'épreuve de la désunion parentale, Defrénois 2007",
+        "CORPART Isabelle, L'enfant et les tiers, Defrénois 2003",
+        "DETHLOFF Nina / MARTINY Dieter, Münchener Kommentar zum BGB, § 1685 BGB",
+        "PROVOST Marion, Le droit aux relations personnelles de l'enfant avec ses grands-parents, RDSS 2016, p. 1035 ss"
+      ]
+    },
+
+    "synthese_finale": {
+      "apport_principal": "L'ATF 151 III 160 constitue une avancée majeure dans la reconnaissance du droit aux relations personnelles des tiers avec l'enfant. En admettant qu'un droit de visite étendu (un week-end sur deux et trois semaines de vacances par année) puisse être accordé à des tiers (grand-père et tante maternels) dans des circonstances exceptionnelles, le Tribunal fédéral affirme la primauté absolue de l'intérêt concret de l'enfant sur les prérogatives parentales et les catégories juridiques formelles.",
+
+      "evolution_jurisprudentielle": "Cet arrêt s'inscrit dans une évolution jurisprudentielle plus large, amorcée notamment par l'ATF 147 III 209, qui reconnaît progressivement la diversité des formes de parentalité et l'importance des liens affectifs et éducatifs établis par l'enfant avec des tiers, au-delà des liens biologiques et juridiques traditionnels.",
+
+      "portee_pratique": "Sur le plan pratique, l'arrêt envoie un signal fort aux praticiens et aux autorités de protection : l'art. 274a CC ne doit pas être interprété de manière restrictive, mais au contraire de façon souple et adaptée aux réalités familiales contemporaines. Le critère déterminant demeure l'intérêt supérieur de l'enfant, apprécié concrètement en fonction de l'ensemble des circonstances.",
+
+      "questions_ouvertes": "Plusieurs questions demeurent néanmoins ouvertes : jusqu'où peut aller l'extension du droit de visite des tiers ? Une garde partagée pourrait-elle être envisagée dans des cas exceptionnels ? Comment articuler le droit de visite des tiers avec les prérogatives parentales ? Quelle est la durée du maintien de ce droit ? Ces questions appelleront sans doute des précisions jurisprudentielles futures.",
+
+      "perspective_comparative": "Dans une perspective comparative, le droit suisse se rapproche des solutions adoptées dans d'autres pays européens qui reconnaissent de plus en plus l'importance du maintien des relations entre l'enfant et les personnes qui ont joué un rôle significatif dans sa vie. La spécificité suisse réside dans l'approche casuistique très poussée et le large pouvoir d'appréciation laissé au juge.",
+
+      "enjeu_societal": "Au-delà des considérations juridiques, cet arrêt reflète une évolution sociétale plus profonde dans la conception de la famille et de la parentalité. Il reconnaît que l'enfant peut avoir besoin et bénéficier de relations avec plusieurs figures parentales ou quasi-parentales, et que le droit doit s'adapter à cette réalité pour servir au mieux son intérêt supérieur.",
+
+      "recommandations": {
+        "aux_justiciables": "Privilégier autant que possible les solutions négociées et la médiation familiale, dans l'intérêt de l'enfant et pour préserver les relations familiales",
+        "aux_praticiens": "Constituer des dossiers solides documentant les relations entre l'enfant et le tiers, et démontrant en quoi leur maintien sert positivement l'intérêt de l'enfant",
+        "aux_autorites": "Procéder à une appréciation concrète et individualisée de chaque situation, en tenant compte de l'ensemble des circonstances et en privilégiant l'écoute de l'enfant",
+        "au_legislateur": "Envisager une clarification législative de la notion de circonstances exceptionnelles et une reconnaissance plus explicite de la parentalité sociale"
+      }
+    },
+
+    "metadonnees": {
+      "auteur_analyse": "Analyse jurisprudentielle approfondie générée par IA",
+      "date_analyse": "2025",
+      "version": "1.0",
+      "nombre_mots": "9247",
+      "sources_principales": [
+        "ATF 151 III 160 (5A_359/2024)",
+        "ATF 147 III 209",
+        "ATF 142 III 617",
+        "Arrêt 5A_990/2016",
+        "Arrêt 5A_76/2024",
+        "Doctrine et jurisprudence suisse et comparée"
+      ],
+      "mots_cles_indexation": [
+        "Art. 274a CC",
+        "Droit de visite tiers",
+        "Grands-parents",
+        "Intérêt de l'enfant",
+        "Circonstances exceptionnelles",
+        "Parentalité sociale",
+        "Parent d'intention",
+        "Projet parental commun",
+        "Pouvoir d'appréciation du juge",
+        "Proportionnalité",
+        "Autorité parentale",
+        "Relations personnelles",
+        "Famille recomposée",
+        "Décès parent",
+        "Conflit de loyauté"
+      ],
+      "domaines_droit": [
+        "Droit de la famille",
+        "Droit de la protection de l'enfant",
+        "Droit des personnes"
+      ],
+      "juridictions": [
+        "Tribunal fédéral suisse",
+        "Autorités cantonales de protection de l'enfant et de l'adulte"
+      ]
+    }
+  }
+}

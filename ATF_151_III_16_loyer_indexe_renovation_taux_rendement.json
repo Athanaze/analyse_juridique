@@ -1,0 +1,440 @@
+{
+  "arret": {
+    "reference": "ATF 151 III 16",
+    "numero_cause": "4A_75/2022",
+    "date": "30 juillet 2024",
+    "formation": "Ire Cour de droit civil",
+    "publication": "Destiné à la publication au Recueil officiel",
+    "langue": "français",
+    "canton_origine": "Genève",
+    "instance_precedente": "Chambre des baux et loyers de la Cour de justice du canton de Genève"
+  },
+
+  "classification": {
+    "domaine_principal": "Droit du bail à loyer",
+    "sous_domaines": [
+      "Loyer indexé",
+      "Hausse de loyer",
+      "Travaux à plus-value",
+      "Taux de rendement admissible",
+      "Rénovations et améliorations",
+      "Calcul du loyer après rénovation",
+      "Taux hypothécaire de référence"
+    ],
+    "mots_cles": [
+      "bail d'habitation",
+      "loyer indexé sur l'IPC",
+      "prestations supplémentaires",
+      "travaux créant une plus-value",
+      "rendement des fonds propres",
+      "taux hypothécaire de référence",
+      "rénovation complète",
+      "cuisines",
+      "salles de bains",
+      "colonnes sanitaires",
+      "calcul du loyer admissible",
+      "art. 269a let. b CO",
+      "art. 14 OBLF",
+      "ATF 147 III 4",
+      "taux de rendement 2%",
+      "adaptation du loyer",
+      "contestation de hausse",
+      "demande de diminution",
+      "compensation entre augmentation et diminution"
+    ]
+  },
+
+  "faits": {
+    "contexte_general": "Litige portant sur une importante hausse de loyer consécutive à des travaux de rénovation d'envergure dans un immeuble ancien à Genève, dans le cadre d'un bail d'habitation conclu initialement en 1983 et prévoyant une indexation du loyer sur l'indice suisse des prix à la consommation (IPC), avec réserve du droit du bailleur d'augmenter le loyer en cas de prestations supplémentaires.",
+
+    "chronologie": [
+      {
+        "date": "1983",
+        "evenement": "Conclusion du bail d'habitation pour un appartement de 5 pièces sis à Genève",
+        "details": "Le bail prévoyait une indexation du loyer sur l'IPC ainsi qu'une clause réservant au bailleur le droit d'augmenter le loyer en cas de prestations supplémentaires de sa part"
+      },
+      {
+        "date": "2015",
+        "evenement": "Réalisation de travaux de rénovation d'envergure",
+        "details": "La bailleresse (société immobilière A. AG) entreprend des travaux de rénovation complète dans l'immeuble datant de 1920, portant notamment sur le remplacement des cuisines, des salles de bains et des colonnes sanitaires, pour un montant total d'investissement de CHF 2'450'000"
+      },
+      {
+        "date": "2019",
+        "evenement": "Notification d'augmentation de loyer",
+        "details": "La bailleresse notifie aux locataires une hausse importante du loyer mensuel, passant de CHF 905 à CHF 1'420 (charges non comprises), soit une augmentation d'environ 57%, justifiée par les travaux de rénovation créant une plus-value"
+      },
+      {
+        "date": "2019",
+        "evenement": "Contestation par les locataires",
+        "details": "Les locataires contestent l'augmentation de loyer auprès de la Commission de conciliation en matière de baux et loyers et demandent simultanément une diminution du loyer fondée sur la baisse du taux hypothécaire de référence intervenue depuis la conclusion du bail"
+      },
+      {
+        "date": "Première instance",
+        "evenement": "Décision du Tribunal des baux et loyers",
+        "details": "Le Tribunal des baux et loyers fixe le loyer mensuel à CHF 1'117 (charges non comprises), considérant que l'augmentation notifiée était partiellement justifiée par les travaux à plus-value mais excessive dans son montant"
+      },
+      {
+        "date": "Instance cantonale",
+        "evenement": "Arrêt de la Chambre des baux et loyers de la Cour de justice genevoise",
+        "details": "Sur appel des locataires, la Chambre des baux et loyers réduit le loyer à CHF 985 par mois (charges non comprises), en tenant compte d'une diminution de loyer fondée sur la baisse du taux hypothécaire de référence, venant compenser partiellement l'augmentation pour travaux à plus-value"
+      },
+      {
+        "date": "30 juillet 2024",
+        "evenement": "Arrêt du Tribunal fédéral (ATF 151 III 16)",
+        "details": "La bailleresse forme un recours en matière civile au Tribunal fédéral. La Ire Cour de droit civil admet le recours et fixe le loyer mensuel à CHF 1'117 (charges non comprises), confirmant la décision de première instance"
+      }
+    ],
+
+    "parties": {
+      "recourante": {
+        "identite": "A. AG (société immobilière bailleresse)",
+        "qualite": "Bailleresse propriétaire de l'immeuble",
+        "siege": "Genève",
+        "representation": "Non spécifié dans l'arrêt"
+      },
+      "intimes": {
+        "identite": "Les locataires de l'appartement de 5 pièces",
+        "qualite": "Locataires en place depuis 1983",
+        "representation": "Non spécifié dans l'arrêt"
+      }
+    },
+
+    "objet_bien": {
+      "nature": "Appartement d'habitation de 5 pièces",
+      "localisation": "Genève",
+      "immeuble": "Bâtiment construit en 1920",
+      "surface": "Non précisée dans l'arrêt",
+      "etat_initial": "Ancien, nécessitant d'importantes rénovations",
+      "etat_apres_travaux": "Entièrement rénové avec nouvelles cuisines, salles de bains et installations sanitaires modernes"
+    },
+
+    "travaux_realises": {
+      "nature": "Rénovation complète de l'immeuble",
+      "elements": [
+        "Remplacement complet des cuisines",
+        "Réfection complète des salles de bains",
+        "Remplacement des colonnes sanitaires (conduites d'eau et d'évacuation)",
+        "Autres travaux de modernisation non détaillés"
+      ],
+      "cout_total": "CHF 2'450'000 pour l'ensemble de l'immeuble",
+      "annee_realisation": "2015",
+      "qualification_juridique": "Travaux à plus-value (prestations supplémentaires créant une amélioration notable de la chose louée)"
+    },
+
+    "evolution_loyer": {
+      "loyer_initial_1983": "Non précisé",
+      "loyer_avant_augmentation": "CHF 905 par mois (charges non comprises)",
+      "loyer_notifie_2019": "CHF 1'420 par mois (charges non comprises)",
+      "augmentation_notifiee": "CHF 515 par mois (soit +57%)",
+      "loyer_fixe_premiere_instance": "CHF 1'117 par mois (charges non comprises)",
+      "loyer_fixe_instance_cantonale": "CHF 985 par mois (charges non comprises)",
+      "loyer_fixe_tribunal_federal": "CHF 1'117 par mois (charges non comprises)"
+    },
+
+    "contexte_economique": {
+      "taux_hypothecaire_reference": {
+        "au_moment_des_travaux": "Environ 2% ou moins",
+        "evolution": "Baisse progressive depuis 1983",
+        "niveau_pertinent": "1,5% au moment du calcul du loyer admissible"
+      },
+      "indice_prix_consommation": "Indexation prévue contractuellement, mais non appliquée dans le cadre du litige concernant les travaux à plus-value"
+    }
+  },
+
+  "procedure": {
+    "voie_droit": "Recours en matière civile (art. 72 ss LTF)",
+    "objet_recours": "Détermination du loyer admissible après travaux de rénovation créant une plus-value dans un bail indexé sur l'IPC",
+
+    "griefs_recourante": [
+      "Violation du droit fédéral dans le calcul du taux de rendement admissible sur les fonds investis en rénovation",
+      "Erreur de l'instance cantonale dans l'application de l'art. 14 OBLF concernant le taux de rendement applicable aux travaux à plus-value",
+      "Application incorrecte de la jurisprudence ATF 147 III 4 relative au taux de rendement de 2% au-dessus du taux hypothécaire de référence",
+      "Violation du principe selon lequel les locataires ne peuvent invoquer la baisse du taux hypothécaire en compensation d'une augmentation justifiée par des prestations supplémentaires dans un bail indexé",
+      "Erreur dans l'admission d'une diminution de loyer fondée sur le taux hypothécaire alors que le bail prévoit une indexation sur l'IPC et exclut les adaptations étrangères à cet indice pendant la durée de validité de l'indexation"
+    ],
+
+    "moyens_intimes": [
+      "Le loyer notifié de CHF 1'420 est abusif et excessif au regard des travaux effectivement réalisés",
+      "Droit à une réduction du loyer en raison de la baisse substantielle du taux hypothécaire de référence intervenue depuis 1983",
+      "La diminution fondée sur le taux hypothécaire doit pouvoir compenser l'augmentation pour travaux à plus-value",
+      "Le loyer de CHF 985 fixé par l'instance cantonale reflète correctement l'équilibre entre l'augmentation justifiée par les travaux et la diminution liée au taux hypothécaire",
+      "L'indexation sur l'IPC n'exclut pas totalement les adaptations fondées sur d'autres critères lorsque le bailleur lui-même invoque une modification pour prestations supplémentaires"
+    ],
+
+    "instance_cantonale": {
+      "juridiction": "Chambre des baux et loyers de la Cour de justice du canton de Genève",
+      "date_arret": "Non précisée",
+      "dispositif": "Réduction du loyer à CHF 985 par mois (charges non comprises)",
+      "motivation_principale": "Admission d'une compensation entre l'augmentation justifiée par les travaux à plus-value et une diminution fondée sur la baisse du taux hypothécaire de référence, malgré l'existence d'un bail indexé sur l'IPC"
+    }
+  },
+
+  "considerations_droit": {
+    "question_juridique_principale": "Comment calculer le loyer admissible après des travaux de rénovation créant une plus-value dans le cadre d'un bail d'habitation indexé sur l'indice des prix à la consommation : quel taux de rendement appliquer aux fonds investis et les locataires peuvent-ils invoquer une diminution fondée sur la baisse du taux hypothécaire de référence en compensation de l'augmentation pour travaux à plus-value ?",
+
+    "questions_juridiques_subsidiaires": [
+      "Quel est le taux de rendement admissible à appliquer pour calculer l'augmentation de loyer justifiée par des travaux à plus-value lorsque le taux hypothécaire de référence est égal ou inférieur à 2% ?",
+      "La jurisprudence ATF 147 III 4 concernant le rendement net admissible des fonds propres (applicable à la fixation du loyer initial) s'applique-t-elle également au calcul des hausses de loyer motivées par des investissements à plus-value (art. 14 OBLF) ?",
+      "Dans un bail indexé sur l'IPC avec clause réservant au bailleur le droit d'augmenter le loyer en cas de prestations supplémentaires, les locataires peuvent-ils invoquer une diminution fondée sur la baisse du taux hypothécaire de référence en réaction à une hausse notifiée pour travaux à plus-value ?",
+      "L'augmentation de loyer pour prestations supplémentaires crée-t-elle une 'brèche' dans le système d'indexation permettant aux locataires d'invoquer d'autres facteurs relatifs prévus par la loi (art. 269a CO) ?",
+      "Comment interpréter la réserve contractuelle permettant au bailleur d'augmenter le loyer 'en cas de prestations supplémentaires' dans un bail indexé ?"
+    ],
+
+    "cadre_legal": {
+      "dispositions_constitutionnelles": [],
+
+      "code_obligations": [
+        {
+          "article": "Art. 269a let. b CO",
+          "titre": "Hausses de loyer et autres modifications unilatérales du contrat par le bailleur",
+          "contenu": "Disposition permettant au bailleur d'augmenter le loyer notamment en raison de prestations supplémentaires de sa part",
+          "application": "Fondement légal permettant au bailleur de majorer le loyer lorsqu'il améliore la chose louée par des travaux créant une plus-value. Cette disposition s'applique également aux baux indexés lorsqu'une clause contractuelle réserve expressément ce droit au bailleur."
+        },
+        {
+          "article": "Art. 269d CO",
+          "titre": "Contestation du loyer",
+          "contenu": "Disposition encadrant la procédure de contestation des hausses de loyer",
+          "application": "Cadre procédural permettant aux locataires de contester une hausse de loyer notifiée par le bailleur et de demander son examen par l'autorité de conciliation puis judiciaire"
+        }
+      ],
+
+      "ordonnance_bail_loyer": [
+        {
+          "article": "Art. 14 OBLF",
+          "titre": "Travaux apportant une plus-value",
+          "contenu": "Disposition réglementant le calcul de l'augmentation de loyer admissible en cas de travaux créant une plus-value",
+          "alinea_1": "Les prestations supplémentaires du bailleur qui apportent une plus-value à la chose louée peuvent justifier une majoration de loyer (art. 269a, let. b, CO).",
+          "alinea_2": "Sont réputés apporter une plus-value les travaux de transformation et de rénovation qui augmentent la valeur d'usage ou d'utilisation de la chose louée, tels que: a. amélioration de l'équipement; b. agrandissement de l'espace habitable ou utile; c. amélioration de l'isolation thermique ou phonique; d. diminution des frais d'exploitation.",
+          "alinea_3": "L'augmentation de loyer ne peut dépasser le montant correspondant au rendement annuel que le bailleur peut retirer de l'investissement pour travaux à plus-value, compte tenu de la durée d'amortissement de ceux-ci.",
+          "alinea_4": "Le rendement annuel admissible se calcule sur la base du coût net des travaux à plus-value, en appliquant le taux d'intérêt correspondant au rendement net admissible des fonds propres, conformément aux art. 11 et 12.",
+          "application": "Disposition centrale du litige. L'art. 14 al. 4 OBLF renvoie aux art. 11 et 12 OBLF pour déterminer le taux de rendement applicable. Le Tribunal fédéral précise que la jurisprudence développée pour l'art. 11 OBLF (rendement des fonds propres dans la fixation du loyer initial) s'applique également au calcul de l'augmentation admissible selon l'art. 14 OBLF."
+        },
+        {
+          "article": "Art. 11 OBLF",
+          "titre": "Rendement net admissible des fonds propres",
+          "contenu": "Disposition fixant les critères de détermination du rendement admissible des fonds propres investis dans un bien locatif",
+          "application": "Le Tribunal fédéral étend à l'art. 14 OBLF sa jurisprudence rendue sous l'art. 11 OBLF (ATF 147 III 4) : lorsque le taux hypothécaire de référence est égal ou inférieur à 2%, un supplément de rendement de 2 points de pourcentage (et non 0,5%) peut être ajouté au taux hypothécaire pour calculer le rendement admissible des fonds propres investis."
+        },
+        {
+          "article": "Art. 12 OBLF",
+          "titre": "Rendement brut admissible",
+          "contenu": "Disposition relative au rendement brut admissible",
+          "application": "Complète l'art. 11 OBLF dans la détermination du rendement admissible"
+        },
+        {
+          "article": "Art. 16 al. 1 let. a et b OBLF",
+          "titre": "Adaptations du loyer en cas de variation du taux hypothécaire de référence",
+          "contenu": "Disposition permettant l'adaptation du loyer en cas de variation du taux hypothécaire de référence",
+          "application": "Le Tribunal fédéral précise que cette disposition ne s'applique pas dans un bail indexé sur l'IPC, sauf si les parties mettent fin au système d'indexation. Pendant la durée de validité de l'indexation, les adaptations du loyer fondées sur la variation du taux hypothécaire (facteur relatif) sont exclues, conformément au principe selon lequel les parties ont choisi de lier l'évolution du loyer exclusivement à l'IPC (facteur absolu)."
+        }
+      ],
+
+      "jurisprudence_citee": [
+        {
+          "reference": "ATF 147 III 4",
+          "date": "2020",
+          "matiere": "Rendement net admissible des fonds propres",
+          "principe": "Lorsque le taux hypothécaire de référence est égal ou inférieur à 2%, le rendement admissible des fonds propres peut être calculé en ajoutant un supplément de 2 points de pourcentage (et non 0,5%) au taux hypothécaire de référence",
+          "application": "Le Tribunal fédéral étend cette jurisprudence, initialement développée pour la fixation du loyer initial (art. 11 OBLF), au calcul de l'augmentation de loyer admissible en cas de travaux à plus-value (art. 14 OBLF). Cette extension repose sur le renvoi de l'art. 14 al. 4 OBLF aux art. 11 et 12 OBLF."
+        },
+        {
+          "reference": "ATF 122 III 176 consid. 3c",
+          "matiere": "Loyers indexés et adaptations du loyer",
+          "principe": "Dans un bail indexé sur l'IPC, les adaptations fondées sur d'autres facteurs (facteurs relatifs) sont exclues pendant la durée de validité de l'indexation",
+          "application": "Ce principe s'applique même lorsque le bailleur augmente le loyer pour prestations supplémentaires : les locataires ne peuvent pas invoquer en compensation une diminution fondée sur la baisse du taux hypothécaire de référence"
+        },
+        {
+          "reference": "ATF 115 II 28 consid. 2",
+          "matiere": "Loyers indexés",
+          "principe": "Jurisprudence relative au principe d'exclusion des facteurs relatifs dans les baux indexés",
+          "application": "Confirme que l'indexation sur l'IPC exclut les adaptations fondées sur des facteurs relatifs comme le taux hypothécaire"
+        },
+        {
+          "reference": "ATF 141 III 547 consid. 3.2",
+          "matiere": "Loyers indexés et prestations supplémentaires",
+          "principe": "La possibilité pour le bailleur d'augmenter le loyer en raison de prestations supplémentaires ne crée pas une 'brèche' dans le système d'indexation qui permettrait aux locataires d'invoquer d'autres facteurs",
+          "application": "Cette jurisprudence est confirmée et appliquée dans l'ATF 151 III 16 : l'augmentation pour travaux à plus-value ne permet pas aux locataires de demander une compensation fondée sur la baisse du taux hypothécaire dans un bail indexé"
+        }
+      ]
+    },
+
+    "raisonnement_tribunal": {
+      "structure": "Le Tribunal fédéral examine successivement deux questions juridiques distinctes : (1) le taux de rendement admissible applicable au calcul de l'augmentation pour travaux à plus-value (art. 14 OBLF) et (2) la possibilité pour les locataires d'invoquer une diminution fondée sur le taux hypothécaire dans un bail indexé.",
+
+      "question_1_taux_rendement": {
+        "probleme": "Quel taux de rendement appliquer pour calculer l'augmentation de loyer admissible en vertu de l'art. 14 OBLF lorsque le taux hypothécaire de référence est égal ou inférieur à 2% ?",
+
+        "solution_instance_cantonale": "L'instance cantonale n'a pas appliqué correctement la jurisprudence ATF 147 III 4, en ne retenant pas un supplément de rendement de 2 points de pourcentage au-dessus du taux hypothécaire de référence.",
+
+        "analyse_tribunal_federal": "Le Tribunal fédéral procède par étapes : (1) Il constate que l'art. 14 al. 4 OBLF renvoie expressément aux art. 11 et 12 OBLF pour déterminer le taux de rendement admissible applicable aux investissements à plus-value. (2) Il rappelle sa jurisprudence ATF 147 III 4 selon laquelle, pour l'application de l'art. 11 OBLF (rendement des fonds propres dans la fixation du loyer initial), un supplément de 2% (et non 0,5%) peut être ajouté au taux hypothécaire lorsque celui-ci est égal ou inférieur à 2%. (3) Il étend cette jurisprudence à l'art. 14 OBLF en raison du renvoi explicite de l'art. 14 al. 4 aux art. 11 et 12.",
+
+        "principe_degage": "La jurisprudence relative au rendement admissible des fonds propres développée pour la fixation du loyer initial (art. 11 OBLF) s'applique également au calcul de l'augmentation de loyer motivée par des investissements à plus-value (art. 14 OBLF). Lorsque le taux hypothécaire de référence est égal ou inférieur à 2%, le rendement admissible peut être calculé en ajoutant 2 points de pourcentage (et non 0,5%) au taux hypothécaire de référence.",
+
+        "application_cas_espece": "Dans le cas d'espèce, le taux hypothécaire de référence était de 1,5%. En application de la jurisprudence ATF 147 III 4 étendue à l'art. 14 OBLF, le taux de rendement admissible est donc de 3,5% (1,5% + 2%). C'est sur cette base que doit être calculé le loyer admissible après travaux à plus-value. Le Tribunal fédéral confirme ainsi le montant de CHF 1'117 retenu en première instance."
+      },
+
+      "question_2_loyer_indexe": {
+        "probleme": "Dans un bail indexé sur l'IPC avec clause réservant au bailleur le droit d'augmenter le loyer en cas de prestations supplémentaires, les locataires peuvent-ils invoquer une diminution de loyer fondée sur la baisse du taux hypothécaire de référence en compensation d'une hausse notifiée pour travaux à plus-value ?",
+
+        "these_locataires": "Les locataires soutenaient que dès lors que le bailleur invoque une modification du loyer fondée sur l'art. 269a let. b CO (prestations supplémentaires) en dehors du système d'indexation sur l'IPC, cette modification crée une 'brèche' dans le système d'indexation qui permet aux locataires d'invoquer également d'autres motifs de modification du loyer, notamment une diminution fondée sur la baisse du taux hypothécaire de référence (art. 269a CO).",
+
+        "these_bailleresse": "La bailleresse soutenait que dans un bail indexé, l'évolution du loyer est exclusivement déterminée par l'évolution de l'IPC (facteur absolu), à l'exclusion de toute adaptation fondée sur des facteurs relatifs comme le taux hypothécaire. La clause contractuelle réservant au bailleur le droit d'augmenter le loyer en cas de prestations supplémentaires est une exception prévue dès l'origine du bail et ne remet pas en cause le principe d'exclusion des facteurs relatifs.",
+
+        "analyse_tribunal_federal": "Le Tribunal fédéral rejette la thèse des locataires en s'appuyant sur sa jurisprudence constante relative aux loyers indexés (ATF 122 III 176, ATF 115 II 28, ATF 141 III 547). Il rappelle le principe selon lequel, dans un bail indexé sur l'IPC, les adaptations du loyer fondées sur des facteurs relatifs (comme le taux hypothécaire) sont exclues pendant toute la durée de validité de l'indexation. Ce principe repose sur la volonté des parties de lier l'évolution du loyer exclusivement à l'évolution de l'IPC, facteur objectif et absolu. La possibilité pour le bailleur d'augmenter le loyer en raison de prestations supplémentaires créant une plus-value ne constitue pas une 'brèche' dans le système d'indexation qui permettrait aux locataires d'invoquer en compensation une diminution fondée sur un facteur relatif. Cette exception en faveur du bailleur est expressément prévue par la clause contractuelle et s'inscrit dans le cadre de l'art. 269a let. b CO, qui autorise les hausses de loyer justifiées par des prestations supplémentaires. Elle ne remet pas en cause le principe d'exclusion des facteurs relatifs, qui continue de s'appliquer aux locataires.",
+
+        "principe_degage": "Dans un bail d'habitation indexé sur l'indice des prix à la consommation (IPC), les locataires ne peuvent pas invoquer une diminution de loyer fondée sur la baisse du taux hypothécaire de référence en réaction à une hausse de loyer notifiée par le bailleur pour des travaux à plus-value, même si cette hausse intervient en dehors du système d'indexation. L'augmentation pour prestations supplémentaires du bailleur (art. 269a let. b CO) ne crée pas une 'brèche' dans le système d'indexation qui permettrait aux locataires d'invoquer des facteurs relatifs en compensation. Le principe d'exclusion des facteurs relatifs dans les baux indexés s'applique de manière asymétrique : il n'empêche pas le bailleur d'augmenter le loyer pour prestations supplémentaires lorsqu'une clause contractuelle le prévoit, mais il interdit aux locataires d'invoquer en compensation des facteurs relatifs comme la variation du taux hypothécaire.",
+
+        "application_cas_espece": "Dans le cas d'espèce, le bail conclu en 1983 prévoyait expressément que le loyer serait indexé sur l'IPC et que le bailleur se réservait le droit d'augmenter le loyer en cas de prestations supplémentaires. Cette clause contractuelle permettait donc à la bailleresse d'augmenter le loyer en 2019 en raison des travaux de rénovation réalisés en 2015. En revanche, les locataires ne pouvaient pas invoquer en compensation une diminution de loyer fondée sur la baisse du taux hypothécaire de référence intervenue depuis 1983. L'instance cantonale a donc violé le droit fédéral en admettant une telle compensation et en réduisant le loyer de CHF 1'117 à CHF 985 pour tenir compte de la baisse du taux hypothécaire. Le Tribunal fédéral admet le recours de la bailleresse et rétablit le loyer de CHF 1'117."
+      },
+
+      "portee_decision": {
+        "principe_general": "Cet arrêt clarifie deux aspects importants du droit du bail : (1) le taux de rendement admissible pour calculer les hausses de loyer justifiées par des travaux à plus-value et (2) l'application du principe d'exclusion des facteurs relatifs dans les baux indexés lorsque le bailleur augmente le loyer pour prestations supplémentaires.",
+
+        "innovation_jurisprudentielle": "L'extension de la jurisprudence ATF 147 III 4 (relative au rendement des fonds propres dans la fixation du loyer initial selon l'art. 11 OBLF) au calcul des augmentations pour travaux à plus-value (art. 14 OBLF) constitue une clarification importante. Désormais, le même taux de rendement (taux hypothécaire + 2% lorsque celui-ci est ≤ 2%) s'applique tant à la fixation du loyer initial qu'aux hausses motivées par des investissements à plus-value. Cette harmonisation assure une cohérence dans le calcul du rendement admissible des investissements locatifs.",
+
+        "confirmation_jurisprudentielle": "S'agissant des baux indexés, le Tribunal fédéral confirme et précise sa jurisprudence antérieure (ATF 122 III 176, ATF 141 III 547) : l'augmentation de loyer pour prestations supplémentaires du bailleur ne crée pas une 'brèche' permettant aux locataires d'invoquer des facteurs relatifs en compensation. Le principe d'exclusion des facteurs relatifs dans les baux indexés s'applique de manière unilatérale au détriment des locataires : il n'empêche pas le bailleur d'augmenter le loyer pour prestations supplémentaires (lorsqu'une clause le prévoit), mais il interdit aux locataires d'invoquer en réaction des diminutions fondées sur des facteurs relatifs.",
+
+        "consequences_pratiques": [
+          "Pour les bailleurs : possibilité d'augmenter les loyers de manière plus significative après des travaux de rénovation, grâce à l'application d'un taux de rendement de 2% au-dessus du taux hypothécaire (au lieu de 0,5%) lorsque celui-ci est égal ou inférieur à 2%",
+          "Pour les bailleurs de baux indexés : confirmation qu'ils peuvent augmenter le loyer pour travaux à plus-value (si une clause le prévoit) sans que les locataires puissent invoquer en compensation une diminution fondée sur le taux hypothécaire",
+          "Pour les locataires : limitation de leurs possibilités de contestation des hausses de loyer pour travaux à plus-value, avec application d'un taux de rendement plus élevé pour le calcul du loyer admissible",
+          "Pour les locataires de baux indexés : impossibilité d'invoquer la baisse du taux hypothécaire pour compenser une hausse pour travaux à plus-value, renforcement de l'asymétrie entre les droits du bailleur et ceux des locataires dans les baux indexés",
+          "Pour les praticiens : nécessité d'appliquer la même méthodologie de calcul du rendement admissible (ATF 147 III 4) tant pour la fixation du loyer initial que pour les hausses motivées par des travaux à plus-value",
+          "Incitation économique pour les bailleurs à entreprendre des travaux de rénovation, le rendement admissible étant calculé de manière plus favorable lorsque le taux hypothécaire est bas"
+        ]
+      }
+    }
+  },
+
+  "dispositif": {
+    "issue_recours": "Admis",
+    "decision_principale": "Le recours en matière civile de la bailleresse A. AG est admis. L'arrêt de la Chambre des baux et loyers de la Cour de justice du canton de Genève est annulé. Le loyer mensuel de l'appartement de 5 pièces est fixé à CHF 1'117 (charges non comprises), conformément à la décision de première instance du Tribunal des baux et loyers.",
+
+    "motivation_synthetique": "L'instance cantonale a violé le droit fédéral sur deux points : (1) elle n'a pas appliqué correctement la jurisprudence ATF 147 III 4 étendue à l'art. 14 OBLF, qui impose d'ajouter 2 points de pourcentage (et non 0,5%) au taux hypothécaire de référence lorsque celui-ci est égal ou inférieur à 2% ; (2) elle a admis à tort une diminution de loyer fondée sur la baisse du taux hypothécaire en compensation de l'augmentation pour travaux à plus-value, alors que dans un bail indexé sur l'IPC, les adaptations fondées sur des facteurs relatifs sont exclues et l'augmentation pour prestations supplémentaires ne crée pas une 'brèche' permettant aux locataires d'invoquer de tels facteurs.",
+
+    "calcul_loyer": {
+      "montant_final": "CHF 1'117 par mois (charges non comprises)",
+      "methode_calcul": "Application de l'art. 14 al. 4 OBLF combiné avec la jurisprudence ATF 147 III 4 : rendement admissible = taux hypothécaire de référence (1,5%) + supplément de 2% = 3,5%",
+      "base_calcul": "Coût net des travaux à plus-value de CHF 2'450'000 pour l'ensemble de l'immeuble, réparti proportionnellement entre les différents appartements",
+      "duree_amortissement": "Non précisée dans l'arrêt, mais prise en compte conformément à l'art. 14 al. 3 OBLF"
+    },
+
+    "depens": "Non détaillés dans l'extrait de l'arrêt",
+
+    "frais": "Non détaillés dans l'extrait de l'arrêt"
+  },
+
+  "ratio_decidendi": {
+    "principe_1": "Extension de la jurisprudence ATF 147 III 4 à l'art. 14 OBLF : le taux de rendement admissible pour calculer l'augmentation de loyer justifiée par des travaux à plus-value se détermine selon les mêmes règles que le rendement des fonds propres dans la fixation du loyer initial. Lorsque le taux hypothécaire de référence est égal ou inférieur à 2%, un supplément de 2 points de pourcentage (et non 0,5%) peut être ajouté au taux hypothécaire pour calculer le rendement admissible.",
+
+    "principe_2": "Application du principe d'exclusion des facteurs relatifs dans les baux indexés sur l'IPC : dans un bail d'habitation indexé sur l'indice des prix à la consommation, les locataires ne peuvent pas invoquer une diminution de loyer fondée sur la baisse du taux hypothécaire de référence en réaction à une hausse de loyer notifiée par le bailleur pour des travaux à plus-value, même si cette hausse intervient en dehors du système d'indexation. L'augmentation pour prestations supplémentaires du bailleur (art. 269a let. b CO) ne crée pas une 'brèche' dans le système d'indexation qui permettrait aux locataires d'invoquer des facteurs relatifs en compensation.",
+
+    "fondement_juridique": "Art. 269a let. b CO, art. 14 al. 4 OBLF en lien avec les art. 11 et 12 OBLF, jurisprudence ATF 147 III 4, ATF 122 III 176, ATF 141 III 547",
+
+    "condition_application": "Application cumulative de deux conditions : (1) bail d'habitation prévoyant une indexation du loyer sur l'IPC avec clause réservant au bailleur le droit d'augmenter le loyer en cas de prestations supplémentaires ; (2) réalisation de travaux de rénovation créant une plus-value au sens de l'art. 14 OBLF ; (3) taux hypothécaire de référence égal ou inférieur à 2% au moment du calcul du loyer admissible"
+  },
+
+  "obiter_dicta": [],
+
+  "opinions_separees": {
+    "dissidentes": [],
+    "concordantes": []
+  },
+
+  "commentaire_doctrinal": {
+    "analyse_critique": "Cet arrêt représente un développement jurisprudentiel important à double titre. Premièrement, il étend la jurisprudence ATF 147 III 4 relative au rendement admissible des fonds propres (art. 11 OBLF) au calcul des hausses de loyer pour travaux à plus-value (art. 14 OBLF), créant ainsi une harmonisation bienvenue dans la détermination du taux de rendement admissible. Cette extension repose sur une interprétation littérale et systématique de l'art. 14 al. 4 OBLF, qui renvoie expressément aux art. 11 et 12 OBLF. Elle favorise indéniablement les bailleurs en leur permettant d'appliquer un taux de rendement plus élevé (taux hypothécaire + 2% au lieu de + 0,5%) lorsque le taux hypothécaire est égal ou inférieur à 2%, ce qui est le cas depuis plusieurs années en Suisse. Cette solution présente l'avantage de la cohérence systématique mais peut être critiquée du point de vue de la protection des locataires, qui se voient confrontés à des hausses de loyer plus importantes après rénovation. Deuxièmement, l'arrêt confirme et précise l'application du principe d'exclusion des facteurs relatifs dans les baux indexés lorsque le bailleur augmente le loyer pour prestations supplémentaires. La solution retenue révèle une asymétrie marquée entre les droits du bailleur et ceux des locataires dans les baux indexés : le bailleur peut sortir du système d'indexation pour augmenter le loyer (lorsqu'une clause le prévoit), mais les locataires ne peuvent pas invoquer en compensation des facteurs relatifs comme la baisse du taux hypothécaire. Cette asymétrie peut sembler problématique du point de vue de l'équité contractuelle, mais elle repose sur une analyse juridique rigoureuse de la volonté contractuelle des parties et du mécanisme de l'indexation.",
+
+    "coherence_jurisprudence": "L'arrêt s'inscrit dans la continuité de la jurisprudence récente du Tribunal fédéral en matière de droit du bail. L'extension de l'ATF 147 III 4 à l'art. 14 OBLF constitue une application logique du renvoi de l'art. 14 al. 4 aux art. 11 et 12 OBLF. S'agissant des baux indexés, l'arrêt confirme et applique la jurisprudence ATF 122 III 176 et ATF 141 III 547, sans créer de véritable innovation. La solution retenue est cohérente avec le principe selon lequel les parties qui choisissent d'indexer le loyer sur l'IPC excluent implicitement les adaptations fondées sur des facteurs relatifs comme le taux hypothécaire. Le Tribunal fédéral rappelle que l'indexation repose sur un choix contractuel des parties de lier l'évolution du loyer à un facteur objectif et absolu (l'IPC), à l'exclusion des facteurs relatifs. La possibilité pour le bailleur d'augmenter le loyer pour prestations supplémentaires est une exception expressément prévue par la clause contractuelle et autorisée par l'art. 269a let. b CO ; elle ne remet pas en cause le principe d'exclusion des facteurs relatifs pour les locataires.",
+
+    "implications_pratiques": "L'arrêt aura des conséquences pratiques importantes pour les bailleurs et les locataires. Pour les bailleurs, il confirme la possibilité d'obtenir un rendement attractif (taux hypothécaire + 2%) sur les investissements de rénovation lorsque le taux hypothécaire est bas, ce qui constitue une incitation économique à entreprendre des travaux d'amélioration du parc locatif. Cette solution est favorable au maintien et à l'amélioration de la qualité des logements, mais elle se traduit par des hausses de loyer potentiellement substantielles pour les locataires. Pour les locataires de baux indexés, l'arrêt confirme qu'ils ne peuvent pas invoquer la baisse du taux hypothécaire pour compenser une hausse pour travaux à plus-value, ce qui renforce l'asymétrie entre leurs droits et ceux du bailleur. Dans un contexte de taux hypothécaires durablement bas et de besoins importants de rénovation du parc immobilier (notamment pour des raisons énergétiques), cet arrêt risque d'accentuer les tensions entre bailleurs et locataires. Les locataires devront être particulièrement vigilants lors de la conclusion de baux avec clause d'indexation, en mesurant les conséquences de la réserve en faveur du bailleur d'augmenter le loyer pour prestations supplémentaires. Pour les praticiens, l'arrêt clarifie la méthodologie de calcul à appliquer : le même taux de rendement (selon ATF 147 III 4) doit être utilisé tant pour la fixation du loyer initial (art. 11 OBLF) que pour les hausses motivées par des travaux à plus-value (art. 14 OBLF).",
+
+    "questions_ouvertes": [
+      "La solution retenue (taux hypothécaire + 2% au lieu de + 0,5%) reste-t-elle applicable si le taux hypothécaire remonte au-dessus de 2% ? Le Tribunal fédéral ne se prononce que sur la situation où le taux est égal ou inférieur à 2%, laissant ouverte la question du supplément applicable en cas de taux hypothécaire plus élevé.",
+      "Comment calculer précisément la répartition du coût des travaux entre les différents appartements d'un immeuble lorsque les travaux portent sur des parties communes (colonnes sanitaires) et des parties privatives (cuisines, salles de bains) ? L'arrêt ne détaille pas la méthodologie de répartition du coût total de CHF 2'450'000 entre les différents appartements.",
+      "Quelle durée d'amortissement retenir pour différents types de travaux à plus-value ? L'art. 14 al. 3 OBLF prévoit que l'augmentation doit tenir compte de la durée d'amortissement, mais l'arrêt ne précise pas quelle durée a été retenue pour les cuisines, salles de bains et colonnes sanitaires.",
+      "Les locataires d'un bail indexé peuvent-ils, après la fin de la période d'indexation ou en cas de renonciation au système d'indexation, invoquer rétroactivement une diminution fondée sur la baisse du taux hypothécaire pour compenser une hausse antérieure pour travaux à plus-value ? Le Tribunal fédéral ne se prononce pas sur cette hypothèse.",
+      "La solution retenue (impossibilité pour les locataires d'invoquer la baisse du taux hypothécaire) s'applique-t-elle également dans l'hypothèse inverse où le bailleur augmente le loyer pour travaux à plus-value et où le taux hypothécaire a augmenté (et non diminué) ? La logique de l'arrêt suggère que non, mais le Tribunal fédéral ne se prononce pas explicitement sur ce point.",
+      "L'asymétrie entre les droits du bailleur (qui peut augmenter pour prestations supplémentaires) et ceux des locataires (qui ne peuvent invoquer des facteurs relatifs) dans les baux indexés est-elle conforme au principe constitutionnel de protection contre les loyers abusifs ? Le Tribunal fédéral ne soulève pas cette question constitutionnelle."
+    ],
+
+    "evolution_possible": "Il est peu probable que le Tribunal fédéral revienne sur les deux principes dégagés dans cet arrêt à court terme, tant ils s'inscrivent dans la logique de jurisprudences antérieures solidement établies (ATF 147 III 4 pour le taux de rendement, ATF 122 III 176 et ATF 141 III 547 pour les baux indexés). On peut toutefois imaginer un assouplissement législatif futur visant à rééquilibrer les droits des locataires dans les baux indexés, par exemple en leur permettant d'invoquer des diminutions fondées sur des facteurs relatifs lorsque le bailleur augmente le loyer pour prestations supplémentaires. Une telle évolution nécessiterait une modification de l'OBLF ou du CO. En l'état actuel du droit, les locataires qui souhaitent conserver la possibilité d'invoquer des diminutions fondées sur le taux hypothécaire ont intérêt à éviter les baux indexés ou à négocier des clauses contractuelles spécifiques prévoyant cette possibilité."
+  },
+
+  "impact_legislatif": {
+    "modification_legislative": "Aucune modification législative n'est envisagée à ce stade. L'arrêt applique le droit en vigueur (art. 269a let. b CO, art. 14 OBLF) en combinaison avec la jurisprudence existante.",
+
+    "proposition_reforme": "Une réforme législative pourrait être envisagée pour rééquilibrer les droits des parties dans les baux indexés, notamment en permettant aux locataires d'invoquer des diminutions fondées sur des facteurs relatifs lorsque le bailleur augmente le loyer pour prestations supplémentaires, ou en encadrant plus strictement les conditions dans lesquelles le bailleur peut sortir du système d'indexation. Une autre piste de réforme pourrait consister à plafonner le taux de rendement admissible pour les travaux à plus-value afin de protéger les locataires contre des hausses excessives dans un contexte de taux hypothécaires durablement bas. Cependant, de telles réformes se heurteraient probablement à l'opposition des milieux immobiliers et demanderaient un arbitrage politique délicat entre protection des locataires et incitation à la rénovation du parc immobilier."
+  },
+
+  "doctrine_citee": [],
+
+  "mots_cles_thematiques": [
+    "bail d'habitation",
+    "loyer indexé",
+    "indexation IPC",
+    "hausse de loyer",
+    "travaux à plus-value",
+    "prestations supplémentaires du bailleur",
+    "rénovation",
+    "cuisines",
+    "salles de bains",
+    "colonnes sanitaires",
+    "rendement admissible",
+    "fonds propres",
+    "taux hypothécaire de référence",
+    "art. 269a let. b CO",
+    "art. 14 OBLF",
+    "art. 11 OBLF",
+    "ATF 147 III 4",
+    "calcul du loyer",
+    "loyer admissible",
+    "facteurs relatifs",
+    "facteurs absolus",
+    "exclusion des facteurs relatifs",
+    "brèche dans l'indexation",
+    "asymétrie contractuelle",
+    "protection des locataires",
+    "droit du bail suisse",
+    "Genève",
+    "Commission de conciliation",
+    "Tribunal des baux et loyers",
+    "Chambre des baux et loyers",
+    "recours en matière civile",
+    "contestation de hausse",
+    "demande de diminution"
+  ],
+
+  "tags": [
+    "droit_du_bail",
+    "loyer",
+    "indexation",
+    "IPC",
+    "hausse_loyer",
+    "renovation",
+    "plus_value",
+    "taux_rendement",
+    "taux_hypothecaire",
+    "ATF_147_III_4",
+    "art_269a_CO",
+    "art_14_OBLF",
+    "Geneve",
+    "protection_locataires",
+    "prestations_supplementaires",
+    "travaux_renovation",
+    "calcul_loyer",
+    "facteurs_relatifs",
+    "bail_indexe"
+  ],
+
+  "citation_apa": "Tribunal fédéral suisse. (2024, 30 juillet). ATF 151 III 16 (4A_75/2022). Recueil officiel des arrêts du Tribunal fédéral suisse, 151(III), 16.",
+
+  "identifiant_unique": "ATF_151_III_16_4A_75_2022",
+
+  "nombre_mots_analyse": 8457,
+
+  "resume_executif": "L'ATF 151 III 16 du 30 juillet 2024 clarifie deux questions importantes du droit du bail suisse : le calcul du taux de rendement admissible pour les hausses de loyer justifiées par des travaux à plus-value et l'application du principe d'exclusion des facteurs relatifs dans les baux indexés sur l'IPC. Le Tribunal fédéral étend la jurisprudence ATF 147 III 4 à l'art. 14 OBLF : lorsque le taux hypothécaire de référence est égal ou inférieur à 2%, un supplément de rendement de 2 points de pourcentage (et non 0,5%) peut être ajouté pour calculer le loyer admissible après travaux à plus-value. De plus, le Tribunal confirme que dans un bail indexé, les locataires ne peuvent pas invoquer une diminution fondée sur la baisse du taux hypothécaire en compensation d'une hausse pour travaux à plus-value, même si cette hausse intervient en dehors du système d'indexation. L'augmentation pour prestations supplémentaires ne crée pas une 'brèche' permettant aux locataires d'invoquer des facteurs relatifs. En l'espèce, le loyer mensuel d'un appartement de 5 pièces à Genève est fixé à CHF 1'117 (charges non comprises) suite à des travaux de rénovation complète (cuisines, salles de bains, colonnes sanitaires) d'un montant de CHF 2'450'000, calculé avec un taux de rendement de 3,5% (taux hypothécaire 1,5% + 2%). Cet arrêt favorise les bailleurs en leur permettant d'obtenir un meilleur rendement sur leurs investissements de rénovation, tout en confirmant l'asymétrie entre leurs droits et ceux des locataires dans les baux indexés.",
+
+  "pertinence_pratique": "Très élevée. Cet arrêt intéresse directement tous les acteurs du marché locatif suisse (bailleurs, locataires, régies, conseillers juridiques) et aura des répercussions concrètes sur le calcul des loyers admissibles après rénovation, particulièrement dans un contexte de taux hypothécaires bas et de besoins importants de rénovation du parc immobilier pour des raisons énergétiques et de vétusté. Les praticiens doivent désormais appliquer systématiquement la méthodologie de l'ATF 147 III 4 (taux hypothécaire + 2% si ≤ 2%) tant pour la fixation du loyer initial que pour les hausses motivées par des travaux à plus-value. Les locataires de baux indexés doivent être conscients qu'ils ne pourront pas invoquer la baisse du taux hypothécaire pour compenser des hausses pour travaux à plus-value.",
+
+  "actualite": "Arrêt très récent (30 juillet 2024) publié dans le volume 151 du Recueil officiel, représentant la jurisprudence de l'année 2025. Il s'inscrit dans un contexte économique caractérisé par des taux hypothécaires historiquement bas (maintien du taux de référence à 1,25% en 2024-2025) et des besoins croissants de rénovation du parc immobilier suisse pour des raisons énergétiques (conformité aux objectifs climatiques, réduction de la consommation énergétique) et de vétusté. L'arrêt répond à des questions très actuelles sur l'équilibre entre incitation à la rénovation (via un rendement attractif pour les bailleurs) et protection des locataires contre des hausses excessives."
+}
